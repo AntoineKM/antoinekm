@@ -6,8 +6,8 @@ I'm Antoine Kingue, **Web Developer** and **Amateur Designer**.
 - 👨🏾‍💼 Deputy director at [onRuntime](https://onruntime.com)
 - ❤️ [Open Source](https://github.com/AntoineKM) enthusiast
 
-![Antoine's github stats](https://github-readme-stats.vercel.app/api?username=antoinekm&show_icons=true&title_color=ff6b81&icon_color=64748b&bg_color=0d1117&text_color=ff4757&hide_border=true&hide=stars&cache_seconds=7200)
-
+[![Antoine's github stats](https://github-readme-stats.vercel.app/api?username=antoinekm&show_icons=true&title_color=ff6b81&icon_color=64748b&bg_color=0d1117&text_color=ff4757&hide_border=true&hide=stars&cache_seconds=7200)](https://github.com/AntoineKM)
+[![Antoine's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=antoinekm&layout=compact&title_color=ff6b81&bg_color=0d1117&text_color=ff4757&hide_border=true&hide_title=true)](https://wakatime.com/@antoinekm)
 <!--
 **AntoineKM/antoinekm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
