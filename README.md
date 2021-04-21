@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Antoine Kingue, **Web Developer** and **Amateur Designer**.
+I'm Antoine Kingue, **Fullstack Developer** and **Amateur Designer**.
 
 - 👨🏾‍🎓 Student at [NFactory School](https://nfactory.school)
 - 👨🏾‍💼 Deputy director at [onRuntime](https://onruntime.com)
