@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-I'm Antoine Kingue, **Fullstack Developer** and **Amateur Designer**.
+I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 - 👨🏾‍🎓 Student at [NFactory School](https://nfactory.school)
-- 👨🏾‍💼 Deputy director at [onRuntime](https://onruntime.com)
+- 👨🏾‍💼 Vice president at [onRuntime](https://onruntime.com)
 - ❤️ [Open Source](https://github.com/AntoineKM) enthusiast
 
 [![Antoine's github stats](https://github-readme-stats.vercel.app/api?username=antoinekm&show_icons=true&title_color=ff6b81&icon_color=64748b&bg_color=0d1117&text_color=ff4757&hide_border=true&hide=stars&cache_seconds=7200)](https://github.com/AntoineKM)
