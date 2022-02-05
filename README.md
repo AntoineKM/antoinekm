@@ -34,11 +34,11 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#19](https://github.com/onRuntime/onruntime-website/issues/19) in [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website)
-2. ❗️ Opened issue [#19](https://github.com/onRuntime/onruntime-website/issues/19) in [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website)
-3. ❗️ Opened issue [#18](https://github.com/onRuntime/onruntime-website/issues/18) in [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website)
-4. ❗️ Closed issue [#17](https://github.com/onRuntime/onruntime-website/issues/17) in [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website)
-5. ❗️ Closed issue [#14](https://github.com/onRuntime/instagram-dark-extension/issues/14) in [onRuntime/instagram-dark-extension](https://github.com/onRuntime/instagram-dark-extension)
+1. ❗️ Closed issue [#14](https://github.com/onRuntime/onruntime-website/issues/14) in [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website)
+2. 🗣 Commented on [#18](https://github.com/onRuntime/onruntime-website/issues/18) in [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website)
+3. ❗️ Closed issue [#19](https://github.com/onRuntime/onruntime-website/issues/19) in [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website)
+4. ❗️ Opened issue [#19](https://github.com/onRuntime/onruntime-website/issues/19) in [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website)
+5. ❗️ Opened issue [#18](https://github.com/onRuntime/onruntime-website/issues/18) in [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website)
 <!--END_SECTION:activity-->
 
 <!--
