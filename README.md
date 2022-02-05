@@ -32,6 +32,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
     <img width="60%" src="https://github-readme-stats.vercel.app/api/wakatime?username=antoinekm&layout=compact&title_color=ff6b81&bg_color=0d1117&text_color=ff4757&hide_border=true&hide_title=true" alt="Antoine's wakatime stats" /> 
 </p>
 
+## ⚡ Recent Activity
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
