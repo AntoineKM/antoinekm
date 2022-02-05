@@ -2,9 +2,8 @@
 
 I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
----
 ## ☕ About
-<table>
+<table align="center">
     <tr>
         <td valign="center">
             <ul>
@@ -19,11 +18,9 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
     </tr>
 </table>
 
----
 ## 📈 Contribution Graph
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AntoineKM&hide_border=true&bg_color=0d1117&color=ff6b81&line=ff4757&&point=59c9e8)
 
----
 ## 📊 Stats
 <p align="center">
     <a href="https://github.com/AntoineKM">
