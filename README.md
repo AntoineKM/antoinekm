@@ -34,11 +34,11 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3](https://github.com/AntoineKM/antoinekm-artspot/issues/3) in [AntoineKM/antoinekm-artspot](https://github.com/AntoineKM/antoinekm-artspot)
-2. ❗️ Opened issue [#2](https://github.com/AntoineKM/antoinekm-artspot/issues/2) in [AntoineKM/antoinekm-artspot](https://github.com/AntoineKM/antoinekm-artspot)
-3. ❗️ Opened issue [#1](https://github.com/AntoineKM/antoinekm-artspot/issues/1) in [AntoineKM/antoinekm-artspot](https://github.com/AntoineKM/antoinekm-artspot)
-4. ❗️ Opened issue [#20](https://github.com/onRuntime/onruntime-website/issues/20) in [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website)
-5. ❗️ Opened issue [#24](https://github.com/onRuntime/instagram-dark-extension/issues/24) in [onRuntime/instagram-dark-extension](https://github.com/onRuntime/instagram-dark-extension)
+1. ❗️ Opened issue [#24](https://github.com/onRuntime/onruntime-website/issues/24) in [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website)
+2. ❗️ Opened issue [#23](https://github.com/onRuntime/onruntime-website/issues/23) in [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website)
+3. ❗️ Opened issue [#22](https://github.com/onRuntime/onruntime-website/issues/22) in [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website)
+4. ❗️ Opened issue [#21](https://github.com/onRuntime/onruntime-website/issues/21) in [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website)
+5. ❗️ Opened issue [#3](https://github.com/AntoineKM/antoinekm-artspot/issues/3) in [AntoineKM/antoinekm-artspot](https://github.com/AntoineKM/antoinekm-artspot)
 <!--END_SECTION:activity-->
 
 <!--
