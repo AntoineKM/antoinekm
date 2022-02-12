@@ -34,11 +34,11 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#31](https://github.com/onRuntime/instagram-dark-extension/issues/31) in [onRuntime/instagram-dark-extension](https://github.com/onRuntime/instagram-dark-extension)
-2. ❗️ Opened issue [#30](https://github.com/onRuntime/onruntime-website/issues/30) in [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website)
-3. ❗️ Opened issue [#29](https://github.com/onRuntime/onruntime-website/issues/29) in [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website)
-4. 🎉 Merged PR [#30](https://github.com/onRuntime/instagram-dark-extension/pull/30) in [onRuntime/instagram-dark-extension](https://github.com/onRuntime/instagram-dark-extension)
-5. 💪 Opened PR [#30](https://github.com/onRuntime/instagram-dark-extension/pull/30) in [onRuntime/instagram-dark-extension](https://github.com/onRuntime/instagram-dark-extension)
+1. ❗️ Opened issue [#31](https://github.com/onRuntime/onruntime-website/issues/31) in [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website)
+2. ❗️ Opened issue [#31](https://github.com/onRuntime/instagram-dark-extension/issues/31) in [onRuntime/instagram-dark-extension](https://github.com/onRuntime/instagram-dark-extension)
+3. ❗️ Opened issue [#30](https://github.com/onRuntime/onruntime-website/issues/30) in [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website)
+4. ❗️ Opened issue [#29](https://github.com/onRuntime/onruntime-website/issues/29) in [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website)
+5. 🎉 Merged PR [#30](https://github.com/onRuntime/instagram-dark-extension/pull/30) in [onRuntime/instagram-dark-extension](https://github.com/onRuntime/instagram-dark-extension)
 <!--END_SECTION:activity-->
 
 <!--
