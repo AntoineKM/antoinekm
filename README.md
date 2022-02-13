@@ -34,11 +34,11 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#37](https://github.com/onRuntime/instagram-dark-extension/issues/37) in [onRuntime/instagram-dark-extension](https://github.com/onRuntime/instagram-dark-extension)
-2. ❗️ Opened issue [#38](https://github.com/onRuntime/instagram-dark-extension/issues/38) in [onRuntime/instagram-dark-extension](https://github.com/onRuntime/instagram-dark-extension)
-3. 🎉 Merged PR [#33](https://github.com/onRuntime/onruntime-website/pull/33) in [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website)
-4. 💪 Opened PR [#33](https://github.com/onRuntime/onruntime-website/pull/33) in [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website)
-5. 🎉 Merged PR [#25](https://github.com/onRuntime/onruntime-website/pull/25) in [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website)
+1. 🗣 Commented on [#36](https://github.com/onRuntime/instagram-dark-extension/issues/36) in [onRuntime/instagram-dark-extension](https://github.com/onRuntime/instagram-dark-extension)
+2. ❗️ Opened issue [#39](https://github.com/onRuntime/instagram-dark-extension/issues/39) in [onRuntime/instagram-dark-extension](https://github.com/onRuntime/instagram-dark-extension)
+3. 🗣 Commented on [#37](https://github.com/onRuntime/instagram-dark-extension/issues/37) in [onRuntime/instagram-dark-extension](https://github.com/onRuntime/instagram-dark-extension)
+4. ❗️ Opened issue [#38](https://github.com/onRuntime/instagram-dark-extension/issues/38) in [onRuntime/instagram-dark-extension](https://github.com/onRuntime/instagram-dark-extension)
+5. 🎉 Merged PR [#33](https://github.com/onRuntime/onruntime-website/pull/33) in [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website)
 <!--END_SECTION:activity-->
 
 <!--
