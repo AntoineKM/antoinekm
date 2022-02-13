@@ -34,11 +34,11 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#31](https://github.com/onRuntime/onruntime-website/issues/31) in [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website)
-2. ❗️ Opened issue [#31](https://github.com/onRuntime/instagram-dark-extension/issues/31) in [onRuntime/instagram-dark-extension](https://github.com/onRuntime/instagram-dark-extension)
-3. ❗️ Opened issue [#30](https://github.com/onRuntime/onruntime-website/issues/30) in [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website)
-4. ❗️ Opened issue [#29](https://github.com/onRuntime/onruntime-website/issues/29) in [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website)
-5. 🎉 Merged PR [#30](https://github.com/onRuntime/instagram-dark-extension/pull/30) in [onRuntime/instagram-dark-extension](https://github.com/onRuntime/instagram-dark-extension)
+1. 🎉 Merged PR [#33](https://github.com/onRuntime/onruntime-website/pull/33) in [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website)
+2. 💪 Opened PR [#33](https://github.com/onRuntime/onruntime-website/pull/33) in [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website)
+3. 🎉 Merged PR [#25](https://github.com/onRuntime/onruntime-website/pull/25) in [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website)
+4. ❗️ Closed issue [#18](https://github.com/onRuntime/onruntime-website/issues/18) in [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website)
+5. ❗️ Closed issue [#27](https://github.com/onRuntime/onruntime-website/issues/27) in [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website)
 <!--END_SECTION:activity-->
 
 <!--
