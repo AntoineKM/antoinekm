@@ -34,11 +34,11 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#36](https://github.com/onRuntime/onruntime-website/pull/36) in [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website)
-2. ❗️ Closed issue [#35](https://github.com/onRuntime/onruntime-website/issues/35) in [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website)
-3. 🎉 Merged PR [#55](https://github.com/onRuntime/instagram-dark-extension/pull/55) in [onRuntime/instagram-dark-extension](https://github.com/onRuntime/instagram-dark-extension)
-4. 💪 Opened PR [#55](https://github.com/onRuntime/instagram-dark-extension/pull/55) in [onRuntime/instagram-dark-extension](https://github.com/onRuntime/instagram-dark-extension)
-5. 🗣 Commented on [#51](https://github.com/onRuntime/instagram-dark-extension/issues/51) in [onRuntime/instagram-dark-extension](https://github.com/onRuntime/instagram-dark-extension)
+1. ❗️ Opened issue [#3](https://github.com/warslive/warslive-website/issues/3) in [warslive/warslive-website](https://github.com/warslive/warslive-website)
+2. ❗️ Opened issue [#2](https://github.com/warslive/warslive-website/issues/2) in [warslive/warslive-website](https://github.com/warslive/warslive-website)
+3. ❗️ Opened issue [#1](https://github.com/warslive/warslive-website/issues/1) in [warslive/warslive-website](https://github.com/warslive/warslive-website)
+4. 🎉 Merged PR [#36](https://github.com/onRuntime/onruntime-website/pull/36) in [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website)
+5. ❗️ Closed issue [#35](https://github.com/onRuntime/onruntime-website/issues/35) in [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website)
 <!--END_SECTION:activity-->
 
 <!--
