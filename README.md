@@ -34,11 +34,11 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/warslive/warslive-website/pull/5) in [warslive/warslive-website](https://github.com/warslive/warslive-website)
-2. ❗️ Closed issue [#2](https://github.com/warslive/warslive-website/issues/2) in [warslive/warslive-website](https://github.com/warslive/warslive-website)
-3. 💪 Opened PR [#5](https://github.com/warslive/warslive-website/pull/5) in [warslive/warslive-website](https://github.com/warslive/warslive-website)
-4. ❗️ Opened issue [#4](https://github.com/warslive/warslive-website/issues/4) in [warslive/warslive-website](https://github.com/warslive/warslive-website)
-5. ❗️ Opened issue [#3](https://github.com/warslive/warslive-website/issues/3) in [warslive/warslive-website](https://github.com/warslive/warslive-website)
+1. ❗️ Opened issue [#7](https://github.com/warslive/warslive-website/issues/7) in [warslive/warslive-website](https://github.com/warslive/warslive-website)
+2. 🎉 Merged PR [#5](https://github.com/warslive/warslive-website/pull/5) in [warslive/warslive-website](https://github.com/warslive/warslive-website)
+3. ❗️ Closed issue [#2](https://github.com/warslive/warslive-website/issues/2) in [warslive/warslive-website](https://github.com/warslive/warslive-website)
+4. 💪 Opened PR [#5](https://github.com/warslive/warslive-website/pull/5) in [warslive/warslive-website](https://github.com/warslive/warslive-website)
+5. ❗️ Opened issue [#4](https://github.com/warslive/warslive-website/issues/4) in [warslive/warslive-website](https://github.com/warslive/warslive-website)
 <!--END_SECTION:activity-->
 
 <!--
