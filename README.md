@@ -34,11 +34,11 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Reopened issue [#933](https://github.com/garmeeh/next-seo/issues/933) in [garmeeh/next-seo](https://github.com/garmeeh/next-seo)
-2. ❗️ Closed issue [#933](https://github.com/garmeeh/next-seo/issues/933) in [garmeeh/next-seo](https://github.com/garmeeh/next-seo)
-3. ❗️ Opened issue [#933](https://github.com/garmeeh/next-seo/issues/933) in [garmeeh/next-seo](https://github.com/garmeeh/next-seo)
-4. 🗣 Commented on [#656](https://github.com/garmeeh/next-seo/issues/656) in [garmeeh/next-seo](https://github.com/garmeeh/next-seo)
-5. ❗️ Opened issue [#7](https://github.com/warslive/warslive-website/issues/7) in [warslive/warslive-website](https://github.com/warslive/warslive-website)
+1. 🗣 Commented on [#933](https://github.com/garmeeh/next-seo/issues/933) in [garmeeh/next-seo](https://github.com/garmeeh/next-seo)
+2. ❗️ Reopened issue [#933](https://github.com/garmeeh/next-seo/issues/933) in [garmeeh/next-seo](https://github.com/garmeeh/next-seo)
+3. ❗️ Closed issue [#933](https://github.com/garmeeh/next-seo/issues/933) in [garmeeh/next-seo](https://github.com/garmeeh/next-seo)
+4. ❗️ Opened issue [#933](https://github.com/garmeeh/next-seo/issues/933) in [garmeeh/next-seo](https://github.com/garmeeh/next-seo)
+5. 🗣 Commented on [#656](https://github.com/garmeeh/next-seo/issues/656) in [garmeeh/next-seo](https://github.com/garmeeh/next-seo)
 <!--END_SECTION:activity-->
 
 <!--
