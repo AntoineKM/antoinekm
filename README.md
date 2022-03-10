@@ -34,11 +34,11 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#934](https://github.com/garmeeh/next-seo/issues/934) in [garmeeh/next-seo](https://github.com/garmeeh/next-seo)
-2. 🗣 Commented on [#933](https://github.com/garmeeh/next-seo/issues/933) in [garmeeh/next-seo](https://github.com/garmeeh/next-seo)
-3. ❗️ Reopened issue [#933](https://github.com/garmeeh/next-seo/issues/933) in [garmeeh/next-seo](https://github.com/garmeeh/next-seo)
-4. ❗️ Closed issue [#933](https://github.com/garmeeh/next-seo/issues/933) in [garmeeh/next-seo](https://github.com/garmeeh/next-seo)
-5. ❗️ Opened issue [#933](https://github.com/garmeeh/next-seo/issues/933) in [garmeeh/next-seo](https://github.com/garmeeh/next-seo)
+1. 💪 Opened PR [#2](https://github.com/onRuntime/nyumi-api/pull/2) in [onRuntime/nyumi-api](https://github.com/onRuntime/nyumi-api)
+2. 🗣 Commented on [#934](https://github.com/garmeeh/next-seo/issues/934) in [garmeeh/next-seo](https://github.com/garmeeh/next-seo)
+3. 🗣 Commented on [#933](https://github.com/garmeeh/next-seo/issues/933) in [garmeeh/next-seo](https://github.com/garmeeh/next-seo)
+4. ❗️ Reopened issue [#933](https://github.com/garmeeh/next-seo/issues/933) in [garmeeh/next-seo](https://github.com/garmeeh/next-seo)
+5. ❗️ Closed issue [#933](https://github.com/garmeeh/next-seo/issues/933) in [garmeeh/next-seo](https://github.com/garmeeh/next-seo)
 <!--END_SECTION:activity-->
 
 <!--
