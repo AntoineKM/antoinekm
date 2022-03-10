@@ -34,11 +34,11 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/onRuntime/nyumi-api/pull/3) in [onRuntime/nyumi-api](https://github.com/onRuntime/nyumi-api)
-2. 💪 Opened PR [#2](https://github.com/onRuntime/nyumi-api/pull/2) in [onRuntime/nyumi-api](https://github.com/onRuntime/nyumi-api)
-3. 🗣 Commented on [#934](https://github.com/garmeeh/next-seo/issues/934) in [garmeeh/next-seo](https://github.com/garmeeh/next-seo)
-4. 🗣 Commented on [#933](https://github.com/garmeeh/next-seo/issues/933) in [garmeeh/next-seo](https://github.com/garmeeh/next-seo)
-5. ❗️ Reopened issue [#933](https://github.com/garmeeh/next-seo/issues/933) in [garmeeh/next-seo](https://github.com/garmeeh/next-seo)
+1. 💪 Opened PR [#42](https://github.com/onRuntime/nyumi-client/pull/42) in [onRuntime/nyumi-client](https://github.com/onRuntime/nyumi-client)
+2. 💪 Opened PR [#3](https://github.com/onRuntime/nyumi-api/pull/3) in [onRuntime/nyumi-api](https://github.com/onRuntime/nyumi-api)
+3. 💪 Opened PR [#2](https://github.com/onRuntime/nyumi-api/pull/2) in [onRuntime/nyumi-api](https://github.com/onRuntime/nyumi-api)
+4. 🗣 Commented on [#934](https://github.com/garmeeh/next-seo/issues/934) in [garmeeh/next-seo](https://github.com/garmeeh/next-seo)
+5. 🗣 Commented on [#933](https://github.com/garmeeh/next-seo/issues/933) in [garmeeh/next-seo](https://github.com/garmeeh/next-seo)
 <!--END_SECTION:activity-->
 
 <!--
