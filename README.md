@@ -34,11 +34,11 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#45](https://github.com/onRuntime/nyumi-client/pull/45) in [onRuntime/nyumi-client](https://github.com/onRuntime/nyumi-client)
-2. 💪 Opened PR [#5](https://github.com/onRuntime/nyumi-api/pull/5) in [onRuntime/nyumi-api](https://github.com/onRuntime/nyumi-api)
-3. 💪 Opened PR [#43](https://github.com/onRuntime/nyumi-client/pull/43) in [onRuntime/nyumi-client](https://github.com/onRuntime/nyumi-client)
-4. 💪 Opened PR [#42](https://github.com/onRuntime/nyumi-client/pull/42) in [onRuntime/nyumi-client](https://github.com/onRuntime/nyumi-client)
-5. 💪 Opened PR [#3](https://github.com/onRuntime/nyumi-api/pull/3) in [onRuntime/nyumi-api](https://github.com/onRuntime/nyumi-api)
+1. 🎉 Merged PR [#6](https://github.com/onRuntime/nyumi-api/pull/6) in [onRuntime/nyumi-api](https://github.com/onRuntime/nyumi-api)
+2. 🎉 Merged PR [#50](https://github.com/onRuntime/nyumi-client/pull/50) in [onRuntime/nyumi-client](https://github.com/onRuntime/nyumi-client)
+3. 💪 Opened PR [#50](https://github.com/onRuntime/nyumi-client/pull/50) in [onRuntime/nyumi-client](https://github.com/onRuntime/nyumi-client)
+4. 💪 Opened PR [#6](https://github.com/onRuntime/nyumi-api/pull/6) in [onRuntime/nyumi-api](https://github.com/onRuntime/nyumi-api)
+5. 💪 Opened PR [#45](https://github.com/onRuntime/nyumi-client/pull/45) in [onRuntime/nyumi-client](https://github.com/onRuntime/nyumi-client)
 <!--END_SECTION:activity-->
 
 <!--
