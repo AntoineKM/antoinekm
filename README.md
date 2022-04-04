@@ -34,11 +34,11 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#32](https://github.com/szchenghuang/react-google-invisible-recaptcha/issues/32) in [szchenghuang/react-google-invisible-recaptcha](https://github.com/szchenghuang/react-google-invisible-recaptcha)
-2. ❗️ Opened issue [#341](https://github.com/iamvishnusankar/next-sitemap/issues/341) in [iamvishnusankar/next-sitemap](https://github.com/iamvishnusankar/next-sitemap)
-3. 🗣 Commented on [#933](https://github.com/garmeeh/next-seo/issues/933) in [garmeeh/next-seo](https://github.com/garmeeh/next-seo)
-4. 🎉 Merged PR [#6](https://github.com/onRuntime/nyumi-api/pull/6) in [onRuntime/nyumi-api](https://github.com/onRuntime/nyumi-api)
-5. 🎉 Merged PR [#50](https://github.com/onRuntime/nyumi-client/pull/50) in [onRuntime/nyumi-client](https://github.com/onRuntime/nyumi-client)
+1. ❗️ Opened issue [#11](https://github.com/nusu/avvvatars/issues/11) in [nusu/avvvatars](https://github.com/nusu/avvvatars)
+2. 🗣 Commented on [#32](https://github.com/szchenghuang/react-google-invisible-recaptcha/issues/32) in [szchenghuang/react-google-invisible-recaptcha](https://github.com/szchenghuang/react-google-invisible-recaptcha)
+3. ❗️ Opened issue [#341](https://github.com/iamvishnusankar/next-sitemap/issues/341) in [iamvishnusankar/next-sitemap](https://github.com/iamvishnusankar/next-sitemap)
+4. 🗣 Commented on [#933](https://github.com/garmeeh/next-seo/issues/933) in [garmeeh/next-seo](https://github.com/garmeeh/next-seo)
+5. 🎉 Merged PR [#6](https://github.com/onRuntime/nyumi-api/pull/6) in [onRuntime/nyumi-api](https://github.com/onRuntime/nyumi-api)
 <!--END_SECTION:activity-->
 
 <!--
