@@ -34,11 +34,11 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#147](https://github.com/maintainers/invite-automation/issues/147) in [maintainers/invite-automation](https://github.com/maintainers/invite-automation)
-2. 🗣 Commented on [#12](https://github.com/nusu/avvvatars/issues/12) in [nusu/avvvatars](https://github.com/nusu/avvvatars)
-3. ❗️ Opened issue [#11](https://github.com/nusu/avvvatars/issues/11) in [nusu/avvvatars](https://github.com/nusu/avvvatars)
-4. 🗣 Commented on [#32](https://github.com/szchenghuang/react-google-invisible-recaptcha/issues/32) in [szchenghuang/react-google-invisible-recaptcha](https://github.com/szchenghuang/react-google-invisible-recaptcha)
-5. ❗️ Opened issue [#341](https://github.com/iamvishnusankar/next-sitemap/issues/341) in [iamvishnusankar/next-sitemap](https://github.com/iamvishnusankar/next-sitemap)
+1. ❗️ Opened issue [#2](https://github.com/giggl/giggl_sokudo/issues/2) in [giggl/giggl_sokudo](https://github.com/giggl/giggl_sokudo)
+2. 🗣 Commented on [#147](https://github.com/maintainers/invite-automation/issues/147) in [maintainers/invite-automation](https://github.com/maintainers/invite-automation)
+3. 🗣 Commented on [#12](https://github.com/nusu/avvvatars/issues/12) in [nusu/avvvatars](https://github.com/nusu/avvvatars)
+4. ❗️ Opened issue [#11](https://github.com/nusu/avvvatars/issues/11) in [nusu/avvvatars](https://github.com/nusu/avvvatars)
+5. 🗣 Commented on [#32](https://github.com/szchenghuang/react-google-invisible-recaptcha/issues/32) in [szchenghuang/react-google-invisible-recaptcha](https://github.com/szchenghuang/react-google-invisible-recaptcha)
 <!--END_SECTION:activity-->
 
 <!--
