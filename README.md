@@ -34,11 +34,11 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13](https://github.com/nusu/avvvatars/issues/13) in [nusu/avvvatars](https://github.com/nusu/avvvatars)
-2. ❗️ Opened issue [#2](https://github.com/giggl/giggl_sokudo/issues/2) in [giggl/giggl_sokudo](https://github.com/giggl/giggl_sokudo)
-3. 🗣 Commented on [#147](https://github.com/maintainers/invite-automation/issues/147) in [maintainers/invite-automation](https://github.com/maintainers/invite-automation)
-4. 🗣 Commented on [#12](https://github.com/nusu/avvvatars/issues/12) in [nusu/avvvatars](https://github.com/nusu/avvvatars)
-5. ❗️ Opened issue [#11](https://github.com/nusu/avvvatars/issues/11) in [nusu/avvvatars](https://github.com/nusu/avvvatars)
+1. 💪 Opened PR [#1](https://github.com/AntoineKM/workflows/pull/1) in [AntoineKM/workflows](https://github.com/AntoineKM/workflows)
+2. 🗣 Commented on [#13](https://github.com/nusu/avvvatars/issues/13) in [nusu/avvvatars](https://github.com/nusu/avvvatars)
+3. ❗️ Opened issue [#2](https://github.com/giggl/giggl_sokudo/issues/2) in [giggl/giggl_sokudo](https://github.com/giggl/giggl_sokudo)
+4. 🗣 Commented on [#147](https://github.com/maintainers/invite-automation/issues/147) in [maintainers/invite-automation](https://github.com/maintainers/invite-automation)
+5. 🗣 Commented on [#12](https://github.com/nusu/avvvatars/issues/12) in [nusu/avvvatars](https://github.com/nusu/avvvatars)
 <!--END_SECTION:activity-->
 
 <!--
