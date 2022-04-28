@@ -34,11 +34,11 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#60](https://github.com/onRuntime/instagram-dark-extension/issues/60) in [onRuntime/instagram-dark-extension](https://github.com/onRuntime/instagram-dark-extension)
-2. 🗣 Commented on [#59](https://github.com/onRuntime/instagram-dark-extension/issues/59) in [onRuntime/instagram-dark-extension](https://github.com/onRuntime/instagram-dark-extension)
-3. 🗣 Commented on [#51](https://github.com/onRuntime/instagram-dark-extension/issues/51) in [onRuntime/instagram-dark-extension](https://github.com/onRuntime/instagram-dark-extension)
-4. 💪 Opened PR [#1](https://github.com/AntoineKM/workflows/pull/1) in [AntoineKM/workflows](https://github.com/AntoineKM/workflows)
-5. 🗣 Commented on [#13](https://github.com/nusu/avvvatars/issues/13) in [nusu/avvvatars](https://github.com/nusu/avvvatars)
+1. ❗️ Opened issue [#61](https://github.com/onRuntime/instagram-dark-extension/issues/61) in [onRuntime/instagram-dark-extension](https://github.com/onRuntime/instagram-dark-extension)
+2. 🎉 Merged PR [#58](https://github.com/onRuntime/instagram-dark-extension/pull/58) in [onRuntime/instagram-dark-extension](https://github.com/onRuntime/instagram-dark-extension)
+3. 🎉 Merged PR [#59](https://github.com/onRuntime/instagram-dark-extension/pull/59) in [onRuntime/instagram-dark-extension](https://github.com/onRuntime/instagram-dark-extension)
+4. 🎉 Merged PR [#60](https://github.com/onRuntime/instagram-dark-extension/pull/60) in [onRuntime/instagram-dark-extension](https://github.com/onRuntime/instagram-dark-extension)
+5. 🗣 Commented on [#60](https://github.com/onRuntime/instagram-dark-extension/issues/60) in [onRuntime/instagram-dark-extension](https://github.com/onRuntime/instagram-dark-extension)
 <!--END_SECTION:activity-->
 
 <!--
