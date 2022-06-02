@@ -34,11 +34,11 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#51](https://github.com/onRuntime/nyumi-client/pull/51) in [onRuntime/nyumi-client](https://github.com/onRuntime/nyumi-client)
-2. ❗️ Opened issue [#61](https://github.com/onRuntime/instagram-dark-extension/issues/61) in [onRuntime/instagram-dark-extension](https://github.com/onRuntime/instagram-dark-extension)
-3. 🎉 Merged PR [#58](https://github.com/onRuntime/instagram-dark-extension/pull/58) in [onRuntime/instagram-dark-extension](https://github.com/onRuntime/instagram-dark-extension)
-4. 🎉 Merged PR [#59](https://github.com/onRuntime/instagram-dark-extension/pull/59) in [onRuntime/instagram-dark-extension](https://github.com/onRuntime/instagram-dark-extension)
-5. 🎉 Merged PR [#60](https://github.com/onRuntime/instagram-dark-extension/pull/60) in [onRuntime/instagram-dark-extension](https://github.com/onRuntime/instagram-dark-extension)
+1. 💪 Opened PR [#65](https://github.com/onRuntime/instagram-dark-extension/pull/65) in [onRuntime/instagram-dark-extension](https://github.com/onRuntime/instagram-dark-extension)
+2. 💪 Opened PR [#51](https://github.com/onRuntime/nyumi-client/pull/51) in [onRuntime/nyumi-client](https://github.com/onRuntime/nyumi-client)
+3. ❗️ Opened issue [#61](https://github.com/onRuntime/instagram-dark-extension/issues/61) in [onRuntime/instagram-dark-extension](https://github.com/onRuntime/instagram-dark-extension)
+4. 🎉 Merged PR [#58](https://github.com/onRuntime/instagram-dark-extension/pull/58) in [onRuntime/instagram-dark-extension](https://github.com/onRuntime/instagram-dark-extension)
+5. 🎉 Merged PR [#59](https://github.com/onRuntime/instagram-dark-extension/pull/59) in [onRuntime/instagram-dark-extension](https://github.com/onRuntime/instagram-dark-extension)
 <!--END_SECTION:activity-->
 
 <!--
