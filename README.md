@@ -34,11 +34,11 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#147](https://github.com/maintainers/invite-automation/issues/147) in [maintainers/invite-automation](https://github.com/maintainers/invite-automation)
-2. 🎉 Merged PR [#65](https://github.com/onRuntime/instagram-dark-extension/pull/65) in [onRuntime/instagram-dark-extension](https://github.com/onRuntime/instagram-dark-extension)
-3. 💪 Opened PR [#65](https://github.com/onRuntime/instagram-dark-extension/pull/65) in [onRuntime/instagram-dark-extension](https://github.com/onRuntime/instagram-dark-extension)
-4. 💪 Opened PR [#51](https://github.com/onRuntime/nyumi-client/pull/51) in [onRuntime/nyumi-client](https://github.com/onRuntime/nyumi-client)
-5. ❗️ Opened issue [#61](https://github.com/onRuntime/instagram-dark-extension/issues/61) in [onRuntime/instagram-dark-extension](https://github.com/onRuntime/instagram-dark-extension)
+1. ❗️ Opened issue [#11](https://github.com/xtekky/TikTok-ViewBot/issues/11) in [xtekky/TikTok-ViewBot](https://github.com/xtekky/TikTok-ViewBot)
+2. 🗣 Commented on [#147](https://github.com/maintainers/invite-automation/issues/147) in [maintainers/invite-automation](https://github.com/maintainers/invite-automation)
+3. 🎉 Merged PR [#65](https://github.com/onRuntime/instagram-dark-extension/pull/65) in [onRuntime/instagram-dark-extension](https://github.com/onRuntime/instagram-dark-extension)
+4. 💪 Opened PR [#65](https://github.com/onRuntime/instagram-dark-extension/pull/65) in [onRuntime/instagram-dark-extension](https://github.com/onRuntime/instagram-dark-extension)
+5. 💪 Opened PR [#51](https://github.com/onRuntime/nyumi-client/pull/51) in [onRuntime/nyumi-client](https://github.com/onRuntime/nyumi-client)
 <!--END_SECTION:activity-->
 
 <!--
