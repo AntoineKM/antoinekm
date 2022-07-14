@@ -35,10 +35,10 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#11](https://github.com/xtekky/TikTok-ViewBot/issues/11) in [xtekky/TikTok-ViewBot](https://github.com/xtekky/TikTok-ViewBot)
-2. 🗣 Commented on [#11](https://github.com/xtekky/TikTok-ViewBot/issues/11) in [xtekky/TikTok-ViewBot](https://github.com/xtekky/TikTok-ViewBot)
-3. ❗️ Opened issue [#11](https://github.com/xtekky/TikTok-ViewBot/issues/11) in [xtekky/TikTok-ViewBot](https://github.com/xtekky/TikTok-ViewBot)
-4. 🗣 Commented on [#147](https://github.com/maintainers/invite-automation/issues/147) in [maintainers/invite-automation](https://github.com/maintainers/invite-automation)
-5. 🎉 Merged PR [#65](https://github.com/onRuntime/instagram-dark-extension/pull/65) in [onRuntime/instagram-dark-extension](https://github.com/onRuntime/instagram-dark-extension)
+2. ❗️ Closed issue [#11](https://github.com/xtekky/TikTok-ViewBot/issues/11) in [xtekky/TikTok-ViewBot](https://github.com/xtekky/TikTok-ViewBot)
+3. 🗣 Commented on [#11](https://github.com/xtekky/TikTok-ViewBot/issues/11) in [xtekky/TikTok-ViewBot](https://github.com/xtekky/TikTok-ViewBot)
+4. 🗣 Commented on [#11](https://github.com/xtekky/TikTok-ViewBot/issues/11) in [xtekky/TikTok-ViewBot](https://github.com/xtekky/TikTok-ViewBot)
+5. ❗️ Opened issue [#11](https://github.com/xtekky/TikTok-ViewBot/issues/11) in [xtekky/TikTok-ViewBot](https://github.com/xtekky/TikTok-ViewBot)
 <!--END_SECTION:activity-->
 
 <!--
