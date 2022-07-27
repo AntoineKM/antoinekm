@@ -35,11 +35,11 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/vineethtrv/typesgenerator/issues/2) in [vineethtrv/typesgenerator](https://github.com/vineethtrv/typesgenerator)
-2. 🗣 Commented on [#11](https://github.com/xtekky/TikTok-ViewBot/issues/11) in [xtekky/TikTok-ViewBot](https://github.com/xtekky/TikTok-ViewBot)
-3. ❗️ Closed issue [#11](https://github.com/xtekky/TikTok-ViewBot/issues/11) in [xtekky/TikTok-ViewBot](https://github.com/xtekky/TikTok-ViewBot)
+1. 🗣 Commented on [#25](https://github.com/matthew1232/discord-webhook-node/issues/25) in [matthew1232/discord-webhook-node](https://github.com/matthew1232/discord-webhook-node)
+2. 🗣 Commented on [#25](https://github.com/matthew1232/discord-webhook-node/issues/25) in [matthew1232/discord-webhook-node](https://github.com/matthew1232/discord-webhook-node)
+3. ❗️ Opened issue [#2](https://github.com/vineethtrv/typesgenerator/issues/2) in [vineethtrv/typesgenerator](https://github.com/vineethtrv/typesgenerator)
 4. 🗣 Commented on [#11](https://github.com/xtekky/TikTok-ViewBot/issues/11) in [xtekky/TikTok-ViewBot](https://github.com/xtekky/TikTok-ViewBot)
-5. 🗣 Commented on [#11](https://github.com/xtekky/TikTok-ViewBot/issues/11) in [xtekky/TikTok-ViewBot](https://github.com/xtekky/TikTok-ViewBot)
+5. ❗️ Closed issue [#11](https://github.com/xtekky/TikTok-ViewBot/issues/11) in [xtekky/TikTok-ViewBot](https://github.com/xtekky/TikTok-ViewBot)
 <!--END_SECTION:activity-->
 
 <!--
