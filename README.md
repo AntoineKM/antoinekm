@@ -36,10 +36,10 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/hopinc/docs/pull/3) in [hopinc/docs](https://github.com/hopinc/docs)
-2. 💪 Opened PR [#2](https://github.com/hopinc/docs/pull/2) in [hopinc/docs](https://github.com/hopinc/docs)
-3. 🗣 Commented on [#14](https://github.com/pugnascotia/spring-react-boilerplate/issues/14) in [pugnascotia/spring-react-boilerplate](https://github.com/pugnascotia/spring-react-boilerplate)
-4. 🗣 Commented on [#25](https://github.com/matthew1232/discord-webhook-node/issues/25) in [matthew1232/discord-webhook-node](https://github.com/matthew1232/discord-webhook-node)
+1. ❗️ Opened issue [#68](https://github.com/l3mpire/lemverse/issues/68) in [l3mpire/lemverse](https://github.com/l3mpire/lemverse)
+2. 💪 Opened PR [#3](https://github.com/hopinc/docs/pull/3) in [hopinc/docs](https://github.com/hopinc/docs)
+3. 💪 Opened PR [#2](https://github.com/hopinc/docs/pull/2) in [hopinc/docs](https://github.com/hopinc/docs)
+4. 🗣 Commented on [#14](https://github.com/pugnascotia/spring-react-boilerplate/issues/14) in [pugnascotia/spring-react-boilerplate](https://github.com/pugnascotia/spring-react-boilerplate)
 5. 🗣 Commented on [#25](https://github.com/matthew1232/discord-webhook-node/issues/25) in [matthew1232/discord-webhook-node](https://github.com/matthew1232/discord-webhook-node)
 <!--END_SECTION:activity-->
 
