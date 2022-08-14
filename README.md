@@ -36,11 +36,11 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1661](https://github.com/iCrawl/discord-vscode/issues/1661) in [iCrawl/discord-vscode](https://github.com/iCrawl/discord-vscode)
-2. 🗣 Commented on [#68](https://github.com/l3mpire/lemverse/issues/68) in [l3mpire/lemverse](https://github.com/l3mpire/lemverse)
-3. ❗️ Opened issue [#68](https://github.com/l3mpire/lemverse/issues/68) in [l3mpire/lemverse](https://github.com/l3mpire/lemverse)
-4. 💪 Opened PR [#3](https://github.com/hopinc/docs/pull/3) in [hopinc/docs](https://github.com/hopinc/docs)
-5. 💪 Opened PR [#2](https://github.com/hopinc/docs/pull/2) in [hopinc/docs](https://github.com/hopinc/docs)
+1. 🗣 Commented on [#3](https://github.com/hopinc/docs/issues/3) in [hopinc/docs](https://github.com/hopinc/docs)
+2. ❗️ Opened issue [#1661](https://github.com/iCrawl/discord-vscode/issues/1661) in [iCrawl/discord-vscode](https://github.com/iCrawl/discord-vscode)
+3. 🗣 Commented on [#68](https://github.com/l3mpire/lemverse/issues/68) in [l3mpire/lemverse](https://github.com/l3mpire/lemverse)
+4. ❗️ Opened issue [#68](https://github.com/l3mpire/lemverse/issues/68) in [l3mpire/lemverse](https://github.com/l3mpire/lemverse)
+5. 💪 Opened PR [#3](https://github.com/hopinc/docs/pull/3) in [hopinc/docs](https://github.com/hopinc/docs)
 <!--END_SECTION:activity-->
 
 <!--
