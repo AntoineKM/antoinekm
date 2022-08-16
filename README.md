@@ -36,11 +36,11 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/zeylahellyer/hopdb-discord-bot/issues/1) in [zeylahellyer/hopdb-discord-bot](https://github.com/zeylahellyer/hopdb-discord-bot)
-2. 🗣 Commented on [#3](https://github.com/hopinc/docs/issues/3) in [hopinc/docs](https://github.com/hopinc/docs)
-3. ❗️ Opened issue [#1661](https://github.com/iCrawl/discord-vscode/issues/1661) in [iCrawl/discord-vscode](https://github.com/iCrawl/discord-vscode)
-4. 🗣 Commented on [#68](https://github.com/l3mpire/lemverse/issues/68) in [l3mpire/lemverse](https://github.com/l3mpire/lemverse)
-5. ❗️ Opened issue [#68](https://github.com/l3mpire/lemverse/issues/68) in [l3mpire/lemverse](https://github.com/l3mpire/lemverse)
+1. 🎉 Merged PR [#1](https://github.com/onRuntime/next-link/pull/1) in [onRuntime/next-link](https://github.com/onRuntime/next-link)
+2. 💪 Opened PR [#1](https://github.com/onRuntime/next-link/pull/1) in [onRuntime/next-link](https://github.com/onRuntime/next-link)
+3. ❗️ Opened issue [#1](https://github.com/zeylahellyer/hopdb-discord-bot/issues/1) in [zeylahellyer/hopdb-discord-bot](https://github.com/zeylahellyer/hopdb-discord-bot)
+4. 🗣 Commented on [#3](https://github.com/hopinc/docs/issues/3) in [hopinc/docs](https://github.com/hopinc/docs)
+5. ❗️ Opened issue [#1661](https://github.com/iCrawl/discord-vscode/issues/1661) in [iCrawl/discord-vscode](https://github.com/iCrawl/discord-vscode)
 <!--END_SECTION:activity-->
 
 <!--
