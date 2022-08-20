@@ -36,11 +36,11 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/onRuntime/next-link/pull/1) in [onRuntime/next-link](https://github.com/onRuntime/next-link)
-2. 💪 Opened PR [#1](https://github.com/onRuntime/next-link/pull/1) in [onRuntime/next-link](https://github.com/onRuntime/next-link)
-3. ❗️ Opened issue [#1](https://github.com/zeylahellyer/hopdb-discord-bot/issues/1) in [zeylahellyer/hopdb-discord-bot](https://github.com/zeylahellyer/hopdb-discord-bot)
-4. 🗣 Commented on [#3](https://github.com/hopinc/docs/issues/3) in [hopinc/docs](https://github.com/hopinc/docs)
-5. ❗️ Opened issue [#1661](https://github.com/iCrawl/discord-vscode/issues/1661) in [iCrawl/discord-vscode](https://github.com/iCrawl/discord-vscode)
+1. ❗️ Opened issue [#50](https://github.com/seonglae/nextra/issues/50) in [seonglae/nextra](https://github.com/seonglae/nextra)
+2. 🎉 Merged PR [#1](https://github.com/onRuntime/next-link/pull/1) in [onRuntime/next-link](https://github.com/onRuntime/next-link)
+3. 💪 Opened PR [#1](https://github.com/onRuntime/next-link/pull/1) in [onRuntime/next-link](https://github.com/onRuntime/next-link)
+4. ❗️ Opened issue [#1](https://github.com/zeylahellyer/hopdb-discord-bot/issues/1) in [zeylahellyer/hopdb-discord-bot](https://github.com/zeylahellyer/hopdb-discord-bot)
+5. 🗣 Commented on [#3](https://github.com/hopinc/docs/issues/3) in [hopinc/docs](https://github.com/hopinc/docs)
 <!--END_SECTION:activity-->
 
 <!--
