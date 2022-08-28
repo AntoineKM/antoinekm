@@ -36,11 +36,11 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#178](https://github.com/mailjet/mailjet-apiv3-java/issues/178) in [mailjet/mailjet-apiv3-java](https://github.com/mailjet/mailjet-apiv3-java)
-2. ❗️ Opened issue [#178](https://github.com/mailjet/mailjet-apiv3-java/issues/178) in [mailjet/mailjet-apiv3-java](https://github.com/mailjet/mailjet-apiv3-java)
-3. ❗️ Opened issue [#50](https://github.com/seonglae/nextra/issues/50) in [seonglae/nextra](https://github.com/seonglae/nextra)
-4. 🎉 Merged PR [#1](https://github.com/onRuntime/next-link/pull/1) in [onRuntime/next-link](https://github.com/onRuntime/next-link)
-5. 💪 Opened PR [#1](https://github.com/onRuntime/next-link/pull/1) in [onRuntime/next-link](https://github.com/onRuntime/next-link)
+1. 🗣 Commented on [#12](https://github.com/ajayesivan/react-native-remix-icon/issues/12) in [ajayesivan/react-native-remix-icon](https://github.com/ajayesivan/react-native-remix-icon)
+2. ❗️ Closed issue [#178](https://github.com/mailjet/mailjet-apiv3-java/issues/178) in [mailjet/mailjet-apiv3-java](https://github.com/mailjet/mailjet-apiv3-java)
+3. ❗️ Opened issue [#178](https://github.com/mailjet/mailjet-apiv3-java/issues/178) in [mailjet/mailjet-apiv3-java](https://github.com/mailjet/mailjet-apiv3-java)
+4. ❗️ Opened issue [#50](https://github.com/seonglae/nextra/issues/50) in [seonglae/nextra](https://github.com/seonglae/nextra)
+5. 🎉 Merged PR [#1](https://github.com/onRuntime/next-link/pull/1) in [onRuntime/next-link](https://github.com/onRuntime/next-link)
 <!--END_SECTION:activity-->
 
 <!--
