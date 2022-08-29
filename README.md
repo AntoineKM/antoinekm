@@ -36,11 +36,11 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/onRuntime/next-usetranslation/pull/1) in [onRuntime/next-usetranslation](https://github.com/onRuntime/next-usetranslation)
-2. 💪 Opened PR [#1](https://github.com/onRuntime/next-usetranslation/pull/1) in [onRuntime/next-usetranslation](https://github.com/onRuntime/next-usetranslation)
-3. 🗣 Commented on [#12](https://github.com/ajayesivan/react-native-remix-icon/issues/12) in [ajayesivan/react-native-remix-icon](https://github.com/ajayesivan/react-native-remix-icon)
+1. ❗️ Opened issue [#1](https://github.com/AntoineKM/antoinek.fr/issues/1) in [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr)
+2. 🎉 Merged PR [#1](https://github.com/onRuntime/next-usetranslation/pull/1) in [onRuntime/next-usetranslation](https://github.com/onRuntime/next-usetranslation)
+3. 💪 Opened PR [#1](https://github.com/onRuntime/next-usetranslation/pull/1) in [onRuntime/next-usetranslation](https://github.com/onRuntime/next-usetranslation)
 4. 🗣 Commented on [#12](https://github.com/ajayesivan/react-native-remix-icon/issues/12) in [ajayesivan/react-native-remix-icon](https://github.com/ajayesivan/react-native-remix-icon)
-5. ❗️ Closed issue [#178](https://github.com/mailjet/mailjet-apiv3-java/issues/178) in [mailjet/mailjet-apiv3-java](https://github.com/mailjet/mailjet-apiv3-java)
+5. 🗣 Commented on [#12](https://github.com/ajayesivan/react-native-remix-icon/issues/12) in [ajayesivan/react-native-remix-icon](https://github.com/ajayesivan/react-native-remix-icon)
 <!--END_SECTION:activity-->
 
 <!--
