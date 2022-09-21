@@ -36,11 +36,11 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#17](https://github.com/tonightpass/shared-types/pull/17) in [tonightpass/shared-types](https://github.com/tonightpass/shared-types)
-2. 💪 Opened PR [#16](https://github.com/tonightpass/shared-types/pull/16) in [tonightpass/shared-types](https://github.com/tonightpass/shared-types)
-3. 💪 Opened PR [#14](https://github.com/tonightpass/shared-types/pull/14) in [tonightpass/shared-types](https://github.com/tonightpass/shared-types)
-4. 💪 Opened PR [#13](https://github.com/tonightpass/shared-types/pull/13) in [tonightpass/shared-types](https://github.com/tonightpass/shared-types)
-5. ❗️ Opened issue [#12](https://github.com/tonightpass/shared-types/issues/12) in [tonightpass/shared-types](https://github.com/tonightpass/shared-types)
+1. 🗣 Commented on [#4](https://github.com/tonightpass/shared-types/issues/4) in [tonightpass/shared-types](https://github.com/tonightpass/shared-types)
+2. 💪 Opened PR [#17](https://github.com/tonightpass/shared-types/pull/17) in [tonightpass/shared-types](https://github.com/tonightpass/shared-types)
+3. 💪 Opened PR [#16](https://github.com/tonightpass/shared-types/pull/16) in [tonightpass/shared-types](https://github.com/tonightpass/shared-types)
+4. 💪 Opened PR [#14](https://github.com/tonightpass/shared-types/pull/14) in [tonightpass/shared-types](https://github.com/tonightpass/shared-types)
+5. 💪 Opened PR [#13](https://github.com/tonightpass/shared-types/pull/13) in [tonightpass/shared-types](https://github.com/tonightpass/shared-types)
 <!--END_SECTION:activity-->
 
 <!--
