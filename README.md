@@ -36,11 +36,11 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#3](https://github.com/tonightpass/shared-types/issues/3) in [tonightpass/shared-types](https://github.com/tonightpass/shared-types)
-2. 🗣 Commented on [#3](https://github.com/tonightpass/shared-types/issues/3) in [tonightpass/shared-types](https://github.com/tonightpass/shared-types)
-3. ❌ Closed PR [#10](https://github.com/tonightpass/shared-types/pull/10) in [tonightpass/shared-types](https://github.com/tonightpass/shared-types)
-4. 💪 Opened PR [#17](https://github.com/ajayesivan/react-native-remix-icon/pull/17) in [ajayesivan/react-native-remix-icon](https://github.com/ajayesivan/react-native-remix-icon)
-5. 💪 Opened PR [#10](https://github.com/tonightpass/shared-types/pull/10) in [tonightpass/shared-types](https://github.com/tonightpass/shared-types)
+1. 💪 Opened PR [#13](https://github.com/tonightpass/shared-types/pull/13) in [tonightpass/shared-types](https://github.com/tonightpass/shared-types)
+2. ❗️ Opened issue [#12](https://github.com/tonightpass/shared-types/issues/12) in [tonightpass/shared-types](https://github.com/tonightpass/shared-types)
+3. ❗️ Closed issue [#9](https://github.com/tonightpass/shared-types/issues/9) in [tonightpass/shared-types](https://github.com/tonightpass/shared-types)
+4. ❗️ Closed issue [#5](https://github.com/tonightpass/shared-types/issues/5) in [tonightpass/shared-types](https://github.com/tonightpass/shared-types)
+5. ❗️ Closed issue [#2](https://github.com/tonightpass/shared-types/issues/2) in [tonightpass/shared-types](https://github.com/tonightpass/shared-types)
 <!--END_SECTION:activity-->
 
 <!--
