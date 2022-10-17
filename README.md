@@ -36,11 +36,11 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/tonightpass/nestjs-mailjet/issues/1) in [tonightpass/nestjs-mailjet](https://github.com/tonightpass/nestjs-mailjet)
-2. 🗣 Commented on [#25](https://github.com/tonightpass/shared-types/issues/25) in [tonightpass/shared-types](https://github.com/tonightpass/shared-types)
+1. ❌ Closed PR [#1](https://github.com/expatfacilities/countries-states-cities-database/pull/1) in [expatfacilities/countries-states-cities-database](https://github.com/expatfacilities/countries-states-cities-database)
+2. 🗣 Commented on [#1](https://github.com/tonightpass/nestjs-mailjet/issues/1) in [tonightpass/nestjs-mailjet](https://github.com/tonightpass/nestjs-mailjet)
 3. 🗣 Commented on [#25](https://github.com/tonightpass/shared-types/issues/25) in [tonightpass/shared-types](https://github.com/tonightpass/shared-types)
-4. ❌ Reopened PR [#22](https://github.com/tonightpass/shared-types/pull/22) in [tonightpass/shared-types](https://github.com/tonightpass/shared-types)
-5. ❗️ Closed issue [#20](https://github.com/tonightpass/shared-types/issues/20) in [tonightpass/shared-types](https://github.com/tonightpass/shared-types)
+4. 🗣 Commented on [#25](https://github.com/tonightpass/shared-types/issues/25) in [tonightpass/shared-types](https://github.com/tonightpass/shared-types)
+5. ❌ Reopened PR [#22](https://github.com/tonightpass/shared-types/pull/22) in [tonightpass/shared-types](https://github.com/tonightpass/shared-types)
 <!--END_SECTION:activity-->
 
 <!--
