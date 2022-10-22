@@ -36,10 +36,10 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#497](https://github.com/preconstruct/preconstruct/issues/497) in [preconstruct/preconstruct](https://github.com/preconstruct/preconstruct)
-2. ❌ Closed PR [#1](https://github.com/expatfacilities/countries-states-cities-database/pull/1) in [expatfacilities/countries-states-cities-database](https://github.com/expatfacilities/countries-states-cities-database)
-3. 🗣 Commented on [#1](https://github.com/tonightpass/nestjs-mailjet/issues/1) in [tonightpass/nestjs-mailjet](https://github.com/tonightpass/nestjs-mailjet)
-4. 🗣 Commented on [#25](https://github.com/tonightpass/shared-types/issues/25) in [tonightpass/shared-types](https://github.com/tonightpass/shared-types)
+1. ❗️ Closed issue [#405](https://github.com/shadowwalker/next-pwa/issues/405) in [shadowwalker/next-pwa](https://github.com/shadowwalker/next-pwa)
+2. 🗣 Commented on [#497](https://github.com/preconstruct/preconstruct/issues/497) in [preconstruct/preconstruct](https://github.com/preconstruct/preconstruct)
+3. ❌ Closed PR [#1](https://github.com/expatfacilities/countries-states-cities-database/pull/1) in [expatfacilities/countries-states-cities-database](https://github.com/expatfacilities/countries-states-cities-database)
+4. 🗣 Commented on [#1](https://github.com/tonightpass/nestjs-mailjet/issues/1) in [tonightpass/nestjs-mailjet](https://github.com/tonightpass/nestjs-mailjet)
 5. 🗣 Commented on [#25](https://github.com/tonightpass/shared-types/issues/25) in [tonightpass/shared-types](https://github.com/tonightpass/shared-types)
 <!--END_SECTION:activity-->
 
