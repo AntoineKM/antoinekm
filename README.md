@@ -36,11 +36,11 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/tonightpass/kitchen/pull/3) in [tonightpass/kitchen](https://github.com/tonightpass/kitchen)
-2. 💪 Opened PR [#3](https://github.com/tonightpass/kitchen/pull/3) in [tonightpass/kitchen](https://github.com/tonightpass/kitchen)
-3. ❗️ Closed issue [#405](https://github.com/shadowwalker/next-pwa/issues/405) in [shadowwalker/next-pwa](https://github.com/shadowwalker/next-pwa)
-4. 🗣 Commented on [#497](https://github.com/preconstruct/preconstruct/issues/497) in [preconstruct/preconstruct](https://github.com/preconstruct/preconstruct)
-5. ❌ Closed PR [#1](https://github.com/expatfacilities/countries-states-cities-database/pull/1) in [expatfacilities/countries-states-cities-database](https://github.com/expatfacilities/countries-states-cities-database)
+1. 💪 Opened PR [#802](https://github.com/geist-org/geist-ui/pull/802) in [geist-org/geist-ui](https://github.com/geist-org/geist-ui)
+2. 🎉 Merged PR [#3](https://github.com/tonightpass/kitchen/pull/3) in [tonightpass/kitchen](https://github.com/tonightpass/kitchen)
+3. 💪 Opened PR [#3](https://github.com/tonightpass/kitchen/pull/3) in [tonightpass/kitchen](https://github.com/tonightpass/kitchen)
+4. ❗️ Closed issue [#405](https://github.com/shadowwalker/next-pwa/issues/405) in [shadowwalker/next-pwa](https://github.com/shadowwalker/next-pwa)
+5. 🗣 Commented on [#497](https://github.com/preconstruct/preconstruct/issues/497) in [preconstruct/preconstruct](https://github.com/preconstruct/preconstruct)
 <!--END_SECTION:activity-->
 
 <!--
