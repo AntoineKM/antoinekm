@@ -36,11 +36,11 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2375](https://github.com/vercel/turbo/pull/2375) in [vercel/turbo](https://github.com/vercel/turbo)
-2. 💪 Opened PR [#802](https://github.com/geist-org/geist-ui/pull/802) in [geist-org/geist-ui](https://github.com/geist-org/geist-ui)
-3. 🎉 Merged PR [#3](https://github.com/tonightpass/kitchen/pull/3) in [tonightpass/kitchen](https://github.com/tonightpass/kitchen)
-4. 💪 Opened PR [#3](https://github.com/tonightpass/kitchen/pull/3) in [tonightpass/kitchen](https://github.com/tonightpass/kitchen)
-5. ❗️ Closed issue [#405](https://github.com/shadowwalker/next-pwa/issues/405) in [shadowwalker/next-pwa](https://github.com/shadowwalker/next-pwa)
+1. 🗣 Commented on [#4](https://github.com/onRuntime/onruntime-discord-bot/issues/4) in [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot)
+2. ❗️ Closed issue [#3](https://github.com/onRuntime/onruntime-discord-bot/issues/3) in [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot)
+3. 💪 Opened PR [#2375](https://github.com/vercel/turbo/pull/2375) in [vercel/turbo](https://github.com/vercel/turbo)
+4. 💪 Opened PR [#802](https://github.com/geist-org/geist-ui/pull/802) in [geist-org/geist-ui](https://github.com/geist-org/geist-ui)
+5. 🎉 Merged PR [#3](https://github.com/tonightpass/kitchen/pull/3) in [tonightpass/kitchen](https://github.com/tonightpass/kitchen)
 <!--END_SECTION:activity-->
 
 <!--
