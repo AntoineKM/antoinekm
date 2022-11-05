@@ -36,11 +36,11 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#23](https://github.com/onRuntime/onruntime-website/issues/23) in [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website)
-2. ❗️ Closed issue [#34](https://github.com/onRuntime/onruntime-website/issues/34) in [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website)
-3. ❗️ Closed issue [#30](https://github.com/onRuntime/onruntime-website/issues/30) in [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website)
-4. ❗️ Closed issue [#29](https://github.com/onRuntime/onruntime-website/issues/29) in [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website)
-5. ❗️ Opened issue [#7](https://github.com/onRuntime/onruntime-discord-bot/issues/7) in [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot)
+1. 💪 Opened PR [#5](https://github.com/tonightpass/kitchen/pull/5) in [tonightpass/kitchen](https://github.com/tonightpass/kitchen)
+2. ❗️ Closed issue [#23](https://github.com/onRuntime/onruntime-website/issues/23) in [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website)
+3. ❗️ Closed issue [#34](https://github.com/onRuntime/onruntime-website/issues/34) in [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website)
+4. ❗️ Closed issue [#30](https://github.com/onRuntime/onruntime-website/issues/30) in [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website)
+5. ❗️ Closed issue [#29](https://github.com/onRuntime/onruntime-website/issues/29) in [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website)
 <!--END_SECTION:activity-->
 
 <!--
