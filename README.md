@@ -36,11 +36,11 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/onRuntime/onruntime-discord-bot/pull/11) in [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot)
-2. 💪 Opened PR [#11](https://github.com/onRuntime/onruntime-discord-bot/pull/11) in [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot)
-3. 🎉 Merged PR [#10](https://github.com/onRuntime/onruntime-discord-bot/pull/10) in [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot)
-4. 💪 Opened PR [#10](https://github.com/onRuntime/onruntime-discord-bot/pull/10) in [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot)
-5. 🎉 Merged PR [#9](https://github.com/onRuntime/onruntime-discord-bot/pull/9) in [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot)
+1. 🎉 Merged PR [#1](https://github.com/needforschool/kikoolol-server/pull/1) in [needforschool/kikoolol-server](https://github.com/needforschool/kikoolol-server)
+2. 🎉 Merged PR [#11](https://github.com/onRuntime/onruntime-discord-bot/pull/11) in [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot)
+3. 💪 Opened PR [#11](https://github.com/onRuntime/onruntime-discord-bot/pull/11) in [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot)
+4. 🎉 Merged PR [#10](https://github.com/onRuntime/onruntime-discord-bot/pull/10) in [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot)
+5. 💪 Opened PR [#10](https://github.com/onRuntime/onruntime-discord-bot/pull/10) in [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot)
 <!--END_SECTION:activity-->
 
 <!--
