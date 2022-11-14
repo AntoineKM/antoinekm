@@ -36,11 +36,11 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#37](https://github.com/tonightpass/kitchen/pull/37) in [tonightpass/kitchen](https://github.com/tonightpass/kitchen)
-2. ❗️ Closed issue [#16](https://github.com/tonightpass/kitchen/issues/16) in [tonightpass/kitchen](https://github.com/tonightpass/kitchen)
-3. 🎉 Merged PR [#22](https://github.com/tonightpass/kitchen/pull/22) in [tonightpass/kitchen](https://github.com/tonightpass/kitchen)
-4. 🎉 Merged PR [#12](https://github.com/onRuntime/onruntime-discord-bot/pull/12) in [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot)
-5. 🎉 Merged PR [#38](https://github.com/onRuntime/onruntime-website/pull/38) in [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website)
+1. 💪 Opened PR [#38](https://github.com/tonightpass/kitchen/pull/38) in [tonightpass/kitchen](https://github.com/tonightpass/kitchen)
+2. 💪 Opened PR [#37](https://github.com/tonightpass/kitchen/pull/37) in [tonightpass/kitchen](https://github.com/tonightpass/kitchen)
+3. ❗️ Closed issue [#16](https://github.com/tonightpass/kitchen/issues/16) in [tonightpass/kitchen](https://github.com/tonightpass/kitchen)
+4. 🎉 Merged PR [#22](https://github.com/tonightpass/kitchen/pull/22) in [tonightpass/kitchen](https://github.com/tonightpass/kitchen)
+5. 🎉 Merged PR [#12](https://github.com/onRuntime/onruntime-discord-bot/pull/12) in [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot)
 <!--END_SECTION:activity-->
 
 <!--
