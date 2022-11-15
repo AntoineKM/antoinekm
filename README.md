@@ -36,11 +36,11 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#41](https://github.com/tonightpass/kitchen/issues/41) in [tonightpass/kitchen](https://github.com/tonightpass/kitchen)
-2. ❗️ Opened issue [#40](https://github.com/tonightpass/kitchen/issues/40) in [tonightpass/kitchen](https://github.com/tonightpass/kitchen)
-3. 🎉 Merged PR [#37](https://github.com/tonightpass/kitchen/pull/37) in [tonightpass/kitchen](https://github.com/tonightpass/kitchen)
-4. ❗️ Closed issue [#10](https://github.com/tonightpass/kitchen/issues/10) in [tonightpass/kitchen](https://github.com/tonightpass/kitchen)
-5. ❗️ Closed issue [#23](https://github.com/tonightpass/kitchen/issues/23) in [tonightpass/kitchen](https://github.com/tonightpass/kitchen)
+1. ❗️ Opened issue [#44](https://github.com/tonightpass/kitchen/issues/44) in [tonightpass/kitchen](https://github.com/tonightpass/kitchen)
+2. ❗️ Opened issue [#43](https://github.com/tonightpass/kitchen/issues/43) in [tonightpass/kitchen](https://github.com/tonightpass/kitchen)
+3. 💪 Opened PR [#42](https://github.com/tonightpass/kitchen/pull/42) in [tonightpass/kitchen](https://github.com/tonightpass/kitchen)
+4. ❗️ Opened issue [#41](https://github.com/tonightpass/kitchen/issues/41) in [tonightpass/kitchen](https://github.com/tonightpass/kitchen)
+5. ❗️ Opened issue [#40](https://github.com/tonightpass/kitchen/issues/40) in [tonightpass/kitchen](https://github.com/tonightpass/kitchen)
 <!--END_SECTION:activity-->
 
 <!--
