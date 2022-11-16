@@ -98,9 +98,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [preconstruct/preconstruct](https://github.com/preconstruct/preconstruct) - 🎁 Dev and build your code painlessly in monorepos (3 weeks ago)
 - [weiran-zsd/dts-cli](https://github.com/weiran-zsd/dts-cli) - Zero-config CLI for TypeScript package development (3 weeks ago)
 
-#### ❤️ These awesome people sponsor me (thank you!)
-
-
 #### 👯 Check out some of my recent followers
 
 - [SPSEBASTIAAN](https://github.com/SPSEBASTIAAN)
