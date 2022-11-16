@@ -9,7 +9,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
             <ul>
                 <li>👨🏾‍🎓 Student at <a href="https://needfor-school.com">Need for School</a></li>
                 <li>👨🏾‍💼 Co-founder at <a href="https://onruntime.com">onRuntime</a> and <a href="https://tonightpass.com">Tonight Pass</a></li>
-                <li>🧑🏾‍💻 Lead Developer at <a href="https://expatfacilities.co">Expat Facilities</a></li>
                 <li>❤️ <a href="https://github.com/AntoineKM">Open Source</a> enthusiast</li>
             </ul>
             <a href="https://discord.gg/ucX9c5yXmX">
@@ -40,8 +39,8 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 - [AntoineKM/antoinekm](https://github.com/AntoineKM/antoinekm) -  (today)
 - [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React styled components. (1 day ago)
-- [needforschool/kikoolol-server](https://github.com/needforschool/kikoolol-server) -  (3 days ago)
 - [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) - onRuntime official website. (3 days ago)
+- [needforschool/kikoolol-server](https://github.com/needforschool/kikoolol-server) -  (3 days ago)
 - [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot) -  (3 days ago)
 - [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo. (1 week ago)
 - [tonightpass/.github](https://github.com/tonightpass/.github) -  (2 weeks ago)
