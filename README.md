@@ -40,27 +40,14 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 - [AntoineKM/antoinekm](https://github.com/AntoineKM/antoinekm) -  (today)
 - [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React styled components. (1 day ago)
-- [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot) -  (3 days ago)
 - [needforschool/kikoolol-server](https://github.com/needforschool/kikoolol-server) -  (3 days ago)
 - [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) - onRuntime official website. (3 days ago)
+- [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot) -  (3 days ago)
 - [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo. (1 week ago)
 - [tonightpass/.github](https://github.com/tonightpass/.github) -  (2 weeks ago)
 - [geist-org/geist-ui](https://github.com/geist-org/geist-ui) - A design system for building modern websites and applications. (2 weeks ago)
 - [AntoineKM/charo-website](https://github.com/AntoineKM/charo-website) -  (3 weeks ago)
 - [needforschool/kikoolol-client](https://github.com/needforschool/kikoolol-client) -  (4 weeks ago)
-
-#### 🌱 My latest projects
-
-- [AntoineKM/charo-website](https://github.com/AntoineKM/charo-website) - 
-- [AntoineKM/charo-api](https://github.com/AntoineKM/charo-api) - Instagram, TikTok, Twitter, Linkedin daily CRON tasks that&#39;s make your daily social tasks.
-- [AntoineKM/ionic-react-boilerplate](https://github.com/AntoineKM/ionic-react-boilerplate) - 
-- [AntoineKM/needforschool-symfony-antoinekm](https://github.com/AntoineKM/needforschool-symfony-antoinekm) - 
-- [AntoineKM/symfony-react-blank](https://github.com/AntoineKM/symfony-react-blank) - Symfony React Blank is a blank symfony and react project, use this template to start your app using Symfony as a backend api and React as a frontend library.
-- [AntoineKM/electron-react-typescript](https://github.com/AntoineKM/electron-react-typescript) - 
-- [AntoineKM/codespaces](https://github.com/AntoineKM/codespaces) - 
-- [AntoineKM/candilib-discord-bot](https://github.com/AntoineKM/candilib-discord-bot) - 
-- [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 
-- [AntoineKM/antoinekm](https://github.com/AntoineKM/antoinekm) - 
 
 #### 🔭 Latest releases I've contributed to
 
