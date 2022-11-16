@@ -38,15 +38,15 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 #### 👷 Check out what I'm currently working on
 
 - [AntoineKM/antoinekm](https://github.com/AntoineKM/antoinekm) -  (today)
-- [AntoineKM/vercel-suite](https://github.com/AntoineKM/vercel-suite) -  (today)
 - [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React styled components. (1 day ago)
+- [needforschool/kikoolol-server](https://github.com/needforschool/kikoolol-server) -  (3 days ago)
 - [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) - onRuntime official website. (3 days ago)
 - [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot) -  (3 days ago)
-- [needforschool/kikoolol-server](https://github.com/needforschool/kikoolol-server) -  (3 days ago)
 - [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo. (1 week ago)
 - [tonightpass/.github](https://github.com/tonightpass/.github) -  (2 weeks ago)
 - [geist-org/geist-ui](https://github.com/geist-org/geist-ui) - A design system for building modern websites and applications. (2 weeks ago)
 - [AntoineKM/charo-website](https://github.com/AntoineKM/charo-website) -  (3 weeks ago)
+- [needforschool/kikoolol-client](https://github.com/needforschool/kikoolol-client) -  (4 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
