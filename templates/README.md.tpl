@@ -9,7 +9,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
             <ul>
                 <li>👨🏾‍🎓 Student at <a href="https://needfor-school.com">Need for School</a></li>
                 <li>👨🏾‍💼 Co-founder at <a href="https://onruntime.com">onRuntime</a> and <a href="https://tonightpass.com">Tonight Pass</a></li>
-                <li>🧑🏾‍💻 Lead Developer at <a href="https://expatfacilities.co">Expat Facilities</a></li>
                 <li>❤️ <a href="https://github.com/AntoineKM">Open Source</a> enthusiast</li>
             </ul>
             <a href="https://discord.gg/ucX9c5yXmX">
