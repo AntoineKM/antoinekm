@@ -60,6 +60,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
+- [Upgrade to Next.js 13](https://github.com/vercel/nextgram/pull/3) on [vercel/nextgram](https://github.com/vercel/nextgram) (today)
 - [✨ add next and native support with their examples](https://github.com/tonightpass/kitchen/pull/42) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (1 day ago)
 - [Antoinekm/icon](https://github.com/tonightpass/kitchen/pull/38) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (2 days ago)
 - [Antoinekm/grid](https://github.com/tonightpass/kitchen/pull/37) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (2 days ago)
@@ -69,7 +70,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [Antoinekm/progressbar](https://github.com/onRuntime/onruntime-discord-bot/pull/10) on [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot) (6 days ago)
 - [Antoinekm/progressbar](https://github.com/onRuntime/onruntime-discord-bot/pull/9) on [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot) (6 days ago)
 - [Antoinekm/button variants](https://github.com/tonightpass/kitchen/pull/14) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (1 week ago)
-- [Antoinekm/styled components ssr](https://github.com/tonightpass/kitchen/pull/11) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (1 week ago)
 
 #### ⭐ Recent Stars
 
