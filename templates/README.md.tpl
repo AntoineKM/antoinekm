@@ -56,11 +56,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
-#### 📓 Gists I wrote
-{{range gists 5}}
-- [{{.Description}}]({{.URL}}) ({{humanize .CreatedAt}})
-{{- end}}
-
 #### ⭐ Recent Stars
 {{range recentStars 10}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
@@ -75,15 +70,3 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 {{range followers 5}}
 - [{{.Login}}]({{.URL}})
 {{- end}}
-
-#### 💬 Feedback
-
-Say Hello, I don't bite!
-
-#### 📫 How to reach me
-
-- Twitter: https://twitter.com/...
-- Fediverse: https://mastodon.social/@...
-- Blog: https://...
-
-Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
