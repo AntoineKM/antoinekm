@@ -85,9 +85,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [Antoinekm/button variants](https://github.com/tonightpass/kitchen/pull/14) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (1 week ago)
 - [Antoinekm/styled components ssr](https://github.com/tonightpass/kitchen/pull/11) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (1 week ago)
 
-#### 📓 Gists I wrote
-
-
 #### ⭐ Recent Stars
 
 - [react-icons/react-icons](https://github.com/react-icons/react-icons) - svg react icons of popular icon packs (2 days ago)
@@ -111,15 +108,3 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [sabbircoder07](https://github.com/sabbircoder07)
 - [siralex214](https://github.com/siralex214)
 - [Johjoh-6](https://github.com/Johjoh-6)
-
-#### 💬 Feedback
-
-Say Hello, I don't bite!
-
-#### 📫 How to reach me
-
-- Twitter: https://twitter.com/...
-- Fediverse: https://mastodon.social/@...
-- Blog: https://...
-
-Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
