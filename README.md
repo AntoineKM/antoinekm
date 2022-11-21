@@ -37,9 +37,9 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
-- [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot) -  (today)
-- [AntoineKM/antoinekm](https://github.com/AntoineKM/antoinekm) -  (today)
-- [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React styled components. (1 day ago)
+- [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot) -  (1 day ago)
+- [AntoineKM/antoinekm](https://github.com/AntoineKM/antoinekm) -  (1 day ago)
+- [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React styled components. (2 days ago)
 - [needforschool/kikoolol-server](https://github.com/needforschool/kikoolol-server) -  (1 week ago)
 - [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) - onRuntime official website. (1 week ago)
 - [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo. (1 week ago)
@@ -60,10 +60,10 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
-- [Upgrade to Next.js 13](https://github.com/vercel/nextgram/pull/3) on [vercel/nextgram](https://github.com/vercel/nextgram) (4 days ago)
-- [✨ add next and native support with their examples](https://github.com/tonightpass/kitchen/pull/42) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (5 days ago)
-- [Antoinekm/icon](https://github.com/tonightpass/kitchen/pull/38) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (6 days ago)
-- [Antoinekm/grid](https://github.com/tonightpass/kitchen/pull/37) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (6 days ago)
+- [Upgrade to Next.js 13](https://github.com/vercel/nextgram/pull/3) on [vercel/nextgram](https://github.com/vercel/nextgram) (5 days ago)
+- [✨ add next and native support with their examples](https://github.com/tonightpass/kitchen/pull/42) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (6 days ago)
+- [Antoinekm/icon](https://github.com/tonightpass/kitchen/pull/38) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (1 week ago)
+- [Antoinekm/grid](https://github.com/tonightpass/kitchen/pull/37) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (1 week ago)
 - [Antoinekm/improve husky](https://github.com/tonightpass/kitchen/pull/22) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (1 week ago)
 - [Antoinekm/text](https://github.com/tonightpass/kitchen/pull/19) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (1 week ago)
 - [Antoinekm/progressbar](https://github.com/onRuntime/onruntime-discord-bot/pull/11) on [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot) (1 week ago)
@@ -73,7 +73,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
-- [react-icons/react-icons](https://github.com/react-icons/react-icons) - svg react icons of popular icon packs (6 days ago)
+- [react-icons/react-icons](https://github.com/react-icons/react-icons) - svg react icons of popular icon packs (1 week ago)
 - [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo. (1 week ago)
 - [Changaco/unicode-progress-bars](https://github.com/Changaco/unicode-progress-bars) - A generator of Unicode progress bars (1 week ago)
 - [ai/size-limit](https://github.com/ai/size-limit) - Calculate the real cost to run your JS app or lib to keep good performance. Show error in pull request if the cost exceeds the limit. (1 week ago)
