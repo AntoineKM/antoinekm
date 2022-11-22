@@ -39,6 +39,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 - [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot) -  (today)
 - [AntoineKM/antoinekm](https://github.com/AntoineKM/antoinekm) -  (today)
+- [AntoineKM/charo-api](https://github.com/AntoineKM/charo-api) - Instagram, TikTok, Twitter, Linkedin daily CRON tasks that&#39;s make your daily social tasks. (today)
 - [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React styled components. (3 days ago)
 - [needforschool/kikoolol-server](https://github.com/needforschool/kikoolol-server) -  (1 week ago)
 - [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) - onRuntime official website. (1 week ago)
@@ -46,7 +47,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [tonightpass/.github](https://github.com/tonightpass/.github) -  (2 weeks ago)
 - [geist-org/geist-ui](https://github.com/geist-org/geist-ui) - A design system for building modern websites and applications. (3 weeks ago)
 - [AntoineKM/charo-website](https://github.com/AntoineKM/charo-website) -  (4 weeks ago)
-- [needforschool/kikoolol-client](https://github.com/needforschool/kikoolol-client) -  (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
