@@ -37,10 +37,10 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
-- [AntoineKM/antoinekm](https://github.com/AntoineKM/antoinekm) -  (today)
-- [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot) -  (2 days ago)
-- [needforschool/kikoolol-client](https://github.com/needforschool/kikoolol-client) -  (3 days ago)
-- [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React styled components. (5 days ago)
+- [AntoineKM/antoinekm](https://github.com/AntoineKM/antoinekm) -  (1 day ago)
+- [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot) -  (3 days ago)
+- [needforschool/kikoolol-client](https://github.com/needforschool/kikoolol-client) -  (4 days ago)
+- [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React styled components. (6 days ago)
 - [AntoineKM/charo-api](https://github.com/AntoineKM/charo-api) - Instagram, TikTok, Twitter, Linkedin daily CRON tasks that&#39;s make your daily social tasks. (1 week ago)
 - [needforschool/kikoolol-server](https://github.com/needforschool/kikoolol-server) -  (2 weeks ago)
 - [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) - onRuntime official website. (2 weeks ago)
@@ -50,7 +50,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/turbo](https://github.com/vercel/turbo) ([v1.6.3](https://github.com/vercel/turbo/releases/tag/v1.6.3), 4 weeks ago) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
+- [vercel/turbo](https://github.com/vercel/turbo) ([v1.6.3](https://github.com/vercel/turbo/releases/tag/v1.6.3), 1 month ago) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
 - [tonightpass/shared-types](https://github.com/tonightpass/shared-types) ([0.2.0](https://github.com/tonightpass/shared-types/releases/tag/0.2.0), 1 month ago) - @tonightpass shared types.
 - [ajayesivan/react-native-remix-icon](https://github.com/ajayesivan/react-native-remix-icon) ([0.4.0](https://github.com/ajayesivan/react-native-remix-icon/releases/tag/0.4.0), 2 months ago) - An OpenSource implementation of remixicon for React Native
 - [onRuntime/next-usetranslation](https://github.com/onRuntime/next-usetranslation) ([v0.1.10](https://github.com/onRuntime/next-usetranslation/releases/tag/v0.1.10), 3 months ago) - The easiest way to translate your Next.js projects
@@ -60,22 +60,22 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
-- [✨ add docs](https://github.com/tonightpass/kitchen/pull/55) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (today)
+- [✨ add docs](https://github.com/tonightpass/kitchen/pull/55) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (1 day ago)
 - [Upgrade to Next.js 13](https://github.com/vercel/nextgram/pull/3) on [vercel/nextgram](https://github.com/vercel/nextgram) (2 weeks ago)
 - [✨ add next and native support with their examples](https://github.com/tonightpass/kitchen/pull/42) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (2 weeks ago)
 - [Antoinekm/icon](https://github.com/tonightpass/kitchen/pull/38) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (2 weeks ago)
 - [Antoinekm/grid](https://github.com/tonightpass/kitchen/pull/37) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (2 weeks ago)
 - [Antoinekm/improve husky](https://github.com/tonightpass/kitchen/pull/22) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (2 weeks ago)
 - [Antoinekm/text](https://github.com/tonightpass/kitchen/pull/19) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (2 weeks ago)
-- [Antoinekm/progressbar](https://github.com/onRuntime/onruntime-discord-bot/pull/11) on [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot) (2 weeks ago)
-- [Antoinekm/progressbar](https://github.com/onRuntime/onruntime-discord-bot/pull/10) on [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot) (2 weeks ago)
-- [Antoinekm/progressbar](https://github.com/onRuntime/onruntime-discord-bot/pull/9) on [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot) (2 weeks ago)
+- [Antoinekm/progressbar](https://github.com/onRuntime/onruntime-discord-bot/pull/11) on [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot) (3 weeks ago)
+- [Antoinekm/progressbar](https://github.com/onRuntime/onruntime-discord-bot/pull/10) on [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot) (3 weeks ago)
+- [Antoinekm/progressbar](https://github.com/onRuntime/onruntime-discord-bot/pull/9) on [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
 - [react-icons/react-icons](https://github.com/react-icons/react-icons) - svg react icons of popular icon packs (2 weeks ago)
 - [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo. (2 weeks ago)
-- [Changaco/unicode-progress-bars](https://github.com/Changaco/unicode-progress-bars) - A generator of Unicode progress bars (2 weeks ago)
+- [Changaco/unicode-progress-bars](https://github.com/Changaco/unicode-progress-bars) - A generator of Unicode progress bars (3 weeks ago)
 - [ai/size-limit](https://github.com/ai/size-limit) - Calculate the real cost to run your JS app or lib to keep good performance. Show error in pull request if the cost exceeds the limit. (3 weeks ago)
 - [Thinkmill/monorepo-starter](https://github.com/Thinkmill/monorepo-starter) - An example setup of how to do a monorepo, used in our monorepo &#39;getting started&#39; guide (4 weeks ago)
 - [o-gs/dji-firmware-tools](https://github.com/o-gs/dji-firmware-tools) - Tools for handling firmwares of DJI products, with focus on quadcopters. (1 month ago)
