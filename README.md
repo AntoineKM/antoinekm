@@ -73,6 +73,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
+- [needforschool/kikoolol-client](https://github.com/needforschool/kikoolol-client) -  (today)
 - [facebook/react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces. (1 day ago)
 - [needforschool/kikoolol-server](https://github.com/needforschool/kikoolol-server) -  (1 day ago)
 - [react-icons/react-icons](https://github.com/react-icons/react-icons) - svg react icons of popular icon packs (2 weeks ago)
@@ -82,7 +83,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [Thinkmill/monorepo-starter](https://github.com/Thinkmill/monorepo-starter) - An example setup of how to do a monorepo, used in our monorepo &#39;getting started&#39; guide (1 month ago)
 - [o-gs/dji-firmware-tools](https://github.com/o-gs/dji-firmware-tools) - Tools for handling firmwares of DJI products, with focus on quadcopters. (1 month ago)
 - [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot) -  (1 month ago)
-- [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React styled components. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
