@@ -37,9 +37,9 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
-- [AntoineKM/antoinekm](https://github.com/AntoineKM/antoinekm) -  (today)
-- [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot) -  (4 days ago)
-- [needforschool/kikoolol-client](https://github.com/needforschool/kikoolol-client) -  (5 days ago)
+- [AntoineKM/antoinekm](https://github.com/AntoineKM/antoinekm) -  (1 day ago)
+- [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot) -  (5 days ago)
+- [needforschool/kikoolol-client](https://github.com/needforschool/kikoolol-client) -  (6 days ago)
 - [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React styled components. (1 week ago)
 - [AntoineKM/charo-api](https://github.com/AntoineKM/charo-api) - Instagram, TikTok, Twitter, Linkedin daily CRON tasks that&#39;s make your daily social tasks. (1 week ago)
 - [needforschool/kikoolol-server](https://github.com/needforschool/kikoolol-server) -  (2 weeks ago)
@@ -60,7 +60,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
-- [✨ add docs](https://github.com/tonightpass/kitchen/pull/55) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (2 days ago)
+- [✨ add docs](https://github.com/tonightpass/kitchen/pull/55) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (3 days ago)
 - [Upgrade to Next.js 13](https://github.com/vercel/nextgram/pull/3) on [vercel/nextgram](https://github.com/vercel/nextgram) (2 weeks ago)
 - [✨ add next and native support with their examples](https://github.com/tonightpass/kitchen/pull/42) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (2 weeks ago)
 - [Antoinekm/icon](https://github.com/tonightpass/kitchen/pull/38) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (2 weeks ago)
@@ -73,9 +73,9 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
-- [needforschool/kikoolol-client](https://github.com/needforschool/kikoolol-client) -  (today)
-- [facebook/react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces. (1 day ago)
-- [needforschool/kikoolol-server](https://github.com/needforschool/kikoolol-server) -  (1 day ago)
+- [needforschool/kikoolol-client](https://github.com/needforschool/kikoolol-client) -  (1 day ago)
+- [facebook/react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces. (2 days ago)
+- [needforschool/kikoolol-server](https://github.com/needforschool/kikoolol-server) -  (2 days ago)
 - [react-icons/react-icons](https://github.com/react-icons/react-icons) - svg react icons of popular icon packs (2 weeks ago)
 - [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo. (3 weeks ago)
 - [Changaco/unicode-progress-bars](https://github.com/Changaco/unicode-progress-bars) - A generator of Unicode progress bars (3 weeks ago)
