@@ -37,7 +37,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
-- [AntoineKM/antoinekm](https://github.com/AntoineKM/antoinekm) -  (1 day ago)
+- [AntoineKM/antoinekm](https://github.com/AntoineKM/antoinekm) -  (today)
 - [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot) -  (6 days ago)
 - [needforschool/kikoolol-client](https://github.com/needforschool/kikoolol-client) -  (1 week ago)
 - [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React styled components. (1 week ago)
