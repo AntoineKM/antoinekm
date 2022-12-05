@@ -37,19 +37,20 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
+- [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js. (today)
 - [AntoineKM/antoinekm](https://github.com/AntoineKM/antoinekm) -  (today)
 - [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot) -  (1 week ago)
 - [needforschool/kikoolol-client](https://github.com/needforschool/kikoolol-client) -  (1 week ago)
 - [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React styled components. (1 week ago)
 - [AntoineKM/charo-api](https://github.com/AntoineKM/charo-api) - Instagram, TikTok, Twitter, Linkedin daily CRON tasks that&#39;s make your daily social tasks. (1 week ago)
-- [needforschool/kikoolol-server](https://github.com/needforschool/kikoolol-server) -  (3 weeks ago)
 - [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) - onRuntime official website. (3 weeks ago)
+- [needforschool/kikoolol-server](https://github.com/needforschool/kikoolol-server) -  (3 weeks ago)
 - [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo. (3 weeks ago)
 - [tonightpass/.github](https://github.com/tonightpass/.github) -  (1 month ago)
-- [geist-org/geist-ui](https://github.com/geist-org/geist-ui) - A design system for building modern websites and applications. (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [shuding/nextra](https://github.com/shuding/nextra) ([nextra-theme-blog@2.0.1](https://github.com/shuding/nextra/releases/tag/nextra-theme-blog%402.0.1), 1 day ago) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 - [vercel/turbo](https://github.com/vercel/turbo) ([v1.6.3](https://github.com/vercel/turbo/releases/tag/v1.6.3), 1 month ago) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
 - [tonightpass/shared-types](https://github.com/tonightpass/shared-types) ([0.2.0](https://github.com/tonightpass/shared-types/releases/tag/0.2.0), 2 months ago) - @tonightpass shared types.
 - [ajayesivan/react-native-remix-icon](https://github.com/ajayesivan/react-native-remix-icon) ([0.4.0](https://github.com/ajayesivan/react-native-remix-icon/releases/tag/0.4.0), 2 months ago) - An OpenSource implementation of remixicon for React Native
