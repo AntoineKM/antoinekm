@@ -61,6 +61,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
+- [✨ add local fonts](https://github.com/tonightpass/kitchen/pull/62) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (today)
 - [Fix built ins components link on docs theme page](https://github.com/shuding/nextra/pull/1027) on [shuding/nextra](https://github.com/shuding/nextra) (1 day ago)
 - [✨ add docs](https://github.com/tonightpass/kitchen/pull/55) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (6 days ago)
 - [Upgrade to Next.js 13](https://github.com/vercel/nextgram/pull/3) on [vercel/nextgram](https://github.com/vercel/nextgram) (2 weeks ago)
@@ -70,7 +71,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [Antoinekm/improve husky](https://github.com/tonightpass/kitchen/pull/22) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (3 weeks ago)
 - [Antoinekm/text](https://github.com/tonightpass/kitchen/pull/19) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (3 weeks ago)
 - [Antoinekm/progressbar](https://github.com/onRuntime/onruntime-discord-bot/pull/11) on [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot) (3 weeks ago)
-- [Antoinekm/progressbar](https://github.com/onRuntime/onruntime-discord-bot/pull/10) on [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
