@@ -74,6 +74,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
+- [fontsource/fontsource](https://github.com/fontsource/fontsource) - Self-host Open Source fonts in neatly bundled NPM packages. (today)
 - [AntoineKM/antoinekm](https://github.com/AntoineKM/antoinekm) -  (1 day ago)
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js. (2 days ago)
 - [needforschool/kikoolol-client](https://github.com/needforschool/kikoolol-client) -  (5 days ago)
@@ -83,7 +84,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo. (3 weeks ago)
 - [Changaco/unicode-progress-bars](https://github.com/Changaco/unicode-progress-bars) - A generator of Unicode progress bars (3 weeks ago)
 - [ai/size-limit](https://github.com/ai/size-limit) - Calculate the real cost to run your JS app or lib to keep good performance. Show error in pull request if the cost exceeds the limit. (4 weeks ago)
-- [Thinkmill/monorepo-starter](https://github.com/Thinkmill/monorepo-starter) - An example setup of how to do a monorepo, used in our monorepo &#39;getting started&#39; guide (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
