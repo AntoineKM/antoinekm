@@ -37,8 +37,8 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
+- [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React @styled-components (currently under construction...) (today)
 - [AntoineKM/antoinekm](https://github.com/AntoineKM/antoinekm) -  (today)
-- [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React @styled-components (currently under construction...) (1 day ago)
 - [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) - onRuntime official website. (1 day ago)
 - [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot) -  (5 days ago)
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js. (6 days ago)
@@ -61,6 +61,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
+- [📝 improve button documentation](https://github.com/tonightpass/kitchen/pull/81) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (today)
 - [🎨 improve husky](https://github.com/tonightpass/kitchen/pull/77) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (2 days ago)
 - [✨ add clipboard hook](https://github.com/tonightpass/kitchen/pull/76) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (2 days ago)
 - [✨ add default light theme](https://github.com/tonightpass/kitchen/pull/63) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (4 days ago)
@@ -70,7 +71,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [Upgrade to Next.js 13](https://github.com/vercel/nextgram/pull/3) on [vercel/nextgram](https://github.com/vercel/nextgram) (3 weeks ago)
 - [✨ add next and native support with their examples](https://github.com/tonightpass/kitchen/pull/42) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (3 weeks ago)
 - [Antoinekm/icon](https://github.com/tonightpass/kitchen/pull/38) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (3 weeks ago)
-- [Antoinekm/grid](https://github.com/tonightpass/kitchen/pull/37) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
