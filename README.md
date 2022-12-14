@@ -38,6 +38,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 #### 👷 Check out what I'm currently working on
 
 - [AntoineKM/antoinekm](https://github.com/AntoineKM/antoinekm) -  (today)
+- [AntoineKM/dailyrp](https://github.com/AntoineKM/dailyrp) -  (today)
 - [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React @styled-components (currently under construction...) (3 days ago)
 - [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) - onRuntime official website. (4 days ago)
 - [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot) -  (1 week ago)
@@ -46,7 +47,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [AntoineKM/charo-api](https://github.com/AntoineKM/charo-api) - Instagram, TikTok, Twitter, Linkedin daily CRON tasks that&#39;s make your daily social tasks. (3 weeks ago)
 - [needforschool/kikoolol-server](https://github.com/needforschool/kikoolol-server) -  (1 month ago)
 - [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo. (1 month ago)
-- [tonightpass/.github](https://github.com/tonightpass/.github) -  (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
