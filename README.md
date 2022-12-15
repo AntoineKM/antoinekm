@@ -40,13 +40,13 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [AntoineKM/dailyrp](https://github.com/AntoineKM/dailyrp) -  (today)
 - [onRuntime/next-boilerplate](https://github.com/onRuntime/next-boilerplate) - Next Boilerplate is a boilerplate of next and styled components, use this template to start your app. (today)
 - [AntoineKM/antoinekm](https://github.com/AntoineKM/antoinekm) -  (today)
+- [needforschool/prospekt-client](https://github.com/needforschool/prospekt-client) -  (today)
 - [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React @styled-components (currently under construction...) (4 days ago)
 - [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) - onRuntime official website. (5 days ago)
 - [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot) -  (1 week ago)
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js. (1 week ago)
 - [needforschool/kikoolol-client](https://github.com/needforschool/kikoolol-client) -  (2 weeks ago)
 - [AntoineKM/charo-api](https://github.com/AntoineKM/charo-api) - Instagram, TikTok, Twitter, Linkedin daily CRON tasks that&#39;s make your daily social tasks. (3 weeks ago)
-- [needforschool/kikoolol-server](https://github.com/needforschool/kikoolol-server) -  (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -87,8 +87,8 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👯 Check out some of my recent followers
 
+- [LuanderFarias](https://github.com/LuanderFarias)
 - [kapeupro](https://github.com/kapeupro)
 - [shivamhwp](https://github.com/shivamhwp)
 - [SPSEBASTIAAN](https://github.com/SPSEBASTIAAN)
 - [Oummy13](https://github.com/Oummy13)
-- [sabbircoder07](https://github.com/sabbircoder07)
