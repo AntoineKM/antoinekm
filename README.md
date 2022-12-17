@@ -74,6 +74,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
+- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend. (today)
 - [spritsail/fivem](https://github.com/spritsail/fivem) - FiveM GTA modded multiplayer server (3 days ago)
 - [seatonjiang/gitmoji-vscode](https://github.com/seatonjiang/gitmoji-vscode) - 😜 Gitmoji tool for git commit messages in VSCode (1 week ago)
 - [fontsource/fontsource](https://github.com/fontsource/fontsource) - Self-host Open Source fonts in neatly bundled NPM packages. (1 week ago)
@@ -83,7 +84,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [facebook/react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces. (2 weeks ago)
 - [needforschool/kikoolol-server](https://github.com/needforschool/kikoolol-server) -  (2 weeks ago)
 - [react-icons/react-icons](https://github.com/react-icons/react-icons) - svg react icons of popular icon packs (1 month ago)
-- [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
