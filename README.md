@@ -37,12 +37,12 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
-- [AntoineKM/antoinekm](https://github.com/AntoineKM/antoinekm) -  (today)
-- [AntoineKM/dailyrp](https://github.com/AntoineKM/dailyrp) -  (1 day ago)
-- [needforschool/prospekt-client](https://github.com/needforschool/prospekt-client) -  (1 day ago)
-- [onRuntime/next-boilerplate](https://github.com/onRuntime/next-boilerplate) - Next Boilerplate is a boilerplate of next and styled components, use this template to start your app. (1 day ago)
-- [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React @styled-components (currently under construction...) (5 days ago)
-- [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) - onRuntime official website. (6 days ago)
+- [AntoineKM/antoinekm](https://github.com/AntoineKM/antoinekm) -  (1 day ago)
+- [AntoineKM/dailyrp](https://github.com/AntoineKM/dailyrp) -  (2 days ago)
+- [needforschool/prospekt-client](https://github.com/needforschool/prospekt-client) -  (2 days ago)
+- [onRuntime/next-boilerplate](https://github.com/onRuntime/next-boilerplate) - Next Boilerplate is a boilerplate of next and styled components, use this template to start your app. (2 days ago)
+- [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React @styled-components (currently under construction...) (6 days ago)
+- [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) - onRuntime official website. (1 week ago)
 - [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot) -  (1 week ago)
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js. (1 week ago)
 - [needforschool/kikoolol-client](https://github.com/needforschool/kikoolol-client) -  (2 weeks ago)
@@ -56,12 +56,12 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [ajayesivan/react-native-remix-icon](https://github.com/ajayesivan/react-native-remix-icon) ([0.4.0](https://github.com/ajayesivan/react-native-remix-icon/releases/tag/0.4.0), 2 months ago) - An OpenSource implementation of remixicon for React Native
 - [onRuntime/next-usetranslation](https://github.com/onRuntime/next-usetranslation) ([v0.1.10](https://github.com/onRuntime/next-usetranslation/releases/tag/v0.1.10), 3 months ago) - The easiest way to translate your Next.js projects
 - [onRuntime/next-link](https://github.com/onRuntime/next-link) ([0.1.5](https://github.com/onRuntime/next-link/releases/tag/0.1.5), 3 months ago) - Customized next/link for @onRuntime Next.js projects.
-- [geist-org/geist-ui](https://github.com/geist-org/geist-ui) ([v2.3.8](https://github.com/geist-org/geist-ui/releases/tag/v2.3.8), 8 months ago) - A design system for building modern websites and applications.
+- [geist-org/geist-ui](https://github.com/geist-org/geist-ui) ([v2.3.8](https://github.com/geist-org/geist-ui/releases/tag/v2.3.8), 9 months ago) - A design system for building modern websites and applications.
 - [onRuntime/instagram-dark-extension](https://github.com/onRuntime/instagram-dark-extension) ([1.1.17](https://github.com/onRuntime/instagram-dark-extension/releases/tag/1.1.17), 10 months ago) - Dark Theme for Instagram™ is an extension which aims to change the theme of the Instagram website, and make it a dark theme like the iOS app when the system is in dark mode.
 
 #### 🔨 My recent Pull Requests
 
-- [📝 improve button documentation](https://github.com/tonightpass/kitchen/pull/81) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (5 days ago)
+- [📝 improve button documentation](https://github.com/tonightpass/kitchen/pull/81) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (6 days ago)
 - [🎨 improve husky](https://github.com/tonightpass/kitchen/pull/77) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (1 week ago)
 - [✨ add clipboard hook](https://github.com/tonightpass/kitchen/pull/76) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (1 week ago)
 - [✨ add default light theme](https://github.com/tonightpass/kitchen/pull/63) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (1 week ago)
@@ -74,8 +74,8 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
-- [spritsail/fivem](https://github.com/spritsail/fivem) - FiveM GTA modded multiplayer server (2 days ago)
-- [seatonjiang/gitmoji-vscode](https://github.com/seatonjiang/gitmoji-vscode) - 😜 Gitmoji tool for git commit messages in VSCode (6 days ago)
+- [spritsail/fivem](https://github.com/spritsail/fivem) - FiveM GTA modded multiplayer server (3 days ago)
+- [seatonjiang/gitmoji-vscode](https://github.com/seatonjiang/gitmoji-vscode) - 😜 Gitmoji tool for git commit messages in VSCode (1 week ago)
 - [fontsource/fontsource](https://github.com/fontsource/fontsource) - Self-host Open Source fonts in neatly bundled NPM packages. (1 week ago)
 - [AntoineKM/antoinekm](https://github.com/AntoineKM/antoinekm) -  (1 week ago)
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js. (1 week ago)
