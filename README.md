@@ -61,7 +61,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
-- [Antoinekm/logo](https://github.com/tonightpass/kitchen/pull/83) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (today)
+- [✨ add logo](https://github.com/tonightpass/kitchen/pull/83) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (today)
 - [📝 improve button documentation](https://github.com/tonightpass/kitchen/pull/81) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (1 week ago)
 - [🎨 improve husky](https://github.com/tonightpass/kitchen/pull/77) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (1 week ago)
 - [✨ add clipboard hook](https://github.com/tonightpass/kitchen/pull/76) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (1 week ago)
