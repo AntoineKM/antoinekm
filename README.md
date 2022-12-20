@@ -37,16 +37,16 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
-- [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React @styled-components (currently under construction...) (today)
-- [AntoineKM/antoinekm](https://github.com/AntoineKM/antoinekm) -  (today)
-- [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot) -  (today)
-- [needforschool/prospekt-client](https://github.com/needforschool/prospekt-client) -  (4 days ago)
-- [onRuntime/next-boilerplate](https://github.com/onRuntime/next-boilerplate) - Next Boilerplate is a boilerplate of next and styled components, use this template to start your app. (4 days ago)
-- [AntoineKM/dailyrp](https://github.com/AntoineKM/dailyrp) -  (4 days ago)
+- [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React @styled-components (currently under construction...) (1 day ago)
+- [AntoineKM/antoinekm](https://github.com/AntoineKM/antoinekm) -  (1 day ago)
+- [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot) -  (1 day ago)
+- [needforschool/prospekt-client](https://github.com/needforschool/prospekt-client) -  (5 days ago)
+- [onRuntime/next-boilerplate](https://github.com/onRuntime/next-boilerplate) - Next Boilerplate is a boilerplate of next and styled components, use this template to start your app. (5 days ago)
+- [AntoineKM/dailyrp](https://github.com/AntoineKM/dailyrp) -  (5 days ago)
 - [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) - onRuntime official website. (1 week ago)
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js. (2 weeks ago)
 - [needforschool/kikoolol-client](https://github.com/needforschool/kikoolol-client) -  (3 weeks ago)
-- [AntoineKM/charo-api](https://github.com/AntoineKM/charo-api) - Instagram, TikTok, Twitter, Linkedin daily CRON tasks that&#39;s make your daily social tasks. (3 weeks ago)
+- [AntoineKM/charo-api](https://github.com/AntoineKM/charo-api) - Instagram, TikTok, Twitter, Linkedin daily CRON tasks that&#39;s make your daily social tasks. (4 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -61,12 +61,12 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
-- [✨ add logo](https://github.com/tonightpass/kitchen/pull/83) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (today)
+- [✨ add logo](https://github.com/tonightpass/kitchen/pull/83) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (1 day ago)
 - [📝 improve button documentation](https://github.com/tonightpass/kitchen/pull/81) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (1 week ago)
 - [🎨 improve husky](https://github.com/tonightpass/kitchen/pull/77) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (1 week ago)
 - [✨ add clipboard hook](https://github.com/tonightpass/kitchen/pull/76) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (1 week ago)
 - [✨ add default light theme](https://github.com/tonightpass/kitchen/pull/63) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (1 week ago)
-- [✨ add local fonts](https://github.com/tonightpass/kitchen/pull/62) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (1 week ago)
+- [✨ add local fonts](https://github.com/tonightpass/kitchen/pull/62) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (2 weeks ago)
 - [Fix built ins components link on docs theme page](https://github.com/shuding/nextra/pull/1027) on [shuding/nextra](https://github.com/shuding/nextra) (2 weeks ago)
 - [✨ add docs](https://github.com/tonightpass/kitchen/pull/55) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (2 weeks ago)
 - [Upgrade to Next.js 13](https://github.com/vercel/nextgram/pull/3) on [vercel/nextgram](https://github.com/vercel/nextgram) (1 month ago)
@@ -74,11 +74,11 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
-- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend. (2 days ago)
-- [spritsail/fivem](https://github.com/spritsail/fivem) - FiveM GTA modded multiplayer server (5 days ago)
+- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend. (3 days ago)
+- [spritsail/fivem](https://github.com/spritsail/fivem) - FiveM GTA modded multiplayer server (6 days ago)
 - [seatonjiang/gitmoji-vscode](https://github.com/seatonjiang/gitmoji-vscode) - 😜 Gitmoji tool for git commit messages in VSCode (1 week ago)
 - [fontsource/fontsource](https://github.com/fontsource/fontsource) - Self-host Open Source fonts in neatly bundled NPM packages. (1 week ago)
-- [AntoineKM/antoinekm](https://github.com/AntoineKM/antoinekm) -  (1 week ago)
+- [AntoineKM/antoinekm](https://github.com/AntoineKM/antoinekm) -  (2 weeks ago)
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js. (2 weeks ago)
 - [needforschool/kikoolol-client](https://github.com/needforschool/kikoolol-client) -  (2 weeks ago)
 - [facebook/react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces. (2 weeks ago)
