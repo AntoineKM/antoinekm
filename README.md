@@ -37,13 +37,13 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
-- [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React @styled-components (currently under construction...) (today)
-- [AntoineKM/antoinekm](https://github.com/AntoineKM/antoinekm) -  (today)
-- [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot) -  (today)
+- [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React @styled-components (currently under construction...) (1 day ago)
+- [AntoineKM/antoinekm](https://github.com/AntoineKM/antoinekm) -  (1 day ago)
+- [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot) -  (1 day ago)
 - [needforschool/prospekt-client](https://github.com/needforschool/prospekt-client) -  (1 week ago)
 - [onRuntime/next-boilerplate](https://github.com/onRuntime/next-boilerplate) - Next Boilerplate is a boilerplate of next and styled components, use this template to start your app. (1 week ago)
 - [AntoineKM/dailyrp](https://github.com/AntoineKM/dailyrp) -  (1 week ago)
-- [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) - onRuntime official website. (1 week ago)
+- [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) - onRuntime official website. (2 weeks ago)
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js. (2 weeks ago)
 - [needforschool/kikoolol-client](https://github.com/needforschool/kikoolol-client) -  (3 weeks ago)
 - [AntoineKM/charo-api](https://github.com/AntoineKM/charo-api) - Instagram, TikTok, Twitter, Linkedin daily CRON tasks that&#39;s make your daily social tasks. (1 month ago)
@@ -61,10 +61,10 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
-- [✨ add modal](https://github.com/tonightpass/kitchen/pull/87) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (today)
-- [✨ add drawer](https://github.com/tonightpass/kitchen/pull/86) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (2 days ago)
-- [✨ add turborepo](https://github.com/tonightpass/kitchen/pull/84) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (3 days ago)
-- [✨ add logo](https://github.com/tonightpass/kitchen/pull/83) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (4 days ago)
+- [✨ add modal](https://github.com/tonightpass/kitchen/pull/87) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (1 day ago)
+- [✨ add drawer](https://github.com/tonightpass/kitchen/pull/86) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (3 days ago)
+- [✨ add turborepo](https://github.com/tonightpass/kitchen/pull/84) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (4 days ago)
+- [✨ add logo](https://github.com/tonightpass/kitchen/pull/83) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (5 days ago)
 - [📝 improve button documentation](https://github.com/tonightpass/kitchen/pull/81) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (1 week ago)
 - [🎨 improve husky](https://github.com/tonightpass/kitchen/pull/77) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (2 weeks ago)
 - [✨ add clipboard hook](https://github.com/tonightpass/kitchen/pull/76) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (2 weeks ago)
@@ -74,9 +74,9 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
-- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend. (6 days ago)
+- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend. (1 week ago)
 - [spritsail/fivem](https://github.com/spritsail/fivem) - FiveM GTA modded multiplayer server (1 week ago)
-- [seatonjiang/gitmoji-vscode](https://github.com/seatonjiang/gitmoji-vscode) - 😜 Gitmoji tool for git commit messages in VSCode (1 week ago)
+- [seatonjiang/gitmoji-vscode](https://github.com/seatonjiang/gitmoji-vscode) - 😜 Gitmoji tool for git commit messages in VSCode (2 weeks ago)
 - [fontsource/fontsource](https://github.com/fontsource/fontsource) - Self-host Open Source fonts in neatly bundled NPM packages. (2 weeks ago)
 - [AntoineKM/antoinekm](https://github.com/AntoineKM/antoinekm) -  (2 weeks ago)
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js. (2 weeks ago)
