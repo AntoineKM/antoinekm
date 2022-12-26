@@ -38,8 +38,8 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 #### 👷 Check out what I'm currently working on
 
 - [AntoineKM/antoinekm](https://github.com/AntoineKM/antoinekm) -  (today)
+- [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot) -  (today)
 - [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React @styled-components (currently under construction...) (3 days ago)
-- [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot) -  (3 days ago)
 - [needforschool/prospekt-client](https://github.com/needforschool/prospekt-client) -  (1 week ago)
 - [onRuntime/next-boilerplate](https://github.com/onRuntime/next-boilerplate) - Next Boilerplate is a boilerplate of next and styled components, use this template to start your app. (1 week ago)
 - [AntoineKM/dailyrp](https://github.com/AntoineKM/dailyrp) -  (1 week ago)
