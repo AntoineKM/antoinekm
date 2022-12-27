@@ -37,13 +37,13 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
+- [AntoineKM/unity-paleto-bay-hospital](https://github.com/AntoineKM/unity-paleto-bay-hospital) - Discord bot for Unity RP GTAV (today)
 - [AntoineKM/antoinekm](https://github.com/AntoineKM/antoinekm) -  (today)
 - [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot) -  (1 day ago)
-- [AntoineKM/unity-paleto-bay-hospital](https://github.com/AntoineKM/unity-paleto-bay-hospital) - Discord bot for Unity RP GTAV (1 day ago)
 - [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React @styled-components (currently under construction...) (4 days ago)
+- [AntoineKM/dailyrp](https://github.com/AntoineKM/dailyrp) -  (1 week ago)
 - [onRuntime/next-boilerplate](https://github.com/onRuntime/next-boilerplate) - Next Boilerplate is a boilerplate of next and styled components, use this template to start your app. (1 week ago)
 - [needforschool/prospekt-client](https://github.com/needforschool/prospekt-client) -  (1 week ago)
-- [AntoineKM/dailyrp](https://github.com/AntoineKM/dailyrp) -  (1 week ago)
 - [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) - onRuntime official website. (2 weeks ago)
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js. (3 weeks ago)
 - [needforschool/kikoolol-client](https://github.com/needforschool/kikoolol-client) -  (1 month ago)
