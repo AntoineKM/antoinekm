@@ -74,6 +74,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
+- [geist-org/geist-ui](https://github.com/geist-org/geist-ui) - A design system for building modern websites and applications. (today)
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend. (1 week ago)
 - [spritsail/fivem](https://github.com/spritsail/fivem) - FiveM GTA modded multiplayer server (2 weeks ago)
 - [seatonjiang/gitmoji-vscode](https://github.com/seatonjiang/gitmoji-vscode) - 😜 Gitmoji tool for git commit messages in VSCode (2 weeks ago)
@@ -83,7 +84,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [needforschool/kikoolol-client](https://github.com/needforschool/kikoolol-client) -  (3 weeks ago)
 - [facebook/react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces. (4 weeks ago)
 - [needforschool/kikoolol-server](https://github.com/needforschool/kikoolol-server) -  (4 weeks ago)
-- [react-icons/react-icons](https://github.com/react-icons/react-icons) - svg react icons of popular icon packs (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
