@@ -37,13 +37,13 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
-- [AntoineKM/antoinekm](https://github.com/AntoineKM/antoinekm) -  (today)
-- [AntoineKM/unity-paleto-bay-hospital](https://github.com/AntoineKM/unity-paleto-bay-hospital) - Discord bot for Unity RP GTAV (1 day ago)
-- [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot) -  (2 days ago)
-- [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React @styled-components (currently under construction...) (5 days ago)
-- [AntoineKM/dailyrp](https://github.com/AntoineKM/dailyrp) -  (1 week ago)
-- [onRuntime/next-boilerplate](https://github.com/onRuntime/next-boilerplate) - Next Boilerplate is a boilerplate of next and styled components, use this template to start your app. (1 week ago)
-- [needforschool/prospekt-client](https://github.com/needforschool/prospekt-client) -  (1 week ago)
+- [AntoineKM/antoinekm](https://github.com/AntoineKM/antoinekm) -  (1 day ago)
+- [AntoineKM/unity-paleto-bay-hospital](https://github.com/AntoineKM/unity-paleto-bay-hospital) - Discord bot for Unity RP GTAV (2 days ago)
+- [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot) -  (3 days ago)
+- [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React @styled-components (currently under construction...) (6 days ago)
+- [AntoineKM/dailyrp](https://github.com/AntoineKM/dailyrp) -  (2 weeks ago)
+- [onRuntime/next-boilerplate](https://github.com/onRuntime/next-boilerplate) - Next Boilerplate is a boilerplate of next and styled components, use this template to start your app. (2 weeks ago)
+- [needforschool/prospekt-client](https://github.com/needforschool/prospekt-client) -  (2 weeks ago)
 - [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) - onRuntime official website. (2 weeks ago)
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js. (3 weeks ago)
 - [needforschool/kikoolol-client](https://github.com/needforschool/kikoolol-client) -  (1 month ago)
@@ -61,8 +61,8 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
-- [✨ add toasts](https://github.com/tonightpass/kitchen/pull/103) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (4 days ago)
-- [✨ add modal](https://github.com/tonightpass/kitchen/pull/87) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (5 days ago)
+- [✨ add toasts](https://github.com/tonightpass/kitchen/pull/103) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (5 days ago)
+- [✨ add modal](https://github.com/tonightpass/kitchen/pull/87) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (6 days ago)
 - [✨ add drawer](https://github.com/tonightpass/kitchen/pull/86) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (1 week ago)
 - [✨ add turborepo](https://github.com/tonightpass/kitchen/pull/84) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (1 week ago)
 - [✨ add logo](https://github.com/tonightpass/kitchen/pull/83) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (1 week ago)
@@ -81,8 +81,8 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [AntoineKM/antoinekm](https://github.com/AntoineKM/antoinekm) -  (3 weeks ago)
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js. (3 weeks ago)
 - [needforschool/kikoolol-client](https://github.com/needforschool/kikoolol-client) -  (3 weeks ago)
-- [facebook/react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces. (3 weeks ago)
-- [needforschool/kikoolol-server](https://github.com/needforschool/kikoolol-server) -  (3 weeks ago)
+- [facebook/react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces. (4 weeks ago)
+- [needforschool/kikoolol-server](https://github.com/needforschool/kikoolol-server) -  (4 weeks ago)
 - [react-icons/react-icons](https://github.com/react-icons/react-icons) - svg react icons of popular icon packs (1 month ago)
 
 #### 👯 Check out some of my recent followers
