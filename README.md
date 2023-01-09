@@ -61,6 +61,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
+- [✨ readme symlink](https://github.com/tonightpass/kitchen/pull/114) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (today)
 - [✨ add toasts](https://github.com/tonightpass/kitchen/pull/103) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (2 weeks ago)
 - [✨ add modal](https://github.com/tonightpass/kitchen/pull/87) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (2 weeks ago)
 - [✨ add drawer](https://github.com/tonightpass/kitchen/pull/86) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (2 weeks ago)
@@ -70,7 +71,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [🎨 improve husky](https://github.com/tonightpass/kitchen/pull/77) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (1 month ago)
 - [✨ add clipboard hook](https://github.com/tonightpass/kitchen/pull/76) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (1 month ago)
 - [✨ add default light theme](https://github.com/tonightpass/kitchen/pull/63) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (1 month ago)
-- [✨ add local fonts](https://github.com/tonightpass/kitchen/pull/62) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (1 month ago)
 
 #### ⭐ Recent Stars
 
