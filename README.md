@@ -74,6 +74,8 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
+- [qbcore-framework/qb-core](https://github.com/qbcore-framework/qb-core) - FiveM RP Framework Core :muscle: (today)
+- [qbcore-framework/qb-storerobbery](https://github.com/qbcore-framework/qb-storerobbery) - Store Robberies For QB-Core (today)
 - [geist-org/geist-ui](https://github.com/geist-org/geist-ui) - A design system for building modern websites and applications. (1 week ago)
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend. (3 weeks ago)
 - [spritsail/fivem](https://github.com/spritsail/fivem) - FiveM GTA modded multiplayer server (3 weeks ago)
@@ -82,8 +84,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [AntoineKM/antoinekm](https://github.com/AntoineKM/antoinekm) -  (1 month ago)
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js. (1 month ago)
 - [needforschool/kikoolol-client](https://github.com/needforschool/kikoolol-client) -  (1 month ago)
-- [facebook/react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces. (1 month ago)
-- [needforschool/kikoolol-server](https://github.com/needforschool/kikoolol-server) -  (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
