@@ -37,10 +37,10 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
-- [AntoineKM/charo-api](https://github.com/AntoineKM/charo-api) - Instagram, TikTok, Twitter, Linkedin daily CRON tasks that&#39;s make your daily social tasks. (today)
+- [needforschool/prospekt-api](https://github.com/needforschool/prospekt-api) -  (today)
 - [AntoineKM/antoinekm](https://github.com/AntoineKM/antoinekm) -  (today)
 - [needforschool/prospekt-client](https://github.com/needforschool/prospekt-client) -  (today)
-- [needforschool/prospekt-api](https://github.com/needforschool/prospekt-api) -  (today)
+- [AntoineKM/charo-api](https://github.com/AntoineKM/charo-api) - Instagram, TikTok, Twitter, Linkedin daily CRON tasks that&#39;s make your daily social tasks. (today)
 - [AntoineKM/unity-paleto-bay-hospital](https://github.com/AntoineKM/unity-paleto-bay-hospital) - Discord bot for Unity RP GTAV (1 day ago)
 - [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot) -  (1 week ago)
 - [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React @styled-components (currently under construction...) (1 week ago)
