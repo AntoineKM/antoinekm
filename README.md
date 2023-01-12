@@ -37,8 +37,8 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
+- [AntoineKM/antoinekm](https://github.com/AntoineKM/antoinekm) -  (today)
 - [needforschool/prospekt-api](https://github.com/needforschool/prospekt-api) -  (1 day ago)
-- [AntoineKM/antoinekm](https://github.com/AntoineKM/antoinekm) -  (1 day ago)
 - [AntoineKM/unity-paleto-bay-hospital](https://github.com/AntoineKM/unity-paleto-bay-hospital) - Discord bot for Unity RP GTAV (1 day ago)
 - [needforschool/prospekt-client](https://github.com/needforschool/prospekt-client) -  (1 day ago)
 - [AntoineKM/charo-api](https://github.com/AntoineKM/charo-api) - Instagram, TikTok, Twitter, Linkedin daily CRON tasks that&#39;s make your daily social tasks. (1 day ago)
@@ -50,7 +50,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔭 Latest releases I've contributed to
 
-- [shuding/nextra](https://github.com/shuding/nextra) ([nextra-theme-docs@2.2.0](https://github.com/shuding/nextra/releases/tag/nextra-theme-docs%402.2.0), 1 day ago) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
+- [shuding/nextra](https://github.com/shuding/nextra) ([nextra-theme-blog@2.2.1](https://github.com/shuding/nextra/releases/tag/nextra-theme-blog%402.2.1), today) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 - [vercel/turbo](https://github.com/vercel/turbo) ([v1.7.0](https://github.com/vercel/turbo/releases/tag/v1.7.0), 2 days ago) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
 - [tonightpass/shared-types](https://github.com/tonightpass/shared-types) ([0.2.0](https://github.com/tonightpass/shared-types/releases/tag/0.2.0), 3 months ago) - @tonightpass shared types.
 - [ajayesivan/react-native-remix-icon](https://github.com/ajayesivan/react-native-remix-icon) ([0.4.0](https://github.com/ajayesivan/react-native-remix-icon/releases/tag/0.4.0), 3 months ago) - An OpenSource implementation of remixicon for React Native
