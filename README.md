@@ -74,6 +74,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
+- [shuding/react-wrap-balancer](https://github.com/shuding/react-wrap-balancer) - Simple React Component That Makes Titles More Readable (today)
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀 (6 days ago)
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers. (6 days ago)
 - [qbcore-framework/qb-core](https://github.com/qbcore-framework/qb-core) - FiveM RP Framework Core :muscle: (1 week ago)
@@ -83,7 +84,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [spritsail/fivem](https://github.com/spritsail/fivem) - FiveM GTA modded multiplayer server (1 month ago)
 - [seatonjiang/gitmoji-vscode](https://github.com/seatonjiang/gitmoji-vscode) - 😜 Gitmoji tool for git commit messages in VSCode (1 month ago)
 - [fontsource/fontsource](https://github.com/fontsource/fontsource) - Self-host Open Source fonts in neatly bundled NPM packages. (1 month ago)
-- [AntoineKM/antoinekm](https://github.com/AntoineKM/antoinekm) -  (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
