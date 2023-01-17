@@ -38,7 +38,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 #### 👷 Check out what I'm currently working on
 
 - [AntoineKM/antoinekm](https://github.com/AntoineKM/antoinekm) -  (today)
-- [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React @styled-components (currently under construction...) (1 day ago)
+- [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React @styled-components (currently under construction...) (today)
 - [AntoineKM/unity-paleto-bay-hospital](https://github.com/AntoineKM/unity-paleto-bay-hospital) - Discord bot for Unity RP GTAV (2 days ago)
 - [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) - onRuntime official website. (5 days ago)
 - [needforschool/prospekt-api](https://github.com/needforschool/prospekt-api) -  (6 days ago)
@@ -50,7 +50,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔭 Latest releases I've contributed to
 
-- [shuding/nextra](https://github.com/shuding/nextra) ([nextra-theme-docs@2.2.3](https://github.com/shuding/nextra/releases/tag/nextra-theme-docs%402.2.3), 4 days ago) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
+- [shuding/nextra](https://github.com/shuding/nextra) ([nextra@2.2.4](https://github.com/shuding/nextra/releases/tag/nextra%402.2.4), today) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 - [vercel/turbo](https://github.com/vercel/turbo) ([v1.7.1-canary.0](https://github.com/vercel/turbo/releases/tag/v1.7.1-canary.0), 5 days ago) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
 - [tonightpass/shared-types](https://github.com/tonightpass/shared-types) ([0.2.0](https://github.com/tonightpass/shared-types/releases/tag/0.2.0), 3 months ago) - @tonightpass shared types.
 - [ajayesivan/react-native-remix-icon](https://github.com/ajayesivan/react-native-remix-icon) ([0.4.0](https://github.com/ajayesivan/react-native-remix-icon/releases/tag/0.4.0), 4 months ago) - An OpenSource implementation of remixicon for React Native
