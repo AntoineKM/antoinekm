@@ -50,7 +50,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔭 Latest releases I've contributed to
 
-- [shuding/nextra](https://github.com/shuding/nextra) ([nextra@2.2.8](https://github.com/shuding/nextra/releases/tag/nextra%402.2.8), today) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
+- [shuding/nextra](https://github.com/shuding/nextra) ([nextra@2.2.9](https://github.com/shuding/nextra/releases/tag/nextra%402.2.9), today) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 - [vercel/turbo](https://github.com/vercel/turbo) ([v1.7.1-canary.0](https://github.com/vercel/turbo/releases/tag/v1.7.1-canary.0), 1 week ago) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
 - [tonightpass/shared-types](https://github.com/tonightpass/shared-types) ([0.2.0](https://github.com/tonightpass/shared-types/releases/tag/0.2.0), 3 months ago) - @tonightpass shared types.
 - [ajayesivan/react-native-remix-icon](https://github.com/ajayesivan/react-native-remix-icon) ([0.4.0](https://github.com/ajayesivan/react-native-remix-icon/releases/tag/0.4.0), 4 months ago) - An OpenSource implementation of remixicon for React Native
