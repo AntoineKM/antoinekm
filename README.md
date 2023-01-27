@@ -74,6 +74,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
+- [one-click-studio/gabin](https://github.com/one-click-studio/gabin) - Automate camera switching with OBS, Bitfocus Companion and any audio api. (today)
 - [shuding/react-wrap-balancer](https://github.com/shuding/react-wrap-balancer) - Simple React Component That Makes Titles More Readable (1 week ago)
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀 (2 weeks ago)
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers. (2 weeks ago)
@@ -83,7 +84,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend. (1 month ago)
 - [spritsail/fivem](https://github.com/spritsail/fivem) - FiveM GTA modded multiplayer server (1 month ago)
 - [seatonjiang/gitmoji-vscode](https://github.com/seatonjiang/gitmoji-vscode) - 😜 Gitmoji tool for git commit messages in VSCode (1 month ago)
-- [fontsource/fontsource](https://github.com/fontsource/fontsource) - Self-host Open Source fonts in neatly bundled NPM packages. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
