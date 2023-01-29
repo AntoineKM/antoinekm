@@ -37,20 +37,20 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
-- [AntoineKM/antoinekm](https://github.com/AntoineKM/antoinekm) -  (today)
-- [AntoineKM/unity-paleto-bay-hospital](https://github.com/AntoineKM/unity-paleto-bay-hospital) - Discord bot for Unity RP GTAV (1 day ago)
-- [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React @styled-components (currently under construction...) (2 days ago)
+- [AntoineKM/antoinekm](https://github.com/AntoineKM/antoinekm) -  (1 day ago)
+- [AntoineKM/unity-paleto-bay-hospital](https://github.com/AntoineKM/unity-paleto-bay-hospital) - Discord bot for Unity RP GTAV (2 days ago)
+- [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React @styled-components (currently under construction...) (3 days ago)
 - [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) - onRuntime official website. (2 weeks ago)
 - [AntoineKM/charo-api](https://github.com/AntoineKM/charo-api) - Instagram, TikTok, Twitter, Linkedin daily CRON tasks that&#39;s make your daily social tasks. (2 weeks ago)
 - [needforschool/prospekt-client](https://github.com/needforschool/prospekt-client) -  (2 weeks ago)
 - [needforschool/prospekt-api](https://github.com/needforschool/prospekt-api) -  (2 weeks ago)
-- [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot) -  (3 weeks ago)
+- [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot) -  (4 weeks ago)
 - [onRuntime/next-boilerplate](https://github.com/onRuntime/next-boilerplate) - Next Boilerplate is a boilerplate of next and styled components, use this template to start your app. (1 month ago)
 - [AntoineKM/dailyrp](https://github.com/AntoineKM/dailyrp) -  (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [shuding/nextra](https://github.com/shuding/nextra) ([nextra-theme-docs@2.2.14](https://github.com/shuding/nextra/releases/tag/nextra-theme-docs%402.2.14), 2 days ago) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
+- [shuding/nextra](https://github.com/shuding/nextra) ([nextra-theme-docs@2.2.14](https://github.com/shuding/nextra/releases/tag/nextra-theme-docs%402.2.14), 3 days ago) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 - [vercel/turbo](https://github.com/vercel/turbo) ([v1.7.1-canary.0](https://github.com/vercel/turbo/releases/tag/v1.7.1-canary.0), 2 weeks ago) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
 - [tonightpass/shared-types](https://github.com/tonightpass/shared-types) ([0.2.0](https://github.com/tonightpass/shared-types/releases/tag/0.2.0), 3 months ago) - @tonightpass shared types.
 - [ajayesivan/react-native-remix-icon](https://github.com/ajayesivan/react-native-remix-icon) ([0.4.0](https://github.com/ajayesivan/react-native-remix-icon/releases/tag/0.4.0), 4 months ago) - An OpenSource implementation of remixicon for React Native
@@ -61,7 +61,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
-- [✨ add menu](https://github.com/tonightpass/kitchen/pull/130) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (4 days ago)
+- [✨ add menu](https://github.com/tonightpass/kitchen/pull/130) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (5 days ago)
 - [🏷️ improve types](https://github.com/tonightpass/kitchen/pull/128) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (1 week ago)
 - [✨ add input](https://github.com/tonightpass/kitchen/pull/125) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (1 week ago)
 - [✨ add progress](https://github.com/tonightpass/kitchen/pull/122) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (1 week ago)
@@ -74,7 +74,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
-- [one-click-studio/gabin](https://github.com/one-click-studio/gabin) - Automate camera switching with OBS, Bitfocus Companion and any audio api. (1 day ago)
+- [one-click-studio/gabin](https://github.com/one-click-studio/gabin) - Automate camera switching with OBS, Bitfocus Companion and any audio api. (2 days ago)
 - [shuding/react-wrap-balancer](https://github.com/shuding/react-wrap-balancer) - Simple React Component That Makes Titles More Readable (1 week ago)
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀 (2 weeks ago)
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers. (2 weeks ago)
