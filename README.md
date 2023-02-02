@@ -37,10 +37,10 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
-- [alii/search](https://github.com/alii/search) - Cloudflare &#43; Google = supercharged web surfing (today)
+- [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React @styled-components (currently under construction...) (today)
 - [AntoineKM/antoinekm](https://github.com/AntoineKM/antoinekm) -  (today)
 - [alii/linear-style](https://github.com/alii/linear-style) - 🎨  An index for Linear themes (today)
-- [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React @styled-components (currently under construction...) (1 day ago)
+- [alii/search](https://github.com/alii/search) - Cloudflare &#43; Google = supercharged web surfing (today)
 - [AntoineKM/unity-paleto-bay-hospital](https://github.com/AntoineKM/unity-paleto-bay-hospital) - Discord bot for Unity RP GTAV (2 days ago)
 - [needforschool/kikoolol-server](https://github.com/needforschool/kikoolol-server) -  (3 days ago)
 - [needforschool/prospekt-api](https://github.com/needforschool/prospekt-api) -  (3 days ago)
@@ -61,6 +61,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
+- [🩹 fix container flex ternary operation](https://github.com/tonightpass/kitchen/pull/134) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (today)
 - [Fix #64 (Theme Update &#34;GMK Oblivion&#34;)](https://github.com/alii/linear-style/pull/66) on [alii/linear-style](https://github.com/alii/linear-style) (today)
 - [add hop command, add some websites and fix duplicates](https://github.com/alii/search/pull/77) on [alii/search](https://github.com/alii/search) (today)
 - [✨ add menu](https://github.com/tonightpass/kitchen/pull/130) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (1 week ago)
@@ -70,7 +71,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [🎨 update font to manrope](https://github.com/tonightpass/kitchen/pull/119) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (2 weeks ago)
 - [🔧 add checks action](https://github.com/needforschool/prospekt-client/pull/16) on [needforschool/prospekt-client](https://github.com/needforschool/prospekt-client) (3 weeks ago)
 - [✨ readme symlink](https://github.com/tonightpass/kitchen/pull/114) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (3 weeks ago)
-- [✨ add toasts](https://github.com/tonightpass/kitchen/pull/103) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (1 month ago)
 
 #### ⭐ Recent Stars
 
