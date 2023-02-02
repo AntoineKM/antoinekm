@@ -25,6 +25,6 @@ jobs:
         with:
           commit_message: 📝 update readme with the recent activity
           branch: master
-          commit_user_name: Antoine ✌️
-          commit_user_email: contact@antoinek.fr
-          commit_author: Antoine ✌️ <contact@antoinek.fr>
+          commit_user_name: github-actions[bot]
+          commit_user_email: github-actions[bot]@users.noreply.github.com
+          commit_author: github-actions[bot] <github-actions[bot]@users.noreply.github.com>
