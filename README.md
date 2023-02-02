@@ -75,7 +75,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 #### ⭐ Recent Stars
 
 - [alii/monitor](https://github.com/alii/monitor) - Community restock monitor template (today)
-- [tc39-transfer/proposal-async-context](https://github.com/tc39-transfer/proposal-async-context) - Async Context for JavaScript (today)
+- [tc39/proposal-async-context](https://github.com/tc39/proposal-async-context) - Async Context for JavaScript (today)
 - [one-click-studio/gabin](https://github.com/one-click-studio/gabin) - Automate camera switching with OBS, Bitfocus Companion and any audio api. (6 days ago)
 - [shuding/react-wrap-balancer](https://github.com/shuding/react-wrap-balancer) - Simple React Component That Makes Titles More Readable (2 weeks ago)
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀 (3 weeks ago)
