@@ -9,7 +9,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
             <ul>
                 <li>👨🏾‍🎓 Student at <a href="https://needfor-school.com">Need for School</a></li>
                 <li>👨🏾‍💼 Co-founder at <a href="https://onruntime.com">onRuntime</a> and <a href="https://tonightpass.com">Tonight Pass</a></li>
-                <li>🧑🏾‍💻 Lead Developer at <a href="https://expatfacilities.co">Expat Facilities</a></li>
                 <li>❤️ <a href="https://github.com/AntoineKM">Open Source</a> enthusiast</li>
             </ul>
             <a href="https://discord.gg/ucX9c5yXmX">
@@ -39,56 +38,57 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 #### 👷 Check out what I'm currently working on
 
 - [AntoineKM/antoinekm](https://github.com/AntoineKM/antoinekm) -  (today)
-- [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React styled components. (1 day ago)
+- [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React @styled-components (currently under construction...) (1 day ago)
+- [AntoineKM/unity-paleto-bay-hospital](https://github.com/AntoineKM/unity-paleto-bay-hospital) - Discord bot for Unity RP GTAV (2 days ago)
 - [needforschool/kikoolol-server](https://github.com/needforschool/kikoolol-server) -  (3 days ago)
-- [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) - onRuntime official website. (3 days ago)
-- [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot) -  (3 days ago)
-- [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo. (1 week ago)
-- [tonightpass/.github](https://github.com/tonightpass/.github) -  (2 weeks ago)
-- [geist-org/geist-ui](https://github.com/geist-org/geist-ui) - A design system for building modern websites and applications. (2 weeks ago)
-- [AntoineKM/charo-website](https://github.com/AntoineKM/charo-website) -  (3 weeks ago)
-- [needforschool/kikoolol-client](https://github.com/needforschool/kikoolol-client) -  (4 weeks ago)
+- [needforschool/prospekt-api](https://github.com/needforschool/prospekt-api) -  (3 days ago)
+- [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) - onRuntime official website. (3 weeks ago)
+- [needforschool/prospekt-client](https://github.com/needforschool/prospekt-client) -  (3 weeks ago)
+- [AntoineKM/charo-api](https://github.com/AntoineKM/charo-api) - Instagram, TikTok, Twitter, Linkedin daily CRON tasks that&#39;s make your daily social tasks. (3 weeks ago)
+- [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot) -  (1 month ago)
+- [onRuntime/next-boilerplate](https://github.com/onRuntime/next-boilerplate) - Next Boilerplate is a boilerplate of next and styled components, use this template to start your app. (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/turbo](https://github.com/vercel/turbo) ([v1.6.3](https://github.com/vercel/turbo/releases/tag/v1.6.3), 2 weeks ago) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
-- [tonightpass/shared-types](https://github.com/tonightpass/shared-types) ([0.2.0](https://github.com/tonightpass/shared-types/releases/tag/0.2.0), 1 month ago) - @tonightpass shared types.
-- [ajayesivan/react-native-remix-icon](https://github.com/ajayesivan/react-native-remix-icon) ([0.4.0](https://github.com/ajayesivan/react-native-remix-icon/releases/tag/0.4.0), 1 month ago) - An OpenSource implementation of remixicon for React Native
-- [onRuntime/next-usetranslation](https://github.com/onRuntime/next-usetranslation) ([v0.1.10](https://github.com/onRuntime/next-usetranslation/releases/tag/v0.1.10), 2 months ago) - The easiest way to translate your Next.js projects
-- [onRuntime/next-link](https://github.com/onRuntime/next-link) ([0.1.5](https://github.com/onRuntime/next-link/releases/tag/0.1.5), 2 months ago) - Customized next/link for @onRuntime Next.js projects.
-- [geist-org/geist-ui](https://github.com/geist-org/geist-ui) ([v2.3.8](https://github.com/geist-org/geist-ui/releases/tag/v2.3.8), 7 months ago) - A design system for building modern websites and applications.
-- [onRuntime/instagram-dark-extension](https://github.com/onRuntime/instagram-dark-extension) ([1.1.17](https://github.com/onRuntime/instagram-dark-extension/releases/tag/1.1.17), 9 months ago) - Dark Theme for Instagram™ is an extension which aims to change the theme of the Instagram website, and make it a dark theme like the iOS app when the system is in dark mode.
+- [shuding/nextra](https://github.com/shuding/nextra) ([nextra-theme-docs@2.2.14](https://github.com/shuding/nextra/releases/tag/nextra-theme-docs%402.2.14), 1 week ago) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
+- [vercel/turbo](https://github.com/vercel/turbo) ([v1.7.1-canary.0](https://github.com/vercel/turbo/releases/tag/v1.7.1-canary.0), 3 weeks ago) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
+- [tonightpass/shared-types](https://github.com/tonightpass/shared-types) ([0.2.0](https://github.com/tonightpass/shared-types/releases/tag/0.2.0), 3 months ago) - @tonightpass shared types.
+- [ajayesivan/react-native-remix-icon](https://github.com/ajayesivan/react-native-remix-icon) ([0.4.0](https://github.com/ajayesivan/react-native-remix-icon/releases/tag/0.4.0), 4 months ago) - An OpenSource implementation of remixicon for React Native
+- [onRuntime/next-usetranslation](https://github.com/onRuntime/next-usetranslation) ([v0.1.10](https://github.com/onRuntime/next-usetranslation/releases/tag/v0.1.10), 5 months ago) - The easiest way to translate your Next.js projects
+- [onRuntime/next-link](https://github.com/onRuntime/next-link) ([0.1.5](https://github.com/onRuntime/next-link/releases/tag/0.1.5), 5 months ago) - Customized next/link for @onRuntime Next.js projects.
+- [geist-org/geist-ui](https://github.com/geist-org/geist-ui) ([v2.3.8](https://github.com/geist-org/geist-ui/releases/tag/v2.3.8), 10 months ago) - A design system for building modern websites and applications.
+- [onRuntime/instagram-dark-extension](https://github.com/onRuntime/instagram-dark-extension) ([1.1.17](https://github.com/onRuntime/instagram-dark-extension/releases/tag/1.1.17), 11 months ago) - Dark Theme for Instagram™ is an extension which aims to change the theme of the Instagram website, and make it a dark theme like the iOS app when the system is in dark mode.
 
 #### 🔨 My recent Pull Requests
 
-- [✨ add next and native support with their examples](https://github.com/tonightpass/kitchen/pull/42) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (1 day ago)
-- [Antoinekm/icon](https://github.com/tonightpass/kitchen/pull/38) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (2 days ago)
-- [Antoinekm/grid](https://github.com/tonightpass/kitchen/pull/37) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (2 days ago)
-- [Antoinekm/improve husky](https://github.com/tonightpass/kitchen/pull/22) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (3 days ago)
-- [Antoinekm/text](https://github.com/tonightpass/kitchen/pull/19) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (5 days ago)
-- [Antoinekm/progressbar](https://github.com/onRuntime/onruntime-discord-bot/pull/11) on [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot) (6 days ago)
-- [Antoinekm/progressbar](https://github.com/onRuntime/onruntime-discord-bot/pull/10) on [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot) (6 days ago)
-- [Antoinekm/progressbar](https://github.com/onRuntime/onruntime-discord-bot/pull/9) on [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot) (6 days ago)
-- [Antoinekm/button variants](https://github.com/tonightpass/kitchen/pull/14) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (1 week ago)
-- [Antoinekm/styled components ssr](https://github.com/tonightpass/kitchen/pull/11) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (1 week ago)
+- [✨ add menu](https://github.com/tonightpass/kitchen/pull/130) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (1 week ago)
+- [🏷️ improve types](https://github.com/tonightpass/kitchen/pull/128) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (1 week ago)
+- [✨ add input](https://github.com/tonightpass/kitchen/pull/125) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (2 weeks ago)
+- [✨ add progress](https://github.com/tonightpass/kitchen/pull/122) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (2 weeks ago)
+- [🎨 update font to manrope](https://github.com/tonightpass/kitchen/pull/119) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (2 weeks ago)
+- [🔧 add checks action](https://github.com/needforschool/prospekt-client/pull/16) on [needforschool/prospekt-client](https://github.com/needforschool/prospekt-client) (3 weeks ago)
+- [✨ readme symlink](https://github.com/tonightpass/kitchen/pull/114) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (3 weeks ago)
+- [✨ add toasts](https://github.com/tonightpass/kitchen/pull/103) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (1 month ago)
+- [✨ add modal](https://github.com/tonightpass/kitchen/pull/87) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (1 month ago)
+- [✨ add drawer](https://github.com/tonightpass/kitchen/pull/86) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (1 month ago)
 
 #### ⭐ Recent Stars
 
-- [react-icons/react-icons](https://github.com/react-icons/react-icons) - svg react icons of popular icon packs (2 days ago)
-- [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo. (5 days ago)
-- [Changaco/unicode-progress-bars](https://github.com/Changaco/unicode-progress-bars) - A generator of Unicode progress bars (6 days ago)
-- [ai/size-limit](https://github.com/ai/size-limit) - Calculate the real cost to run your JS app or lib to keep good performance. Show error in pull request if the cost exceeds the limit. (1 week ago)
-- [Thinkmill/monorepo-starter](https://github.com/Thinkmill/monorepo-starter) - An example setup of how to do a monorepo, used in our monorepo &#39;getting started&#39; guide (2 weeks ago)
-- [o-gs/dji-firmware-tools](https://github.com/o-gs/dji-firmware-tools) - Tools for handling firmwares of DJI products, with focus on quadcopters. (2 weeks ago)
-- [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot) -  (3 weeks ago)
-- [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React styled components. (3 weeks ago)
-- [preconstruct/preconstruct](https://github.com/preconstruct/preconstruct) - 🎁 Dev and build your code painlessly in monorepos (3 weeks ago)
-- [weiran-zsd/dts-cli](https://github.com/weiran-zsd/dts-cli) - Zero-config CLI for TypeScript package development (3 weeks ago)
+- [tc39-transfer/proposal-async-context](https://github.com/tc39-transfer/proposal-async-context) - Async Context for JavaScript (today)
+- [one-click-studio/gabin](https://github.com/one-click-studio/gabin) - Automate camera switching with OBS, Bitfocus Companion and any audio api. (6 days ago)
+- [shuding/react-wrap-balancer](https://github.com/shuding/react-wrap-balancer) - Simple React Component That Makes Titles More Readable (2 weeks ago)
+- [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀 (3 weeks ago)
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers. (3 weeks ago)
+- [qbcore-framework/qb-core](https://github.com/qbcore-framework/qb-core) - FiveM RP Framework Core :muscle: (3 weeks ago)
+- [qbcore-framework/qb-storerobbery](https://github.com/qbcore-framework/qb-storerobbery) - Store Robberies For QB-Core (3 weeks ago)
+- [geist-org/geist-ui](https://github.com/geist-org/geist-ui) - A design system for building modern websites and applications. (1 month ago)
+- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend. (1 month ago)
+- [spritsail/fivem](https://github.com/spritsail/fivem) - FiveM GTA modded multiplayer server (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
+- [tomheaton](https://github.com/tomheaton)
+- [LuanderFarias](https://github.com/LuanderFarias)
+- [kapeupro](https://github.com/kapeupro)
+- [shivamhwp](https://github.com/shivamhwp)
 - [SPSEBASTIAAN](https://github.com/SPSEBASTIAAN)
-- [Oummy13](https://github.com/Oummy13)
-- [sabbircoder07](https://github.com/sabbircoder07)
-- [siralex214](https://github.com/siralex214)
-- [Johjoh-6](https://github.com/Johjoh-6)
