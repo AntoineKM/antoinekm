@@ -37,21 +37,21 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
+- [alii/search](https://github.com/alii/search) - Cloudflare &#43; Google = supercharged web surfing (today)
 - [AntoineKM/antoinekm](https://github.com/AntoineKM/antoinekm) -  (today)
+- [alii/linear-style](https://github.com/alii/linear-style) - 🎨  An index for Linear themes (today)
 - [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React @styled-components (currently under construction...) (1 day ago)
 - [AntoineKM/unity-paleto-bay-hospital](https://github.com/AntoineKM/unity-paleto-bay-hospital) - Discord bot for Unity RP GTAV (2 days ago)
-- [needforschool/kikoolol-server](https://github.com/needforschool/kikoolol-server) -  (3 days ago)
 - [needforschool/prospekt-api](https://github.com/needforschool/prospekt-api) -  (3 days ago)
+- [needforschool/kikoolol-server](https://github.com/needforschool/kikoolol-server) -  (3 days ago)
 - [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) - onRuntime official website. (3 weeks ago)
-- [needforschool/prospekt-client](https://github.com/needforschool/prospekt-client) -  (3 weeks ago)
 - [AntoineKM/charo-api](https://github.com/AntoineKM/charo-api) - Instagram, TikTok, Twitter, Linkedin daily CRON tasks that&#39;s make your daily social tasks. (3 weeks ago)
-- [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot) -  (1 month ago)
-- [onRuntime/next-boilerplate](https://github.com/onRuntime/next-boilerplate) - Next Boilerplate is a boilerplate of next and styled components, use this template to start your app. (1 month ago)
+- [needforschool/prospekt-client](https://github.com/needforschool/prospekt-client) -  (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [vercel/turbo](https://github.com/vercel/turbo) ([v1.7.2](https://github.com/vercel/turbo/releases/tag/v1.7.2), today) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
 - [shuding/nextra](https://github.com/shuding/nextra) ([nextra-theme-docs@2.2.14](https://github.com/shuding/nextra/releases/tag/nextra-theme-docs%402.2.14), 1 week ago) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
-- [vercel/turbo](https://github.com/vercel/turbo) ([v1.7.1-canary.0](https://github.com/vercel/turbo/releases/tag/v1.7.1-canary.0), 3 weeks ago) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
 - [tonightpass/shared-types](https://github.com/tonightpass/shared-types) ([0.2.0](https://github.com/tonightpass/shared-types/releases/tag/0.2.0), 3 months ago) - @tonightpass shared types.
 - [ajayesivan/react-native-remix-icon](https://github.com/ajayesivan/react-native-remix-icon) ([0.4.0](https://github.com/ajayesivan/react-native-remix-icon/releases/tag/0.4.0), 4 months ago) - An OpenSource implementation of remixicon for React Native
 - [onRuntime/next-usetranslation](https://github.com/onRuntime/next-usetranslation) ([v0.1.10](https://github.com/onRuntime/next-usetranslation/releases/tag/v0.1.10), 5 months ago) - The easiest way to translate your Next.js projects
