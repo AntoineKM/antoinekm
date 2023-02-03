@@ -37,12 +37,12 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
+- [AntoineKM/unity-paleto-bay-hospital](https://github.com/AntoineKM/unity-paleto-bay-hospital) - Discord bot for Unity RP GTAV (today)
 - [AntoineKM/charo-api](https://github.com/AntoineKM/charo-api) - Instagram, TikTok, Twitter, Linkedin daily CRON tasks that&#39;s make your daily social tasks. (1 day ago)
 - [AntoineKM/antoinekm](https://github.com/AntoineKM/antoinekm) -  (1 day ago)
 - [alii/linear-style](https://github.com/alii/linear-style) - 🎨  An index for Linear themes (1 day ago)
 - [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React @styled-components (currently under construction...) (1 day ago)
 - [alii/search](https://github.com/alii/search) - Cloudflare &#43; Google = supercharged web surfing (1 day ago)
-- [AntoineKM/unity-paleto-bay-hospital](https://github.com/AntoineKM/unity-paleto-bay-hospital) - Discord bot for Unity RP GTAV (3 days ago)
 - [needforschool/prospekt-api](https://github.com/needforschool/prospekt-api) -  (4 days ago)
 - [needforschool/kikoolol-server](https://github.com/needforschool/kikoolol-server) -  (4 days ago)
 - [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) - onRuntime official website. (3 weeks ago)
