@@ -61,6 +61,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
+- [✨ add landing and scales](https://github.com/tonightpass/kitchen/pull/137) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (today)
 - [🩹 fix container flex ternary operation](https://github.com/tonightpass/kitchen/pull/134) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (1 week ago)
 - [Fix #64 (Theme Update &#34;GMK Oblivion&#34;)](https://github.com/alii/linear-style/pull/66) on [alii/linear-style](https://github.com/alii/linear-style) (1 week ago)
 - [add hop command, add some websites and fix duplicates](https://github.com/alii/search/pull/77) on [alii/search](https://github.com/alii/search) (1 week ago)
@@ -70,7 +71,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [✨ add progress](https://github.com/tonightpass/kitchen/pull/122) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (3 weeks ago)
 - [🎨 update font to manrope](https://github.com/tonightpass/kitchen/pull/119) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (3 weeks ago)
 - [🔧 add checks action](https://github.com/needforschool/prospekt-client/pull/16) on [needforschool/prospekt-client](https://github.com/needforschool/prospekt-client) (4 weeks ago)
-- [✨ readme symlink](https://github.com/tonightpass/kitchen/pull/114) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (1 month ago)
 
 #### ⭐ Recent Stars
 
