@@ -37,21 +37,21 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
-- [AntoineKM/unity-paleto-bay-hospital](https://github.com/AntoineKM/unity-paleto-bay-hospital) - Discord bot for Unity RP GTAV (1 day ago)
-- [AntoineKM/westland](https://github.com/AntoineKM/westland) -  (2 days ago)
-- [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (4 days ago)
-- [AntoineKM/charo-api](https://github.com/AntoineKM/charo-api) - Instagram, TikTok, Twitter, Linkedin daily CRON tasks that&#39;s make your daily social tasks. (6 days ago)
-- [AntoineKM/antoinekm](https://github.com/AntoineKM/antoinekm) -  (6 days ago)
-- [alii/linear-style](https://github.com/alii/linear-style) - 🎨  An index for Linear themes (6 days ago)
-- [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React @styled-components (currently under construction...) (6 days ago)
-- [alii/search](https://github.com/alii/search) - Cloudflare &#43; Google = supercharged web surfing (6 days ago)
+- [AntoineKM/unity-paleto-bay-hospital](https://github.com/AntoineKM/unity-paleto-bay-hospital) - Discord bot for Unity RP GTAV (2 days ago)
+- [AntoineKM/westland](https://github.com/AntoineKM/westland) -  (3 days ago)
+- [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (5 days ago)
+- [AntoineKM/charo-api](https://github.com/AntoineKM/charo-api) - Instagram, TikTok, Twitter, Linkedin daily CRON tasks that&#39;s make your daily social tasks. (1 week ago)
+- [AntoineKM/antoinekm](https://github.com/AntoineKM/antoinekm) -  (1 week ago)
+- [alii/linear-style](https://github.com/alii/linear-style) - 🎨  An index for Linear themes (1 week ago)
+- [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React @styled-components (currently under construction...) (1 week ago)
+- [alii/search](https://github.com/alii/search) - Cloudflare &#43; Google = supercharged web surfing (1 week ago)
 - [needforschool/prospekt-api](https://github.com/needforschool/prospekt-api) -  (1 week ago)
 - [needforschool/kikoolol-server](https://github.com/needforschool/kikoolol-server) -  (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/turbo](https://github.com/vercel/turbo) ([v1.7.4](https://github.com/vercel/turbo/releases/tag/v1.7.4), today) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
-- [shuding/nextra](https://github.com/shuding/nextra) ([nextra-theme-docs@2.2.14](https://github.com/shuding/nextra/releases/tag/nextra-theme-docs%402.2.14), 1 week ago) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
+- [vercel/turbo](https://github.com/vercel/turbo) ([v1.7.4](https://github.com/vercel/turbo/releases/tag/v1.7.4), 1 day ago) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
+- [shuding/nextra](https://github.com/shuding/nextra) ([nextra-theme-docs@2.2.14](https://github.com/shuding/nextra/releases/tag/nextra-theme-docs%402.2.14), 2 weeks ago) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 - [tonightpass/shared-types](https://github.com/tonightpass/shared-types) ([0.2.0](https://github.com/tonightpass/shared-types/releases/tag/0.2.0), 4 months ago) - @tonightpass shared types.
 - [ajayesivan/react-native-remix-icon](https://github.com/ajayesivan/react-native-remix-icon) ([0.4.0](https://github.com/ajayesivan/react-native-remix-icon/releases/tag/0.4.0), 4 months ago) - An OpenSource implementation of remixicon for React Native
 - [onRuntime/next-usetranslation](https://github.com/onRuntime/next-usetranslation) ([v0.1.10](https://github.com/onRuntime/next-usetranslation/releases/tag/v0.1.10), 5 months ago) - The easiest way to translate your Next.js projects
@@ -61,9 +61,9 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
-- [🩹 fix container flex ternary operation](https://github.com/tonightpass/kitchen/pull/134) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (6 days ago)
-- [Fix #64 (Theme Update &#34;GMK Oblivion&#34;)](https://github.com/alii/linear-style/pull/66) on [alii/linear-style](https://github.com/alii/linear-style) (6 days ago)
-- [add hop command, add some websites and fix duplicates](https://github.com/alii/search/pull/77) on [alii/search](https://github.com/alii/search) (6 days ago)
+- [🩹 fix container flex ternary operation](https://github.com/tonightpass/kitchen/pull/134) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (1 week ago)
+- [Fix #64 (Theme Update &#34;GMK Oblivion&#34;)](https://github.com/alii/linear-style/pull/66) on [alii/linear-style](https://github.com/alii/linear-style) (1 week ago)
+- [add hop command, add some websites and fix duplicates](https://github.com/alii/search/pull/77) on [alii/search](https://github.com/alii/search) (1 week ago)
 - [✨ add menu](https://github.com/tonightpass/kitchen/pull/130) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (2 weeks ago)
 - [🏷️ improve types](https://github.com/tonightpass/kitchen/pull/128) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (2 weeks ago)
 - [✨ add input](https://github.com/tonightpass/kitchen/pull/125) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (3 weeks ago)
@@ -74,11 +74,11 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
-- [qmasingarbe/pymiere](https://github.com/qmasingarbe/pymiere) - Python for Premiere pro (1 day ago)
-- [rayst-inc/gradients](https://github.com/rayst-inc/gradients) - A Collection of Beautiful Gradients Generated by AI. (2 days ago)
-- [willnorris/imageproxy](https://github.com/willnorris/imageproxy) - A caching, resizing image proxy written in Go (6 days ago)
-- [alii/monitor](https://github.com/alii/monitor) - Community restock monitor template (6 days ago)
-- [tc39/proposal-async-context](https://github.com/tc39/proposal-async-context) - Async Context for JavaScript (6 days ago)
+- [qmasingarbe/pymiere](https://github.com/qmasingarbe/pymiere) - Python for Premiere pro (2 days ago)
+- [rayst-inc/gradients](https://github.com/rayst-inc/gradients) - A Collection of Beautiful Gradients Generated by AI. (3 days ago)
+- [willnorris/imageproxy](https://github.com/willnorris/imageproxy) - A caching, resizing image proxy written in Go (1 week ago)
+- [alii/monitor](https://github.com/alii/monitor) - Community restock monitor template (1 week ago)
+- [tc39/proposal-async-context](https://github.com/tc39/proposal-async-context) - Async Context for JavaScript (1 week ago)
 - [one-click-studio/gabin](https://github.com/one-click-studio/gabin) - Automate camera switching with OBS, Bitfocus Companion and any audio api. (1 week ago)
 - [shuding/react-wrap-balancer](https://github.com/shuding/react-wrap-balancer) - Simple React Component That Makes Titles More Readable (3 weeks ago)
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀 (4 weeks ago)
