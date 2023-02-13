@@ -37,20 +37,20 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
-- [AntoineKM/unity-paleto-bay-hospital](https://github.com/AntoineKM/unity-paleto-bay-hospital) - Discord bot for Unity RP GTAV (5 days ago)
-- [AntoineKM/westland](https://github.com/AntoineKM/westland) -  (6 days ago)
+- [AntoineKM/unity-paleto-bay-hospital](https://github.com/AntoineKM/unity-paleto-bay-hospital) - Discord bot for Unity RP GTAV (6 days ago)
+- [AntoineKM/westland](https://github.com/AntoineKM/westland) -  (1 week ago)
 - [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (1 week ago)
 - [AntoineKM/antoinekm](https://github.com/AntoineKM/antoinekm) -  (1 week ago)
 - [AntoineKM/charo-api](https://github.com/AntoineKM/charo-api) - Instagram, TikTok, Twitter, Linkedin daily CRON tasks that&#39;s make your daily social tasks. (1 week ago)
 - [alii/search](https://github.com/alii/search) - Cloudflare &#43; Google = supercharged web surfing (1 week ago)
 - [alii/linear-style](https://github.com/alii/linear-style) - 🎨  An index for Linear themes (1 week ago)
 - [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React @styled-components (currently under construction...) (1 week ago)
-- [needforschool/prospekt-api](https://github.com/needforschool/prospekt-api) -  (1 week ago)
-- [needforschool/kikoolol-server](https://github.com/needforschool/kikoolol-server) -  (1 week ago)
+- [needforschool/prospekt-api](https://github.com/needforschool/prospekt-api) -  (2 weeks ago)
+- [needforschool/kikoolol-server](https://github.com/needforschool/kikoolol-server) -  (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/turbo](https://github.com/vercel/turbo) ([turbopack-230212.1](https://github.com/vercel/turbo/releases/tag/turbopack-230212.1), today) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
+- [vercel/turbo](https://github.com/vercel/turbo) ([turbopack-230212.1](https://github.com/vercel/turbo/releases/tag/turbopack-230212.1), 1 day ago) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
 - [shuding/nextra](https://github.com/shuding/nextra) ([nextra-theme-docs@2.2.14](https://github.com/shuding/nextra/releases/tag/nextra-theme-docs%402.2.14), 2 weeks ago) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([0.2.0](https://github.com/tonightpass/tonightpass/releases/tag/0.2.0), 4 months ago) - @tonightpass shared types.
 - [ajayesivan/react-native-remix-icon](https://github.com/ajayesivan/react-native-remix-icon) ([0.4.0](https://github.com/ajayesivan/react-native-remix-icon/releases/tag/0.4.0), 4 months ago) - An OpenSource implementation of remixicon for React Native
@@ -61,7 +61,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
-- [✨ add landing and scales](https://github.com/tonightpass/kitchen/pull/137) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (3 days ago)
+- [✨ add landing and scales](https://github.com/tonightpass/kitchen/pull/137) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (4 days ago)
 - [🩹 fix container flex ternary operation](https://github.com/tonightpass/kitchen/pull/134) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (1 week ago)
 - [Fix #64 (Theme Update &#34;GMK Oblivion&#34;)](https://github.com/alii/linear-style/pull/66) on [alii/linear-style](https://github.com/alii/linear-style) (1 week ago)
 - [add hop command, add some websites and fix duplicates](https://github.com/alii/search/pull/77) on [alii/search](https://github.com/alii/search) (1 week ago)
@@ -69,15 +69,15 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [🏷️ improve types](https://github.com/tonightpass/kitchen/pull/128) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (3 weeks ago)
 - [✨ add input](https://github.com/tonightpass/kitchen/pull/125) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (3 weeks ago)
 - [✨ add progress](https://github.com/tonightpass/kitchen/pull/122) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (3 weeks ago)
-- [🎨 update font to manrope](https://github.com/tonightpass/kitchen/pull/119) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (3 weeks ago)
+- [🎨 update font to manrope](https://github.com/tonightpass/kitchen/pull/119) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (4 weeks ago)
 - [🔧 add checks action](https://github.com/needforschool/prospekt-client/pull/16) on [needforschool/prospekt-client](https://github.com/needforschool/prospekt-client) (1 month ago)
 
 #### ⭐ Recent Stars
 
-- [askclippyai/widget](https://github.com/askclippyai/widget) - An AI-powered assistant for your company&#39;s docs. (1 day ago)
-- [styled-components/awesome-styled-components](https://github.com/styled-components/awesome-styled-components) - A curated list of awesome styled-components resources 💅  (2 days ago)
-- [qmasingarbe/pymiere](https://github.com/qmasingarbe/pymiere) - Python for Premiere pro (5 days ago)
-- [rayst-inc/gradients](https://github.com/rayst-inc/gradients) - A Collection of Beautiful Gradients Generated by AI. (6 days ago)
+- [askclippyai/widget](https://github.com/askclippyai/widget) - An AI-powered assistant for your company&#39;s docs. (2 days ago)
+- [styled-components/awesome-styled-components](https://github.com/styled-components/awesome-styled-components) - A curated list of awesome styled-components resources 💅  (3 days ago)
+- [qmasingarbe/pymiere](https://github.com/qmasingarbe/pymiere) - Python for Premiere pro (6 days ago)
+- [rayst-inc/gradients](https://github.com/rayst-inc/gradients) - A Collection of Beautiful Gradients Generated by AI. (1 week ago)
 - [willnorris/imageproxy](https://github.com/willnorris/imageproxy) - A caching, resizing image proxy written in Go (1 week ago)
 - [alii/monitor](https://github.com/alii/monitor) - Community restock monitor template (1 week ago)
 - [tc39/proposal-async-context](https://github.com/tc39/proposal-async-context) - Async Context for JavaScript (1 week ago)
