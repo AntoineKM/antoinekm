@@ -37,19 +37,20 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
+- [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React @styled-components (currently under construction...) (today)
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk. (2 days ago)
 - [AntoineKM/unity-paleto-bay-hospital](https://github.com/AntoineKM/unity-paleto-bay-hospital) - Discord bot for Unity RP GTAV (1 week ago)
 - [AntoineKM/westland](https://github.com/AntoineKM/westland) -  (1 week ago)
 - [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (1 week ago)
-- [AntoineKM/antoinekm](https://github.com/AntoineKM/antoinekm) -  (1 week ago)
 - [AntoineKM/charo-api](https://github.com/AntoineKM/charo-api) - Instagram, TikTok, Twitter, Linkedin daily CRON tasks that&#39;s make your daily social tasks. (1 week ago)
-- [alii/search](https://github.com/alii/search) - Cloudflare &#43; Google = supercharged web surfing (1 week ago)
 - [alii/linear-style](https://github.com/alii/linear-style) - 🎨  An index for Linear themes (1 week ago)
-- [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React @styled-components (currently under construction...) (1 week ago)
-- [needforschool/prospekt-api](https://github.com/needforschool/prospekt-api) -  (2 weeks ago)
+- [alii/search](https://github.com/alii/search) - Cloudflare &#43; Google = supercharged web surfing (1 week ago)
+- [AntoineKM/antoinekm](https://github.com/AntoineKM/antoinekm) -  (1 week ago)
+- [needforschool/kikoolol-server](https://github.com/needforschool/kikoolol-server) -  (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [tonightpass/kitchen](https://github.com/tonightpass/kitchen) ([@tonightpass/kitchen@1.0.0](https://github.com/tonightpass/kitchen/releases/tag/%40tonightpass/kitchen%401.0.0), today) - @tonightpass delicious React @styled-components (currently under construction...)
 - [vercel/turbo](https://github.com/vercel/turbo) ([turbopack-230215.1](https://github.com/vercel/turbo/releases/tag/turbopack-230215.1), today) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/grafe@1.0.0](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/grafe%401.0.0), 1 day ago) - @tonightpass sdk.
 - [shuding/nextra](https://github.com/shuding/nextra) ([nextra-theme-docs@2.2.14](https://github.com/shuding/nextra/releases/tag/nextra-theme-docs%402.2.14), 2 weeks ago) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
