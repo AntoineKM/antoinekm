@@ -62,6 +62,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
+- [📝 add create react app example](https://github.com/tonightpass/kitchen/pull/146) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (today)
 - [💄 fix sandpack font on landing](https://github.com/tonightpass/kitchen/pull/143) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (1 day ago)
 - [✨ add landing and scales](https://github.com/tonightpass/kitchen/pull/137) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (1 week ago)
 - [🩹 fix container flex ternary operation](https://github.com/tonightpass/kitchen/pull/134) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (2 weeks ago)
@@ -71,7 +72,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [🏷️ improve types](https://github.com/tonightpass/kitchen/pull/128) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (3 weeks ago)
 - [✨ add input](https://github.com/tonightpass/kitchen/pull/125) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (4 weeks ago)
 - [✨ add progress](https://github.com/tonightpass/kitchen/pull/122) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (1 month ago)
-- [🎨 update font to manrope](https://github.com/tonightpass/kitchen/pull/119) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (1 month ago)
 
 #### ⭐ Recent Stars
 
