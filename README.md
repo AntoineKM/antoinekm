@@ -37,10 +37,10 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
+- [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React @styled-components (currently under construction...) (today)
 - [AntoineKM/charo](https://github.com/AntoineKM/charo) - Instagram, TikTok, Twitter, Linkedin daily CRON tasks that&#39;s make your daily social tasks. (2 days ago)
 - [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (3 days ago)
 - [AntoineKM/unity-paleto-bay-hospital](https://github.com/AntoineKM/unity-paleto-bay-hospital) - Discord bot for Unity RP GTAV (4 days ago)
-- [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React @styled-components (currently under construction...) (5 days ago)
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk. (1 week ago)
 - [AntoineKM/westland](https://github.com/AntoineKM/westland) -  (2 weeks ago)
 - [AntoineKM/antoinekm](https://github.com/AntoineKM/antoinekm) -  (2 weeks ago)
@@ -62,6 +62,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
+- [ci: improve test](https://github.com/Nutlope/aicommits/pull/105) on [Nutlope/aicommits](https://github.com/Nutlope/aicommits) (today)
 - [Update README.md](https://github.com/ryannono/Puppeteer-Railway-Buildpack/pull/1) on [ryannono/Puppeteer-Railway-Buildpack](https://github.com/ryannono/Puppeteer-Railway-Buildpack) (3 days ago)
 - [📝 improve react example with kitchen fonts](https://github.com/tonightpass/kitchen/pull/148) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (6 days ago)
 - [📝 add create react app example](https://github.com/tonightpass/kitchen/pull/146) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (6 days ago)
@@ -71,7 +72,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [Fix #64 (Theme Update &#34;GMK Oblivion&#34;)](https://github.com/alii/linear-style/pull/66) on [alii/linear-style](https://github.com/alii/linear-style) (2 weeks ago)
 - [add hop command, add some websites and fix duplicates](https://github.com/alii/search/pull/77) on [alii/search](https://github.com/alii/search) (2 weeks ago)
 - [✨ add menu](https://github.com/tonightpass/kitchen/pull/130) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (4 weeks ago)
-- [🏷️ improve types](https://github.com/tonightpass/kitchen/pull/128) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (1 month ago)
 
 #### ⭐ Recent Stars
 
