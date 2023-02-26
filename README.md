@@ -43,10 +43,10 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (1 week ago)
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk. (1 week ago)
 - [AntoineKM/westland](https://github.com/AntoineKM/westland) -  (2 weeks ago)
+- [alii/linear-style](https://github.com/alii/linear-style) - 🎨  An index for Linear themes (3 weeks ago)
 - [AntoineKM/antoinekm](https://github.com/AntoineKM/antoinekm) -  (3 weeks ago)
 - [alii/search](https://github.com/alii/search) - Cloudflare &#43; Google = supercharged web surfing (3 weeks ago)
-- [alii/linear-style](https://github.com/alii/linear-style) - 🎨  An index for Linear themes (3 weeks ago)
-- [needforschool/prospekt-api](https://github.com/needforschool/prospekt-api) -  (3 weeks ago)
+- [needforschool/kikoolol-server](https://github.com/needforschool/kikoolol-server) -  (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
