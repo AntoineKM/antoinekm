@@ -37,6 +37,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
+- [AntoineKM/antoine](https://github.com/AntoineKM/antoine) - Custom ESLint config (today)
 - [AntoineKM/unity-paleto-bay-hospital](https://github.com/AntoineKM/unity-paleto-bay-hospital) - Discord bot for Unity RP GTAV (1 day ago)
 - [AntoineKM/charo](https://github.com/AntoineKM/charo) - Instagram, TikTok, Twitter, Linkedin daily CRON tasks that&#39;s make your daily social tasks. (2 days ago)
 - [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React @styled-components (currently under construction...) (6 days ago)
@@ -46,7 +47,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [alii/linear-style](https://github.com/alii/linear-style) - 🎨  An index for Linear themes (3 weeks ago)
 - [AntoineKM/antoinekm](https://github.com/AntoineKM/antoinekm) -  (3 weeks ago)
 - [alii/search](https://github.com/alii/search) - Cloudflare &#43; Google = supercharged web surfing (3 weeks ago)
-- [needforschool/kikoolol-server](https://github.com/needforschool/kikoolol-server) -  (4 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -75,6 +75,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
+- [egoist/tsup](https://github.com/egoist/tsup) - The simplest and fastest way to bundle your TypeScript libraries. (today)
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS (1 week ago)
 - [r0x0r/pywebview](https://github.com/r0x0r/pywebview) - Build GUI for your Python program with JavaScript, HTML, and CSS (1 week ago)
 - [joschan21/image-alt-generator](https://github.com/joschan21/image-alt-generator) - Open-source and free image alt tag generator in NextJS 13 (1 week ago)
@@ -84,7 +85,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [changesets/action](https://github.com/changesets/action) -  (1 week ago)
 - [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is where developers grow together 👩🏽‍💻 👨‍💻 (1 week ago)
 - [Nutlope/aicommits](https://github.com/Nutlope/aicommits) - A CLI that writes your git commit messages for you with AI (1 week ago)
-- [askclippyai/widget](https://github.com/askclippyai/widget) - An AI-powered assistant for your company&#39;s docs. (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
