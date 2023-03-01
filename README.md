@@ -62,6 +62,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
+- [🚚 move from preconstruct to tsup](https://github.com/tonightpass/kitchen/pull/170) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (today)
 - [ci: improve test](https://github.com/Nutlope/aicommits/pull/105) on [Nutlope/aicommits](https://github.com/Nutlope/aicommits) (1 week ago)
 - [Update README.md](https://github.com/ryannono/Puppeteer-Railway-Buildpack/pull/1) on [ryannono/Puppeteer-Railway-Buildpack](https://github.com/ryannono/Puppeteer-Railway-Buildpack) (1 week ago)
 - [📝 improve react example with kitchen fonts](https://github.com/tonightpass/kitchen/pull/148) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (1 week ago)
@@ -71,7 +72,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [🩹 fix container flex ternary operation](https://github.com/tonightpass/kitchen/pull/134) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (3 weeks ago)
 - [Fix #64 (Theme Update &#34;GMK Oblivion&#34;)](https://github.com/alii/linear-style/pull/66) on [alii/linear-style](https://github.com/alii/linear-style) (3 weeks ago)
 - [add hop command, add some websites and fix duplicates](https://github.com/alii/search/pull/77) on [alii/search](https://github.com/alii/search) (3 weeks ago)
-- [✨ add menu](https://github.com/tonightpass/kitchen/pull/130) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (1 month ago)
 
 #### ⭐ Recent Stars
 
