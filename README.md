@@ -50,9 +50,9 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔭 Latest releases I've contributed to
 
+- [shuding/nextra](https://github.com/shuding/nextra) ([nextra-theme-blog@2.2.17](https://github.com/shuding/nextra/releases/tag/nextra-theme-blog%402.2.17), today) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 - [vercel/turbo](https://github.com/vercel/turbo) ([turbopack-230302.2](https://github.com/vercel/turbo/releases/tag/turbopack-230302.2), 1 day ago) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/nestjs-mailjet@3.0.1](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/nestjs-mailjet%403.0.1), 1 week ago) - @tonightpass sdk.
-- [shuding/nextra](https://github.com/shuding/nextra) ([nextra-theme-blog@2.2.16](https://github.com/shuding/nextra/releases/tag/nextra-theme-blog%402.2.16), 1 week ago) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 - [tonightpass/kitchen](https://github.com/tonightpass/kitchen) ([@tonightpass/kitchen@1.1.0](https://github.com/tonightpass/kitchen/releases/tag/%40tonightpass/kitchen%401.1.0), 2 weeks ago) - @tonightpass delicious React @styled-components (currently under construction...)
 - [ajayesivan/react-native-remix-icon](https://github.com/ajayesivan/react-native-remix-icon) ([0.4.0](https://github.com/ajayesivan/react-native-remix-icon/releases/tag/0.4.0), 5 months ago) - An OpenSource implementation of remixicon for React Native
 - [onRuntime/next-usetranslation](https://github.com/onRuntime/next-usetranslation) ([v0.1.10](https://github.com/onRuntime/next-usetranslation/releases/tag/v0.1.10), 6 months ago) - The easiest way to translate your Next.js projects
