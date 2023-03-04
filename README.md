@@ -37,21 +37,21 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
-- [AntoineKM/charo](https://github.com/AntoineKM/charo) - Instagram, TikTok, Twitter, Linkedin daily CRON tasks that&#39;s make your daily social tasks. (today)
-- [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React @styled-components (currently under construction...) (today)
-- [AntoineKM/unity-paleto-bay-hospital](https://github.com/AntoineKM/unity-paleto-bay-hospital) - Discord bot for Unity RP GTAV (today)
-- [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (1 day ago)
-- [AntoineKM/antoine](https://github.com/AntoineKM/antoine) - Custom ESLint config (3 days ago)
+- [AntoineKM/charo](https://github.com/AntoineKM/charo) - Instagram, TikTok, Twitter, Linkedin daily CRON tasks that&#39;s make your daily social tasks. (1 day ago)
+- [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React @styled-components (currently under construction...) (1 day ago)
+- [AntoineKM/unity-paleto-bay-hospital](https://github.com/AntoineKM/unity-paleto-bay-hospital) - Discord bot for Unity RP GTAV (1 day ago)
+- [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (2 days ago)
+- [AntoineKM/antoine](https://github.com/AntoineKM/antoine) - Custom ESLint config (4 days ago)
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk. (2 weeks ago)
 - [AntoineKM/westland](https://github.com/AntoineKM/westland) -  (3 weeks ago)
-- [alii/linear-style](https://github.com/alii/linear-style) - 🎨  An index for Linear themes (4 weeks ago)
-- [AntoineKM/antoinekm](https://github.com/AntoineKM/antoinekm) -  (4 weeks ago)
-- [alii/search](https://github.com/alii/search) - Cloudflare &#43; Google = supercharged web surfing (4 weeks ago)
+- [alii/linear-style](https://github.com/alii/linear-style) - 🎨  An index for Linear themes (1 month ago)
+- [AntoineKM/antoinekm](https://github.com/AntoineKM/antoinekm) -  (1 month ago)
+- [alii/search](https://github.com/alii/search) - Cloudflare &#43; Google = supercharged web surfing (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/turbo](https://github.com/vercel/turbo) ([v1.8.4-canary.1](https://github.com/vercel/turbo/releases/tag/v1.8.4-canary.1), today) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
-- [shuding/nextra](https://github.com/shuding/nextra) ([nextra-theme-blog@2.2.17](https://github.com/shuding/nextra/releases/tag/nextra-theme-blog%402.2.17), today) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
+- [vercel/turbo](https://github.com/vercel/turbo) ([v1.8.4-canary.1](https://github.com/vercel/turbo/releases/tag/v1.8.4-canary.1), 1 day ago) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
+- [shuding/nextra](https://github.com/shuding/nextra) ([nextra-theme-blog@2.2.17](https://github.com/shuding/nextra/releases/tag/nextra-theme-blog%402.2.17), 1 day ago) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/nestjs-mailjet@3.0.1](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/nestjs-mailjet%403.0.1), 1 week ago) - @tonightpass sdk.
 - [tonightpass/kitchen](https://github.com/tonightpass/kitchen) ([@tonightpass/kitchen@1.1.0](https://github.com/tonightpass/kitchen/releases/tag/%40tonightpass/kitchen%401.1.0), 2 weeks ago) - @tonightpass delicious React @styled-components (currently under construction...)
 - [ajayesivan/react-native-remix-icon](https://github.com/ajayesivan/react-native-remix-icon) ([0.4.0](https://github.com/ajayesivan/react-native-remix-icon/releases/tag/0.4.0), 5 months ago) - An OpenSource implementation of remixicon for React Native
@@ -62,27 +62,27 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
-- [🐛 fix react native examples and components](https://github.com/tonightpass/kitchen/pull/180) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (today)
-- [🚚 move from preconstruct to tsup](https://github.com/tonightpass/kitchen/pull/170) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (2 days ago)
+- [🐛 fix react native examples and components](https://github.com/tonightpass/kitchen/pull/180) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (1 day ago)
+- [🚚 move from preconstruct to tsup](https://github.com/tonightpass/kitchen/pull/170) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (3 days ago)
 - [ci: improve test](https://github.com/Nutlope/aicommits/pull/105) on [Nutlope/aicommits](https://github.com/Nutlope/aicommits) (1 week ago)
 - [Update README.md](https://github.com/ryannono/Puppeteer-Railway-Buildpack/pull/1) on [ryannono/Puppeteer-Railway-Buildpack](https://github.com/ryannono/Puppeteer-Railway-Buildpack) (1 week ago)
 - [📝 improve react example with kitchen fonts](https://github.com/tonightpass/kitchen/pull/148) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (2 weeks ago)
 - [📝 add create react app example](https://github.com/tonightpass/kitchen/pull/146) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (2 weeks ago)
 - [💄 fix sandpack font on landing](https://github.com/tonightpass/kitchen/pull/143) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (2 weeks ago)
 - [✨ add landing and scales](https://github.com/tonightpass/kitchen/pull/137) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (3 weeks ago)
-- [🩹 fix container flex ternary operation](https://github.com/tonightpass/kitchen/pull/134) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (4 weeks ago)
-- [Fix #64 (Theme Update &#34;GMK Oblivion&#34;)](https://github.com/alii/linear-style/pull/66) on [alii/linear-style](https://github.com/alii/linear-style) (4 weeks ago)
+- [🩹 fix container flex ternary operation](https://github.com/tonightpass/kitchen/pull/134) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (1 month ago)
+- [Fix #64 (Theme Update &#34;GMK Oblivion&#34;)](https://github.com/alii/linear-style/pull/66) on [alii/linear-style](https://github.com/alii/linear-style) (1 month ago)
 
 #### ⭐ Recent Stars
 
-- [egoist/tsup](https://github.com/egoist/tsup) - The simplest and fastest way to bundle your TypeScript libraries. (3 days ago)
+- [egoist/tsup](https://github.com/egoist/tsup) - The simplest and fastest way to bundle your TypeScript libraries. (4 days ago)
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS (1 week ago)
 - [r0x0r/pywebview](https://github.com/r0x0r/pywebview) - Build GUI for your Python program with JavaScript, HTML, and CSS (1 week ago)
 - [joschan21/image-alt-generator](https://github.com/joschan21/image-alt-generator) - Open-source and free image alt tag generator in NextJS 13 (1 week ago)
 - [natemoo-re/clack](https://github.com/natemoo-re/clack) - Effortlessly build beautiful command-line apps (1 week ago)
 - [michael-dm/openai-token](https://github.com/michael-dm/openai-token) -  (1 week ago)
 - [ryannono/Puppeteer-Railway-Buildpack](https://github.com/ryannono/Puppeteer-Railway-Buildpack) - Installs dependencies needed in order to run puppeteer on Railway. (1 week ago)
-- [changesets/action](https://github.com/changesets/action) -  (1 week ago)
+- [changesets/action](https://github.com/changesets/action) -  (2 weeks ago)
 - [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is where developers grow together 👩🏽‍💻 👨‍💻 (2 weeks ago)
 - [Nutlope/aicommits](https://github.com/Nutlope/aicommits) - A CLI that writes your git commit messages for you with AI (2 weeks ago)
 
