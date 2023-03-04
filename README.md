@@ -37,9 +37,9 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
+- [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React @styled-components (currently under construction...) (today)
 - [AntoineKM/unity-paleto-bay-hospital](https://github.com/AntoineKM/unity-paleto-bay-hospital) - Discord bot for Unity RP GTAV (today)
 - [AntoineKM/charo](https://github.com/AntoineKM/charo) - Instagram, TikTok, Twitter, Linkedin daily CRON tasks that&#39;s make your daily social tasks. (1 day ago)
-- [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React @styled-components (currently under construction...) (1 day ago)
 - [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (2 days ago)
 - [AntoineKM/antoine](https://github.com/AntoineKM/antoine) - Custom ESLint config (4 days ago)
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk. (2 weeks ago)
