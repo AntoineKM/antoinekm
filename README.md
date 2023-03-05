@@ -44,9 +44,9 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [AntoineKM/antoine](https://github.com/AntoineKM/antoine) - Custom ESLint config (5 days ago)
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk. (2 weeks ago)
 - [AntoineKM/westland](https://github.com/AntoineKM/westland) -  (3 weeks ago)
-- [alii/linear-style](https://github.com/alii/linear-style) - 🎨  An index for Linear themes (1 month ago)
-- [AntoineKM/antoinekm](https://github.com/AntoineKM/antoinekm) -  (1 month ago)
 - [alii/search](https://github.com/alii/search) - Cloudflare &#43; Google = supercharged web surfing (1 month ago)
+- [AntoineKM/antoinekm](https://github.com/AntoineKM/antoinekm) -  (1 month ago)
+- [alii/linear-style](https://github.com/alii/linear-style) - 🎨  An index for Linear themes (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
