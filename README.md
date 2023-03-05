@@ -75,6 +75,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
+- [Nutlope/roomGPT](https://github.com/Nutlope/roomGPT) - Upload a photo of your room to generate your dream room with AI. (today)
 - [NationalSecurityAgency/nationalsecurityagency.github.io](https://github.com/NationalSecurityAgency/nationalsecurityagency.github.io) - Site for NSA&#39;s Open Source project listing (1 day ago)
 - [egoist/tsup](https://github.com/egoist/tsup) - The simplest and fastest way to bundle your TypeScript libraries. (5 days ago)
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS (1 week ago)
@@ -84,12 +85,11 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [michael-dm/openai-token](https://github.com/michael-dm/openai-token) -  (1 week ago)
 - [ryannono/Puppeteer-Railway-Buildpack](https://github.com/ryannono/Puppeteer-Railway-Buildpack) - Installs dependencies needed in order to run puppeteer on Railway. (2 weeks ago)
 - [changesets/action](https://github.com/changesets/action) -  (2 weeks ago)
-- [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is where developers grow together 👩🏽‍💻 👨‍💻 (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
+- [Legendvivek22](https://github.com/Legendvivek22)
 - [nirajkaushal](https://github.com/nirajkaushal)
 - [tomheaton](https://github.com/tomheaton)
 - [LuanderFarias](https://github.com/LuanderFarias)
 - [kapeupro](https://github.com/kapeupro)
-- [shivamhwp](https://github.com/shivamhwp)
