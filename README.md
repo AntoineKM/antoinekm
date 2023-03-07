@@ -37,12 +37,12 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
-- [NationalSecurityAgency/nationalsecurityagency.github.io](https://github.com/NationalSecurityAgency/nationalsecurityagency.github.io) - Site for NSA&#39;s Open Source project listing (today)
 - [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React @styled-components (currently under construction...) (today)
-- [AntoineKM/unity-paleto-bay-hospital](https://github.com/AntoineKM/unity-paleto-bay-hospital) - Discord bot for Unity RP GTAV (1 day ago)
-- [AntoineKM/charo](https://github.com/AntoineKM/charo) - Instagram, TikTok, Twitter, Linkedin daily CRON tasks that&#39;s make your daily social tasks. (3 days ago)
-- [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (4 days ago)
-- [AntoineKM/antoine](https://github.com/AntoineKM/antoine) - Custom ESLint config (6 days ago)
+- [NationalSecurityAgency/nationalsecurityagency.github.io](https://github.com/NationalSecurityAgency/nationalsecurityagency.github.io) - Site for NSA&#39;s Open Source project listing (1 day ago)
+- [AntoineKM/unity-paleto-bay-hospital](https://github.com/AntoineKM/unity-paleto-bay-hospital) - Discord bot for Unity RP GTAV (2 days ago)
+- [AntoineKM/charo](https://github.com/AntoineKM/charo) - Instagram, TikTok, Twitter, Linkedin daily CRON tasks that&#39;s make your daily social tasks. (4 days ago)
+- [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (5 days ago)
+- [AntoineKM/antoine](https://github.com/AntoineKM/antoine) - Custom ESLint config (1 week ago)
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk. (3 weeks ago)
 - [AntoineKM/westland](https://github.com/AntoineKM/westland) -  (4 weeks ago)
 - [alii/linear-style](https://github.com/alii/linear-style) - 🎨  An index for Linear themes (1 month ago)
@@ -50,7 +50,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔭 Latest releases I've contributed to
 
-- [shuding/nextra](https://github.com/shuding/nextra) ([nextra-theme-blog@2.2.17](https://github.com/shuding/nextra/releases/tag/nextra-theme-blog%402.2.17), 3 days ago) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
+- [shuding/nextra](https://github.com/shuding/nextra) ([nextra-theme-blog@2.2.17](https://github.com/shuding/nextra/releases/tag/nextra-theme-blog%402.2.17), 4 days ago) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/nestjs-mailjet@3.0.1](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/nestjs-mailjet%403.0.1), 1 week ago) - @tonightpass sdk.
 - [tonightpass/kitchen](https://github.com/tonightpass/kitchen) ([@tonightpass/kitchen@1.1.0](https://github.com/tonightpass/kitchen/releases/tag/%40tonightpass/kitchen%401.1.0), 2 weeks ago) - @tonightpass delicious React @styled-components (currently under construction...)
 - [ajayesivan/react-native-remix-icon](https://github.com/ajayesivan/react-native-remix-icon) ([0.4.0](https://github.com/ajayesivan/react-native-remix-icon/releases/tag/0.4.0), 5 months ago) - An OpenSource implementation of remixicon for React Native
@@ -61,12 +61,12 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
-- [Update project list by sorting it by stargazers count](https://github.com/NationalSecurityAgency/nationalsecurityagency.github.io/pull/50) on [NationalSecurityAgency/nationalsecurityagency.github.io](https://github.com/NationalSecurityAgency/nationalsecurityagency.github.io) (1 day ago)
-- [Improve footer logo format and quality](https://github.com/NationalSecurityAgency/nationalsecurityagency.github.io/pull/48) on [NationalSecurityAgency/nationalsecurityagency.github.io](https://github.com/NationalSecurityAgency/nationalsecurityagency.github.io) (1 day ago)
-- [Update footer navigation links](https://github.com/NationalSecurityAgency/nationalsecurityagency.github.io/pull/45) on [NationalSecurityAgency/nationalsecurityagency.github.io](https://github.com/NationalSecurityAgency/nationalsecurityagency.github.io) (2 days ago)
-- [Improve background image size and format](https://github.com/NationalSecurityAgency/nationalsecurityagency.github.io/pull/42) on [NationalSecurityAgency/nationalsecurityagency.github.io](https://github.com/NationalSecurityAgency/nationalsecurityagency.github.io) (2 days ago)
-- [🐛 fix react native examples and components](https://github.com/tonightpass/kitchen/pull/180) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (3 days ago)
-- [🚚 move from preconstruct to tsup](https://github.com/tonightpass/kitchen/pull/170) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (5 days ago)
+- [Update project list by sorting it by stargazers count](https://github.com/NationalSecurityAgency/nationalsecurityagency.github.io/pull/50) on [NationalSecurityAgency/nationalsecurityagency.github.io](https://github.com/NationalSecurityAgency/nationalsecurityagency.github.io) (2 days ago)
+- [Improve footer logo format and quality](https://github.com/NationalSecurityAgency/nationalsecurityagency.github.io/pull/48) on [NationalSecurityAgency/nationalsecurityagency.github.io](https://github.com/NationalSecurityAgency/nationalsecurityagency.github.io) (2 days ago)
+- [Update footer navigation links](https://github.com/NationalSecurityAgency/nationalsecurityagency.github.io/pull/45) on [NationalSecurityAgency/nationalsecurityagency.github.io](https://github.com/NationalSecurityAgency/nationalsecurityagency.github.io) (3 days ago)
+- [Improve background image size and format](https://github.com/NationalSecurityAgency/nationalsecurityagency.github.io/pull/42) on [NationalSecurityAgency/nationalsecurityagency.github.io](https://github.com/NationalSecurityAgency/nationalsecurityagency.github.io) (3 days ago)
+- [🐛 fix react native examples and components](https://github.com/tonightpass/kitchen/pull/180) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (4 days ago)
+- [🚚 move from preconstruct to tsup](https://github.com/tonightpass/kitchen/pull/170) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (6 days ago)
 - [ci: improve test](https://github.com/Nutlope/aicommits/pull/105) on [Nutlope/aicommits](https://github.com/Nutlope/aicommits) (1 week ago)
 - [Update README.md](https://github.com/ryannono/Puppeteer-Railway-Buildpack/pull/1) on [ryannono/Puppeteer-Railway-Buildpack](https://github.com/ryannono/Puppeteer-Railway-Buildpack) (2 weeks ago)
 - [📝 improve react example with kitchen fonts](https://github.com/tonightpass/kitchen/pull/148) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (2 weeks ago)
@@ -74,16 +74,16 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
-- [Nutlope/roomGPT](https://github.com/Nutlope/roomGPT) - Upload a photo of your room to generate your dream room with AI. (1 day ago)
-- [NationalSecurityAgency/nationalsecurityagency.github.io](https://github.com/NationalSecurityAgency/nationalsecurityagency.github.io) - Site for NSA&#39;s Open Source project listing (2 days ago)
-- [egoist/tsup](https://github.com/egoist/tsup) - The simplest and fastest way to bundle your TypeScript libraries. (6 days ago)
-- [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS (1 week ago)
-- [r0x0r/pywebview](https://github.com/r0x0r/pywebview) - Build GUI for your Python program with JavaScript, HTML, and CSS (1 week ago)
-- [joschan21/image-alt-generator](https://github.com/joschan21/image-alt-generator) - Open-source and free image alt tag generator in NextJS 13 (1 week ago)
-- [natemoo-re/clack](https://github.com/natemoo-re/clack) - Effortlessly build beautiful command-line apps (1 week ago)
+- [community/events](https://github.com/community/events) -  (1 day ago)
+- [Nutlope/roomGPT](https://github.com/Nutlope/roomGPT) - Upload a photo of your room to generate your dream room with AI. (2 days ago)
+- [NationalSecurityAgency/nationalsecurityagency.github.io](https://github.com/NationalSecurityAgency/nationalsecurityagency.github.io) - Site for NSA&#39;s Open Source project listing (3 days ago)
+- [egoist/tsup](https://github.com/egoist/tsup) - The simplest and fastest way to bundle your TypeScript libraries. (1 week ago)
+- [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS (2 weeks ago)
+- [r0x0r/pywebview](https://github.com/r0x0r/pywebview) - Build GUI for your Python program with JavaScript, HTML, and CSS (2 weeks ago)
+- [joschan21/image-alt-generator](https://github.com/joschan21/image-alt-generator) - Open-source and free image alt tag generator in NextJS 13 (2 weeks ago)
+- [natemoo-re/clack](https://github.com/natemoo-re/clack) - Effortlessly build beautiful command-line apps (2 weeks ago)
 - [michael-dm/openai-token](https://github.com/michael-dm/openai-token) -  (2 weeks ago)
 - [ryannono/Puppeteer-Railway-Buildpack](https://github.com/ryannono/Puppeteer-Railway-Buildpack) - Installs dependencies needed in order to run puppeteer on Railway. (2 weeks ago)
-- [changesets/action](https://github.com/changesets/action) -  (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
