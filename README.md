@@ -61,6 +61,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
+- [🎨 improve native text](https://github.com/tonightpass/kitchen/pull/187) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (today)
 - [Update project list by sorting it by stargazers count](https://github.com/NationalSecurityAgency/nationalsecurityagency.github.io/pull/50) on [NationalSecurityAgency/nationalsecurityagency.github.io](https://github.com/NationalSecurityAgency/nationalsecurityagency.github.io) (2 days ago)
 - [Improve footer logo format and quality](https://github.com/NationalSecurityAgency/nationalsecurityagency.github.io/pull/48) on [NationalSecurityAgency/nationalsecurityagency.github.io](https://github.com/NationalSecurityAgency/nationalsecurityagency.github.io) (2 days ago)
 - [Update footer navigation links](https://github.com/NationalSecurityAgency/nationalsecurityagency.github.io/pull/45) on [NationalSecurityAgency/nationalsecurityagency.github.io](https://github.com/NationalSecurityAgency/nationalsecurityagency.github.io) (3 days ago)
@@ -70,7 +71,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [ci: improve test](https://github.com/Nutlope/aicommits/pull/105) on [Nutlope/aicommits](https://github.com/Nutlope/aicommits) (1 week ago)
 - [Update README.md](https://github.com/ryannono/Puppeteer-Railway-Buildpack/pull/1) on [ryannono/Puppeteer-Railway-Buildpack](https://github.com/ryannono/Puppeteer-Railway-Buildpack) (2 weeks ago)
 - [📝 improve react example with kitchen fonts](https://github.com/tonightpass/kitchen/pull/148) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (2 weeks ago)
-- [📝 add create react app example](https://github.com/tonightpass/kitchen/pull/146) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
