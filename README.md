@@ -37,11 +37,11 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
-- [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React @styled-components (currently under construction...) (today)
-- [AntoineKM/unity-paleto-bay-hospital](https://github.com/AntoineKM/unity-paleto-bay-hospital) - Discord bot for Unity RP GTAV (1 day ago)
-- [NationalSecurityAgency/nationalsecurityagency.github.io](https://github.com/NationalSecurityAgency/nationalsecurityagency.github.io) - Site for NSA&#39;s Open Source project listing (2 days ago)
-- [AntoineKM/charo](https://github.com/AntoineKM/charo) - Instagram, TikTok, Twitter, Linkedin daily CRON tasks that&#39;s make your daily social tasks. (5 days ago)
-- [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (6 days ago)
+- [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React @styled-components (currently under construction...) (1 day ago)
+- [AntoineKM/unity-paleto-bay-hospital](https://github.com/AntoineKM/unity-paleto-bay-hospital) - Discord bot for Unity RP GTAV (2 days ago)
+- [NationalSecurityAgency/nationalsecurityagency.github.io](https://github.com/NationalSecurityAgency/nationalsecurityagency.github.io) - Site for NSA&#39;s Open Source project listing (3 days ago)
+- [AntoineKM/charo](https://github.com/AntoineKM/charo) - Instagram, TikTok, Twitter, Linkedin daily CRON tasks that&#39;s make your daily social tasks. (6 days ago)
+- [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (1 week ago)
 - [AntoineKM/antoine](https://github.com/AntoineKM/antoine) - Custom ESLint config (1 week ago)
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk. (3 weeks ago)
 - [AntoineKM/westland](https://github.com/AntoineKM/westland) -  (1 month ago)
@@ -50,8 +50,8 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔭 Latest releases I've contributed to
 
-- [tonightpass/kitchen](https://github.com/tonightpass/kitchen) ([@tonightpass/kitchen@1.2.1](https://github.com/tonightpass/kitchen/releases/tag/%40tonightpass/kitchen%401.2.1), today) - @tonightpass delicious React @styled-components (currently under construction...)
-- [shuding/nextra](https://github.com/shuding/nextra) ([nextra-theme-blog@2.2.18](https://github.com/shuding/nextra/releases/tag/nextra-theme-blog%402.2.18), 1 day ago) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
+- [tonightpass/kitchen](https://github.com/tonightpass/kitchen) ([@tonightpass/kitchen@1.2.1](https://github.com/tonightpass/kitchen/releases/tag/%40tonightpass/kitchen%401.2.1), 1 day ago) - @tonightpass delicious React @styled-components (currently under construction...)
+- [shuding/nextra](https://github.com/shuding/nextra) ([nextra-theme-blog@2.2.18](https://github.com/shuding/nextra/releases/tag/nextra-theme-blog%402.2.18), 2 days ago) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/nestjs-mailjet@3.0.1](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/nestjs-mailjet%403.0.1), 1 week ago) - @tonightpass sdk.
 - [ajayesivan/react-native-remix-icon](https://github.com/ajayesivan/react-native-remix-icon) ([0.4.0](https://github.com/ajayesivan/react-native-remix-icon/releases/tag/0.4.0), 5 months ago) - An OpenSource implementation of remixicon for React Native
 - [onRuntime/next-usetranslation](https://github.com/onRuntime/next-usetranslation) ([v0.1.10](https://github.com/onRuntime/next-usetranslation/releases/tag/v0.1.10), 6 months ago) - The easiest way to translate your Next.js projects
@@ -61,24 +61,24 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
-- [✨ add native button](https://github.com/tonightpass/kitchen/pull/195) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (today)
-- [💄 update native themes](https://github.com/tonightpass/kitchen/pull/188) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (today)
-- [🎨 improve native text](https://github.com/tonightpass/kitchen/pull/187) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (1 day ago)
-- [Update project list by sorting it by stargazers count](https://github.com/NationalSecurityAgency/nationalsecurityagency.github.io/pull/50) on [NationalSecurityAgency/nationalsecurityagency.github.io](https://github.com/NationalSecurityAgency/nationalsecurityagency.github.io) (3 days ago)
-- [Improve footer logo format and quality](https://github.com/NationalSecurityAgency/nationalsecurityagency.github.io/pull/48) on [NationalSecurityAgency/nationalsecurityagency.github.io](https://github.com/NationalSecurityAgency/nationalsecurityagency.github.io) (3 days ago)
-- [Update footer navigation links](https://github.com/NationalSecurityAgency/nationalsecurityagency.github.io/pull/45) on [NationalSecurityAgency/nationalsecurityagency.github.io](https://github.com/NationalSecurityAgency/nationalsecurityagency.github.io) (4 days ago)
-- [Improve background image size and format](https://github.com/NationalSecurityAgency/nationalsecurityagency.github.io/pull/42) on [NationalSecurityAgency/nationalsecurityagency.github.io](https://github.com/NationalSecurityAgency/nationalsecurityagency.github.io) (4 days ago)
-- [🐛 fix react native examples and components](https://github.com/tonightpass/kitchen/pull/180) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (5 days ago)
+- [✨ add native button](https://github.com/tonightpass/kitchen/pull/195) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (1 day ago)
+- [💄 update native themes](https://github.com/tonightpass/kitchen/pull/188) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (1 day ago)
+- [🎨 improve native text](https://github.com/tonightpass/kitchen/pull/187) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (2 days ago)
+- [Update project list by sorting it by stargazers count](https://github.com/NationalSecurityAgency/nationalsecurityagency.github.io/pull/50) on [NationalSecurityAgency/nationalsecurityagency.github.io](https://github.com/NationalSecurityAgency/nationalsecurityagency.github.io) (4 days ago)
+- [Improve footer logo format and quality](https://github.com/NationalSecurityAgency/nationalsecurityagency.github.io/pull/48) on [NationalSecurityAgency/nationalsecurityagency.github.io](https://github.com/NationalSecurityAgency/nationalsecurityagency.github.io) (4 days ago)
+- [Update footer navigation links](https://github.com/NationalSecurityAgency/nationalsecurityagency.github.io/pull/45) on [NationalSecurityAgency/nationalsecurityagency.github.io](https://github.com/NationalSecurityAgency/nationalsecurityagency.github.io) (5 days ago)
+- [Improve background image size and format](https://github.com/NationalSecurityAgency/nationalsecurityagency.github.io/pull/42) on [NationalSecurityAgency/nationalsecurityagency.github.io](https://github.com/NationalSecurityAgency/nationalsecurityagency.github.io) (5 days ago)
+- [🐛 fix react native examples and components](https://github.com/tonightpass/kitchen/pull/180) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (6 days ago)
 - [🚚 move from preconstruct to tsup](https://github.com/tonightpass/kitchen/pull/170) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (1 week ago)
 - [ci: improve test](https://github.com/Nutlope/aicommits/pull/105) on [Nutlope/aicommits](https://github.com/Nutlope/aicommits) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
-- [hopinc/homebrew-tap](https://github.com/hopinc/homebrew-tap) -  (today)
-- [996icu/996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers. (today)
-- [community/events](https://github.com/community/events) -  (2 days ago)
-- [Nutlope/roomGPT](https://github.com/Nutlope/roomGPT) - Upload a photo of your room to generate your dream room with AI. (3 days ago)
-- [NationalSecurityAgency/nationalsecurityagency.github.io](https://github.com/NationalSecurityAgency/nationalsecurityagency.github.io) - Site for NSA&#39;s Open Source project listing (4 days ago)
+- [hopinc/homebrew-tap](https://github.com/hopinc/homebrew-tap) -  (1 day ago)
+- [996icu/996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers. (1 day ago)
+- [community/events](https://github.com/community/events) -  (3 days ago)
+- [Nutlope/roomGPT](https://github.com/Nutlope/roomGPT) - Upload a photo of your room to generate your dream room with AI. (4 days ago)
+- [NationalSecurityAgency/nationalsecurityagency.github.io](https://github.com/NationalSecurityAgency/nationalsecurityagency.github.io) - Site for NSA&#39;s Open Source project listing (5 days ago)
 - [egoist/tsup](https://github.com/egoist/tsup) - The simplest and fastest way to bundle your TypeScript libraries. (1 week ago)
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS (2 weeks ago)
 - [r0x0r/pywebview](https://github.com/r0x0r/pywebview) - Build GUI for your Python program with JavaScript, HTML, and CSS (2 weeks ago)
