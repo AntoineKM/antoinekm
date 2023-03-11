@@ -37,7 +37,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
-- [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React @styled-components (currently under construction...) (1 day ago)
+- [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React @styled-components (currently under construction...) (today)
 - [AntoineKM/unity-paleto-bay-hospital](https://github.com/AntoineKM/unity-paleto-bay-hospital) - Discord bot for Unity RP GTAV (4 days ago)
 - [NationalSecurityAgency/nationalsecurityagency.github.io](https://github.com/NationalSecurityAgency/nationalsecurityagency.github.io) - Site for NSA&#39;s Open Source project listing (5 days ago)
 - [AntoineKM/charo](https://github.com/AntoineKM/charo) - Instagram, TikTok, Twitter, Linkedin daily CRON tasks that&#39;s make your daily social tasks. (1 week ago)
@@ -50,7 +50,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔭 Latest releases I've contributed to
 
-- [tonightpass/kitchen](https://github.com/tonightpass/kitchen) ([@tonightpass/kitchen@1.3.2](https://github.com/tonightpass/kitchen/releases/tag/%40tonightpass/kitchen%401.3.2), 1 day ago) - @tonightpass delicious React @styled-components (currently under construction...)
+- [tonightpass/kitchen](https://github.com/tonightpass/kitchen) ([@tonightpass/kitchen@1.3.3](https://github.com/tonightpass/kitchen/releases/tag/%40tonightpass/kitchen%401.3.3), today) - @tonightpass delicious React @styled-components (currently under construction...)
 - [shuding/nextra](https://github.com/shuding/nextra) ([nextra@2.2.19](https://github.com/shuding/nextra/releases/tag/nextra%402.2.19), 1 day ago) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/shared-types@0.4.0](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/shared-types%400.4.0), 2 days ago) - @tonightpass sdk.
 - [ajayesivan/react-native-remix-icon](https://github.com/ajayesivan/react-native-remix-icon) ([0.4.0](https://github.com/ajayesivan/react-native-remix-icon/releases/tag/0.4.0), 5 months ago) - An OpenSource implementation of remixicon for React Native
@@ -61,6 +61,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
+- [🎨 update `progress` component to cap values at max and 0](https://github.com/tonightpass/kitchen/pull/207) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (today)
 - [✨ add native container](https://github.com/tonightpass/kitchen/pull/202) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (2 days ago)
 - [📝 add producthunt badge](https://github.com/tonightpass/kitchen/pull/198) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (2 days ago)
 - [✨ add native button](https://github.com/tonightpass/kitchen/pull/195) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (3 days ago)
@@ -70,7 +71,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [Improve footer logo format and quality](https://github.com/NationalSecurityAgency/nationalsecurityagency.github.io/pull/48) on [NationalSecurityAgency/nationalsecurityagency.github.io](https://github.com/NationalSecurityAgency/nationalsecurityagency.github.io) (6 days ago)
 - [Update footer navigation links](https://github.com/NationalSecurityAgency/nationalsecurityagency.github.io/pull/45) on [NationalSecurityAgency/nationalsecurityagency.github.io](https://github.com/NationalSecurityAgency/nationalsecurityagency.github.io) (1 week ago)
 - [Improve background image size and format](https://github.com/NationalSecurityAgency/nationalsecurityagency.github.io/pull/42) on [NationalSecurityAgency/nationalsecurityagency.github.io](https://github.com/NationalSecurityAgency/nationalsecurityagency.github.io) (1 week ago)
-- [🐛 fix react native examples and components](https://github.com/tonightpass/kitchen/pull/180) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (1 week ago)
 
 #### ⭐ Recent Stars
 
