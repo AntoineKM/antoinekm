@@ -74,6 +74,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
+- [Nuitka/Nuitka-Action](https://github.com/Nuitka/Nuitka-Action) - Action to build with Nuitka on GitHub in your workflows (today)
 - [hopinc/homebrew-tap](https://github.com/hopinc/homebrew-tap) -  (5 days ago)
 - [996icu/996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers. (5 days ago)
 - [community/events](https://github.com/community/events) -  (1 week ago)
@@ -83,7 +84,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS (2 weeks ago)
 - [r0x0r/pywebview](https://github.com/r0x0r/pywebview) - Build GUI for your Python program with JavaScript, HTML, and CSS (2 weeks ago)
 - [joschan21/image-alt-generator](https://github.com/joschan21/image-alt-generator) - Open-source and free image alt tag generator in NextJS 13 (2 weeks ago)
-- [natemoo-re/clack](https://github.com/natemoo-re/clack) - Effortlessly build beautiful command-line apps (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
