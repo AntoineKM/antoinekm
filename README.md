@@ -61,6 +61,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
+- [🏷️ update `useridentitygender` with more default options](https://github.com/tonightpass/tonightpass/pull/35) on [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) (today)
 - [🎨 update `progress` component to cap values at max and 0](https://github.com/tonightpass/kitchen/pull/207) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (4 days ago)
 - [✨ add native container](https://github.com/tonightpass/kitchen/pull/202) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (6 days ago)
 - [📝 add producthunt badge](https://github.com/tonightpass/kitchen/pull/198) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (6 days ago)
@@ -70,7 +71,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [Update project list by sorting it by stargazers count](https://github.com/NationalSecurityAgency/nationalsecurityagency.github.io/pull/50) on [NationalSecurityAgency/nationalsecurityagency.github.io](https://github.com/NationalSecurityAgency/nationalsecurityagency.github.io) (1 week ago)
 - [Improve footer logo format and quality](https://github.com/NationalSecurityAgency/nationalsecurityagency.github.io/pull/48) on [NationalSecurityAgency/nationalsecurityagency.github.io](https://github.com/NationalSecurityAgency/nationalsecurityagency.github.io) (1 week ago)
 - [Update footer navigation links](https://github.com/NationalSecurityAgency/nationalsecurityagency.github.io/pull/45) on [NationalSecurityAgency/nationalsecurityagency.github.io](https://github.com/NationalSecurityAgency/nationalsecurityagency.github.io) (1 week ago)
-- [Improve background image size and format](https://github.com/NationalSecurityAgency/nationalsecurityagency.github.io/pull/42) on [NationalSecurityAgency/nationalsecurityagency.github.io](https://github.com/NationalSecurityAgency/nationalsecurityagency.github.io) (1 week ago)
 
 #### ⭐ Recent Stars
 
