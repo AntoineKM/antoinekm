@@ -37,6 +37,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
+- [AntoineKM/flask-app](https://github.com/AntoineKM/flask-app) -  (today)
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk. (1 day ago)
 - [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React @styled-components (currently under construction...) (5 days ago)
 - [AntoineKM/unity-paleto-bay-hospital](https://github.com/AntoineKM/unity-paleto-bay-hospital) - Discord bot for Unity RP GTAV (1 week ago)
@@ -46,11 +47,10 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [AntoineKM/antoine](https://github.com/AntoineKM/antoine) - Custom ESLint config (2 weeks ago)
 - [AntoineKM/westland](https://github.com/AntoineKM/westland) -  (1 month ago)
 - [alii/linear-style](https://github.com/alii/linear-style) - 🎨  An index for Linear themes (1 month ago)
-- [alii/search](https://github.com/alii/search) - Cloudflare &#43; Google = supercharged web surfing (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/shared-types@0.4.3](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/shared-types%400.4.3), 1 day ago) - @tonightpass sdk.
+- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/shared-types@0.5.0](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/shared-types%400.5.0), today) - @tonightpass sdk.
 - [tonightpass/kitchen](https://github.com/tonightpass/kitchen) ([@tonightpass/kitchen@1.3.3](https://github.com/tonightpass/kitchen/releases/tag/%40tonightpass/kitchen%401.3.3), 5 days ago) - @tonightpass delicious React @styled-components (currently under construction...)
 - [shuding/nextra](https://github.com/shuding/nextra) ([nextra@2.2.19](https://github.com/shuding/nextra/releases/tag/nextra%402.2.19), 6 days ago) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 - [ajayesivan/react-native-remix-icon](https://github.com/ajayesivan/react-native-remix-icon) ([0.4.0](https://github.com/ajayesivan/react-native-remix-icon/releases/tag/0.4.0), 5 months ago) - An OpenSource implementation of remixicon for React Native
