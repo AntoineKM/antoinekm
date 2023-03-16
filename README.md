@@ -38,8 +38,8 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 #### 👷 Check out what I'm currently working on
 
 - [AntoineKM/flask-app](https://github.com/AntoineKM/flask-app) -  (today)
-- [needforschool/python-ak-part3](https://github.com/needforschool/python-ak-part3) -  (today)
 - [needforschool/python-ak-part2](https://github.com/needforschool/python-ak-part2) -  (today)
+- [needforschool/python-ak-part3](https://github.com/needforschool/python-ak-part3) -  (today)
 - [needforschool/python-ak-part1](https://github.com/needforschool/python-ak-part1) -  (today)
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk. (1 day ago)
 - [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React @styled-components (currently under construction...) (5 days ago)
