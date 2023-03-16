@@ -38,15 +38,15 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 #### 👷 Check out what I'm currently working on
 
 - [AntoineKM/flask-app](https://github.com/AntoineKM/flask-app) -  (today)
-- [needforschool/python-ak-part1](https://github.com/needforschool/python-ak-part1) -  (today)
+- [needforschool/python-ak-part3](https://github.com/needforschool/python-ak-part3) -  (today)
 - [needforschool/python-ak-part2](https://github.com/needforschool/python-ak-part2) -  (today)
+- [needforschool/python-ak-part1](https://github.com/needforschool/python-ak-part1) -  (today)
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk. (1 day ago)
 - [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React @styled-components (currently under construction...) (5 days ago)
 - [AntoineKM/unity-paleto-bay-hospital](https://github.com/AntoineKM/unity-paleto-bay-hospital) - Discord bot for Unity RP GTAV (1 week ago)
 - [NationalSecurityAgency/nationalsecurityagency.github.io](https://github.com/NationalSecurityAgency/nationalsecurityagency.github.io) - Site for NSA&#39;s Open Source project listing (1 week ago)
 - [AntoineKM/charo](https://github.com/AntoineKM/charo) - Instagram, TikTok, Twitter, Linkedin daily CRON tasks that&#39;s make your daily social tasks. (1 week ago)
 - [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (2 weeks ago)
-- [AntoineKM/antoine](https://github.com/AntoineKM/antoine) - Custom ESLint config (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
