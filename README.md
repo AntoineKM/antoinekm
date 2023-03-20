@@ -50,8 +50,8 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔭 Latest releases I've contributed to
 
+- [tonightpass/kitchen](https://github.com/tonightpass/kitchen) ([@tonightpass/kitchen@1.3.4](https://github.com/tonightpass/kitchen/releases/tag/%40tonightpass/kitchen%401.3.4), today) - @tonightpass delicious React @styled-components (currently under construction...)
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/shared-types@0.5.0](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/shared-types%400.5.0), 4 days ago) - @tonightpass sdk.
-- [tonightpass/kitchen](https://github.com/tonightpass/kitchen) ([@tonightpass/kitchen@1.3.3](https://github.com/tonightpass/kitchen/releases/tag/%40tonightpass/kitchen%401.3.3), 1 week ago) - @tonightpass delicious React @styled-components (currently under construction...)
 - [shuding/nextra](https://github.com/shuding/nextra) ([nextra@2.2.19](https://github.com/shuding/nextra/releases/tag/nextra%402.2.19), 1 week ago) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 - [ajayesivan/react-native-remix-icon](https://github.com/ajayesivan/react-native-remix-icon) ([0.4.0](https://github.com/ajayesivan/react-native-remix-icon/releases/tag/0.4.0), 6 months ago) - An OpenSource implementation of remixicon for React Native
 - [onRuntime/next-usetranslation](https://github.com/onRuntime/next-usetranslation) ([v0.1.10](https://github.com/onRuntime/next-usetranslation/releases/tag/v0.1.10), 6 months ago) - The easiest way to translate your Next.js projects
