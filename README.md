@@ -50,7 +50,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔭 Latest releases I've contributed to
 
-- [tonightpass/kitchen](https://github.com/tonightpass/kitchen) ([@tonightpass/kitchen@1.3.4](https://github.com/tonightpass/kitchen/releases/tag/%40tonightpass/kitchen%401.3.4), today) - @tonightpass delicious React @styled-components (currently under construction...)
+- [tonightpass/kitchen](https://github.com/tonightpass/kitchen) ([@tonightpass/kitchen@1.4.1](https://github.com/tonightpass/kitchen/releases/tag/%40tonightpass/kitchen%401.4.1), today) - @tonightpass delicious React @styled-components (currently under construction...)
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/shared-types@0.5.0](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/shared-types%400.5.0), 4 days ago) - @tonightpass sdk.
 - [shuding/nextra](https://github.com/shuding/nextra) ([nextra@2.2.19](https://github.com/shuding/nextra/releases/tag/nextra%402.2.19), 1 week ago) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 - [ajayesivan/react-native-remix-icon](https://github.com/ajayesivan/react-native-remix-icon) ([0.4.0](https://github.com/ajayesivan/react-native-remix-icon/releases/tag/0.4.0), 6 months ago) - An OpenSource implementation of remixicon for React Native
@@ -61,6 +61,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
+- [✨ add native input and icon](https://github.com/tonightpass/kitchen/pull/209) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (today)
 - [🔥 remove `transgender` from `useridentitygender`](https://github.com/tonightpass/tonightpass/pull/39) on [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) (5 days ago)
 - [🏷️ add `displayname` to `useridentity`](https://github.com/tonightpass/tonightpass/pull/37) on [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) (5 days ago)
 - [🏷️ update `useridentitygender` with more default options](https://github.com/tonightpass/tonightpass/pull/35) on [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) (5 days ago)
@@ -70,10 +71,10 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [✨ add native button](https://github.com/tonightpass/kitchen/pull/195) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (1 week ago)
 - [💄 update native themes](https://github.com/tonightpass/kitchen/pull/188) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (1 week ago)
 - [🎨 improve native text](https://github.com/tonightpass/kitchen/pull/187) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (1 week ago)
-- [Update project list by sorting it by stargazers count](https://github.com/NationalSecurityAgency/nationalsecurityagency.github.io/pull/50) on [NationalSecurityAgency/nationalsecurityagency.github.io](https://github.com/NationalSecurityAgency/nationalsecurityagency.github.io) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
+- [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone. (today)
 - [Elytrium/LimboQueue](https://github.com/Elytrium/LimboQueue) - A Queue plugin for Velocity. (2 days ago)
 - [Elytrium/LimboReconnect](https://github.com/Elytrium/LimboReconnect) - Reconnect your players after server restart (2 days ago)
 - [Nuitka/Nuitka-Action](https://github.com/Nuitka/Nuitka-Action) - Action to build with Nuitka on GitHub in your workflows (1 week ago)
@@ -83,7 +84,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [Nutlope/roomGPT](https://github.com/Nutlope/roomGPT) - Upload a photo of your room to generate your dream room with AI. (2 weeks ago)
 - [NationalSecurityAgency/nationalsecurityagency.github.io](https://github.com/NationalSecurityAgency/nationalsecurityagency.github.io) - Site for NSA&#39;s Open Source project listing (2 weeks ago)
 - [egoist/tsup](https://github.com/egoist/tsup) - The simplest and fastest way to bundle your TypeScript libraries. (2 weeks ago)
-- [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
