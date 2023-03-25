@@ -37,8 +37,8 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
+- [AntoineKM/unity-paleto-bay-hospital](https://github.com/AntoineKM/unity-paleto-bay-hospital) - Discord bot for Unity RP GTAV (today)
 - [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React @styled-components (currently under construction...) (4 days ago)
-- [AntoineKM/unity-paleto-bay-hospital](https://github.com/AntoineKM/unity-paleto-bay-hospital) - Discord bot for Unity RP GTAV (1 week ago)
 - [AntoineKM/flask-app](https://github.com/AntoineKM/flask-app) -  (1 week ago)
 - [needforschool/python-ak-part2](https://github.com/needforschool/python-ak-part2) -  (1 week ago)
 - [needforschool/python-ak-part3](https://github.com/needforschool/python-ak-part3) -  (1 week ago)
