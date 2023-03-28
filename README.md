@@ -37,9 +37,9 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
-- [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (today)
-- [AntoineKM/unity-paleto-bay-hospital](https://github.com/AntoineKM/unity-paleto-bay-hospital) - Discord bot for Unity RP GTAV (today)
-- [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React @styled-components (currently under construction...) (6 days ago)
+- [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (1 day ago)
+- [AntoineKM/unity-paleto-bay-hospital](https://github.com/AntoineKM/unity-paleto-bay-hospital) - Discord bot for Unity RP GTAV (1 day ago)
+- [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React @styled-components (currently under construction...) (1 week ago)
 - [AntoineKM/flask-app](https://github.com/AntoineKM/flask-app) -  (1 week ago)
 - [needforschool/python-ak-part2](https://github.com/needforschool/python-ak-part2) -  (1 week ago)
 - [needforschool/python-ak-part3](https://github.com/needforschool/python-ak-part3) -  (1 week ago)
@@ -50,10 +50,10 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/turbo](https://github.com/vercel/turbo) ([v1.8.6](https://github.com/vercel/turbo/releases/tag/v1.8.6), today) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
-- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/grafe@3.3.1](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/grafe%403.3.1), 3 days ago) - @tonightpass sdk.
-- [shuding/nextra](https://github.com/shuding/nextra) ([nextra@2.2.20](https://github.com/shuding/nextra/releases/tag/nextra%402.2.20), 3 days ago) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
-- [tonightpass/kitchen](https://github.com/tonightpass/kitchen) ([@tonightpass/kitchen@1.4.4](https://github.com/tonightpass/kitchen/releases/tag/%40tonightpass/kitchen%401.4.4), 6 days ago) - @tonightpass delicious React @styled-components (currently under construction...)
+- [vercel/turbo](https://github.com/vercel/turbo) ([v1.8.6](https://github.com/vercel/turbo/releases/tag/v1.8.6), 1 day ago) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
+- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/grafe@3.3.1](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/grafe%403.3.1), 4 days ago) - @tonightpass sdk.
+- [shuding/nextra](https://github.com/shuding/nextra) ([nextra@2.2.20](https://github.com/shuding/nextra/releases/tag/nextra%402.2.20), 4 days ago) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
+- [tonightpass/kitchen](https://github.com/tonightpass/kitchen) ([@tonightpass/kitchen@1.4.4](https://github.com/tonightpass/kitchen/releases/tag/%40tonightpass/kitchen%401.4.4), 1 week ago) - @tonightpass delicious React @styled-components (currently under construction...)
 - [ajayesivan/react-native-remix-icon](https://github.com/ajayesivan/react-native-remix-icon) ([0.4.0](https://github.com/ajayesivan/react-native-remix-icon/releases/tag/0.4.0), 6 months ago) - An OpenSource implementation of remixicon for React Native
 - [onRuntime/next-usetranslation](https://github.com/onRuntime/next-usetranslation) ([v0.1.10](https://github.com/onRuntime/next-usetranslation/releases/tag/v0.1.10), 7 months ago) - The easiest way to translate your Next.js projects
 - [onRuntime/next-link](https://github.com/onRuntime/next-link) ([0.1.5](https://github.com/onRuntime/next-link/releases/tag/0.1.5), 7 months ago) - Customized next/link for @onRuntime Next.js projects.
@@ -71,14 +71,14 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [📝 add producthunt badge](https://github.com/tonightpass/kitchen/pull/198) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (2 weeks ago)
 - [✨ add native button](https://github.com/tonightpass/kitchen/pull/195) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (2 weeks ago)
 - [💄 update native themes](https://github.com/tonightpass/kitchen/pull/188) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (2 weeks ago)
-- [🎨 improve native text](https://github.com/tonightpass/kitchen/pull/187) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (2 weeks ago)
+- [🎨 improve native text](https://github.com/tonightpass/kitchen/pull/187) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
-- [ProxymanApp/Proxyman](https://github.com/ProxymanApp/Proxyman) - Modern. Native. Delightful Web Debugging Proxy for macOS, iOS, and Android ⚡️ (today)
-- [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first. (today)
-- [SanxRoz/prompt](https://github.com/SanxRoz/prompt) -  (1 day ago)
-- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook&#39;s LLaMA model in C/C&#43;&#43; (3 days ago)
+- [ProxymanApp/Proxyman](https://github.com/ProxymanApp/Proxyman) - Modern. Native. Delightful Web Debugging Proxy for macOS, iOS, and Android ⚡️ (1 day ago)
+- [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first. (1 day ago)
+- [SanxRoz/prompt](https://github.com/SanxRoz/prompt) -  (2 days ago)
+- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook&#39;s LLaMA model in C/C&#43;&#43; (4 days ago)
 - [mhutchie/vscode-git-graph](https://github.com/mhutchie/vscode-git-graph) - View a Git Graph of your repository in Visual Studio Code, and easily perform Git actions from the graph. (1 week ago)
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone. (1 week ago)
 - [Elytrium/LimboQueue](https://github.com/Elytrium/LimboQueue) - A Queue plugin for Velocity. (1 week ago)
