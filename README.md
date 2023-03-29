@@ -62,6 +62,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
+- [💄 fix hydration](https://github.com/tonightpass/kitchen/pull/218) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (today)
 - [✨ add native input and icon](https://github.com/tonightpass/kitchen/pull/209) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (1 week ago)
 - [🔥 remove `transgender` from `useridentitygender`](https://github.com/tonightpass/tonightpass/pull/39) on [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) (2 weeks ago)
 - [🏷️ add `displayname` to `useridentity`](https://github.com/tonightpass/tonightpass/pull/37) on [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) (2 weeks ago)
@@ -71,7 +72,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [📝 add producthunt badge](https://github.com/tonightpass/kitchen/pull/198) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (2 weeks ago)
 - [✨ add native button](https://github.com/tonightpass/kitchen/pull/195) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (3 weeks ago)
 - [💄 update native themes](https://github.com/tonightpass/kitchen/pull/188) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (3 weeks ago)
-- [🎨 improve native text](https://github.com/tonightpass/kitchen/pull/187) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
