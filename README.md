@@ -75,6 +75,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
+- [baires/shouldideploy](https://github.com/baires/shouldideploy) - Source of shouldideploy.today (today)
 - [ProxymanApp/Proxyman](https://github.com/ProxymanApp/Proxyman) - Modern. Native. Delightful Web Debugging Proxy for macOS, iOS, and Android ⚡️ (2 days ago)
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first. (2 days ago)
 - [SanxRoz/prompt](https://github.com/SanxRoz/prompt) -  (3 days ago)
@@ -84,7 +85,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [Elytrium/LimboQueue](https://github.com/Elytrium/LimboQueue) - A Queue plugin for Velocity. (1 week ago)
 - [Elytrium/LimboReconnect](https://github.com/Elytrium/LimboReconnect) - Reconnect your players after server restart (1 week ago)
 - [Nuitka/Nuitka-Action](https://github.com/Nuitka/Nuitka-Action) - Action to build with Nuitka on GitHub in your workflows (2 weeks ago)
-- [hopinc/homebrew-tap](https://github.com/hopinc/homebrew-tap) -  (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
