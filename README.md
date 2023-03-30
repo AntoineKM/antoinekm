@@ -62,6 +62,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
+- [Improvement](https://github.com/AntoineKM/shouldideploytoday/pull/1) on [AntoineKM/shouldideploytoday](https://github.com/AntoineKM/shouldideploytoday) (today)
 - [Move react to dev dependencies](https://github.com/rrudol/useCookie/pull/6) on [rrudol/useCookie](https://github.com/rrudol/useCookie) (1 day ago)
 - [💄 fix hydration](https://github.com/tonightpass/kitchen/pull/218) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (1 day ago)
 - [✨ add native input and icon](https://github.com/tonightpass/kitchen/pull/209) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (1 week ago)
@@ -71,10 +72,10 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [🎨 update `progress` component to cap values at max and 0](https://github.com/tonightpass/kitchen/pull/207) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (2 weeks ago)
 - [✨ add native container](https://github.com/tonightpass/kitchen/pull/202) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (3 weeks ago)
 - [📝 add producthunt badge](https://github.com/tonightpass/kitchen/pull/198) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (3 weeks ago)
-- [✨ add native button](https://github.com/tonightpass/kitchen/pull/195) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
+- [hopinc/action](https://github.com/hopinc/action) - :octocat: GitHub action for deploying to Hop (today)
 - [baires/shouldideploy](https://github.com/baires/shouldideploy) - Source of shouldideploy.today (1 day ago)
 - [ProxymanApp/Proxyman](https://github.com/ProxymanApp/Proxyman) - Modern. Native. Delightful Web Debugging Proxy for macOS, iOS, and Android ⚡️ (3 days ago)
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first. (3 days ago)
@@ -84,7 +85,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone. (1 week ago)
 - [Elytrium/LimboQueue](https://github.com/Elytrium/LimboQueue) - A Queue plugin for Velocity. (1 week ago)
 - [Elytrium/LimboReconnect](https://github.com/Elytrium/LimboReconnect) - Reconnect your players after server restart (1 week ago)
-- [Nuitka/Nuitka-Action](https://github.com/Nuitka/Nuitka-Action) - Action to build with Nuitka on GitHub in your workflows (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
