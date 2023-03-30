@@ -75,7 +75,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
-- [medusajs/medusa](https://github.com/medusajs/medusa) - The open-source Shopify alternative ⚡️ (today)
+- [medusajs/medusa](https://github.com/medusajs/medusa) - Building Blocks for Digital Commerce (today)
 - [hopinc/client-js](https://github.com/hopinc/client-js) - ⚛️ Integrate Hop services into your frontend (JS/React) (today)
 - [hopinc/action](https://github.com/hopinc/action) - :octocat: GitHub action for deploying to Hop (today)
 - [baires/shouldideploy](https://github.com/baires/shouldideploy) - Source of shouldideploy.today (1 day ago)
