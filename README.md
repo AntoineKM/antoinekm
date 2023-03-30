@@ -62,6 +62,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
+- [fix: remove docs app](https://github.com/hopinc/client-js/pull/2) on [hopinc/client-js](https://github.com/hopinc/client-js) (today)
 - [Improvement](https://github.com/AntoineKM/shouldideploytoday/pull/1) on [AntoineKM/shouldideploytoday](https://github.com/AntoineKM/shouldideploytoday) (today)
 - [Move react to dev dependencies](https://github.com/rrudol/useCookie/pull/6) on [rrudol/useCookie](https://github.com/rrudol/useCookie) (1 day ago)
 - [💄 fix hydration](https://github.com/tonightpass/kitchen/pull/218) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (1 day ago)
@@ -71,10 +72,11 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [🏷️ update `useridentitygender` with more default options](https://github.com/tonightpass/tonightpass/pull/35) on [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) (2 weeks ago)
 - [🎨 update `progress` component to cap values at max and 0](https://github.com/tonightpass/kitchen/pull/207) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (2 weeks ago)
 - [✨ add native container](https://github.com/tonightpass/kitchen/pull/202) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (3 weeks ago)
-- [📝 add producthunt badge](https://github.com/tonightpass/kitchen/pull/198) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
+- [medusajs/medusa](https://github.com/medusajs/medusa) - The open-source Shopify alternative ⚡️ (today)
+- [hopinc/client-js](https://github.com/hopinc/client-js) - ⚛️ Integrate Hop services into your frontend (JS/React) (today)
 - [hopinc/action](https://github.com/hopinc/action) - :octocat: GitHub action for deploying to Hop (today)
 - [baires/shouldideploy](https://github.com/baires/shouldideploy) - Source of shouldideploy.today (1 day ago)
 - [ProxymanApp/Proxyman](https://github.com/ProxymanApp/Proxyman) - Modern. Native. Delightful Web Debugging Proxy for macOS, iOS, and Android ⚡️ (3 days ago)
@@ -83,8 +85,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook&#39;s LLaMA model in C/C&#43;&#43; (6 days ago)
 - [mhutchie/vscode-git-graph](https://github.com/mhutchie/vscode-git-graph) - View a Git Graph of your repository in Visual Studio Code, and easily perform Git actions from the graph. (1 week ago)
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone. (1 week ago)
-- [Elytrium/LimboQueue](https://github.com/Elytrium/LimboQueue) - A Queue plugin for Velocity. (1 week ago)
-- [Elytrium/LimboReconnect](https://github.com/Elytrium/LimboReconnect) - Reconnect your players after server restart (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
