@@ -37,13 +37,13 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
+- [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React @styled-components (currently under construction...) (today)
 - [AntoineKM/nextjs-starter-medusa](https://github.com/AntoineKM/nextjs-starter-medusa) -  (2 days ago)
 - [AntoineKM/hop-action-tests-preact](https://github.com/AntoineKM/hop-action-tests-preact) -  (2 days ago)
 - [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot) -  (2 days ago)
 - [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (3 days ago)
 - [AntoineKM/shouldideploytoday](https://github.com/AntoineKM/shouldideploytoday) -  (3 days ago)
 - [AntoineKM/unity-paleto-bay-hospital](https://github.com/AntoineKM/unity-paleto-bay-hospital) - Discord bot for Unity RP GTAV (4 days ago)
-- [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React @styled-components (currently under construction...) (1 week ago)
 - [AntoineKM/flask-app](https://github.com/AntoineKM/flask-app) -  (2 weeks ago)
 - [needforschool/python-ak-part3](https://github.com/needforschool/python-ak-part3) -  (2 weeks ago)
 - [needforschool/python-ak-part2](https://github.com/needforschool/python-ak-part2) -  (2 weeks ago)
@@ -75,6 +75,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
+- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter&#39;s Recommendation Algorithm (today)
 - [medusajs/medusa](https://github.com/medusajs/medusa) - Building blocks for digital commerce (2 days ago)
 - [hopinc/client-js](https://github.com/hopinc/client-js) - ⚛️ Integrate Hop services into your frontend (JS/React) (2 days ago)
 - [hopinc/action](https://github.com/hopinc/action) - :octocat: GitHub action for deploying to Hop (2 days ago)
@@ -84,7 +85,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [SanxRoz/prompt](https://github.com/SanxRoz/prompt) -  (6 days ago)
 - [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook&#39;s LLaMA model in C/C&#43;&#43; (1 week ago)
 - [mhutchie/vscode-git-graph](https://github.com/mhutchie/vscode-git-graph) - View a Git Graph of your repository in Visual Studio Code, and easily perform Git actions from the graph. (1 week ago)
-- [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone. (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
