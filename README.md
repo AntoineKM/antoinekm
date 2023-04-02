@@ -75,6 +75,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
+- [DMarby/picsum-photos](https://github.com/DMarby/picsum-photos) - Lorem Ipsum... but for photos. (today)
 - [vercel/next-learn](https://github.com/vercel/next-learn) - Learn Next.js Starter Code (today)
 - [seemoo-lab/openhaystack](https://github.com/seemoo-lab/openhaystack) - Build your own &#39;AirTags&#39; 🏷 today! Framework for tracking personal Bluetooth devices via Apple&#39;s massive Find My network. (today)
 - [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter&#39;s Recommendation Algorithm (1 day ago)
@@ -84,7 +85,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [baires/shouldideploy](https://github.com/baires/shouldideploy) - Source of shouldideploy.today (4 days ago)
 - [ProxymanApp/Proxyman](https://github.com/ProxymanApp/Proxyman) - Modern. Native. Delightful Web Debugging Proxy for macOS, iOS, and Android ⚡️ (6 days ago)
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first. (6 days ago)
-- [SanxRoz/prompt](https://github.com/SanxRoz/prompt) -  (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
