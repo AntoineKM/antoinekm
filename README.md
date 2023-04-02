@@ -62,7 +62,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
-- [Antoinekm/workshop](https://github.com/tonightpass/kitchen/pull/220) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (today)
+- [✨ add workshop](https://github.com/tonightpass/kitchen/pull/220) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (today)
 - [💚 fix dev script](https://github.com/tonightpass/kitchen/pull/219) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (2 days ago)
 - [fix: remove docs app](https://github.com/hopinc/client-js/pull/2) on [hopinc/client-js](https://github.com/hopinc/client-js) (3 days ago)
 - [Improvement](https://github.com/AntoineKM/shouldideploytoday/pull/1) on [AntoineKM/shouldideploytoday](https://github.com/AntoineKM/shouldideploytoday) (3 days ago)
