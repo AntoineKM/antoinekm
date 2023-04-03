@@ -50,7 +50,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔭 Latest releases I've contributed to
 
-- [tonightpass/kitchen](https://github.com/tonightpass/kitchen) ([@tonightpass/kitchen@1.5.1](https://github.com/tonightpass/kitchen/releases/tag/%40tonightpass/kitchen%401.5.1), 1 day ago) - @tonightpass delicious React @styled-components (currently under construction...)
+- [tonightpass/kitchen](https://github.com/tonightpass/kitchen) ([@tonightpass/kitchen@1.5.2](https://github.com/tonightpass/kitchen/releases/tag/%40tonightpass/kitchen%401.5.2), today) - @tonightpass delicious React @styled-components (currently under construction...)
 - [vercel/turbo](https://github.com/vercel/turbo) ([v1.8.9-canary.0](https://github.com/vercel/turbo/releases/tag/v1.8.9-canary.0), 3 days ago) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
 - [shuding/nextra](https://github.com/shuding/nextra) ([nextra@2.3.0](https://github.com/shuding/nextra/releases/tag/nextra%402.3.0), 4 days ago) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/grafe@3.3.1](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/grafe%403.3.1), 1 week ago) - @tonightpass sdk.
