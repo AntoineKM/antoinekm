@@ -37,6 +37,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
+- [AntoineKM/dnext](https://github.com/AntoineKM/dnext) -  (today)
 - [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React @styled-components (currently under construction...) (today)
 - [AntoineKM/nextjs-starter-medusa](https://github.com/AntoineKM/nextjs-starter-medusa) -  (6 days ago)
 - [AntoineKM/hop-action-tests-preact](https://github.com/AntoineKM/hop-action-tests-preact) -  (6 days ago)
@@ -44,9 +45,8 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (1 week ago)
 - [AntoineKM/shouldideploytoday](https://github.com/AntoineKM/shouldideploytoday) -  (1 week ago)
 - [AntoineKM/unity-paleto-bay-hospital](https://github.com/AntoineKM/unity-paleto-bay-hospital) - Discord bot for Unity RP GTAV (1 week ago)
-- [AntoineKM/flask-app](https://github.com/AntoineKM/flask-app) -  (2 weeks ago)
 - [needforschool/python-ak-part3](https://github.com/needforschool/python-ak-part3) -  (2 weeks ago)
-- [needforschool/python-ak-part2](https://github.com/needforschool/python-ak-part2) -  (2 weeks ago)
+- [needforschool/python-ak-part1](https://github.com/needforschool/python-ak-part1) -  (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -75,6 +75,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
+- [AntoineKM/dnext](https://github.com/AntoineKM/dnext) -  (today)
 - [DMarby/picsum-photos](https://github.com/DMarby/picsum-photos) - Lorem Ipsum... but for photos. (3 days ago)
 - [vercel/next-learn](https://github.com/vercel/next-learn) - Learn Next.js Starter Code (3 days ago)
 - [seemoo-lab/openhaystack](https://github.com/seemoo-lab/openhaystack) - Build your own &#39;AirTags&#39; 🏷 today! Framework for tracking personal Bluetooth devices via Apple&#39;s massive Find My network. (3 days ago)
@@ -84,7 +85,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [hopinc/action](https://github.com/hopinc/action) - :octocat: GitHub action for deploying to Hop (6 days ago)
 - [baires/shouldideploy](https://github.com/baires/shouldideploy) - Source of shouldideploy.today (1 week ago)
 - [ProxymanApp/Proxyman](https://github.com/ProxymanApp/Proxyman) - Modern. Native. Delightful Web Debugging Proxy for macOS, iOS, and Android ⚡️ (1 week ago)
-- [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first. (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
