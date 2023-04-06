@@ -75,6 +75,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
+- [microsoft/JARVIS](https://github.com/microsoft/JARVIS) - JARVIS, a system to connect LLMs with ML community (today)
 - [AntoineKM/dnext](https://github.com/AntoineKM/dnext) -  (1 day ago)
 - [DMarby/picsum-photos](https://github.com/DMarby/picsum-photos) - Lorem Ipsum... but for photos. (4 days ago)
 - [vercel/next-learn](https://github.com/vercel/next-learn) - Learn Next.js Starter Code (4 days ago)
@@ -84,7 +85,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [hopinc/client-js](https://github.com/hopinc/client-js) - ⚛️ Integrate Hop services into your frontend (JS/React) (1 week ago)
 - [hopinc/action](https://github.com/hopinc/action) - :octocat: GitHub action for deploying to Hop (1 week ago)
 - [baires/shouldideploy](https://github.com/baires/shouldideploy) - Source of shouldideploy.today (1 week ago)
-- [ProxymanApp/Proxyman](https://github.com/ProxymanApp/Proxyman) - Modern. Native. Delightful Web Debugging Proxy for macOS, iOS, and Android ⚡️ (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
