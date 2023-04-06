@@ -38,21 +38,21 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 #### 👷 Check out what I'm currently working on
 
 - [AntoineKM/dnext](https://github.com/AntoineKM/dnext) -  (today)
-- [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React @styled-components (currently under construction...) (today)
-- [AntoineKM/nextjs-starter-medusa](https://github.com/AntoineKM/nextjs-starter-medusa) -  (6 days ago)
-- [AntoineKM/hop-action-tests-preact](https://github.com/AntoineKM/hop-action-tests-preact) -  (6 days ago)
-- [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot) -  (6 days ago)
+- [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React @styled-components (currently under construction...) (1 day ago)
+- [AntoineKM/nextjs-starter-medusa](https://github.com/AntoineKM/nextjs-starter-medusa) -  (1 week ago)
+- [AntoineKM/hop-action-tests-preact](https://github.com/AntoineKM/hop-action-tests-preact) -  (1 week ago)
+- [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot) -  (1 week ago)
 - [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (1 week ago)
 - [AntoineKM/shouldideploytoday](https://github.com/AntoineKM/shouldideploytoday) -  (1 week ago)
 - [AntoineKM/unity-paleto-bay-hospital](https://github.com/AntoineKM/unity-paleto-bay-hospital) - Discord bot for Unity RP GTAV (1 week ago)
-- [needforschool/python-ak-part3](https://github.com/needforschool/python-ak-part3) -  (2 weeks ago)
-- [needforschool/python-ak-part1](https://github.com/needforschool/python-ak-part1) -  (2 weeks ago)
+- [needforschool/python-ak-part3](https://github.com/needforschool/python-ak-part3) -  (3 weeks ago)
+- [needforschool/python-ak-part1](https://github.com/needforschool/python-ak-part1) -  (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/turbo](https://github.com/vercel/turbo) ([v1.9.0-canary.1](https://github.com/vercel/turbo/releases/tag/v1.9.0-canary.1), 1 day ago) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
-- [tonightpass/kitchen](https://github.com/tonightpass/kitchen) ([@tonightpass/kitchen@1.5.3](https://github.com/tonightpass/kitchen/releases/tag/%40tonightpass/kitchen%401.5.3), 1 day ago) - @tonightpass delicious React @styled-components (currently under construction...)
-- [shuding/nextra](https://github.com/shuding/nextra) ([nextra@2.3.0](https://github.com/shuding/nextra/releases/tag/nextra%402.3.0), 6 days ago) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
+- [vercel/turbo](https://github.com/vercel/turbo) ([v1.9.0-canary.1](https://github.com/vercel/turbo/releases/tag/v1.9.0-canary.1), 2 days ago) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
+- [tonightpass/kitchen](https://github.com/tonightpass/kitchen) ([@tonightpass/kitchen@1.5.3](https://github.com/tonightpass/kitchen/releases/tag/%40tonightpass/kitchen%401.5.3), 2 days ago) - @tonightpass delicious React @styled-components (currently under construction...)
+- [shuding/nextra](https://github.com/shuding/nextra) ([nextra@2.3.0](https://github.com/shuding/nextra/releases/tag/nextra%402.3.0), 1 week ago) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/grafe@3.3.1](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/grafe%403.3.1), 1 week ago) - @tonightpass sdk.
 - [ajayesivan/react-native-remix-icon](https://github.com/ajayesivan/react-native-remix-icon) ([0.4.0](https://github.com/ajayesivan/react-native-remix-icon/releases/tag/0.4.0), 6 months ago) - An OpenSource implementation of remixicon for React Native
 - [onRuntime/next-usetranslation](https://github.com/onRuntime/next-usetranslation) ([v0.1.10](https://github.com/onRuntime/next-usetranslation/releases/tag/v0.1.10), 7 months ago) - The easiest way to translate your Next.js projects
@@ -62,11 +62,11 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
-- [✨ add create-kitchen](https://github.com/tonightpass/kitchen/pull/225) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (2 days ago)
-- [✨ add workshop](https://github.com/tonightpass/kitchen/pull/220) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (3 days ago)
-- [💚 fix dev script](https://github.com/tonightpass/kitchen/pull/219) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (5 days ago)
-- [fix: remove docs app](https://github.com/hopinc/client-js/pull/2) on [hopinc/client-js](https://github.com/hopinc/client-js) (6 days ago)
-- [Improvement](https://github.com/AntoineKM/shouldideploytoday/pull/1) on [AntoineKM/shouldideploytoday](https://github.com/AntoineKM/shouldideploytoday) (6 days ago)
+- [✨ add create-kitchen](https://github.com/tonightpass/kitchen/pull/225) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (3 days ago)
+- [✨ add workshop](https://github.com/tonightpass/kitchen/pull/220) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (4 days ago)
+- [💚 fix dev script](https://github.com/tonightpass/kitchen/pull/219) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (6 days ago)
+- [fix: remove docs app](https://github.com/hopinc/client-js/pull/2) on [hopinc/client-js](https://github.com/hopinc/client-js) (1 week ago)
+- [Improvement](https://github.com/AntoineKM/shouldideploytoday/pull/1) on [AntoineKM/shouldideploytoday](https://github.com/AntoineKM/shouldideploytoday) (1 week ago)
 - [Move react to dev dependencies](https://github.com/rrudol/useCookie/pull/6) on [rrudol/useCookie](https://github.com/rrudol/useCookie) (1 week ago)
 - [💄 fix hydration](https://github.com/tonightpass/kitchen/pull/218) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (1 week ago)
 - [✨ add native input and icon](https://github.com/tonightpass/kitchen/pull/209) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (2 weeks ago)
@@ -75,14 +75,14 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
-- [AntoineKM/dnext](https://github.com/AntoineKM/dnext) -  (today)
-- [DMarby/picsum-photos](https://github.com/DMarby/picsum-photos) - Lorem Ipsum... but for photos. (3 days ago)
-- [vercel/next-learn](https://github.com/vercel/next-learn) - Learn Next.js Starter Code (3 days ago)
-- [seemoo-lab/openhaystack](https://github.com/seemoo-lab/openhaystack) - Build your own &#39;AirTags&#39; 🏷 today! Framework for tracking personal Bluetooth devices via Apple&#39;s massive Find My network. (3 days ago)
-- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter&#39;s Recommendation Algorithm (4 days ago)
-- [medusajs/medusa](https://github.com/medusajs/medusa) - Building blocks for digital commerce (6 days ago)
-- [hopinc/client-js](https://github.com/hopinc/client-js) - ⚛️ Integrate Hop services into your frontend (JS/React) (6 days ago)
-- [hopinc/action](https://github.com/hopinc/action) - :octocat: GitHub action for deploying to Hop (6 days ago)
+- [AntoineKM/dnext](https://github.com/AntoineKM/dnext) -  (1 day ago)
+- [DMarby/picsum-photos](https://github.com/DMarby/picsum-photos) - Lorem Ipsum... but for photos. (4 days ago)
+- [vercel/next-learn](https://github.com/vercel/next-learn) - Learn Next.js Starter Code (4 days ago)
+- [seemoo-lab/openhaystack](https://github.com/seemoo-lab/openhaystack) - Build your own &#39;AirTags&#39; 🏷 today! Framework for tracking personal Bluetooth devices via Apple&#39;s massive Find My network. (4 days ago)
+- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter&#39;s Recommendation Algorithm (5 days ago)
+- [medusajs/medusa](https://github.com/medusajs/medusa) - Building blocks for digital commerce (1 week ago)
+- [hopinc/client-js](https://github.com/hopinc/client-js) - ⚛️ Integrate Hop services into your frontend (JS/React) (1 week ago)
+- [hopinc/action](https://github.com/hopinc/action) - :octocat: GitHub action for deploying to Hop (1 week ago)
 - [baires/shouldideploy](https://github.com/baires/shouldideploy) - Source of shouldideploy.today (1 week ago)
 - [ProxymanApp/Proxyman](https://github.com/ProxymanApp/Proxyman) - Modern. Native. Delightful Web Debugging Proxy for macOS, iOS, and Android ⚡️ (1 week ago)
 
