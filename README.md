@@ -76,7 +76,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 #### ⭐ Recent Stars
 
 - [AntoineKM/shouldideploytoday](https://github.com/AntoineKM/shouldideploytoday) - This is a simple school project made with Next.js and Kitchen. (today)
-- [microsoft/JARVIS](https://github.com/microsoft/JARVIS) - JARVIS, a system to connect LLMs with ML community (1 day ago)
+- [microsoft/JARVIS](https://github.com/microsoft/JARVIS) - JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf (1 day ago)
 - [AntoineKM/dnext](https://github.com/AntoineKM/dnext) -  (2 days ago)
 - [DMarby/picsum-photos](https://github.com/DMarby/picsum-photos) - Lorem Ipsum... but for photos. (5 days ago)
 - [vercel/next-learn](https://github.com/vercel/next-learn) - Learn Next.js Starter Code (5 days ago)
