@@ -38,10 +38,10 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 #### 👷 Check out what I'm currently working on
 
 - [AntoineKM/shouldideploytoday](https://github.com/AntoineKM/shouldideploytoday) - This is a simple school project made with Next.js and Kitchen. (today)
+- [AntoineKM/dnext](https://github.com/AntoineKM/dnext) -  (today)
 - [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React @styled-components (currently under construction...) (today)
-- [AntoineKM/dnext](https://github.com/AntoineKM/dnext) -  (1 day ago)
-- [AntoineKM/hop-action-tests-preact](https://github.com/AntoineKM/hop-action-tests-preact) -  (1 week ago)
 - [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot) -  (1 week ago)
+- [AntoineKM/hop-action-tests-preact](https://github.com/AntoineKM/hop-action-tests-preact) -  (1 week ago)
 - [AntoineKM/nextjs-starter-medusa](https://github.com/AntoineKM/nextjs-starter-medusa) -  (1 week ago)
 - [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (1 week ago)
 - [AntoineKM/unity-paleto-bay-hospital](https://github.com/AntoineKM/unity-paleto-bay-hospital) - Discord bot for Unity RP GTAV (1 week ago)
