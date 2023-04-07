@@ -62,6 +62,8 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
+- [fix: update homepage link to point to the new docs site](https://github.com/hopinc/client-js/pull/3) on [hopinc/client-js](https://github.com/hopinc/client-js) (today)
+- [fix: update homepage link to point to the new docs site](https://github.com/hopinc/js/pull/116) on [hopinc/js](https://github.com/hopinc/js) (today)
 - [fix(keyboard): improve keyboard hook with callback](https://github.com/geist-org/geist-ui/pull/831) on [geist-org/geist-ui](https://github.com/geist-org/geist-ui) (today)
 - [✨ add create-kitchen](https://github.com/tonightpass/kitchen/pull/225) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (4 days ago)
 - [✨ add workshop](https://github.com/tonightpass/kitchen/pull/220) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (5 days ago)
@@ -70,8 +72,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [Improvement](https://github.com/AntoineKM/shouldideploytoday/pull/1) on [AntoineKM/shouldideploytoday](https://github.com/AntoineKM/shouldideploytoday) (1 week ago)
 - [Move react to dev dependencies](https://github.com/rrudol/useCookie/pull/6) on [rrudol/useCookie](https://github.com/rrudol/useCookie) (1 week ago)
 - [💄 fix hydration](https://github.com/tonightpass/kitchen/pull/218) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (1 week ago)
-- [✨ add native input and icon](https://github.com/tonightpass/kitchen/pull/209) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (2 weeks ago)
-- [🔥 remove `transgender` from `useridentitygender`](https://github.com/tonightpass/tonightpass/pull/39) on [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
