@@ -62,6 +62,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
+- [fix(keyboard): improve keyboard hook with callback](https://github.com/geist-org/geist-ui/pull/831) on [geist-org/geist-ui](https://github.com/geist-org/geist-ui) (today)
 - [✨ add create-kitchen](https://github.com/tonightpass/kitchen/pull/225) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (4 days ago)
 - [✨ add workshop](https://github.com/tonightpass/kitchen/pull/220) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (5 days ago)
 - [💚 fix dev script](https://github.com/tonightpass/kitchen/pull/219) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (1 week ago)
@@ -71,7 +72,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [💄 fix hydration](https://github.com/tonightpass/kitchen/pull/218) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (1 week ago)
 - [✨ add native input and icon](https://github.com/tonightpass/kitchen/pull/209) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (2 weeks ago)
 - [🔥 remove `transgender` from `useridentitygender`](https://github.com/tonightpass/tonightpass/pull/39) on [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) (3 weeks ago)
-- [🏷️ add `displayname` to `useridentity`](https://github.com/tonightpass/tonightpass/pull/37) on [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
