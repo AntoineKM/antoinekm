@@ -37,7 +37,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
-- [AntoineKM/dixt](https://github.com/AntoineKM/dixt) -  (1 day ago)
+- [AntoineKM/dixt](https://github.com/AntoineKM/dixt) - Discord framework with easy plugins implementation - Try it live ! (today)
 - [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React @styled-components (currently under construction...) (1 day ago)
 - [AntoineKM/shouldideploytoday](https://github.com/AntoineKM/shouldideploytoday) - This is a simple school project made with Next.js and Kitchen. (1 day ago)
 - [AntoineKM/nextjs-starter-medusa](https://github.com/AntoineKM/nextjs-starter-medusa) -  (1 week ago)
@@ -50,7 +50,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔭 Latest releases I've contributed to
 
-- [AntoineKM/dixt](https://github.com/AntoineKM/dixt) ([dixt@1.0.0](https://github.com/AntoineKM/dixt/releases/tag/dixt%401.0.0), 1 day ago) - 
+- [AntoineKM/dixt](https://github.com/AntoineKM/dixt) ([dixt@2.0.0](https://github.com/AntoineKM/dixt/releases/tag/dixt%402.0.0), today) - Discord framework with easy plugins implementation - Try it live !
 - [tonightpass/kitchen](https://github.com/tonightpass/kitchen) ([@tonightpass/kitchen@1.5.5](https://github.com/tonightpass/kitchen/releases/tag/%40tonightpass/kitchen%401.5.5), 1 day ago) - @tonightpass delicious React @styled-components (currently under construction...)
 - [vercel/turbo](https://github.com/vercel/turbo) ([v1.9.0-canary.2](https://github.com/vercel/turbo/releases/tag/v1.9.0-canary.2), 2 days ago) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/grafe@3.5.1](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/grafe%403.5.1), 2 days ago) - @tonightpass sdk.
@@ -76,16 +76,16 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
+- [rvanwijnen/spectral.js](https://github.com/rvanwijnen/spectral.js) -  (today)
 - [AntoineKM/shouldideploytoday](https://github.com/AntoineKM/shouldideploytoday) - This is a simple school project made with Next.js and Kitchen. (1 day ago)
 - [microsoft/JARVIS](https://github.com/microsoft/JARVIS) - JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf (2 days ago)
-- [AntoineKM/dixt](https://github.com/AntoineKM/dixt) -  (3 days ago)
+- [AntoineKM/dixt](https://github.com/AntoineKM/dixt) - Discord framework with easy plugins implementation - Try it live ! (3 days ago)
 - [DMarby/picsum-photos](https://github.com/DMarby/picsum-photos) - Lorem Ipsum... but for photos. (6 days ago)
 - [vercel/next-learn](https://github.com/vercel/next-learn) - Learn Next.js Starter Code (6 days ago)
 - [seemoo-lab/openhaystack](https://github.com/seemoo-lab/openhaystack) - Build your own &#39;AirTags&#39; 🏷 today! Framework for tracking personal Bluetooth devices via Apple&#39;s massive Find My network. (6 days ago)
 - [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter&#39;s Recommendation Algorithm (1 week ago)
 - [medusajs/medusa](https://github.com/medusajs/medusa) - Building blocks for digital commerce (1 week ago)
 - [hopinc/client-js](https://github.com/hopinc/client-js) - ⚛️ Integrate Hop services into your frontend (JS/React) (1 week ago)
-- [hopinc/action](https://github.com/hopinc/action) - :octocat: GitHub action for deploying to Hop (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
