@@ -45,8 +45,8 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [AntoineKM/hop-action-tests-preact](https://github.com/AntoineKM/hop-action-tests-preact) -  (1 week ago)
 - [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (1 week ago)
 - [AntoineKM/unity-paleto-bay-hospital](https://github.com/AntoineKM/unity-paleto-bay-hospital) - Discord bot for Unity RP GTAV (1 week ago)
-- [needforschool/python-ak-part2](https://github.com/needforschool/python-ak-part2) -  (3 weeks ago)
 - [needforschool/python-ak-part3](https://github.com/needforschool/python-ak-part3) -  (3 weeks ago)
+- [AntoineKM/flask-app](https://github.com/AntoineKM/flask-app) -  (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
