@@ -76,6 +76,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
+- [0xk1h0/ChatGPT_DAN](https://github.com/0xk1h0/ChatGPT_DAN) - ChatGPT DAN, Jailbreaks prompt (today)
 - [rvanwijnen/spectral.js](https://github.com/rvanwijnen/spectral.js) -  (1 day ago)
 - [AntoineKM/shouldideploytoday](https://github.com/AntoineKM/shouldideploytoday) - This is a simple school project made with Next.js and Kitchen. (2 days ago)
 - [microsoft/JARVIS](https://github.com/microsoft/JARVIS) - JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf (3 days ago)
@@ -85,7 +86,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [seemoo-lab/openhaystack](https://github.com/seemoo-lab/openhaystack) - Build your own &#39;AirTags&#39; 🏷 today! Framework for tracking personal Bluetooth devices via Apple&#39;s massive Find My network. (1 week ago)
 - [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter&#39;s Recommendation Algorithm (1 week ago)
 - [medusajs/medusa](https://github.com/medusajs/medusa) - Building blocks for digital commerce (1 week ago)
-- [hopinc/client-js](https://github.com/hopinc/client-js) - ⚛️ Integrate Hop services into your frontend (JS/React) (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
