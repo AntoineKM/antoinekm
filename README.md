@@ -50,9 +50,9 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔭 Latest releases I've contributed to
 
+- [vercel/turbo](https://github.com/vercel/turbo) ([v1.9.0-canary.3](https://github.com/vercel/turbo/releases/tag/v1.9.0-canary.3), today) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
 - [AntoineKM/dixt](https://github.com/AntoineKM/dixt) ([dixt-plugin-join@2.0.1](https://github.com/AntoineKM/dixt/releases/tag/dixt-plugin-join%402.0.1), 2 days ago) - Discord framework with easy plugins implementation - Try it live !
 - [tonightpass/kitchen](https://github.com/tonightpass/kitchen) ([@tonightpass/kitchen@1.5.5](https://github.com/tonightpass/kitchen/releases/tag/%40tonightpass/kitchen%401.5.5), 3 days ago) - @tonightpass delicious React @styled-components (currently under construction...)
-- [vercel/turbo](https://github.com/vercel/turbo) ([v1.9.0-canary.2](https://github.com/vercel/turbo/releases/tag/v1.9.0-canary.2), 4 days ago) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/grafe@3.5.1](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/grafe%403.5.1), 4 days ago) - @tonightpass sdk.
 - [shuding/nextra](https://github.com/shuding/nextra) ([nextra@2.3.0](https://github.com/shuding/nextra/releases/tag/nextra%402.3.0), 1 week ago) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 - [ajayesivan/react-native-remix-icon](https://github.com/ajayesivan/react-native-remix-icon) ([0.4.0](https://github.com/ajayesivan/react-native-remix-icon/releases/tag/0.4.0), 6 months ago) - An OpenSource implementation of remixicon for React Native
