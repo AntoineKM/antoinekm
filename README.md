@@ -50,7 +50,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/turbo](https://github.com/vercel/turbo) ([v1.9.1](https://github.com/vercel/turbo/releases/tag/v1.9.1), 1 day ago) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
+- [vercel/turbo](https://github.com/vercel/turbo) ([v1.9.2-canary.0](https://github.com/vercel/turbo/releases/tag/v1.9.2-canary.0), today) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
 - [AntoineKM/dixt](https://github.com/AntoineKM/dixt) ([dixt-plugin-join@2.0.1](https://github.com/AntoineKM/dixt/releases/tag/dixt-plugin-join%402.0.1), 5 days ago) - Discord framework with easy plugins implementation - Try it live !
 - [tonightpass/kitchen](https://github.com/tonightpass/kitchen) ([@tonightpass/kitchen@1.5.5](https://github.com/tonightpass/kitchen/releases/tag/%40tonightpass/kitchen%401.5.5), 6 days ago) - @tonightpass delicious React @styled-components (currently under construction...)
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/grafe@3.5.1](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/grafe%403.5.1), 1 week ago) - @tonightpass sdk.
