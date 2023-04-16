@@ -76,6 +76,8 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
+- [VidunderGunder/create-xp-app](https://github.com/VidunderGunder/create-xp-app) - Opionionated fullstack app starter for Nextjs and Expo with up to 100% code sharing (today)
+- [nandorojo/moti](https://github.com/nandorojo/moti) - 🐼  The React Native (&#43; Web) animation library, powered by Reanimated 2. (today)
 - [cursecodes/pricing-comparison](https://github.com/cursecodes/pricing-comparison) - Quick pricing comparison between platforms (https://pricing.cursecode.me) (1 day ago)
 - [0xk1h0/ChatGPT_DAN](https://github.com/0xk1h0/ChatGPT_DAN) - ChatGPT DAN, Jailbreaks prompt (1 week ago)
 - [rvanwijnen/spectral.js](https://github.com/rvanwijnen/spectral.js) -  (1 week ago)
@@ -84,8 +86,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [AntoineKM/dixt](https://github.com/AntoineKM/dixt) - Discord framework with easy plugins implementation - Try it live ! (1 week ago)
 - [DMarby/picsum-photos](https://github.com/DMarby/picsum-photos) - Lorem Ipsum... but for photos. (2 weeks ago)
 - [vercel/next-learn](https://github.com/vercel/next-learn) - Learn Next.js Starter Code (2 weeks ago)
-- [seemoo-lab/openhaystack](https://github.com/seemoo-lab/openhaystack) - Build your own &#39;AirTags&#39; 🏷 today! Framework for tracking personal Bluetooth devices via Apple&#39;s massive Find My network. (2 weeks ago)
-- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter&#39;s Recommendation Algorithm (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
