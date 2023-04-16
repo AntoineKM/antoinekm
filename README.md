@@ -45,12 +45,12 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [AntoineKM/shouldideploytoday](https://github.com/AntoineKM/shouldideploytoday) - This is a simple school project made with Next.js and Kitchen. (1 week ago)
 - [AntoineKM/nextjs-starter-medusa](https://github.com/AntoineKM/nextjs-starter-medusa) -  (2 weeks ago)
 - [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot) -  (2 weeks ago)
-- [needforschool/python-ak-part3](https://github.com/needforschool/python-ak-part3) -  (1 month ago)
 - [needforschool/python-ak-part1](https://github.com/needforschool/python-ak-part1) -  (1 month ago)
+- [needforschool/python-ak-part3](https://github.com/needforschool/python-ak-part3) -  (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [AntoineKM/dixt](https://github.com/AntoineKM/dixt) ([dixt-plugin-react@2.1.1](https://github.com/AntoineKM/dixt/releases/tag/dixt-plugin-react%402.1.1), 1 day ago) - Discord framework with easy plugins implementation - Try it live !
+- [AntoineKM/dixt](https://github.com/AntoineKM/dixt) ([dixt@2.1.2](https://github.com/AntoineKM/dixt/releases/tag/dixt%402.1.2), today) - Discord framework with easy plugins implementation - Try it live !
 - [shuding/nextra](https://github.com/shuding/nextra) ([nextra-theme-docs@2.4.0](https://github.com/shuding/nextra/releases/tag/nextra-theme-docs%402.4.0), 2 days ago) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 - [vercel/turbo](https://github.com/vercel/turbo) ([v1.9.2-canary.0](https://github.com/vercel/turbo/releases/tag/v1.9.2-canary.0), 3 days ago) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
 - [tonightpass/kitchen](https://github.com/tonightpass/kitchen) ([@tonightpass/kitchen@1.5.5](https://github.com/tonightpass/kitchen/releases/tag/%40tonightpass/kitchen%401.5.5), 1 week ago) - @tonightpass delicious React @styled-components (currently under construction...)
