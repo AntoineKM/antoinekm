@@ -37,8 +37,8 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
+- [AntoineKM/unity-paleto-bay-hospital](https://github.com/AntoineKM/unity-paleto-bay-hospital) - Discord bot for Unity RP GTA V (today)
 - [AntoineKM/dixt](https://github.com/AntoineKM/dixt) - Discord framework with easy plugins implementation - Try it live ! (1 day ago)
-- [AntoineKM/unity-paleto-bay-hospital](https://github.com/AntoineKM/unity-paleto-bay-hospital) - Discord bot for Unity RP GTA V (1 day ago)
 - [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React @styled-components (currently under construction...) (4 days ago)
 - [AntoineKM/hop-action-tests-preact](https://github.com/AntoineKM/hop-action-tests-preact) -  (5 days ago)
 - [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (6 days ago)
@@ -76,6 +76,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
+- [Thinkmill/manypkg](https://github.com/Thinkmill/manypkg) - ☔️ An umbrella for your monorepo (today)
 - [VidunderGunder/create-xp-app](https://github.com/VidunderGunder/create-xp-app) - Opionionated fullstack app starter for Nextjs and Expo with up to 100% code sharing (2 days ago)
 - [nandorojo/moti](https://github.com/nandorojo/moti) - 🐼  The React Native (&#43; Web) animation library, powered by Reanimated 2. (2 days ago)
 - [cursecodes/pricing-comparison](https://github.com/cursecodes/pricing-comparison) - Quick pricing comparison between platforms (https://pricing.cursecode.me) (3 days ago)
@@ -85,7 +86,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [microsoft/JARVIS](https://github.com/microsoft/JARVIS) - JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf (1 week ago)
 - [AntoineKM/dixt](https://github.com/AntoineKM/dixt) - Discord framework with easy plugins implementation - Try it live ! (1 week ago)
 - [DMarby/picsum-photos](https://github.com/DMarby/picsum-photos) - Lorem Ipsum... but for photos. (2 weeks ago)
-- [vercel/next-learn](https://github.com/vercel/next-learn) - Learn Next.js Starter Code (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
