@@ -38,20 +38,20 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 #### 👷 Check out what I'm currently working on
 
 - [AntoineKM/unity-paleto-bay-hospital](https://github.com/AntoineKM/unity-paleto-bay-hospital) - Discord bot for Unity RP GTA V (today)
-- [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (today)
+- [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot) -  (today)
 - [AntoineKM/dixt](https://github.com/AntoineKM/dixt) - Discord framework with easy plugins implementation - Try it live ! (today)
+- [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (today)
 - [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React @styled-components (currently under construction...) (2 days ago)
 - [AntoineKM/hop-action-tests-preact](https://github.com/AntoineKM/hop-action-tests-preact) -  (1 week ago)
 - [AntoineKM/shouldideploytoday](https://github.com/AntoineKM/shouldideploytoday) - This is a simple school project made with Next.js and Kitchen. (2 weeks ago)
 - [AntoineKM/nextjs-starter-medusa](https://github.com/AntoineKM/nextjs-starter-medusa) -  (3 weeks ago)
-- [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot) -  (3 weeks ago)
 - [needforschool/python-ak-part1](https://github.com/needforschool/python-ak-part1) -  (1 month ago)
 - [needforschool/python-ak-part3](https://github.com/needforschool/python-ak-part3) -  (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [AntoineKM/dixt](https://github.com/AntoineKM/dixt) ([dixt-plugin-presence@1.0.1](https://github.com/AntoineKM/dixt/releases/tag/dixt-plugin-presence%401.0.1), today) - Discord framework with easy plugins implementation - Try it live !
 - [vercel/turbo](https://github.com/vercel/turbo) ([v1.9.4-canary.2](https://github.com/vercel/turbo/releases/tag/v1.9.4-canary.2), today) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
-- [AntoineKM/dixt](https://github.com/AntoineKM/dixt) ([dixt-plugin-twitch@1.1.7](https://github.com/AntoineKM/dixt/releases/tag/dixt-plugin-twitch%401.1.7), 3 days ago) - Discord framework with easy plugins implementation - Try it live !
 - [shuding/nextra](https://github.com/shuding/nextra) ([nextra-theme-docs@2.4.0](https://github.com/shuding/nextra/releases/tag/nextra-theme-docs%402.4.0), 1 week ago) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 - [tonightpass/kitchen](https://github.com/tonightpass/kitchen) ([@tonightpass/kitchen@1.5.5](https://github.com/tonightpass/kitchen/releases/tag/%40tonightpass/kitchen%401.5.5), 2 weeks ago) - @tonightpass delicious React @styled-components (currently under construction...)
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/grafe@3.5.1](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/grafe%403.5.1), 2 weeks ago) - @tonightpass sdk.
