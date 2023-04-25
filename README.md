@@ -50,8 +50,8 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔭 Latest releases I've contributed to
 
+- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/grafe@3.7.1](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/grafe%403.7.1), today) - @tonightpass sdk.
 - [vercel/turbo](https://github.com/vercel/turbo) ([v1.9.4-canary.3](https://github.com/vercel/turbo/releases/tag/v1.9.4-canary.3), today) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
-- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/grafe@3.6.4](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/grafe%403.6.4), today) - @tonightpass sdk.
 - [AntoineKM/antoine](https://github.com/AntoineKM/antoine) ([v1.1.0](https://github.com/AntoineKM/antoine/releases/tag/v1.1.0), today) - Custom ESLint config
 - [shuding/nextra](https://github.com/shuding/nextra) ([nextra-theme-docs@2.4.2](https://github.com/shuding/nextra/releases/tag/nextra-theme-docs%402.4.2), 1 day ago) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 - [AntoineKM/dixt](https://github.com/AntoineKM/dixt) ([dixt-plugin-presence@1.0.2](https://github.com/AntoineKM/dixt/releases/tag/dixt-plugin-presence%401.0.2), 1 day ago) - Discord framework with easy plugins implementation - Try it live !
@@ -76,6 +76,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
+- [capsule-corp-ternoa/ternoa-js](https://github.com/capsule-corp-ternoa/ternoa-js) - Ternoa JavaScript SDK to build on top of the Ternoa Chain ⚙️ (today)
 - [peterw/Gumroad-Landing-Page-Generator](https://github.com/peterw/Gumroad-Landing-Page-Generator) -  (3 days ago)
 - [Thinkmill/manypkg](https://github.com/Thinkmill/manypkg) - ☔️ An umbrella for your monorepo (1 week ago)
 - [VidunderGunder/create-xp-app](https://github.com/VidunderGunder/create-xp-app) - Opionionated fullstack app starter for Nextjs and Expo with up to 100% code sharing (1 week ago)
@@ -85,7 +86,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [rvanwijnen/spectral.js](https://github.com/rvanwijnen/spectral.js) -  (2 weeks ago)
 - [AntoineKM/shouldideploytoday](https://github.com/AntoineKM/shouldideploytoday) - This is a simple school project made with Next.js and Kitchen. (2 weeks ago)
 - [microsoft/JARVIS](https://github.com/microsoft/JARVIS) - JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf (2 weeks ago)
-- [AntoineKM/dixt](https://github.com/AntoineKM/dixt) - Discord framework with easy plugins implementation - Try it live ! (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
