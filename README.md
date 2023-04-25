@@ -50,7 +50,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔭 Latest releases I've contributed to
 
-- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/grafe@3.6.0](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/grafe%403.6.0), today) - @tonightpass sdk.
+- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/grafe@3.6.2](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/grafe%403.6.2), today) - @tonightpass sdk.
 - [AntoineKM/antoine](https://github.com/AntoineKM/antoine) ([v1.1.0](https://github.com/AntoineKM/antoine/releases/tag/v1.1.0), today) - Custom ESLint config
 - [shuding/nextra](https://github.com/shuding/nextra) ([nextra-theme-docs@2.4.2](https://github.com/shuding/nextra/releases/tag/nextra-theme-docs%402.4.2), 1 day ago) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 - [AntoineKM/dixt](https://github.com/AntoineKM/dixt) ([dixt-plugin-presence@1.0.2](https://github.com/AntoineKM/dixt/releases/tag/dixt-plugin-presence%401.0.2), 1 day ago) - Discord framework with easy plugins implementation - Try it live !
