@@ -37,12 +37,12 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
-- [AntoineKM/antoine](https://github.com/AntoineKM/antoine) - Custom ESLint config (today)
-- [AntoineKM/unity-paleto-bay-hospital](https://github.com/AntoineKM/unity-paleto-bay-hospital) - Discord bot for Unity RP GTA V (today)
-- [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot) -  (1 day ago)
-- [AntoineKM/dixt](https://github.com/AntoineKM/dixt) - Discord framework with easy plugins implementation - Try it live ! (1 day ago)
-- [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (4 days ago)
-- [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React @styled-components (currently under construction...) (6 days ago)
+- [AntoineKM/antoine](https://github.com/AntoineKM/antoine) - Custom ESLint config (1 day ago)
+- [AntoineKM/unity-paleto-bay-hospital](https://github.com/AntoineKM/unity-paleto-bay-hospital) - Discord bot for Unity RP GTA V (1 day ago)
+- [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot) -  (2 days ago)
+- [AntoineKM/dixt](https://github.com/AntoineKM/dixt) - Discord framework with easy plugins implementation - Try it live ! (2 days ago)
+- [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (5 days ago)
+- [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React @styled-components (currently under construction...) (1 week ago)
 - [AntoineKM/hop-action-tests-preact](https://github.com/AntoineKM/hop-action-tests-preact) -  (1 week ago)
 - [AntoineKM/shouldideploytoday](https://github.com/AntoineKM/shouldideploytoday) - This is a simple school project made with Next.js and Kitchen. (2 weeks ago)
 - [AntoineKM/nextjs-starter-medusa](https://github.com/AntoineKM/nextjs-starter-medusa) -  (3 weeks ago)
@@ -50,14 +50,14 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔭 Latest releases I've contributed to
 
-- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/grafe@3.7.1](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/grafe%403.7.1), today) - @tonightpass sdk.
-- [vercel/turbo](https://github.com/vercel/turbo) ([v1.9.4-canary.3](https://github.com/vercel/turbo/releases/tag/v1.9.4-canary.3), today) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
-- [AntoineKM/antoine](https://github.com/AntoineKM/antoine) ([v1.1.0](https://github.com/AntoineKM/antoine/releases/tag/v1.1.0), today) - Custom ESLint config
-- [shuding/nextra](https://github.com/shuding/nextra) ([nextra-theme-docs@2.4.2](https://github.com/shuding/nextra/releases/tag/nextra-theme-docs%402.4.2), 1 day ago) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
-- [AntoineKM/dixt](https://github.com/AntoineKM/dixt) ([dixt-plugin-presence@1.0.2](https://github.com/AntoineKM/dixt/releases/tag/dixt-plugin-presence%401.0.2), 1 day ago) - Discord framework with easy plugins implementation - Try it live !
+- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/grafe@3.7.1](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/grafe%403.7.1), 1 day ago) - @tonightpass sdk.
+- [vercel/turbo](https://github.com/vercel/turbo) ([v1.9.4-canary.3](https://github.com/vercel/turbo/releases/tag/v1.9.4-canary.3), 1 day ago) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
+- [AntoineKM/antoine](https://github.com/AntoineKM/antoine) ([v1.1.0](https://github.com/AntoineKM/antoine/releases/tag/v1.1.0), 1 day ago) - Custom ESLint config
+- [shuding/nextra](https://github.com/shuding/nextra) ([nextra-theme-docs@2.4.2](https://github.com/shuding/nextra/releases/tag/nextra-theme-docs%402.4.2), 2 days ago) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
+- [AntoineKM/dixt](https://github.com/AntoineKM/dixt) ([dixt-plugin-presence@1.0.2](https://github.com/AntoineKM/dixt/releases/tag/dixt-plugin-presence%401.0.2), 2 days ago) - Discord framework with easy plugins implementation - Try it live !
 - [tonightpass/kitchen](https://github.com/tonightpass/kitchen) ([@tonightpass/kitchen@1.5.5](https://github.com/tonightpass/kitchen/releases/tag/%40tonightpass/kitchen%401.5.5), 2 weeks ago) - @tonightpass delicious React @styled-components (currently under construction...)
 - [ajayesivan/react-native-remix-icon](https://github.com/ajayesivan/react-native-remix-icon) ([0.4.0](https://github.com/ajayesivan/react-native-remix-icon/releases/tag/0.4.0), 7 months ago) - An OpenSource implementation of remixicon for React Native
-- [onRuntime/next-usetranslation](https://github.com/onRuntime/next-usetranslation) ([v0.1.10](https://github.com/onRuntime/next-usetranslation/releases/tag/v0.1.10), 7 months ago) - The easiest way to translate your Next.js projects
+- [onRuntime/next-usetranslation](https://github.com/onRuntime/next-usetranslation) ([v0.1.10](https://github.com/onRuntime/next-usetranslation/releases/tag/v0.1.10), 8 months ago) - The easiest way to translate your Next.js projects
 - [onRuntime/next-link](https://github.com/onRuntime/next-link) ([0.1.5](https://github.com/onRuntime/next-link/releases/tag/0.1.5), 8 months ago) - Customized next/link for @onRuntime Next.js projects.
 - [geist-org/geist-ui](https://github.com/geist-org/geist-ui) ([v2.3.8](https://github.com/geist-org/geist-ui/releases/tag/v2.3.8), 1 year ago) - A design system for building modern websites and applications.
 
@@ -71,13 +71,14 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [💚 fix dev script](https://github.com/tonightpass/kitchen/pull/219) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (3 weeks ago)
 - [fix: remove docs app](https://github.com/hopinc/client-js/pull/2) on [hopinc/client-js](https://github.com/hopinc/client-js) (3 weeks ago)
 - [Improvement](https://github.com/AntoineKM/shouldideploytoday/pull/1) on [AntoineKM/shouldideploytoday](https://github.com/AntoineKM/shouldideploytoday) (3 weeks ago)
-- [Move react to dev dependencies](https://github.com/rrudol/useCookie/pull/6) on [rrudol/useCookie](https://github.com/rrudol/useCookie) (3 weeks ago)
-- [💄 fix hydration](https://github.com/tonightpass/kitchen/pull/218) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (3 weeks ago)
+- [Move react to dev dependencies](https://github.com/rrudol/useCookie/pull/6) on [rrudol/useCookie](https://github.com/rrudol/useCookie) (4 weeks ago)
+- [💄 fix hydration](https://github.com/tonightpass/kitchen/pull/218) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (4 weeks ago)
 
 #### ⭐ Recent Stars
 
-- [capsule-corp-ternoa/ternoa-js](https://github.com/capsule-corp-ternoa/ternoa-js) - Ternoa JavaScript SDK to build on top of the Ternoa Chain ⚙️ (today)
-- [peterw/Gumroad-Landing-Page-Generator](https://github.com/peterw/Gumroad-Landing-Page-Generator) -  (3 days ago)
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - decentralising the Ai Industry, free gpt-4/3.5 scripts through several reverse engineered api&#39;s ( poe.com, phind.com, chat.openai.com, phind.com, writesonic.com, sqlchat.ai, t3nsor.com, you.com etc...) (1 day ago)
+- [capsule-corp-ternoa/ternoa-js](https://github.com/capsule-corp-ternoa/ternoa-js) - Ternoa JavaScript SDK to build on top of the Ternoa Chain ⚙️ (1 day ago)
+- [peterw/Gumroad-Landing-Page-Generator](https://github.com/peterw/Gumroad-Landing-Page-Generator) -  (4 days ago)
 - [Thinkmill/manypkg](https://github.com/Thinkmill/manypkg) - ☔️ An umbrella for your monorepo (1 week ago)
 - [VidunderGunder/create-xp-app](https://github.com/VidunderGunder/create-xp-app) - Opionionated fullstack app starter for Nextjs and Expo with up to 100% code sharing (1 week ago)
 - [nandorojo/moti](https://github.com/nandorojo/moti) - 🐼  The React Native (&#43; Web) animation library, powered by Reanimated 2. (1 week ago)
@@ -85,7 +86,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [0xk1h0/ChatGPT_DAN](https://github.com/0xk1h0/ChatGPT_DAN) - ChatGPT DAN, Jailbreaks prompt (2 weeks ago)
 - [rvanwijnen/spectral.js](https://github.com/rvanwijnen/spectral.js) -  (2 weeks ago)
 - [AntoineKM/shouldideploytoday](https://github.com/AntoineKM/shouldideploytoday) - This is a simple school project made with Next.js and Kitchen. (2 weeks ago)
-- [microsoft/JARVIS](https://github.com/microsoft/JARVIS) - JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
