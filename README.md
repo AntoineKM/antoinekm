@@ -76,6 +76,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
+- [ahnafnafee/eas-discord-build-notify](https://github.com/ahnafnafee/eas-discord-build-notify) - 🔔 Build/Submit Notification EAS Webhook using Discord (today)
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - decentralising the Ai Industry, free gpt-4/3.5 scripts through several reverse engineered api&#39;s ( poe.com, phind.com, chat.openai.com, phind.com, writesonic.com, sqlchat.ai, t3nsor.com, you.com etc...) (2 days ago)
 - [capsule-corp-ternoa/ternoa-js](https://github.com/capsule-corp-ternoa/ternoa-js) - Ternoa JavaScript SDK to build on top of the Ternoa Chain ⚙️ (2 days ago)
 - [peterw/Gumroad-Landing-Page-Generator](https://github.com/peterw/Gumroad-Landing-Page-Generator) - This project is a Python script that scrapes data from a Gumroad site, generates a colorful and well-designed HTML page using OpenAI&#39;s GPT-4 model, and deploys the generated page to Vercel. (5 days ago)
@@ -85,7 +86,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [cursecodes/pricing-comparison](https://github.com/cursecodes/pricing-comparison) - Quick pricing comparison between platforms (https://pricing.cursecode.me) (1 week ago)
 - [0xk1h0/ChatGPT_DAN](https://github.com/0xk1h0/ChatGPT_DAN) - ChatGPT DAN, Jailbreaks prompt (2 weeks ago)
 - [rvanwijnen/spectral.js](https://github.com/rvanwijnen/spectral.js) -  (2 weeks ago)
-- [AntoineKM/shouldideploytoday](https://github.com/AntoineKM/shouldideploytoday) - This is a simple school project made with Next.js and Kitchen. (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
