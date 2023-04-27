@@ -37,10 +37,10 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
+- [AntoineKM/antoine](https://github.com/AntoineKM/antoine) - Custom ESLint config (today)
 - [AntoineKM/nfters](https://github.com/AntoineKM/nfters) -  (today)
 - [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot) -  (1 day ago)
 - [AntoineKM/unity-paleto-bay-hospital](https://github.com/AntoineKM/unity-paleto-bay-hospital) - Discord bot for Unity RP GTA V (2 days ago)
-- [AntoineKM/antoine](https://github.com/AntoineKM/antoine) - Custom ESLint config (2 days ago)
 - [AntoineKM/dixt](https://github.com/AntoineKM/dixt) - Discord framework with easy plugins implementation - Try it live ! (3 days ago)
 - [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (6 days ago)
 - [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React @styled-components (currently under construction...) (1 week ago)
@@ -52,7 +52,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 - [vercel/turbo](https://github.com/vercel/turbo) ([v1.9.4-canary.5](https://github.com/vercel/turbo/releases/tag/v1.9.4-canary.5), today) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/grafe@3.7.1](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/grafe%403.7.1), 2 days ago) - @tonightpass sdk.
-- [AntoineKM/antoine](https://github.com/AntoineKM/antoine) ([v1.1.0](https://github.com/AntoineKM/antoine/releases/tag/v1.1.0), 2 days ago) - Custom ESLint config
 - [shuding/nextra](https://github.com/shuding/nextra) ([nextra-theme-docs@2.4.2](https://github.com/shuding/nextra/releases/tag/nextra-theme-docs%402.4.2), 3 days ago) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 - [AntoineKM/dixt](https://github.com/AntoineKM/dixt) ([dixt-plugin-presence@1.0.2](https://github.com/AntoineKM/dixt/releases/tag/dixt-plugin-presence%401.0.2), 3 days ago) - Discord framework with easy plugins implementation - Try it live !
 - [tonightpass/kitchen](https://github.com/tonightpass/kitchen) ([@tonightpass/kitchen@1.5.5](https://github.com/tonightpass/kitchen/releases/tag/%40tonightpass/kitchen%401.5.5), 2 weeks ago) - @tonightpass delicious React @styled-components (currently under construction...)
@@ -60,6 +59,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [onRuntime/next-usetranslation](https://github.com/onRuntime/next-usetranslation) ([v0.1.10](https://github.com/onRuntime/next-usetranslation/releases/tag/v0.1.10), 8 months ago) - The easiest way to translate your Next.js projects
 - [onRuntime/next-link](https://github.com/onRuntime/next-link) ([0.1.5](https://github.com/onRuntime/next-link/releases/tag/0.1.5), 8 months ago) - Customized next/link for @onRuntime Next.js projects.
 - [geist-org/geist-ui](https://github.com/geist-org/geist-ui) ([v2.3.8](https://github.com/geist-org/geist-ui/releases/tag/v2.3.8), 1 year ago) - A design system for building modern websites and applications.
+- [onRuntime/instagram-dark-extension](https://github.com/onRuntime/instagram-dark-extension) ([1.1.17](https://github.com/onRuntime/instagram-dark-extension/releases/tag/1.1.17), 1 year ago) - Dark Theme for Instagram™ is an extension which aims to change the theme of the Instagram website, and make it a dark theme like the iOS app when the system is in dark mode.
 
 #### 🔨 My recent Pull Requests
 
