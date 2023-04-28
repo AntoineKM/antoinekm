@@ -76,6 +76,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
+- [vercel/vercel](https://github.com/vercel/vercel) - Develop. Preview. Ship. (today)
 - [ahnafnafee/eas-discord-build-notify](https://github.com/ahnafnafee/eas-discord-build-notify) - 🔔 Build/Submit Notification EAS Webhook using Discord (1 day ago)
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - gpt4free (3 days ago)
 - [capsule-corp-ternoa/ternoa-js](https://github.com/capsule-corp-ternoa/ternoa-js) - Ternoa JavaScript SDK to build on top of the Ternoa Chain ⚙️ (3 days ago)
@@ -85,7 +86,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [nandorojo/moti](https://github.com/nandorojo/moti) - 🐼  The React Native (&#43; Web) animation library, powered by Reanimated 2. (1 week ago)
 - [cursecodes/pricing-comparison](https://github.com/cursecodes/pricing-comparison) - Quick pricing comparison between platforms (https://pricing.cursecode.me) (1 week ago)
 - [0xk1h0/ChatGPT_DAN](https://github.com/0xk1h0/ChatGPT_DAN) - ChatGPT DAN, Jailbreaks prompt (2 weeks ago)
-- [rvanwijnen/spectral.js](https://github.com/rvanwijnen/spectral.js) -  (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
