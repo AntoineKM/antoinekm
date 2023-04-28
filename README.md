@@ -37,8 +37,8 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
-- [AntoineKM/nfters](https://github.com/AntoineKM/nfters) -  (today)
 - [AntoineKM/antoine](https://github.com/AntoineKM/antoine) - cool tools to code like me. (today)
+- [AntoineKM/nfters](https://github.com/AntoineKM/nfters) -  (today)
 - [AntoineKM/unity-paleto-bay-hospital](https://github.com/AntoineKM/unity-paleto-bay-hospital) - Discord bot for Unity RP GTA V (today)
 - [AntoineKM/dixt](https://github.com/AntoineKM/dixt) - Discord framework with easy plugins implementation - Try it live ! (today)
 - [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot) -  (2 days ago)
@@ -50,6 +50,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔭 Latest releases I've contributed to
 
+- [AntoineKM/antoine](https://github.com/AntoineKM/antoine) ([antoine-tsconfig@1.0.4](https://github.com/AntoineKM/antoine/releases/tag/antoine-tsconfig%401.0.4), today) - cool tools to code like me.
 - [vercel/turbo](https://github.com/vercel/turbo) ([v1.9.4-canary.6](https://github.com/vercel/turbo/releases/tag/v1.9.4-canary.6), today) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/grafe@3.7.1](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/grafe%403.7.1), 3 days ago) - @tonightpass sdk.
 - [shuding/nextra](https://github.com/shuding/nextra) ([nextra-theme-docs@2.4.2](https://github.com/shuding/nextra/releases/tag/nextra-theme-docs%402.4.2), 4 days ago) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
@@ -59,7 +60,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [onRuntime/next-usetranslation](https://github.com/onRuntime/next-usetranslation) ([v0.1.10](https://github.com/onRuntime/next-usetranslation/releases/tag/v0.1.10), 8 months ago) - The easiest way to translate your Next.js projects
 - [onRuntime/next-link](https://github.com/onRuntime/next-link) ([0.1.5](https://github.com/onRuntime/next-link/releases/tag/0.1.5), 8 months ago) - Customized next/link for @onRuntime Next.js projects.
 - [geist-org/geist-ui](https://github.com/geist-org/geist-ui) ([v2.3.8](https://github.com/geist-org/geist-ui/releases/tag/v2.3.8), 1 year ago) - A design system for building modern websites and applications.
-- [onRuntime/instagram-dark-extension](https://github.com/onRuntime/instagram-dark-extension) ([1.1.17](https://github.com/onRuntime/instagram-dark-extension/releases/tag/1.1.17), 1 year ago) - Dark Theme for Instagram™ is an extension which aims to change the theme of the Instagram website, and make it a dark theme like the iOS app when the system is in dark mode.
 
 #### 🔨 My recent Pull Requests
 
@@ -78,7 +78,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 - [vercel/vercel](https://github.com/vercel/vercel) - Develop. Preview. Ship. (today)
 - [ahnafnafee/eas-discord-build-notify](https://github.com/ahnafnafee/eas-discord-build-notify) - 🔔 Build/Submit Notification EAS Webhook using Discord (1 day ago)
-- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - gpt4free (3 days ago)
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - decentralising the Ai Industry, just some language model api&#39;s... (3 days ago)
 - [capsule-corp-ternoa/ternoa-js](https://github.com/capsule-corp-ternoa/ternoa-js) - Ternoa JavaScript SDK to build on top of the Ternoa Chain ⚙️ (3 days ago)
 - [peterw/Gumroad-Landing-Page-Generator](https://github.com/peterw/Gumroad-Landing-Page-Generator) - This project is a Python script that scrapes data from a Gumroad site, generates a colorful and well-designed HTML page using OpenAI&#39;s GPT-4 model, and deploys the generated page to Vercel. (6 days ago)
 - [Thinkmill/manypkg](https://github.com/Thinkmill/manypkg) - ☔️ An umbrella for your monorepo (1 week ago)
