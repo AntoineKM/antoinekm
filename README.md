@@ -76,6 +76,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
+- [wagmi-dev/wagmi](https://github.com/wagmi-dev/wagmi) - React Hooks for Ethereum (today)
 - [vercel/vercel](https://github.com/vercel/vercel) - Develop. Preview. Ship. (2 days ago)
 - [ahnafnafee/eas-discord-build-notify](https://github.com/ahnafnafee/eas-discord-build-notify) - 🔔 Build/Submit Notification EAS Webhook using Discord (3 days ago)
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - decentralising the Ai Industry, just some language model api&#39;s... (5 days ago)
@@ -85,7 +86,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [VidunderGunder/create-xp-app](https://github.com/VidunderGunder/create-xp-app) - Opionionated fullstack app starter for Nextjs and Expo with up to 100% code sharing (2 weeks ago)
 - [nandorojo/moti](https://github.com/nandorojo/moti) - 🐼  The React Native (&#43; Web) animation library, powered by Reanimated 2. (2 weeks ago)
 - [cursecodes/pricing-comparison](https://github.com/cursecodes/pricing-comparison) - Quick pricing comparison between platforms (https://pricing.cursecode.me) (2 weeks ago)
-- [0xk1h0/ChatGPT_DAN](https://github.com/0xk1h0/ChatGPT_DAN) - ChatGPT DAN, Jailbreaks prompt (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
