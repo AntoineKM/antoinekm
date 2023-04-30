@@ -63,6 +63,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
+- [Antoinekm/metamask](https://github.com/AntoineKM/nfters/pull/15) on [AntoineKM/nfters](https://github.com/AntoineKM/nfters) (today)
 - [Antoinekm/design](https://github.com/AntoineKM/nfters/pull/12) on [AntoineKM/nfters](https://github.com/AntoineKM/nfters) (1 day ago)
 - [♻️ refactor into turborepo](https://github.com/AntoineKM/antoine/pull/3) on [AntoineKM/antoine](https://github.com/AntoineKM/antoine) (3 days ago)
 - [fix: update homepage link to point to the new docs site](https://github.com/hopinc/client-js/pull/3) on [hopinc/client-js](https://github.com/hopinc/client-js) (3 weeks ago)
@@ -72,7 +73,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [✨ add workshop](https://github.com/tonightpass/kitchen/pull/220) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (4 weeks ago)
 - [💚 fix dev script](https://github.com/tonightpass/kitchen/pull/219) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (1 month ago)
 - [fix: remove docs app](https://github.com/hopinc/client-js/pull/2) on [hopinc/client-js](https://github.com/hopinc/client-js) (1 month ago)
-- [Improvement](https://github.com/AntoineKM/shouldideploytoday/pull/1) on [AntoineKM/shouldideploytoday](https://github.com/AntoineKM/shouldideploytoday) (1 month ago)
 
 #### ⭐ Recent Stars
 
