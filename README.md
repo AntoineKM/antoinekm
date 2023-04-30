@@ -37,10 +37,10 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
+- [AntoineKM/nfters](https://github.com/AntoineKM/nfters) - Digital marketplace for crypto collectibles and non-fungible tokens (NFTs). Buy, Sell, and discover exclusive digital assets. (today)
 - [AntoineKM/antoine](https://github.com/AntoineKM/antoine) - cool tools to code like me. (1 day ago)
-- [AntoineKM/nfters](https://github.com/AntoineKM/nfters) - Digital marketplace for crypto collectibles and non-fungible tokens (NFTs). Buy, Sell, and discover exclusive digital assets. (1 day ago)
-- [AntoineKM/dixt](https://github.com/AntoineKM/dixt) - Discord framework with easy plugins implementation - Try it live ! (2 days ago)
 - [AntoineKM/unity-paleto-bay-hospital](https://github.com/AntoineKM/unity-paleto-bay-hospital) - Discord bot for Unity RP GTA V (2 days ago)
+- [AntoineKM/dixt](https://github.com/AntoineKM/dixt) - Discord framework with easy plugins implementation - Try it live ! (2 days ago)
 - [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot) -  (4 days ago)
 - [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (1 week ago)
 - [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React @styled-components (currently under construction...) (1 week ago)
