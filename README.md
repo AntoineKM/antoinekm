@@ -63,6 +63,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
+- [Antoinekm/evm](https://github.com/AntoineKM/nfters/pull/17) on [AntoineKM/nfters](https://github.com/AntoineKM/nfters) (today)
 - [Antoinekm/polkadot](https://github.com/AntoineKM/nfters/pull/16) on [AntoineKM/nfters](https://github.com/AntoineKM/nfters) (1 day ago)
 - [Antoinekm/metamask](https://github.com/AntoineKM/nfters/pull/15) on [AntoineKM/nfters](https://github.com/AntoineKM/nfters) (1 day ago)
 - [Antoinekm/design](https://github.com/AntoineKM/nfters/pull/12) on [AntoineKM/nfters](https://github.com/AntoineKM/nfters) (2 days ago)
@@ -72,7 +73,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [fix(keyboard): improve keyboard hook with callback](https://github.com/geist-org/geist-ui/pull/831) on [geist-org/geist-ui](https://github.com/geist-org/geist-ui) (3 weeks ago)
 - [✨ add create-kitchen](https://github.com/tonightpass/kitchen/pull/225) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (4 weeks ago)
 - [✨ add workshop](https://github.com/tonightpass/kitchen/pull/220) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (4 weeks ago)
-- [💚 fix dev script](https://github.com/tonightpass/kitchen/pull/219) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (1 month ago)
 
 #### ⭐ Recent Stars
 
