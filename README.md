@@ -38,7 +38,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 #### 👷 Check out what I'm currently working on
 
 - [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot) -  (today)
-- [AntoineKM/nfters](https://github.com/AntoineKM/nfters) - Digital marketplace for crypto collectibles and non-fungible tokens (NFTs). Buy, Sell, and discover exclusive digital assets. (today)
+- [AntoineKM/ternoa-assessment](https://github.com/AntoineKM/ternoa-assessment) - Digital marketplace for crypto collectibles and non-fungible tokens (NFTs). Buy, Sell, and discover exclusive digital assets. (today)
 - [AntoineKM/antoine](https://github.com/AntoineKM/antoine) - cool tools to code like me. (3 days ago)
 - [AntoineKM/unity-paleto-bay-hospital](https://github.com/AntoineKM/unity-paleto-bay-hospital) - Discord bot for Unity RP GTA V (4 days ago)
 - [AntoineKM/dixt](https://github.com/AntoineKM/dixt) - Discord framework with easy plugins implementation - Try it live ! (4 days ago)
@@ -63,10 +63,10 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
-- [Antoinekm/evm](https://github.com/AntoineKM/nfters/pull/17) on [AntoineKM/nfters](https://github.com/AntoineKM/nfters) (1 day ago)
-- [Antoinekm/polkadot](https://github.com/AntoineKM/nfters/pull/16) on [AntoineKM/nfters](https://github.com/AntoineKM/nfters) (2 days ago)
-- [Antoinekm/metamask](https://github.com/AntoineKM/nfters/pull/15) on [AntoineKM/nfters](https://github.com/AntoineKM/nfters) (2 days ago)
-- [Antoinekm/design](https://github.com/AntoineKM/nfters/pull/12) on [AntoineKM/nfters](https://github.com/AntoineKM/nfters) (3 days ago)
+- [Antoinekm/evm](https://github.com/AntoineKM/ternoa-assessment/pull/17) on [AntoineKM/ternoa-assessment](https://github.com/AntoineKM/ternoa-assessment) (1 day ago)
+- [Antoinekm/polkadot](https://github.com/AntoineKM/ternoa-assessment/pull/16) on [AntoineKM/ternoa-assessment](https://github.com/AntoineKM/ternoa-assessment) (2 days ago)
+- [Antoinekm/metamask](https://github.com/AntoineKM/ternoa-assessment/pull/15) on [AntoineKM/ternoa-assessment](https://github.com/AntoineKM/ternoa-assessment) (2 days ago)
+- [Antoinekm/design](https://github.com/AntoineKM/ternoa-assessment/pull/12) on [AntoineKM/ternoa-assessment](https://github.com/AntoineKM/ternoa-assessment) (3 days ago)
 - [♻️ refactor into turborepo](https://github.com/AntoineKM/antoine/pull/3) on [AntoineKM/antoine](https://github.com/AntoineKM/antoine) (5 days ago)
 - [fix: update homepage link to point to the new docs site](https://github.com/hopinc/client-js/pull/3) on [hopinc/client-js](https://github.com/hopinc/client-js) (3 weeks ago)
 - [fix: update homepage link to point to the new docs site](https://github.com/hopinc/js/pull/116) on [hopinc/js](https://github.com/hopinc/js) (3 weeks ago)
