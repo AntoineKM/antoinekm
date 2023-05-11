@@ -50,8 +50,8 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔭 Latest releases I've contributed to
 
+- [shuding/nextra](https://github.com/shuding/nextra) ([nextra-theme-docs@2.5.2](https://github.com/shuding/nextra/releases/tag/nextra-theme-docs%402.5.2), today) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 - [AntoineKM/dixt](https://github.com/AntoineKM/dixt) ([dixt-plugin-twitch@1.1.9](https://github.com/AntoineKM/dixt/releases/tag/dixt-plugin-twitch%401.1.9), today) - Discord framework with easy plugins implementation - Try it live !
-- [shuding/nextra](https://github.com/shuding/nextra) ([nextra-theme-docs@2.5.1](https://github.com/shuding/nextra/releases/tag/nextra-theme-docs%402.5.1), 2 days ago) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/grafe@3.7.2](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/grafe%403.7.2), 1 week ago) - @tonightpass sdk.
 - [AntoineKM/antoine](https://github.com/AntoineKM/antoine) ([antoine-tsconfig@1.0.4](https://github.com/AntoineKM/antoine/releases/tag/antoine-tsconfig%401.0.4), 1 week ago) - cool tools to code like me.
 - [tonightpass/kitchen](https://github.com/tonightpass/kitchen) ([@tonightpass/kitchen@1.5.5](https://github.com/tonightpass/kitchen/releases/tag/%40tonightpass/kitchen%401.5.5), 1 month ago) - @tonightpass delicious React @styled-components (currently under construction...)
