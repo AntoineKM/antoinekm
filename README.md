@@ -50,6 +50,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔭 Latest releases I've contributed to
 
+- [vercel/turbo](https://github.com/vercel/turbo) ([v1.9.4](https://github.com/vercel/turbo/releases/tag/v1.9.4), today) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
 - [shuding/nextra](https://github.com/shuding/nextra) ([nextra-theme-docs@2.5.2](https://github.com/shuding/nextra/releases/tag/nextra-theme-docs%402.5.2), today) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 - [AntoineKM/dixt](https://github.com/AntoineKM/dixt) ([dixt-plugin-twitch@1.1.9](https://github.com/AntoineKM/dixt/releases/tag/dixt-plugin-twitch%401.1.9), today) - Discord framework with easy plugins implementation - Try it live !
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/grafe@3.7.2](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/grafe%403.7.2), 1 week ago) - @tonightpass sdk.
@@ -59,7 +60,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [onRuntime/next-usetranslation](https://github.com/onRuntime/next-usetranslation) ([v0.1.10](https://github.com/onRuntime/next-usetranslation/releases/tag/v0.1.10), 8 months ago) - The easiest way to translate your Next.js projects
 - [onRuntime/next-link](https://github.com/onRuntime/next-link) ([0.1.5](https://github.com/onRuntime/next-link/releases/tag/0.1.5), 8 months ago) - Customized next/link for @onRuntime Next.js projects.
 - [geist-org/geist-ui](https://github.com/geist-org/geist-ui) ([v2.3.8](https://github.com/geist-org/geist-ui/releases/tag/v2.3.8), 1 year ago) - A design system for building modern websites and applications.
-- [onRuntime/instagram-dark-extension](https://github.com/onRuntime/instagram-dark-extension) ([1.1.17](https://github.com/onRuntime/instagram-dark-extension/releases/tag/1.1.17), 1 year ago) - Dark Theme for Instagram™ is an extension which aims to change the theme of the Instagram website, and make it a dark theme like the iOS app when the system is in dark mode.
 
 #### 🔨 My recent Pull Requests
 
