@@ -37,8 +37,8 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
-- [AntoineKM/unity-paleto-bay-hospital](https://github.com/AntoineKM/unity-paleto-bay-hospital) - Discord bot for Unity RP GTA V (1 day ago)
-- [AntoineKM/dixt](https://github.com/AntoineKM/dixt) - Discord framework with easy plugins implementation - Try it live ! (1 day ago)
+- [AntoineKM/unity-paleto-bay-hospital](https://github.com/AntoineKM/unity-paleto-bay-hospital) - Discord bot for Unity RP GTA V (today)
+- [AntoineKM/dixt](https://github.com/AntoineKM/dixt) - Discord framework with easy plugins implementation - Try it live ! (today)
 - [AntoineKM/ternoa-assessment](https://github.com/AntoineKM/ternoa-assessment) - Capsule Corp. Labs assessment (4 days ago)
 - [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot) -  (4 days ago)
 - [AntoineKM/antoine](https://github.com/AntoineKM/antoine) - cool tools to code like me. (1 week ago)
@@ -50,9 +50,9 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔭 Latest releases I've contributed to
 
+- [AntoineKM/dixt](https://github.com/AntoineKM/dixt) ([dixt-plugin-join@2.1.6](https://github.com/AntoineKM/dixt/releases/tag/dixt-plugin-join%402.1.6), today) - Discord framework with easy plugins implementation - Try it live !
 - [vercel/turbo](https://github.com/vercel/turbo) ([v1.9.5-canary.0](https://github.com/vercel/turbo/releases/tag/v1.9.5-canary.0), today) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
 - [shuding/nextra](https://github.com/shuding/nextra) ([nextra-theme-docs@2.5.2](https://github.com/shuding/nextra/releases/tag/nextra-theme-docs%402.5.2), 1 day ago) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
-- [AntoineKM/dixt](https://github.com/AntoineKM/dixt) ([dixt-plugin-twitch@1.1.9](https://github.com/AntoineKM/dixt/releases/tag/dixt-plugin-twitch%401.1.9), 1 day ago) - Discord framework with easy plugins implementation - Try it live !
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/grafe@3.7.2](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/grafe%403.7.2), 1 week ago) - @tonightpass sdk.
 - [AntoineKM/antoine](https://github.com/AntoineKM/antoine) ([antoine-tsconfig@1.0.4](https://github.com/AntoineKM/antoine/releases/tag/antoine-tsconfig%401.0.4), 2 weeks ago) - cool tools to code like me.
 - [tonightpass/kitchen](https://github.com/tonightpass/kitchen) ([@tonightpass/kitchen@1.5.5](https://github.com/tonightpass/kitchen/releases/tag/%40tonightpass/kitchen%401.5.5), 1 month ago) - @tonightpass delicious React @styled-components (currently under construction...)
