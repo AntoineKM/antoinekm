@@ -63,6 +63,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
+- [Antoinekm/event ticket types](https://github.com/tonightpass/tonightpass/pull/61) on [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) (today)
 - [Popcat](https://github.com/AntoineKM/dixt/pull/27) on [AntoineKM/dixt](https://github.com/AntoineKM/dixt) (2 days ago)
 - [Add types declarations](https://github.com/typpo/chartjs-to-image/pull/29) on [typpo/chartjs-to-image](https://github.com/typpo/chartjs-to-image) (3 days ago)
 - [Antoinekm/evm](https://github.com/AntoineKM/ternoa-assessment/pull/17) on [AntoineKM/ternoa-assessment](https://github.com/AntoineKM/ternoa-assessment) (1 week ago)
@@ -72,7 +73,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [♻️ refactor into turborepo](https://github.com/AntoineKM/antoine/pull/3) on [AntoineKM/antoine](https://github.com/AntoineKM/antoine) (2 weeks ago)
 - [fix: update homepage link to point to the new docs site](https://github.com/hopinc/client-js/pull/3) on [hopinc/client-js](https://github.com/hopinc/client-js) (1 month ago)
 - [fix: update homepage link to point to the new docs site](https://github.com/hopinc/js/pull/116) on [hopinc/js](https://github.com/hopinc/js) (1 month ago)
-- [fix(keyboard): improve keyboard hook with callback](https://github.com/geist-org/geist-ui/pull/831) on [geist-org/geist-ui](https://github.com/geist-org/geist-ui) (1 month ago)
 
 #### ⭐ Recent Stars
 
