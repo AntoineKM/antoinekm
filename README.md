@@ -37,8 +37,8 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
+- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk. (today)
 - [typpo/chartjs-to-image](https://github.com/typpo/chartjs-to-image) - Simple library for converting Chart.js to image on backend and frontend (1 day ago)
-- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk. (1 day ago)
 - [AntoineKM/unity-paleto-bay-hospital](https://github.com/AntoineKM/unity-paleto-bay-hospital) - Discord bot for Unity RP GTA V (2 days ago)
 - [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot) -  (2 days ago)
 - [AntoineKM/dixt](https://github.com/AntoineKM/dixt) - Discord framework with easy plugins implementation - Try it live ! (2 days ago)
@@ -50,7 +50,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔭 Latest releases I've contributed to
 
-- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/shared-types@0.5.3](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/shared-types%400.5.3), 1 day ago) - @tonightpass sdk.
+- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/shared-types@0.5.4](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/shared-types%400.5.4), today) - @tonightpass sdk.
 - [AntoineKM/dixt](https://github.com/AntoineKM/dixt) ([dixt-plugin-worktime@2.1.9](https://github.com/AntoineKM/dixt/releases/tag/dixt-plugin-worktime%402.1.9), 2 days ago) - Discord framework with easy plugins implementation - Try it live !
 - [vercel/turbo](https://github.com/vercel/turbo) ([v1.9.5-canary.0](https://github.com/vercel/turbo/releases/tag/v1.9.5-canary.0), 3 days ago) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
 - [shuding/nextra](https://github.com/shuding/nextra) ([nextra-theme-docs@2.5.2](https://github.com/shuding/nextra/releases/tag/nextra-theme-docs%402.5.2), 4 days ago) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
