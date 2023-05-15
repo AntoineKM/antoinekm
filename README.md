@@ -63,6 +63,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
+- [Fix types declarations optional variables](https://github.com/typpo/chartjs-to-image/pull/30) on [typpo/chartjs-to-image](https://github.com/typpo/chartjs-to-image) (today)
 - [🏷️ add order types](https://github.com/tonightpass/tonightpass/pull/65) on [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) (today)
 - [Antoinekm/event ticket types](https://github.com/tonightpass/tonightpass/pull/61) on [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) (2 days ago)
 - [Popcat](https://github.com/AntoineKM/dixt/pull/27) on [AntoineKM/dixt](https://github.com/AntoineKM/dixt) (4 days ago)
@@ -72,7 +73,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [Antoinekm/metamask](https://github.com/AntoineKM/ternoa-assessment/pull/15) on [AntoineKM/ternoa-assessment](https://github.com/AntoineKM/ternoa-assessment) (2 weeks ago)
 - [Antoinekm/design](https://github.com/AntoineKM/ternoa-assessment/pull/12) on [AntoineKM/ternoa-assessment](https://github.com/AntoineKM/ternoa-assessment) (2 weeks ago)
 - [♻️ refactor into turborepo](https://github.com/AntoineKM/antoine/pull/3) on [AntoineKM/antoine](https://github.com/AntoineKM/antoine) (2 weeks ago)
-- [fix: update homepage link to point to the new docs site](https://github.com/hopinc/client-js/pull/3) on [hopinc/client-js](https://github.com/hopinc/client-js) (1 month ago)
 
 #### ⭐ Recent Stars
 
