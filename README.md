@@ -50,9 +50,9 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔭 Latest releases I've contributed to
 
+- [vercel/turbo](https://github.com/vercel/turbo) ([v1.9.5-canary.1](https://github.com/vercel/turbo/releases/tag/v1.9.5-canary.1), today) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/shared-types@0.5.4](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/shared-types%400.5.4), today) - @tonightpass sdk.
 - [AntoineKM/dixt](https://github.com/AntoineKM/dixt) ([dixt-plugin-worktime@2.1.9](https://github.com/AntoineKM/dixt/releases/tag/dixt-plugin-worktime%402.1.9), 2 days ago) - Discord framework with easy plugins implementation - Try it live !
-- [vercel/turbo](https://github.com/vercel/turbo) ([v1.9.5-canary.0](https://github.com/vercel/turbo/releases/tag/v1.9.5-canary.0), 3 days ago) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
 - [shuding/nextra](https://github.com/shuding/nextra) ([nextra-theme-docs@2.5.2](https://github.com/shuding/nextra/releases/tag/nextra-theme-docs%402.5.2), 4 days ago) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 - [AntoineKM/antoine](https://github.com/AntoineKM/antoine) ([antoine-tsconfig@1.0.4](https://github.com/AntoineKM/antoine/releases/tag/antoine-tsconfig%401.0.4), 2 weeks ago) - cool tools to code like me.
 - [tonightpass/kitchen](https://github.com/tonightpass/kitchen) ([@tonightpass/kitchen@1.5.5](https://github.com/tonightpass/kitchen/releases/tag/%40tonightpass/kitchen%401.5.5), 1 month ago) - @tonightpass delicious React @styled-components (currently under construction...)
@@ -63,6 +63,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
+- [🏷️ add order types](https://github.com/tonightpass/tonightpass/pull/65) on [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) (today)
 - [Antoinekm/event ticket types](https://github.com/tonightpass/tonightpass/pull/61) on [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) (2 days ago)
 - [Popcat](https://github.com/AntoineKM/dixt/pull/27) on [AntoineKM/dixt](https://github.com/AntoineKM/dixt) (4 days ago)
 - [Add types declarations](https://github.com/typpo/chartjs-to-image/pull/29) on [typpo/chartjs-to-image](https://github.com/typpo/chartjs-to-image) (5 days ago)
@@ -72,7 +73,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [Antoinekm/design](https://github.com/AntoineKM/ternoa-assessment/pull/12) on [AntoineKM/ternoa-assessment](https://github.com/AntoineKM/ternoa-assessment) (2 weeks ago)
 - [♻️ refactor into turborepo](https://github.com/AntoineKM/antoine/pull/3) on [AntoineKM/antoine](https://github.com/AntoineKM/antoine) (2 weeks ago)
 - [fix: update homepage link to point to the new docs site](https://github.com/hopinc/client-js/pull/3) on [hopinc/client-js](https://github.com/hopinc/client-js) (1 month ago)
-- [fix: update homepage link to point to the new docs site](https://github.com/hopinc/js/pull/116) on [hopinc/js](https://github.com/hopinc/js) (1 month ago)
 
 #### ⭐ Recent Stars
 
