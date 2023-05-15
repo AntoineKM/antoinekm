@@ -37,12 +37,12 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
-- [typpo/chartjs-to-image](https://github.com/typpo/chartjs-to-image) - Simple library for converting Chart.js to image on backend and frontend (today)
-- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk. (today)
-- [AntoineKM/unity-paleto-bay-hospital](https://github.com/AntoineKM/unity-paleto-bay-hospital) - Discord bot for Unity RP GTA V (1 day ago)
-- [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot) -  (1 day ago)
-- [AntoineKM/dixt](https://github.com/AntoineKM/dixt) - Discord framework with easy plugins implementation - Try it live ! (1 day ago)
-- [AntoineKM/ternoa-assessment](https://github.com/AntoineKM/ternoa-assessment) - Capsule Corp. Labs assessment (6 days ago)
+- [typpo/chartjs-to-image](https://github.com/typpo/chartjs-to-image) - Simple library for converting Chart.js to image on backend and frontend (1 day ago)
+- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk. (1 day ago)
+- [AntoineKM/unity-paleto-bay-hospital](https://github.com/AntoineKM/unity-paleto-bay-hospital) - Discord bot for Unity RP GTA V (2 days ago)
+- [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot) -  (2 days ago)
+- [AntoineKM/dixt](https://github.com/AntoineKM/dixt) - Discord framework with easy plugins implementation - Try it live ! (2 days ago)
+- [AntoineKM/ternoa-assessment](https://github.com/AntoineKM/ternoa-assessment) - Capsule Corp. Labs assessment (1 week ago)
 - [AntoineKM/antoine](https://github.com/AntoineKM/antoine) - cool tools to code like me. (2 weeks ago)
 - [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (3 weeks ago)
 - [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React @styled-components (currently under construction...) (3 weeks ago)
@@ -50,10 +50,10 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔭 Latest releases I've contributed to
 
-- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/shared-types@0.5.3](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/shared-types%400.5.3), today) - @tonightpass sdk.
-- [AntoineKM/dixt](https://github.com/AntoineKM/dixt) ([dixt-plugin-worktime@2.1.9](https://github.com/AntoineKM/dixt/releases/tag/dixt-plugin-worktime%402.1.9), 1 day ago) - Discord framework with easy plugins implementation - Try it live !
-- [vercel/turbo](https://github.com/vercel/turbo) ([v1.9.5-canary.0](https://github.com/vercel/turbo/releases/tag/v1.9.5-canary.0), 2 days ago) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
-- [shuding/nextra](https://github.com/shuding/nextra) ([nextra-theme-docs@2.5.2](https://github.com/shuding/nextra/releases/tag/nextra-theme-docs%402.5.2), 3 days ago) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
+- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/shared-types@0.5.3](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/shared-types%400.5.3), 1 day ago) - @tonightpass sdk.
+- [AntoineKM/dixt](https://github.com/AntoineKM/dixt) ([dixt-plugin-worktime@2.1.9](https://github.com/AntoineKM/dixt/releases/tag/dixt-plugin-worktime%402.1.9), 2 days ago) - Discord framework with easy plugins implementation - Try it live !
+- [vercel/turbo](https://github.com/vercel/turbo) ([v1.9.5-canary.0](https://github.com/vercel/turbo/releases/tag/v1.9.5-canary.0), 3 days ago) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
+- [shuding/nextra](https://github.com/shuding/nextra) ([nextra-theme-docs@2.5.2](https://github.com/shuding/nextra/releases/tag/nextra-theme-docs%402.5.2), 4 days ago) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 - [AntoineKM/antoine](https://github.com/AntoineKM/antoine) ([antoine-tsconfig@1.0.4](https://github.com/AntoineKM/antoine/releases/tag/antoine-tsconfig%401.0.4), 2 weeks ago) - cool tools to code like me.
 - [tonightpass/kitchen](https://github.com/tonightpass/kitchen) ([@tonightpass/kitchen@1.5.5](https://github.com/tonightpass/kitchen/releases/tag/%40tonightpass/kitchen%401.5.5), 1 month ago) - @tonightpass delicious React @styled-components (currently under construction...)
 - [ajayesivan/react-native-remix-icon](https://github.com/ajayesivan/react-native-remix-icon) ([0.4.0](https://github.com/ajayesivan/react-native-remix-icon/releases/tag/0.4.0), 7 months ago) - An OpenSource implementation of remixicon for React Native
@@ -63,10 +63,10 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
-- [Antoinekm/event ticket types](https://github.com/tonightpass/tonightpass/pull/61) on [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) (1 day ago)
-- [Popcat](https://github.com/AntoineKM/dixt/pull/27) on [AntoineKM/dixt](https://github.com/AntoineKM/dixt) (3 days ago)
-- [Add types declarations](https://github.com/typpo/chartjs-to-image/pull/29) on [typpo/chartjs-to-image](https://github.com/typpo/chartjs-to-image) (4 days ago)
-- [Antoinekm/evm](https://github.com/AntoineKM/ternoa-assessment/pull/17) on [AntoineKM/ternoa-assessment](https://github.com/AntoineKM/ternoa-assessment) (1 week ago)
+- [Antoinekm/event ticket types](https://github.com/tonightpass/tonightpass/pull/61) on [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) (2 days ago)
+- [Popcat](https://github.com/AntoineKM/dixt/pull/27) on [AntoineKM/dixt](https://github.com/AntoineKM/dixt) (4 days ago)
+- [Add types declarations](https://github.com/typpo/chartjs-to-image/pull/29) on [typpo/chartjs-to-image](https://github.com/typpo/chartjs-to-image) (5 days ago)
+- [Antoinekm/evm](https://github.com/AntoineKM/ternoa-assessment/pull/17) on [AntoineKM/ternoa-assessment](https://github.com/AntoineKM/ternoa-assessment) (2 weeks ago)
 - [Antoinekm/polkadot](https://github.com/AntoineKM/ternoa-assessment/pull/16) on [AntoineKM/ternoa-assessment](https://github.com/AntoineKM/ternoa-assessment) (2 weeks ago)
 - [Antoinekm/metamask](https://github.com/AntoineKM/ternoa-assessment/pull/15) on [AntoineKM/ternoa-assessment](https://github.com/AntoineKM/ternoa-assessment) (2 weeks ago)
 - [Antoinekm/design](https://github.com/AntoineKM/ternoa-assessment/pull/12) on [AntoineKM/ternoa-assessment](https://github.com/AntoineKM/ternoa-assessment) (2 weeks ago)
@@ -76,10 +76,10 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
-- [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot&#39;s core logic for creating update PR&#39;s. (2 days ago)
-- [wukko/cobalt](https://github.com/wukko/cobalt) - save what you love (2 days ago)
-- [juliencrn/usehooks-ts](https://github.com/juliencrn/usehooks-ts) - React hook library, ready to use, written in Typescript. (5 days ago)
-- [huggingface/huggingface-vscode](https://github.com/huggingface/huggingface-vscode) - Code completion VSCode extension for OSS models (6 days ago)
+- [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot&#39;s core logic for creating update PR&#39;s. (3 days ago)
+- [wukko/cobalt](https://github.com/wukko/cobalt) - save what you love (3 days ago)
+- [juliencrn/usehooks-ts](https://github.com/juliencrn/usehooks-ts) - React hook library, ready to use, written in Typescript. (6 days ago)
+- [huggingface/huggingface-vscode](https://github.com/huggingface/huggingface-vscode) - Code completion VSCode extension for OSS models (1 week ago)
 - [polkadot-js/extension](https://github.com/polkadot-js/extension) - Simple browser extension for managing Polkadot and Substrate network accounts in a browser. Allows the signing of extrinsics using these accounts. Also provides a simple interface for compliant extensions for dapps. (2 weeks ago)
 - [polkadot-js/docs](https://github.com/polkadot-js/docs) - This is the documentation portal for all Polkadot and Substrate related tools and libraries in the polkadot-js family of repos. (2 weeks ago)
 - [wagmi-dev/wagmi](https://github.com/wagmi-dev/wagmi) - React Hooks for Ethereum (2 weeks ago)
