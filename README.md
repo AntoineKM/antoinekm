@@ -50,7 +50,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔭 Latest releases I've contributed to
 
-- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/shared-types@0.5.6](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/shared-types%400.5.6), today) - @tonightpass sdk.
+- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/shared-types@0.5.7](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/shared-types%400.5.7), today) - @tonightpass sdk.
 - [AntoineKM/dixt](https://github.com/AntoineKM/dixt) ([dixt-plugin-roles@1.0.1](https://github.com/AntoineKM/dixt/releases/tag/dixt-plugin-roles%401.0.1), 1 day ago) - Discord framework with easy plugins implementation - Try it live !
 - [vercel/turbo](https://github.com/vercel/turbo) ([v1.9.8](https://github.com/vercel/turbo/releases/tag/v1.9.8), 1 day ago) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
 - [tonightpass/kitchen](https://github.com/tonightpass/kitchen) ([@tonightpass/kitchen@1.6.0](https://github.com/tonightpass/kitchen/releases/tag/%40tonightpass/kitchen%401.6.0), 2 days ago) - @tonightpass delicious React @styled-components (currently under construction...)
