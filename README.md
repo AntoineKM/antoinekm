@@ -76,6 +76,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
+- [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) - PrestaShop is the universal open-source software platform to build your e-commerce solution. (today)
 - [PLOKMJNB/FiveM-Civ-Car-Pack](https://github.com/PLOKMJNB/FiveM-Civ-Car-Pack) - A big library of civilian cars you can fork or download for your server (3 days ago)
 - [esx-framework/esx-documentation](https://github.com/esx-framework/esx-documentation) - ESX Documentation (3 days ago)
 - [esx-framework/esx_core](https://github.com/esx-framework/esx_core) - Official Repo For core resources for esx-legacy (3 days ago)
@@ -85,7 +86,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [huggingface/huggingface-vscode](https://github.com/huggingface/huggingface-vscode) - Code completion VSCode extension for OSS models (1 week ago)
 - [polkadot-js/extension](https://github.com/polkadot-js/extension) - Simple browser extension for managing Polkadot and Substrate network accounts in a browser. Allows the signing of extrinsics using these accounts. Also provides a simple interface for compliant extensions for dapps. (2 weeks ago)
 - [polkadot-js/docs](https://github.com/polkadot-js/docs) - This is the documentation portal for all Polkadot and Substrate related tools and libraries in the polkadot-js family of repos. (2 weeks ago)
-- [wagmi-dev/wagmi](https://github.com/wagmi-dev/wagmi) - React Hooks for Ethereum (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
