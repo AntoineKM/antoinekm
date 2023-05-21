@@ -63,6 +63,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
+- [✨ add cli](https://github.com/AntoineKM/dixt/pull/39) on [AntoineKM/dixt](https://github.com/AntoineKM/dixt) (today)
 - [🏷️ add `isused` and `updatedat` fields to `orderitem` type in `order/…](https://github.com/tonightpass/tonightpass/pull/67) on [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) (2 days ago)
 - [fix: update typo of `resources` folder](https://github.com/esx-framework/esx-documentation/pull/94) on [esx-framework/esx-documentation](https://github.com/esx-framework/esx-documentation) (4 days ago)
 - [Fix types declarations optional variables](https://github.com/typpo/chartjs-to-image/pull/30) on [typpo/chartjs-to-image](https://github.com/typpo/chartjs-to-image) (6 days ago)
@@ -72,7 +73,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [Add types declarations](https://github.com/typpo/chartjs-to-image/pull/29) on [typpo/chartjs-to-image](https://github.com/typpo/chartjs-to-image) (1 week ago)
 - [Antoinekm/evm](https://github.com/AntoineKM/ternoa-assessment/pull/17) on [AntoineKM/ternoa-assessment](https://github.com/AntoineKM/ternoa-assessment) (2 weeks ago)
 - [Antoinekm/polkadot](https://github.com/AntoineKM/ternoa-assessment/pull/16) on [AntoineKM/ternoa-assessment](https://github.com/AntoineKM/ternoa-assessment) (3 weeks ago)
-- [Antoinekm/metamask](https://github.com/AntoineKM/ternoa-assessment/pull/15) on [AntoineKM/ternoa-assessment](https://github.com/AntoineKM/ternoa-assessment) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
