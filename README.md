@@ -37,8 +37,8 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
+- [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React @styled-components (currently under construction...) (today)
 - [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (1 day ago)
-- [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React @styled-components (currently under construction...) (3 days ago)
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk. (6 days ago)
 - [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot) -  (6 days ago)
 - [AntoineKM/dixt](https://github.com/AntoineKM/dixt) - Discord framework with easy plugins implementation - Try it live ! (6 days ago)
@@ -63,6 +63,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
+- [🐛 fix hydration](https://github.com/tonightpass/kitchen/pull/249) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (today)
 - [✨ add cli](https://github.com/AntoineKM/dixt/pull/39) on [AntoineKM/dixt](https://github.com/AntoineKM/dixt) (4 days ago)
 - [🏷️ add `isused` and `updatedat` fields to `orderitem` type in `order/…](https://github.com/tonightpass/tonightpass/pull/67) on [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) (6 days ago)
 - [fix: update typo of `resources` folder](https://github.com/esx-framework/esx-documentation/pull/94) on [esx-framework/esx-documentation](https://github.com/esx-framework/esx-documentation) (1 week ago)
@@ -72,7 +73,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [Popcat](https://github.com/AntoineKM/dixt/pull/27) on [AntoineKM/dixt](https://github.com/AntoineKM/dixt) (2 weeks ago)
 - [Add types declarations](https://github.com/typpo/chartjs-to-image/pull/29) on [typpo/chartjs-to-image](https://github.com/typpo/chartjs-to-image) (2 weeks ago)
 - [Antoinekm/evm](https://github.com/AntoineKM/ternoa-assessment/pull/17) on [AntoineKM/ternoa-assessment](https://github.com/AntoineKM/ternoa-assessment) (3 weeks ago)
-- [Antoinekm/polkadot](https://github.com/AntoineKM/ternoa-assessment/pull/16) on [AntoineKM/ternoa-assessment](https://github.com/AntoineKM/ternoa-assessment) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
