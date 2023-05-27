@@ -63,6 +63,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
+- [✨ add next typescript](https://github.com/tonightpass/kitchen/pull/251) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (today)
 - [🐛 fix hydration](https://github.com/tonightpass/kitchen/pull/249) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (2 days ago)
 - [✨ add cli](https://github.com/AntoineKM/dixt/pull/39) on [AntoineKM/dixt](https://github.com/AntoineKM/dixt) (6 days ago)
 - [🏷️ add `isused` and `updatedat` fields to `orderitem` type in `order/…](https://github.com/tonightpass/tonightpass/pull/67) on [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) (1 week ago)
@@ -72,7 +73,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [Antoinekm/event ticket types](https://github.com/tonightpass/tonightpass/pull/61) on [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) (2 weeks ago)
 - [Popcat](https://github.com/AntoineKM/dixt/pull/27) on [AntoineKM/dixt](https://github.com/AntoineKM/dixt) (2 weeks ago)
 - [Add types declarations](https://github.com/typpo/chartjs-to-image/pull/29) on [typpo/chartjs-to-image](https://github.com/typpo/chartjs-to-image) (2 weeks ago)
-- [Antoinekm/evm](https://github.com/AntoineKM/ternoa-assessment/pull/17) on [AntoineKM/ternoa-assessment](https://github.com/AntoineKM/ternoa-assessment) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
