@@ -37,9 +37,9 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
+- [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React @styled-components (currently under construction...) (today)
 - [AntoineKM/unity-paleto-bay-hospital](https://github.com/AntoineKM/unity-paleto-bay-hospital) - Discord bot for Unity RP GTA V (1 day ago)
 - [AntoineKM/dixt](https://github.com/AntoineKM/dixt) - Discord framework with easy plugins implementation - Try it live ! (1 day ago)
-- [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React @styled-components (currently under construction...) (1 day ago)
 - [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (6 days ago)
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk. (1 week ago)
 - [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot) -  (1 week ago)
@@ -50,7 +50,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔭 Latest releases I've contributed to
 
-- [tonightpass/kitchen](https://github.com/tonightpass/kitchen) ([@tonightpass/kitchen@1.6.3](https://github.com/tonightpass/kitchen/releases/tag/%40tonightpass/kitchen%401.6.3), 1 day ago) - @tonightpass delicious React @styled-components (currently under construction...)
+- [tonightpass/kitchen](https://github.com/tonightpass/kitchen) ([@tonightpass/kitchen@1.6.4](https://github.com/tonightpass/kitchen/releases/tag/%40tonightpass/kitchen%401.6.4), today) - @tonightpass delicious React @styled-components (currently under construction...)
 - [AntoineKM/dixt](https://github.com/AntoineKM/dixt) ([dixt-plugin-logs@2.1.9](https://github.com/AntoineKM/dixt/releases/tag/dixt-plugin-logs%402.1.9), 1 day ago) - Discord framework with easy plugins implementation - Try it live !
 - [shuding/nextra](https://github.com/shuding/nextra) ([nextra-theme-docs@2.6.2](https://github.com/shuding/nextra/releases/tag/nextra-theme-docs%402.6.2), 1 day ago) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 - [vercel/turbo](https://github.com/vercel/turbo) ([v1.10.0-canary.0](https://github.com/vercel/turbo/releases/tag/v1.10.0-canary.0), 6 days ago) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
