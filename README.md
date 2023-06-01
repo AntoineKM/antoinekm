@@ -38,11 +38,11 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 #### 👷 Check out what I'm currently working on
 
 - [AntoineKM/dixt](https://github.com/AntoineKM/dixt) - Discord framework with easy plugins implementation - Try it live ! (today)
+- [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot) -  (today)
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk. (1 day ago)
 - [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React @styled-components (currently under construction...) (1 day ago)
 - [AntoineKM/unity-paleto-bay-hospital](https://github.com/AntoineKM/unity-paleto-bay-hospital) - Discord bot for Unity RP GTA V (2 days ago)
 - [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (1 week ago)
-- [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot) -  (1 week ago)
 - [typpo/chartjs-to-image](https://github.com/typpo/chartjs-to-image) - Simple library for converting Chart.js to image on backend and frontend (2 weeks ago)
 - [AntoineKM/ternoa-assessment](https://github.com/AntoineKM/ternoa-assessment) - Capsule Corp. Labs assessment (3 weeks ago)
 - [AntoineKM/antoine](https://github.com/AntoineKM/antoine) - cool tools to code like me. (1 month ago)
@@ -50,7 +50,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔭 Latest releases I've contributed to
 
-- [AntoineKM/dixt](https://github.com/AntoineKM/dixt) ([dixt-plugin-worktime@2.1.11](https://github.com/AntoineKM/dixt/releases/tag/dixt-plugin-worktime%402.1.11), today) - Discord framework with easy plugins implementation - Try it live !
+- [AntoineKM/dixt](https://github.com/AntoineKM/dixt) ([dixt-plugin-worktime@2.1.13](https://github.com/AntoineKM/dixt/releases/tag/dixt-plugin-worktime%402.1.13), today) - Discord framework with easy plugins implementation - Try it live !
 - [vercel/turbo](https://github.com/vercel/turbo) ([v1.10.1](https://github.com/vercel/turbo/releases/tag/v1.10.1), 1 day ago) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
 - [tonightpass/kitchen](https://github.com/tonightpass/kitchen) ([@tonightpass/kitchen@1.6.5](https://github.com/tonightpass/kitchen/releases/tag/%40tonightpass/kitchen%401.6.5), 1 day ago) - @tonightpass delicious React @styled-components (currently under construction...)
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/shared-types@0.5.9](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/shared-types%400.5.9), 2 days ago) - @tonightpass sdk.
