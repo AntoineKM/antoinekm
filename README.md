@@ -50,8 +50,8 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔭 Latest releases I've contributed to
 
+- [vercel/turbo](https://github.com/vercel/turbo) ([v1.10.2-canary.2](https://github.com/vercel/turbo/releases/tag/v1.10.2-canary.2), today) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
 - [shuding/nextra](https://github.com/shuding/nextra) ([nextra-theme-docs@2.7.0](https://github.com/shuding/nextra/releases/tag/nextra-theme-docs%402.7.0), 1 day ago) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
-- [vercel/turbo](https://github.com/vercel/turbo) ([v1.10.2-canary.1](https://github.com/vercel/turbo/releases/tag/v1.10.2-canary.1), 3 days ago) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/shared-types@0.5.10](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/shared-types%400.5.10), 3 days ago) - @tonightpass sdk.
 - [AntoineKM/dixt](https://github.com/AntoineKM/dixt) ([dixt-plugin-worktime@2.1.13](https://github.com/AntoineKM/dixt/releases/tag/dixt-plugin-worktime%402.1.13), 4 days ago) - The Discord Framework
 - [tonightpass/kitchen](https://github.com/tonightpass/kitchen) ([@tonightpass/kitchen@1.6.5](https://github.com/tonightpass/kitchen/releases/tag/%40tonightpass/kitchen%401.6.5), 5 days ago) - @tonightpass delicious React @styled-components (currently under construction...)
