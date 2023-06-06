@@ -37,11 +37,11 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
+- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk. (today)
 - [AntoineKM/dixt](https://github.com/AntoineKM/dixt) - The Discord Framework (today)
+- [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React @styled-components (currently under construction...) (today)
 - [AntoineKM/unity-paleto-bay-hospital](https://github.com/AntoineKM/unity-paleto-bay-hospital) - Discord bot for Unity RP GTA V (3 days ago)
 - [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot) -  (3 days ago)
-- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk. (6 days ago)
-- [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React @styled-components (currently under construction...) (6 days ago)
 - [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (1 week ago)
 - [typpo/chartjs-to-image](https://github.com/typpo/chartjs-to-image) - Simple library for converting Chart.js to image on backend and frontend (3 weeks ago)
 - [AntoineKM/ternoa-assessment](https://github.com/AntoineKM/ternoa-assessment) - Capsule Corp. Labs assessment (4 weeks ago)
