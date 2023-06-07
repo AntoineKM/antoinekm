@@ -37,24 +37,24 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
-- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk. (today)
-- [AntoineKM/dixt](https://github.com/AntoineKM/dixt) - The Discord Framework (today)
-- [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React @styled-components (currently under construction...) (today)
-- [AntoineKM/unity-paleto-bay-hospital](https://github.com/AntoineKM/unity-paleto-bay-hospital) - Discord bot for Unity RP GTA V (3 days ago)
-- [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot) -  (3 days ago)
-- [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (1 week ago)
+- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk. (1 day ago)
+- [AntoineKM/dixt](https://github.com/AntoineKM/dixt) - The Discord Framework (1 day ago)
+- [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React @styled-components (currently under construction...) (1 day ago)
+- [AntoineKM/unity-paleto-bay-hospital](https://github.com/AntoineKM/unity-paleto-bay-hospital) - Discord bot for Unity RP GTA V (4 days ago)
+- [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot) -  (4 days ago)
+- [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (2 weeks ago)
 - [typpo/chartjs-to-image](https://github.com/typpo/chartjs-to-image) - Simple library for converting Chart.js to image on backend and frontend (3 weeks ago)
-- [AntoineKM/ternoa-assessment](https://github.com/AntoineKM/ternoa-assessment) - Capsule Corp. Labs assessment (4 weeks ago)
+- [AntoineKM/ternoa-assessment](https://github.com/AntoineKM/ternoa-assessment) - Capsule Corp. Labs assessment (1 month ago)
 - [AntoineKM/antoine](https://github.com/AntoineKM/antoine) - cool tools to code like me. (1 month ago)
 - [AntoineKM/hop-action-tests-preact](https://github.com/AntoineKM/hop-action-tests-preact) -  (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/turbo](https://github.com/vercel/turbo) ([v1.10.2](https://github.com/vercel/turbo/releases/tag/v1.10.2), today) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
-- [shuding/nextra](https://github.com/shuding/nextra) ([nextra-theme-docs@2.7.0](https://github.com/shuding/nextra/releases/tag/nextra-theme-docs%402.7.0), 2 days ago) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
-- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/shared-types@0.5.10](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/shared-types%400.5.10), 4 days ago) - @tonightpass sdk.
-- [AntoineKM/dixt](https://github.com/AntoineKM/dixt) ([dixt-plugin-worktime@2.1.13](https://github.com/AntoineKM/dixt/releases/tag/dixt-plugin-worktime%402.1.13), 5 days ago) - The Discord Framework
-- [tonightpass/kitchen](https://github.com/tonightpass/kitchen) ([@tonightpass/kitchen@1.6.5](https://github.com/tonightpass/kitchen/releases/tag/%40tonightpass/kitchen%401.6.5), 6 days ago) - @tonightpass delicious React @styled-components (currently under construction...)
+- [shuding/nextra](https://github.com/shuding/nextra) ([nextra-theme-docs@2.7.1](https://github.com/shuding/nextra/releases/tag/nextra-theme-docs%402.7.1), 1 day ago) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
+- [vercel/turbo](https://github.com/vercel/turbo) ([v1.10.2](https://github.com/vercel/turbo/releases/tag/v1.10.2), 1 day ago) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
+- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/shared-types@0.5.10](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/shared-types%400.5.10), 5 days ago) - @tonightpass sdk.
+- [AntoineKM/dixt](https://github.com/AntoineKM/dixt) ([dixt-plugin-worktime@2.1.13](https://github.com/AntoineKM/dixt/releases/tag/dixt-plugin-worktime%402.1.13), 6 days ago) - The Discord Framework
+- [tonightpass/kitchen](https://github.com/tonightpass/kitchen) ([@tonightpass/kitchen@1.6.5](https://github.com/tonightpass/kitchen/releases/tag/%40tonightpass/kitchen%401.6.5), 1 week ago) - @tonightpass delicious React @styled-components (currently under construction...)
 - [AntoineKM/antoine](https://github.com/AntoineKM/antoine) ([antoine-tsconfig@1.0.4](https://github.com/AntoineKM/antoine/releases/tag/antoine-tsconfig%401.0.4), 1 month ago) - cool tools to code like me.
 - [ajayesivan/react-native-remix-icon](https://github.com/ajayesivan/react-native-remix-icon) ([0.4.0](https://github.com/ajayesivan/react-native-remix-icon/releases/tag/0.4.0), 8 months ago) - An OpenSource implementation of remixicon for React Native
 - [onRuntime/next-usetranslation](https://github.com/onRuntime/next-usetranslation) ([v0.1.10](https://github.com/onRuntime/next-usetranslation/releases/tag/v0.1.10), 9 months ago) - The easiest way to translate your Next.js projects
@@ -68,7 +68,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [🐛 fix hydration](https://github.com/tonightpass/kitchen/pull/249) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (1 week ago)
 - [✨ add cli](https://github.com/AntoineKM/dixt/pull/39) on [AntoineKM/dixt](https://github.com/AntoineKM/dixt) (2 weeks ago)
 - [🏷️ add `isused` and `updatedat` fields to `orderitem` type in `order/…](https://github.com/tonightpass/tonightpass/pull/67) on [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) (2 weeks ago)
-- [fix: update typo of `resources` folder](https://github.com/esx-framework/esx-documentation/pull/94) on [esx-framework/esx-documentation](https://github.com/esx-framework/esx-documentation) (2 weeks ago)
+- [fix: update typo of `resources` folder](https://github.com/esx-framework/esx-documentation/pull/94) on [esx-framework/esx-documentation](https://github.com/esx-framework/esx-documentation) (3 weeks ago)
 - [Fix types declarations optional variables](https://github.com/typpo/chartjs-to-image/pull/30) on [typpo/chartjs-to-image](https://github.com/typpo/chartjs-to-image) (3 weeks ago)
 - [🏷️ add order types](https://github.com/tonightpass/tonightpass/pull/65) on [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) (3 weeks ago)
 - [Antoinekm/event ticket types](https://github.com/tonightpass/tonightpass/pull/61) on [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) (3 weeks ago)
@@ -76,16 +76,16 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
-- [vpnhood/VpnHood](https://github.com/vpnhood/VpnHood) - Undetectable Fast Portable VPN (2 days ago)
-- [pytube/pytube](https://github.com/pytube/pytube) - A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos. (4 days ago)
-- [ddosify/ddosify](https://github.com/ddosify/ddosify) - Comprehensive Performance Testing Platform. Available on CLI, Self-Hosted, and Cloud - https://ddosify.com 🚀 (5 days ago)
-- [NicolasGuilloux/blade-shadow-beta](https://github.com/NicolasGuilloux/blade-shadow-beta) - Various documentation and tools for Shadow on Linux maintained by community (5 days ago)
-- [domeccleston/sharegpt](https://github.com/domeccleston/sharegpt) - Easily share permanent links to ChatGPT conversations with your friends (6 days ago)
+- [vpnhood/VpnHood](https://github.com/vpnhood/VpnHood) - Undetectable Fast Portable VPN (3 days ago)
+- [pytube/pytube](https://github.com/pytube/pytube) - A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos. (5 days ago)
+- [ddosify/ddosify](https://github.com/ddosify/ddosify) - Comprehensive Performance Testing Platform. Available on CLI, Self-Hosted, and Cloud - https://ddosify.com 🚀 (6 days ago)
+- [NicolasGuilloux/blade-shadow-beta](https://github.com/NicolasGuilloux/blade-shadow-beta) - Various documentation and tools for Shadow on Linux maintained by community (6 days ago)
+- [domeccleston/sharegpt](https://github.com/domeccleston/sharegpt) - Easily share permanent links to ChatGPT conversations with your friends (1 week ago)
 - [ektogamat/R3F-Ultimate-Lens-Flare](https://github.com/ektogamat/R3F-Ultimate-Lens-Flare) - Ultimate Lens Flare Post Processing Effect for @react-post-processing (1 week ago)
 - [18alantom/strawberry](https://github.com/18alantom/strawberry) - Zero-dependency, build-free framework for the artisanal web. (2 weeks ago)
 - [pacocoursey/next-themes](https://github.com/pacocoursey/next-themes) - Perfect Next.js dark mode in 2 lines of code. Support System preference and any other theme with no flashing (2 weeks ago)
 - [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) - PrestaShop is the universal open-source software platform to build your e-commerce solution. (2 weeks ago)
-- [PLOKMJNB/FiveM-Civ-Car-Pack](https://github.com/PLOKMJNB/FiveM-Civ-Car-Pack) - A big library of civilian cars you can fork or download for your server (2 weeks ago)
+- [PLOKMJNB/FiveM-Civ-Car-Pack](https://github.com/PLOKMJNB/FiveM-Civ-Car-Pack) - A big library of civilian cars you can fork or download for your server (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
