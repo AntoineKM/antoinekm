@@ -63,6 +63,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
+- [docs: add cards in docs theme build ins](https://github.com/shuding/nextra/pull/1942) on [shuding/nextra](https://github.com/shuding/nextra) (today)
 - [🚚 move from satoshi to figtree](https://github.com/tonightpass/kitchen/pull/254) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (1 week ago)
 - [✨ add next typescript](https://github.com/tonightpass/kitchen/pull/251) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (1 week ago)
 - [🐛 fix hydration](https://github.com/tonightpass/kitchen/pull/249) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (1 week ago)
@@ -72,7 +73,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [Fix types declarations optional variables](https://github.com/typpo/chartjs-to-image/pull/30) on [typpo/chartjs-to-image](https://github.com/typpo/chartjs-to-image) (3 weeks ago)
 - [🏷️ add order types](https://github.com/tonightpass/tonightpass/pull/65) on [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) (3 weeks ago)
 - [Antoinekm/event ticket types](https://github.com/tonightpass/tonightpass/pull/61) on [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) (3 weeks ago)
-- [Popcat](https://github.com/AntoineKM/dixt/pull/27) on [AntoineKM/dixt](https://github.com/AntoineKM/dixt) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
