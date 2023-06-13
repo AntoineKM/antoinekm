@@ -22,7 +22,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 </table>
 
 ## 📈 Contribution Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=AntoineKM&hide_border=true&bg_color=0d1117&color=ff6b81&line=ff4757&&point=59c9e8)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AntoineKM&hide_border=true&bg_color=0d1117&color=ff6b81&line=ff4757&&point=59c9e8)
 
 ## 📊 Stats
 <p align="center">
