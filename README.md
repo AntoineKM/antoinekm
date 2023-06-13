@@ -76,6 +76,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
+- [Orange-OpenSource/Orange-Boosted-Bootstrap](https://github.com/Orange-OpenSource/Orange-Boosted-Bootstrap) - Orange Boosted is a framework library accessible, ergonomic and Orange branded based on Bootstrap (today)
 - [Ashutosh00710/github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph) - A dynamically generated activity graph to show your GitHub activities of last 31 days. (today)
 - [tonightpass/api](https://github.com/tonightpass/api) -  (1 day ago)
 - [illuspas/Node-Media-Server](https://github.com/illuspas/Node-Media-Server) - A Node.js implementation of RTMP/HTTP-FLV/WS-FLV/HLS/DASH/MP4 Media Server (2 days ago)
@@ -85,7 +86,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [ddosify/ddosify](https://github.com/ddosify/ddosify) - Comprehensive Performance Testing Platform. Available on CLI, Self-Hosted, and Cloud - https://ddosify.com 🚀 (1 week ago)
 - [NicolasGuilloux/blade-shadow-beta](https://github.com/NicolasGuilloux/blade-shadow-beta) - Various documentation and tools for Shadow on Linux maintained by community (1 week ago)
 - [domeccleston/sharegpt](https://github.com/domeccleston/sharegpt) - Easily share permanent links to ChatGPT conversations with your friends (1 week ago)
-- [ektogamat/R3F-Ultimate-Lens-Flare](https://github.com/ektogamat/R3F-Ultimate-Lens-Flare) - Ultimate Lens Flare Post Processing Effect for @react-post-processing (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
