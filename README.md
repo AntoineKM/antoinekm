@@ -22,7 +22,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 </table>
 
 ## 📈 Contribution Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=AntoineKM&hide_border=true&bg_color=0d1117&color=ff6b81&line=ff4757&&point=59c9e8)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AntoineKM&hide_border=true&bg_color=0d1117&color=ff6b81&line=ff4757&&point=59c9e8)
 
 ## 📊 Stats
 <p align="center">
@@ -37,16 +37,16 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
+- [AntoineKM/antoinekm](https://github.com/AntoineKM/antoinekm) -  (today)
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk. (1 day ago)
-- [tonightpass/.github](https://github.com/tonightpass/.github) -  (1 day ago)
 - [AntoineKM/dixt](https://github.com/AntoineKM/dixt) - The Discord Framework (1 day ago)
 - [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot) -  (1 day ago)
 - [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React @styled-components (currently under construction...) (1 day ago)
+- [tonightpass/.github](https://github.com/tonightpass/.github) -  (1 day ago)
 - [AntoineKM/unity-paleto-bay-hospital](https://github.com/AntoineKM/unity-paleto-bay-hospital) - Discord bot for Unity RP GTA V (2 days ago)
-- [AntoineKM/patcam](https://github.com/AntoineKM/patcam) -  (3 days ago)
 - [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (3 days ago)
+- [AntoineKM/patcam](https://github.com/AntoineKM/patcam) -  (3 days ago)
 - [onRuntime/onruntime-docs](https://github.com/onRuntime/onruntime-docs) -  (6 days ago)
-- [typpo/chartjs-to-image](https://github.com/typpo/chartjs-to-image) - Simple library for converting Chart.js to image on backend and frontend (4 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -76,6 +76,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
+- [Ashutosh00710/github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph) - A dynamically generated activity graph to show your GitHub activities of last 31 days. (today)
 - [tonightpass/api](https://github.com/tonightpass/api) -  (1 day ago)
 - [illuspas/Node-Media-Server](https://github.com/illuspas/Node-Media-Server) - A Node.js implementation of RTMP/HTTP-FLV/WS-FLV/HLS/DASH/MP4 Media Server (2 days ago)
 - [AntoineKM/patcam](https://github.com/AntoineKM/patcam) -  (3 days ago)
@@ -85,7 +86,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [NicolasGuilloux/blade-shadow-beta](https://github.com/NicolasGuilloux/blade-shadow-beta) - Various documentation and tools for Shadow on Linux maintained by community (1 week ago)
 - [domeccleston/sharegpt](https://github.com/domeccleston/sharegpt) - Easily share permanent links to ChatGPT conversations with your friends (1 week ago)
 - [ektogamat/R3F-Ultimate-Lens-Flare](https://github.com/ektogamat/R3F-Ultimate-Lens-Flare) - Ultimate Lens Flare Post Processing Effect for @react-post-processing (2 weeks ago)
-- [18alantom/strawberry](https://github.com/18alantom/strawberry) - Zero-dependency, build-free framework for the artisanal web. (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
