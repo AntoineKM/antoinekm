@@ -38,11 +38,11 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 #### 👷 Check out what I'm currently working on
 
 - [AntoineKM/dixt](https://github.com/AntoineKM/dixt) - The Discord Framework (today)
+- [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React @styled-components (currently under construction...) (today)
 - [AntoineKM/unity-paleto-bay-hospital](https://github.com/AntoineKM/unity-paleto-bay-hospital) - Discord bot for Unity RP GTA V (1 day ago)
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tooks. (3 days ago)
 - [AntoineKM/antoinekm](https://github.com/AntoineKM/antoinekm) -  (4 days ago)
 - [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot) -  (4 days ago)
-- [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React @styled-components (currently under construction...) (5 days ago)
 - [tonightpass/.github](https://github.com/tonightpass/.github) -  (5 days ago)
 - [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (1 week ago)
 - [AntoineKM/patcam](https://github.com/AntoineKM/patcam) -  (1 week ago)
@@ -63,6 +63,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
+- [🏷️ fix styled types](https://github.com/tonightpass/kitchen/pull/260) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (today)
 - [docs: add cards in docs theme build ins](https://github.com/shuding/nextra/pull/1942) on [shuding/nextra](https://github.com/shuding/nextra) (1 week ago)
 - [🚚 move from satoshi to figtree](https://github.com/tonightpass/kitchen/pull/254) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (2 weeks ago)
 - [✨ add next typescript](https://github.com/tonightpass/kitchen/pull/251) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (3 weeks ago)
@@ -72,7 +73,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [fix: update typo of `resources` folder](https://github.com/esx-framework/esx-documentation/pull/94) on [esx-framework/esx-documentation](https://github.com/esx-framework/esx-documentation) (1 month ago)
 - [Fix types declarations optional variables](https://github.com/typpo/chartjs-to-image/pull/30) on [typpo/chartjs-to-image](https://github.com/typpo/chartjs-to-image) (1 month ago)
 - [🏷️ add order types](https://github.com/tonightpass/tonightpass/pull/65) on [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) (1 month ago)
-- [Antoinekm/event ticket types](https://github.com/tonightpass/tonightpass/pull/61) on [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) (1 month ago)
 
 #### ⭐ Recent Stars
 
