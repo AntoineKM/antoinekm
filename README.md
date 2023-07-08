@@ -50,9 +50,9 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔭 Latest releases I've contributed to
 
+- [shuding/nextra](https://github.com/shuding/nextra) ([nextra-theme-docs@2.9.0](https://github.com/shuding/nextra/releases/tag/nextra-theme-docs%402.9.0), today) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 - [vercel/turbo](https://github.com/vercel/turbo) ([v1.10.7](https://github.com/vercel/turbo/releases/tag/v1.10.7), 1 week ago) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
 - [tonightpass/kitchen](https://github.com/tonightpass/kitchen) ([@tonightpass/kitchen@1.7.0](https://github.com/tonightpass/kitchen/releases/tag/%40tonightpass/kitchen%401.7.0), 1 week ago) - @tonightpass delicious React @styled-components (currently under construction...)
-- [shuding/nextra](https://github.com/shuding/nextra) ([nextra-theme-docs@2.8.0](https://github.com/shuding/nextra/releases/tag/nextra-theme-docs%402.8.0), 2 weeks ago) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 - [AntoineKM/dixt](https://github.com/AntoineKM/dixt) ([dixt-plugin-worktime@2.1.14](https://github.com/AntoineKM/dixt/releases/tag/dixt-plugin-worktime%402.1.14), 3 weeks ago) - The Discord Framework
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/shared-types@0.5.10](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/shared-types%400.5.10), 1 month ago) - @tonightpass sdk and tools.
 - [AntoineKM/antoine](https://github.com/AntoineKM/antoine) ([antoine-tsconfig@1.0.4](https://github.com/AntoineKM/antoine/releases/tag/antoine-tsconfig%401.0.4), 2 months ago) - cool tools to code like me.
