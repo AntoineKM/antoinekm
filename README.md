@@ -38,22 +38,22 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 #### 👷 Check out what I'm currently working on
 
 - [AntoineKM/unity-paleto-bay-hospital](https://github.com/AntoineKM/unity-paleto-bay-hospital) - Discord bot for Unity RP GTA V (today)
-- [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (today)
-- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (3 days ago)
-- [AntoineKM/antoine](https://github.com/AntoineKM/antoine) - cool tools to code like me. (3 days ago)
-- [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React @styled-components (currently under construction...) (3 days ago)
-- [AntoineKM/dixt](https://github.com/AntoineKM/dixt) - The Discord Framework (4 days ago)
-- [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot) -  (6 days ago)
+- [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (1 day ago)
+- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (4 days ago)
+- [AntoineKM/antoine](https://github.com/AntoineKM/antoine) - cool tools to code like me. (4 days ago)
+- [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React @styled-components (currently under construction...) (4 days ago)
+- [AntoineKM/dixt](https://github.com/AntoineKM/dixt) - The Discord Framework (5 days ago)
+- [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot) -  (1 week ago)
 - [AntoineKM/patcam](https://github.com/AntoineKM/patcam) -  (1 week ago)
 - [AntoineKM/antoinekm](https://github.com/AntoineKM/antoinekm) -  (3 weeks ago)
 - [tonightpass/.github](https://github.com/tonightpass/.github) -  (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [shuding/nextra](https://github.com/shuding/nextra) ([nextra-theme-docs@2.9.0](https://github.com/shuding/nextra/releases/tag/nextra-theme-docs%402.9.0), today) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
+- [shuding/nextra](https://github.com/shuding/nextra) ([nextra-theme-docs@2.9.0](https://github.com/shuding/nextra/releases/tag/nextra-theme-docs%402.9.0), 1 day ago) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 - [vercel/turbo](https://github.com/vercel/turbo) ([v1.10.7](https://github.com/vercel/turbo/releases/tag/v1.10.7), 1 week ago) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
 - [tonightpass/kitchen](https://github.com/tonightpass/kitchen) ([@tonightpass/kitchen@1.7.0](https://github.com/tonightpass/kitchen/releases/tag/%40tonightpass/kitchen%401.7.0), 1 week ago) - @tonightpass delicious React @styled-components (currently under construction...)
-- [AntoineKM/dixt](https://github.com/AntoineKM/dixt) ([dixt-plugin-worktime@2.1.14](https://github.com/AntoineKM/dixt/releases/tag/dixt-plugin-worktime%402.1.14), 3 weeks ago) - The Discord Framework
+- [AntoineKM/dixt](https://github.com/AntoineKM/dixt) ([dixt-plugin-worktime@2.1.14](https://github.com/AntoineKM/dixt/releases/tag/dixt-plugin-worktime%402.1.14), 4 weeks ago) - The Discord Framework
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/shared-types@0.5.10](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/shared-types%400.5.10), 1 month ago) - @tonightpass sdk and tools.
 - [AntoineKM/antoine](https://github.com/AntoineKM/antoine) ([antoine-tsconfig@1.0.4](https://github.com/AntoineKM/antoine/releases/tag/antoine-tsconfig%401.0.4), 2 months ago) - cool tools to code like me.
 - [ajayesivan/react-native-remix-icon](https://github.com/ajayesivan/react-native-remix-icon) ([0.4.0](https://github.com/ajayesivan/react-native-remix-icon/releases/tag/0.4.0), 9 months ago) - An OpenSource implementation of remixicon for React Native
@@ -76,8 +76,8 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
-- [michael-dm/eva](https://github.com/michael-dm/eva) -  (4 days ago)
-- [bhamrick/multitwitch](https://github.com/bhamrick/multitwitch) - Multiple twitch streams on one page (4 days ago)
+- [michael-dm/eva](https://github.com/michael-dm/eva) -  (5 days ago)
+- [bhamrick/multitwitch](https://github.com/bhamrick/multitwitch) - Multiple twitch streams on one page (5 days ago)
 - [adamlui/autoclear-chatgpt-history](https://github.com/adamlui/autoclear-chatgpt-history) - 🕶️ Adds chat auto-clear functionality to ChatGPT for more privacy (1 week ago)
 - [madkarmaa/automatic-chatgpt-dan](https://github.com/madkarmaa/automatic-chatgpt-dan) - Browser userscript to automatically send DAN messages to ChatGPT (1 week ago)
 - [citizenfx/fivem](https://github.com/citizenfx/fivem) - The source code for the Cfx.re modification frameworks, such as FiveM, RedM and LibertyM, as well as FXServer. (1 week ago)
