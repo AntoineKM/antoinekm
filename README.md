@@ -37,26 +37,26 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
-- [AntoineKM/antoine](https://github.com/AntoineKM/antoine) - cool tools to code like me. (today)
-- [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React @styled-components (currently under construction...) (today)
-- [AntoineKM/patcam](https://github.com/AntoineKM/patcam) -  (2 days ago)
-- [AntoineKM/unity-paleto-bay-hospital](https://github.com/AntoineKM/unity-paleto-bay-hospital) - Discord bot for Unity RP GTA V (6 days ago)
+- [AntoineKM/antoine](https://github.com/AntoineKM/antoine) - cool tools to code like me. (1 day ago)
+- [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React @styled-components (currently under construction...) (1 day ago)
+- [AntoineKM/patcam](https://github.com/AntoineKM/patcam) -  (3 days ago)
+- [AntoineKM/unity-paleto-bay-hospital](https://github.com/AntoineKM/unity-paleto-bay-hospital) - Discord bot for Unity RP GTA V (1 week ago)
 - [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (1 week ago)
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (1 week ago)
 - [AntoineKM/dixt](https://github.com/AntoineKM/dixt) - The Discord Framework (1 week ago)
-- [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot) -  (1 week ago)
+- [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot) -  (2 weeks ago)
 - [AntoineKM/antoinekm](https://github.com/AntoineKM/antoinekm) -  (1 month ago)
 - [tonightpass/.github](https://github.com/tonightpass/.github) -  (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/turbo](https://github.com/vercel/turbo) ([v1.10.8-canary.2](https://github.com/vercel/turbo/releases/tag/v1.10.8-canary.2), today) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
-- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/shared-types@0.6.0](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/shared-types%400.6.0), 1 day ago) - @tonightpass sdk and tools.
-- [shuding/nextra](https://github.com/shuding/nextra) ([nextra-theme-docs@2.10.0](https://github.com/shuding/nextra/releases/tag/nextra-theme-docs%402.10.0), 2 days ago) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
+- [vercel/turbo](https://github.com/vercel/turbo) ([v1.10.8-canary.2](https://github.com/vercel/turbo/releases/tag/v1.10.8-canary.2), 1 day ago) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
+- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/shared-types@0.6.0](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/shared-types%400.6.0), 2 days ago) - @tonightpass sdk and tools.
+- [shuding/nextra](https://github.com/shuding/nextra) ([nextra-theme-docs@2.10.0](https://github.com/shuding/nextra/releases/tag/nextra-theme-docs%402.10.0), 3 days ago) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 - [tonightpass/kitchen](https://github.com/tonightpass/kitchen) ([@tonightpass/kitchen@1.7.0](https://github.com/tonightpass/kitchen/releases/tag/%40tonightpass/kitchen%401.7.0), 2 weeks ago) - @tonightpass delicious React @styled-components (currently under construction...)
 - [AntoineKM/dixt](https://github.com/AntoineKM/dixt) ([dixt-plugin-worktime@2.1.14](https://github.com/AntoineKM/dixt/releases/tag/dixt-plugin-worktime%402.1.14), 1 month ago) - The Discord Framework
 - [AntoineKM/antoine](https://github.com/AntoineKM/antoine) ([antoine-tsconfig@1.0.4](https://github.com/AntoineKM/antoine/releases/tag/antoine-tsconfig%401.0.4), 2 months ago) - cool tools to code like me.
-- [ajayesivan/react-native-remix-icon](https://github.com/ajayesivan/react-native-remix-icon) ([0.4.0](https://github.com/ajayesivan/react-native-remix-icon/releases/tag/0.4.0), 9 months ago) - An OpenSource implementation of remixicon for React Native
+- [ajayesivan/react-native-remix-icon](https://github.com/ajayesivan/react-native-remix-icon) ([0.4.0](https://github.com/ajayesivan/react-native-remix-icon/releases/tag/0.4.0), 10 months ago) - An OpenSource implementation of remixicon for React Native
 - [onRuntime/next-usetranslation](https://github.com/onRuntime/next-usetranslation) ([v0.1.10](https://github.com/onRuntime/next-usetranslation/releases/tag/v0.1.10), 10 months ago) - The easiest way to translate your Next.js projects
 - [onRuntime/next-link](https://github.com/onRuntime/next-link) ([0.1.5](https://github.com/onRuntime/next-link/releases/tag/0.1.5), 10 months ago) - Customized next/link for @onRuntime Next.js projects.
 - [geist-org/geist-ui](https://github.com/geist-org/geist-ui) ([v2.3.8](https://github.com/geist-org/geist-ui/releases/tag/v2.3.8), 1 year ago) - A design system for building modern websites and applications.
@@ -72,7 +72,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [🐛 fix hydration](https://github.com/tonightpass/kitchen/pull/249) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (1 month ago)
 - [✨ add cli](https://github.com/AntoineKM/dixt/pull/39) on [AntoineKM/dixt](https://github.com/AntoineKM/dixt) (1 month ago)
 - [🏷️ add `isused` and `updatedat` fields to `orderitem` type in `order/…](https://github.com/tonightpass/tonightpass/pull/67) on [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) (1 month ago)
-- [fix: update typo of `resources` folder](https://github.com/esx-framework/esx-documentation/pull/94) on [esx-framework/esx-documentation](https://github.com/esx-framework/esx-documentation) (1 month ago)
+- [fix: update typo of `resources` folder](https://github.com/esx-framework/esx-documentation/pull/94) on [esx-framework/esx-documentation](https://github.com/esx-framework/esx-documentation) (2 months ago)
 
 #### ⭐ Recent Stars
 
