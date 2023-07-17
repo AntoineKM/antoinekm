@@ -37,9 +37,9 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
-- [AntoineKM/antoine](https://github.com/AntoineKM/antoine) - cool tools to code like me. (1 day ago)
-- [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React @styled-components (currently under construction...) (1 day ago)
-- [AntoineKM/patcam](https://github.com/AntoineKM/patcam) -  (3 days ago)
+- [AntoineKM/antoine](https://github.com/AntoineKM/antoine) - cool tools to code like me. (2 days ago)
+- [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React @styled-components (currently under construction...) (2 days ago)
+- [AntoineKM/patcam](https://github.com/AntoineKM/patcam) -  (4 days ago)
 - [AntoineKM/unity-paleto-bay-hospital](https://github.com/AntoineKM/unity-paleto-bay-hospital) - Discord bot for Unity RP GTA V (1 week ago)
 - [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (1 week ago)
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (1 week ago)
@@ -50,9 +50,9 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/turbo](https://github.com/vercel/turbo) ([v1.10.8-canary.2](https://github.com/vercel/turbo/releases/tag/v1.10.8-canary.2), 1 day ago) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
-- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/shared-types@0.6.0](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/shared-types%400.6.0), 2 days ago) - @tonightpass sdk and tools.
-- [shuding/nextra](https://github.com/shuding/nextra) ([nextra-theme-docs@2.10.0](https://github.com/shuding/nextra/releases/tag/nextra-theme-docs%402.10.0), 3 days ago) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
+- [vercel/turbo](https://github.com/vercel/turbo) ([v1.10.8-canary.2](https://github.com/vercel/turbo/releases/tag/v1.10.8-canary.2), 2 days ago) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
+- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/shared-types@0.6.0](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/shared-types%400.6.0), 3 days ago) - @tonightpass sdk and tools.
+- [shuding/nextra](https://github.com/shuding/nextra) ([nextra-theme-docs@2.10.0](https://github.com/shuding/nextra/releases/tag/nextra-theme-docs%402.10.0), 4 days ago) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 - [tonightpass/kitchen](https://github.com/tonightpass/kitchen) ([@tonightpass/kitchen@1.7.0](https://github.com/tonightpass/kitchen/releases/tag/%40tonightpass/kitchen%401.7.0), 2 weeks ago) - @tonightpass delicious React @styled-components (currently under construction...)
 - [AntoineKM/dixt](https://github.com/AntoineKM/dixt) ([dixt-plugin-worktime@2.1.14](https://github.com/AntoineKM/dixt/releases/tag/dixt-plugin-worktime%402.1.14), 1 month ago) - The Discord Framework
 - [AntoineKM/antoine](https://github.com/AntoineKM/antoine) ([antoine-tsconfig@1.0.4](https://github.com/AntoineKM/antoine/releases/tag/antoine-tsconfig%401.0.4), 2 months ago) - cool tools to code like me.
@@ -65,7 +65,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 - [🔧 update .npmrc](https://github.com/tonightpass/kitchen/pull/267) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (3 weeks ago)
 - [➕ add @types/react and @types/node to next example](https://github.com/tonightpass/kitchen/pull/264) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (3 weeks ago)
-- [🏷️ fix styled types](https://github.com/tonightpass/kitchen/pull/260) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (4 weeks ago)
+- [🏷️ fix styled types](https://github.com/tonightpass/kitchen/pull/260) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (1 month ago)
 - [docs: add cards in docs theme build ins](https://github.com/shuding/nextra/pull/1942) on [shuding/nextra](https://github.com/shuding/nextra) (1 month ago)
 - [🚚 move from satoshi to figtree](https://github.com/tonightpass/kitchen/pull/254) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (1 month ago)
 - [✨ add next typescript](https://github.com/tonightpass/kitchen/pull/251) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (1 month ago)
@@ -80,12 +80,12 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [bhamrick/multitwitch](https://github.com/bhamrick/multitwitch) - Multiple twitch streams on one page (1 week ago)
 - [adamlui/autoclear-chatgpt-history](https://github.com/adamlui/autoclear-chatgpt-history) - 🕶️ Adds chat auto-clear functionality to ChatGPT for more privacy (2 weeks ago)
 - [madkarmaa/automatic-chatgpt-dan](https://github.com/madkarmaa/automatic-chatgpt-dan) - Browser userscript to automatically send DAN messages to ChatGPT (2 weeks ago)
-- [citizenfx/fivem](https://github.com/citizenfx/fivem) - The source code for the Cfx.re modification frameworks, such as FiveM, RedM and LibertyM, as well as FXServer. (2 weeks ago)
+- [citizenfx/fivem](https://github.com/citizenfx/fivem) - The source code for the Cfx.re modification frameworks, such as FiveM, RedM and LibertyM, as well as FXServer. (3 weeks ago)
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording (3 weeks ago)
 - [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it. (3 weeks ago)
-- [vercel-labs/ai-chatbot](https://github.com/vercel-labs/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel Labs (3 weeks ago)
-- [kyleleong/caffeine](https://github.com/kyleleong/caffeine) - Prevent your computer from going to sleep (4 weeks ago)
-- [rnmapbox/maps](https://github.com/rnmapbox/maps) - A Mapbox react native module for creating custom maps (4 weeks ago)
+- [vercel-labs/ai-chatbot](https://github.com/vercel-labs/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel Labs (4 weeks ago)
+- [kyleleong/caffeine](https://github.com/kyleleong/caffeine) - Prevent your computer from going to sleep (1 month ago)
+- [rnmapbox/maps](https://github.com/rnmapbox/maps) - A Mapbox react native module for creating custom maps (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
