@@ -50,7 +50,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔭 Latest releases I've contributed to
 
-- [alii/searchy](https://github.com/alii/searchy) ([v0.2.0](https://github.com/alii/searchy/releases/tag/v0.2.0), today) - Cloudflare &#43; Google = supercharged web surfing
+- [alii/searchy](https://github.com/alii/searchy) ([v0.2.1](https://github.com/alii/searchy/releases/tag/v0.2.1), today) - Cloudflare &#43; Google = supercharged web surfing
 - [vercel/turbo](https://github.com/vercel/turbo) ([v1.10.12](https://github.com/vercel/turbo/releases/tag/v1.10.12), 1 week ago) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
 - [AntoineKM/antoine](https://github.com/AntoineKM/antoine) ([eslint-config-antoine@1.0.7](https://github.com/AntoineKM/antoine/releases/tag/eslint-config-antoine%401.0.7), 1 week ago) - cool tools to code like me.
 - [tonightpass/kitchen](https://github.com/tonightpass/kitchen) ([@tonightpass/kitchen@1.8.0](https://github.com/tonightpass/kitchen/releases/tag/%40tonightpass/kitchen%401.8.0), 2 weeks ago) - @tonightpass delicious React @styled-components (currently under construction...)
