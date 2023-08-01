@@ -50,6 +50,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔭 Latest releases I've contributed to
 
+- [alii/searchy](https://github.com/alii/searchy) ([v0.2.0](https://github.com/alii/searchy/releases/tag/v0.2.0), today) - Cloudflare &#43; Google = supercharged web surfing
 - [vercel/turbo](https://github.com/vercel/turbo) ([v1.10.12](https://github.com/vercel/turbo/releases/tag/v1.10.12), 1 week ago) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
 - [AntoineKM/antoine](https://github.com/AntoineKM/antoine) ([eslint-config-antoine@1.0.7](https://github.com/AntoineKM/antoine/releases/tag/eslint-config-antoine%401.0.7), 1 week ago) - cool tools to code like me.
 - [tonightpass/kitchen](https://github.com/tonightpass/kitchen) ([@tonightpass/kitchen@1.8.0](https://github.com/tonightpass/kitchen/releases/tag/%40tonightpass/kitchen%401.8.0), 2 weeks ago) - @tonightpass delicious React @styled-components (currently under construction...)
@@ -59,7 +60,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [ajayesivan/react-native-remix-icon](https://github.com/ajayesivan/react-native-remix-icon) ([0.4.0](https://github.com/ajayesivan/react-native-remix-icon/releases/tag/0.4.0), 10 months ago) - An OpenSource implementation of remixicon for React Native
 - [onRuntime/next-usetranslation](https://github.com/onRuntime/next-usetranslation) ([v0.1.10](https://github.com/onRuntime/next-usetranslation/releases/tag/v0.1.10), 11 months ago) - The easiest way to translate your Next.js projects
 - [onRuntime/next-link](https://github.com/onRuntime/next-link) ([0.1.5](https://github.com/onRuntime/next-link/releases/tag/0.1.5), 11 months ago) - Customized next/link for @onRuntime Next.js projects.
-- [geist-org/geist-ui](https://github.com/geist-org/geist-ui) ([v2.3.8](https://github.com/geist-org/geist-ui/releases/tag/v2.3.8), 1 year ago) - A design system for building modern websites and applications.
 
 #### 🔨 My recent Pull Requests
 
