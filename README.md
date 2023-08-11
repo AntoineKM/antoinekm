@@ -37,8 +37,8 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
-- [AntoineKM/unity-paleto-bay-hospital](https://github.com/AntoineKM/unity-paleto-bay-hospital) - Discord bot for Unity RP GTA V (5 days ago)
-- [AntoineKM/mashup-payment](https://github.com/AntoineKM/mashup-payment) -  (6 days ago)
+- [AntoineKM/unity-paleto-bay-hospital](https://github.com/AntoineKM/unity-paleto-bay-hospital) - Discord bot for Unity RP GTA V (6 days ago)
+- [AntoineKM/mashup-payment](https://github.com/AntoineKM/mashup-payment) -  (1 week ago)
 - [AntoineKM/antoine](https://github.com/AntoineKM/antoine) - cool tools to code like me. (2 weeks ago)
 - [AntoineKM/unity-website](https://github.com/AntoineKM/unity-website) - Website for Unity RP GTA V (2 weeks ago)
 - [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React @styled-components (currently under construction...) (3 weeks ago)
@@ -50,9 +50,9 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔭 Latest releases I've contributed to
 
-- [tonightpass/kitchen](https://github.com/tonightpass/kitchen) ([@tonightpass/kitchen@1.8.1](https://github.com/tonightpass/kitchen/releases/tag/%40tonightpass/kitchen%401.8.1), 1 day ago) - @tonightpass delicious React @styled-components (currently under construction...)
-- [vercel/turbo](https://github.com/vercel/turbo) ([v1.10.13-canary.0](https://github.com/vercel/turbo/releases/tag/v1.10.13-canary.0), 2 days ago) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
-- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/requester@1.0.0](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/requester%401.0.0), 5 days ago) - @tonightpass sdk and tools.
+- [tonightpass/kitchen](https://github.com/tonightpass/kitchen) ([@tonightpass/kitchen@1.8.1](https://github.com/tonightpass/kitchen/releases/tag/%40tonightpass/kitchen%401.8.1), 2 days ago) - @tonightpass delicious React @styled-components (currently under construction...)
+- [vercel/turbo](https://github.com/vercel/turbo) ([v1.10.13-canary.0](https://github.com/vercel/turbo/releases/tag/v1.10.13-canary.0), 3 days ago) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
+- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/requester@1.0.0](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/requester%401.0.0), 6 days ago) - @tonightpass sdk and tools.
 - [alii/searchy](https://github.com/alii/searchy) ([v0.2.2](https://github.com/alii/searchy/releases/tag/v0.2.2), 1 week ago) - Cloudflare &#43; Google = supercharged web surfing
 - [AntoineKM/antoine](https://github.com/AntoineKM/antoine) ([eslint-config-antoine@1.0.7](https://github.com/AntoineKM/antoine/releases/tag/eslint-config-antoine%401.0.7), 2 weeks ago) - cool tools to code like me.
 - [shuding/nextra](https://github.com/shuding/nextra) ([nextra-theme-docs@2.10.0](https://github.com/shuding/nextra/releases/tag/nextra-theme-docs%402.10.0), 4 weeks ago) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
