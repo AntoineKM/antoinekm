@@ -37,9 +37,9 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
-- [AntoineKM/unity-paleto-bay-hospital](https://github.com/AntoineKM/unity-paleto-bay-hospital) - Discord bot for Unity RP GTA V (6 days ago)
+- [AntoineKM/unity-paleto-bay-hospital](https://github.com/AntoineKM/unity-paleto-bay-hospital) - Discord bot for Unity RP GTA V (1 week ago)
 - [AntoineKM/mashup-payment](https://github.com/AntoineKM/mashup-payment) -  (1 week ago)
-- [AntoineKM/antoine](https://github.com/AntoineKM/antoine) - cool tools to code like me. (2 weeks ago)
+- [AntoineKM/antoine](https://github.com/AntoineKM/antoine) - cool tools to code like me. (3 weeks ago)
 - [AntoineKM/unity-website](https://github.com/AntoineKM/unity-website) - Website for Unity RP GTA V (3 weeks ago)
 - [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React @styled-components (currently under construction...) (3 weeks ago)
 - [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot) -  (3 weeks ago)
@@ -50,11 +50,11 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔭 Latest releases I've contributed to
 
-- [tonightpass/kitchen](https://github.com/tonightpass/kitchen) ([@tonightpass/kitchen@1.8.1](https://github.com/tonightpass/kitchen/releases/tag/%40tonightpass/kitchen%401.8.1), 3 days ago) - @tonightpass delicious React @styled-components (currently under construction...)
-- [vercel/turbo](https://github.com/vercel/turbo) ([v1.10.13-canary.0](https://github.com/vercel/turbo/releases/tag/v1.10.13-canary.0), 4 days ago) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
+- [tonightpass/kitchen](https://github.com/tonightpass/kitchen) ([@tonightpass/kitchen@1.8.1](https://github.com/tonightpass/kitchen/releases/tag/%40tonightpass/kitchen%401.8.1), 4 days ago) - @tonightpass delicious React @styled-components (currently under construction...)
+- [vercel/turbo](https://github.com/vercel/turbo) ([v1.10.13-canary.0](https://github.com/vercel/turbo/releases/tag/v1.10.13-canary.0), 5 days ago) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/requester@1.0.0](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/requester%401.0.0), 1 week ago) - @tonightpass sdk and tools.
 - [alii/searchy](https://github.com/alii/searchy) ([v0.2.2](https://github.com/alii/searchy/releases/tag/v0.2.2), 1 week ago) - Cloudflare &#43; Google = supercharged web surfing
-- [AntoineKM/antoine](https://github.com/AntoineKM/antoine) ([eslint-config-antoine@1.0.7](https://github.com/AntoineKM/antoine/releases/tag/eslint-config-antoine%401.0.7), 2 weeks ago) - cool tools to code like me.
+- [AntoineKM/antoine](https://github.com/AntoineKM/antoine) ([eslint-config-antoine@1.0.7](https://github.com/AntoineKM/antoine/releases/tag/eslint-config-antoine%401.0.7), 3 weeks ago) - cool tools to code like me.
 - [shuding/nextra](https://github.com/shuding/nextra) ([nextra-theme-docs@2.10.0](https://github.com/shuding/nextra/releases/tag/nextra-theme-docs%402.10.0), 1 month ago) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 - [AntoineKM/dixt](https://github.com/AntoineKM/dixt) ([dixt-plugin-worktime@2.1.14](https://github.com/AntoineKM/dixt/releases/tag/dixt-plugin-worktime%402.1.14), 2 months ago) - The Discord Framework
 - [ajayesivan/react-native-remix-icon](https://github.com/ajayesivan/react-native-remix-icon) ([0.4.0](https://github.com/ajayesivan/react-native-remix-icon/releases/tag/0.4.0), 10 months ago) - An OpenSource implementation of remixicon for React Native
@@ -76,7 +76,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
-- [AntoineKM/antoine](https://github.com/AntoineKM/antoine) - cool tools to code like me. (2 weeks ago)
+- [AntoineKM/antoine](https://github.com/AntoineKM/antoine) - cool tools to code like me. (3 weeks ago)
 - [michael-dm/eva](https://github.com/michael-dm/eva) -  (1 month ago)
 - [bhamrick/multitwitch](https://github.com/bhamrick/multitwitch) - Multiple twitch streams on one page (1 month ago)
 - [adamlui/autoclear-chatgpt-history](https://github.com/adamlui/autoclear-chatgpt-history) - 🕶️ Adds chat auto-clear functionality to ChatGPT for more privacy (1 month ago)
