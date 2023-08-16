@@ -50,7 +50,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔭 Latest releases I've contributed to
 
-- [AntoineKM/antoine](https://github.com/AntoineKM/antoine) ([eslint-config-antoine@1.0.11](https://github.com/AntoineKM/antoine/releases/tag/eslint-config-antoine%401.0.11), today) - cool tools to code like me.
+- [AntoineKM/antoine](https://github.com/AntoineKM/antoine) ([eslint-config-antoine@1.0.13](https://github.com/AntoineKM/antoine/releases/tag/eslint-config-antoine%401.0.13), today) - cool tools to code like me.
 - [vercel/turbo](https://github.com/vercel/turbo) ([v1.10.13-canary.1](https://github.com/vercel/turbo/releases/tag/v1.10.13-canary.1), 1 day ago) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
 - [shuding/nextra](https://github.com/shuding/nextra) ([nextra-theme-docs@2.11.0](https://github.com/shuding/nextra/releases/tag/nextra-theme-docs%402.11.0), 3 days ago) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 - [tonightpass/kitchen](https://github.com/tonightpass/kitchen) ([@tonightpass/kitchen@1.8.1](https://github.com/tonightpass/kitchen/releases/tag/%40tonightpass/kitchen%401.8.1), 1 week ago) - @tonightpass delicious React @styled-components (currently under construction...)
@@ -63,6 +63,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
+- [Migrate to `eslint-config-antoine`](https://github.com/tonightpass/kitchen/pull/291) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (today)
 - [🔧 update .npmrc](https://github.com/tonightpass/kitchen/pull/267) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (1 month ago)
 - [➕ add @types/react and @types/node to next example](https://github.com/tonightpass/kitchen/pull/264) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (1 month ago)
 - [🏷️ fix styled types](https://github.com/tonightpass/kitchen/pull/260) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (2 months ago)
@@ -72,7 +73,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [🐛 fix hydration](https://github.com/tonightpass/kitchen/pull/249) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (2 months ago)
 - [✨ add cli](https://github.com/AntoineKM/dixt/pull/39) on [AntoineKM/dixt](https://github.com/AntoineKM/dixt) (2 months ago)
 - [🏷️ add `isused` and `updatedat` fields to `orderitem` type in `order/…](https://github.com/tonightpass/tonightpass/pull/67) on [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) (2 months ago)
-- [fix: update typo of `resources` folder](https://github.com/esx-framework/esx-documentation/pull/94) on [esx-framework/esx-documentation](https://github.com/esx-framework/esx-documentation) (3 months ago)
 
 #### ⭐ Recent Stars
 
