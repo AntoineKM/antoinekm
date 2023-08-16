@@ -50,7 +50,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔭 Latest releases I've contributed to
 
-- [AntoineKM/antoine](https://github.com/AntoineKM/antoine) ([eslint-config-antoine@1.0.8](https://github.com/AntoineKM/antoine/releases/tag/eslint-config-antoine%401.0.8), today) - cool tools to code like me.
+- [AntoineKM/antoine](https://github.com/AntoineKM/antoine) ([eslint-config-antoine@1.0.11](https://github.com/AntoineKM/antoine/releases/tag/eslint-config-antoine%401.0.11), today) - cool tools to code like me.
 - [vercel/turbo](https://github.com/vercel/turbo) ([v1.10.13-canary.1](https://github.com/vercel/turbo/releases/tag/v1.10.13-canary.1), 1 day ago) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
 - [shuding/nextra](https://github.com/shuding/nextra) ([nextra-theme-docs@2.11.0](https://github.com/shuding/nextra/releases/tag/nextra-theme-docs%402.11.0), 3 days ago) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 - [tonightpass/kitchen](https://github.com/tonightpass/kitchen) ([@tonightpass/kitchen@1.8.1](https://github.com/tonightpass/kitchen/releases/tag/%40tonightpass/kitchen%401.8.1), 1 week ago) - @tonightpass delicious React @styled-components (currently under construction...)
