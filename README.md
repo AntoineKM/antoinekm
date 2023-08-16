@@ -50,9 +50,9 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔭 Latest releases I've contributed to
 
-- [shuding/nextra](https://github.com/shuding/nextra) ([nextra-theme-docs@2.11.0](https://github.com/shuding/nextra/releases/tag/nextra-theme-docs%402.11.0), 2 days ago) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
-- [tonightpass/kitchen](https://github.com/tonightpass/kitchen) ([@tonightpass/kitchen@1.8.1](https://github.com/tonightpass/kitchen/releases/tag/%40tonightpass/kitchen%401.8.1), 6 days ago) - @tonightpass delicious React @styled-components (currently under construction...)
-- [vercel/turbo](https://github.com/vercel/turbo) ([v1.10.13-canary.0](https://github.com/vercel/turbo/releases/tag/v1.10.13-canary.0), 1 week ago) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
+- [vercel/turbo](https://github.com/vercel/turbo) ([v1.10.13-canary.1](https://github.com/vercel/turbo/releases/tag/v1.10.13-canary.1), 1 day ago) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
+- [shuding/nextra](https://github.com/shuding/nextra) ([nextra-theme-docs@2.11.0](https://github.com/shuding/nextra/releases/tag/nextra-theme-docs%402.11.0), 3 days ago) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
+- [tonightpass/kitchen](https://github.com/tonightpass/kitchen) ([@tonightpass/kitchen@1.8.1](https://github.com/tonightpass/kitchen/releases/tag/%40tonightpass/kitchen%401.8.1), 1 week ago) - @tonightpass delicious React @styled-components (currently under construction...)
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/requester@1.0.0](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/requester%401.0.0), 1 week ago) - @tonightpass sdk and tools.
 - [alii/searchy](https://github.com/alii/searchy) ([v0.2.2](https://github.com/alii/searchy/releases/tag/v0.2.2), 1 week ago) - Cloudflare &#43; Google = supercharged web surfing
 - [AntoineKM/antoine](https://github.com/AntoineKM/antoine) ([eslint-config-antoine@1.0.7](https://github.com/AntoineKM/antoine/releases/tag/eslint-config-antoine%401.0.7), 3 weeks ago) - cool tools to code like me.
@@ -65,7 +65,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 - [🔧 update .npmrc](https://github.com/tonightpass/kitchen/pull/267) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (1 month ago)
 - [➕ add @types/react and @types/node to next example](https://github.com/tonightpass/kitchen/pull/264) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (1 month ago)
-- [🏷️ fix styled types](https://github.com/tonightpass/kitchen/pull/260) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (1 month ago)
+- [🏷️ fix styled types](https://github.com/tonightpass/kitchen/pull/260) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (2 months ago)
 - [docs: add cards in docs theme build ins](https://github.com/shuding/nextra/pull/1942) on [shuding/nextra](https://github.com/shuding/nextra) (2 months ago)
 - [🚚 move from satoshi to figtree](https://github.com/tonightpass/kitchen/pull/254) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (2 months ago)
 - [✨ add next typescript](https://github.com/tonightpass/kitchen/pull/251) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (2 months ago)
@@ -85,7 +85,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording (1 month ago)
 - [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it. (1 month ago)
 - [vercel-labs/ai-chatbot](https://github.com/vercel-labs/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel Labs (1 month ago)
-- [kyleleong/caffeine](https://github.com/kyleleong/caffeine) - Prevent your computer from going to sleep (1 month ago)
+- [kyleleong/caffeine](https://github.com/kyleleong/caffeine) - Prevent your computer from going to sleep (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
