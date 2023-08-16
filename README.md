@@ -63,6 +63,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
+- [🐛 fix hover and focus due to and sign unused](https://github.com/tonightpass/kitchen/pull/292) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (today)
 - [Migrate to `eslint-config-antoine`](https://github.com/tonightpass/kitchen/pull/291) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (today)
 - [🔧 update .npmrc](https://github.com/tonightpass/kitchen/pull/267) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (1 month ago)
 - [➕ add @types/react and @types/node to next example](https://github.com/tonightpass/kitchen/pull/264) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (1 month ago)
@@ -72,7 +73,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [✨ add next typescript](https://github.com/tonightpass/kitchen/pull/251) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (2 months ago)
 - [🐛 fix hydration](https://github.com/tonightpass/kitchen/pull/249) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (2 months ago)
 - [✨ add cli](https://github.com/AntoineKM/dixt/pull/39) on [AntoineKM/dixt](https://github.com/AntoineKM/dixt) (2 months ago)
-- [🏷️ add `isused` and `updatedat` fields to `orderitem` type in `order/…](https://github.com/tonightpass/tonightpass/pull/67) on [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) (2 months ago)
 
 #### ⭐ Recent Stars
 
