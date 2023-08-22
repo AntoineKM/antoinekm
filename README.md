@@ -37,11 +37,11 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
-- [AntoineKM/unity-paleto-bay-hospital](https://github.com/AntoineKM/unity-paleto-bay-hospital) - Discord bot for Unity RP GTA V (today)
-- [AntoineKM/dixt](https://github.com/AntoineKM/dixt) - The Discord Framework (3 days ago)
-- [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (3 days ago)
-- [AntoineKM/antoine](https://github.com/AntoineKM/antoine) - cool tools to code like me. (5 days ago)
-- [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React @styled-components (currently under construction...) (5 days ago)
+- [AntoineKM/unity-paleto-bay-hospital](https://github.com/AntoineKM/unity-paleto-bay-hospital) - Discord bot for Unity RP GTA V (1 day ago)
+- [AntoineKM/dixt](https://github.com/AntoineKM/dixt) - The Discord Framework (4 days ago)
+- [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (4 days ago)
+- [AntoineKM/antoine](https://github.com/AntoineKM/antoine) - cool tools to code like me. (6 days ago)
+- [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React @styled-components (currently under construction...) (6 days ago)
 - [AntoineKM/mashup-payment](https://github.com/AntoineKM/mashup-payment) -  (2 weeks ago)
 - [AntoineKM/unity-website](https://github.com/AntoineKM/unity-website) - Website for Unity RP GTA V (1 month ago)
 - [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot) -  (1 month ago)
@@ -50,11 +50,11 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔭 Latest releases I've contributed to
 
-- [shuding/nextra](https://github.com/shuding/nextra) ([nextra-theme-docs@2.11.1](https://github.com/shuding/nextra/releases/tag/nextra-theme-docs%402.11.1), 2 days ago) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
-- [AntoineKM/dixt](https://github.com/AntoineKM/dixt) ([dixt-plugin-worktime@2.1.15](https://github.com/AntoineKM/dixt/releases/tag/dixt-plugin-worktime%402.1.15), 3 days ago) - The Discord Framework
-- [vercel/turbo](https://github.com/vercel/turbo) ([v1.10.13-canary.2](https://github.com/vercel/turbo/releases/tag/v1.10.13-canary.2), 5 days ago) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
-- [tonightpass/kitchen](https://github.com/tonightpass/kitchen) ([@tonightpass/kitchen@1.8.2](https://github.com/tonightpass/kitchen/releases/tag/%40tonightpass/kitchen%401.8.2), 5 days ago) - @tonightpass delicious React @styled-components (currently under construction...)
-- [AntoineKM/antoine](https://github.com/AntoineKM/antoine) ([eslint-config-antoine@1.0.13](https://github.com/AntoineKM/antoine/releases/tag/eslint-config-antoine%401.0.13), 5 days ago) - cool tools to code like me.
+- [shuding/nextra](https://github.com/shuding/nextra) ([nextra-theme-docs@2.11.1](https://github.com/shuding/nextra/releases/tag/nextra-theme-docs%402.11.1), 3 days ago) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
+- [AntoineKM/dixt](https://github.com/AntoineKM/dixt) ([dixt-plugin-worktime@2.1.15](https://github.com/AntoineKM/dixt/releases/tag/dixt-plugin-worktime%402.1.15), 4 days ago) - The Discord Framework
+- [vercel/turbo](https://github.com/vercel/turbo) ([v1.10.13-canary.2](https://github.com/vercel/turbo/releases/tag/v1.10.13-canary.2), 6 days ago) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
+- [tonightpass/kitchen](https://github.com/tonightpass/kitchen) ([@tonightpass/kitchen@1.8.2](https://github.com/tonightpass/kitchen/releases/tag/%40tonightpass/kitchen%401.8.2), 6 days ago) - @tonightpass delicious React @styled-components (currently under construction...)
+- [AntoineKM/antoine](https://github.com/AntoineKM/antoine) ([eslint-config-antoine@1.0.13](https://github.com/AntoineKM/antoine/releases/tag/eslint-config-antoine%401.0.13), 6 days ago) - cool tools to code like me.
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/requester@1.0.0](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/requester%401.0.0), 2 weeks ago) - @tonightpass sdk and tools.
 - [alii/searchy](https://github.com/alii/searchy) ([v0.2.2](https://github.com/alii/searchy/releases/tag/v0.2.2), 2 weeks ago) - Cloudflare &#43; Google = supercharged web surfing
 - [ajayesivan/react-native-remix-icon](https://github.com/ajayesivan/react-native-remix-icon) ([0.4.0](https://github.com/ajayesivan/react-native-remix-icon/releases/tag/0.4.0), 11 months ago) - An OpenSource implementation of remixicon for React Native
@@ -63,8 +63,8 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
-- [🐛 fix hover and focus due to and sign unused](https://github.com/tonightpass/kitchen/pull/292) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (5 days ago)
-- [Migrate to `eslint-config-antoine`](https://github.com/tonightpass/kitchen/pull/291) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (5 days ago)
+- [🐛 fix hover and focus due to and sign unused](https://github.com/tonightpass/kitchen/pull/292) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (6 days ago)
+- [Migrate to `eslint-config-antoine`](https://github.com/tonightpass/kitchen/pull/291) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (6 days ago)
 - [🔧 update .npmrc](https://github.com/tonightpass/kitchen/pull/267) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (2 months ago)
 - [➕ add @types/react and @types/node to next example](https://github.com/tonightpass/kitchen/pull/264) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (2 months ago)
 - [🏷️ fix styled types](https://github.com/tonightpass/kitchen/pull/260) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (2 months ago)
@@ -76,7 +76,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
-- [AntoineKM/antoine](https://github.com/AntoineKM/antoine) - cool tools to code like me. (4 weeks ago)
+- [AntoineKM/antoine](https://github.com/AntoineKM/antoine) - cool tools to code like me. (1 month ago)
 - [michael-dm/eva](https://github.com/michael-dm/eva) -  (1 month ago)
 - [bhamrick/multitwitch](https://github.com/bhamrick/multitwitch) - Multiple twitch streams on one page (1 month ago)
 - [adamlui/autoclear-chatgpt-history](https://github.com/adamlui/autoclear-chatgpt-history) - 🕶️ Adds chat auto-clear functionality to ChatGPT for more privacy (1 month ago)
