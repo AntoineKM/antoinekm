@@ -50,7 +50,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔭 Latest releases I've contributed to
 
-- [shuding/nextra](https://github.com/shuding/nextra) ([nextra-theme-docs@2.12.1](https://github.com/shuding/nextra/releases/tag/nextra-theme-docs%402.12.1), 1 day ago) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
+- [shuding/nextra](https://github.com/shuding/nextra) ([nextra-theme-docs@2.12.2](https://github.com/shuding/nextra/releases/tag/nextra-theme-docs%402.12.2), today) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 - [vercel/turbo](https://github.com/vercel/turbo) ([v1.10.13](https://github.com/vercel/turbo/releases/tag/v1.10.13), 2 days ago) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
 - [AntoineKM/dixt](https://github.com/AntoineKM/dixt) ([dixt-plugin-worktime@2.1.15](https://github.com/AntoineKM/dixt/releases/tag/dixt-plugin-worktime%402.1.15), 1 week ago) - The Discord Framework
 - [tonightpass/kitchen](https://github.com/tonightpass/kitchen) ([@tonightpass/kitchen@1.8.2](https://github.com/tonightpass/kitchen/releases/tag/%40tonightpass/kitchen%401.8.2), 1 week ago) - @tonightpass delicious React @styled-components (currently under construction...)
