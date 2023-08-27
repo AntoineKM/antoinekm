@@ -89,8 +89,8 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👯 Check out some of my recent followers
 
+- [Kemiranky63](https://github.com/Kemiranky63)
 - [noemiecode](https://github.com/noemiecode)
 - [KLICKUSA](https://github.com/KLICKUSA)
 - [bima4321](https://github.com/bima4321)
 - [AENONG](https://github.com/AENONG)
-- [dalakatt](https://github.com/dalakatt)
