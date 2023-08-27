@@ -37,7 +37,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
-- [AntoineKM/unity-paleto-bay-hospital](https://github.com/AntoineKM/unity-paleto-bay-hospital) - Discord bot for Unity RP GTA V (5 days ago)
+- [AntoineKM/unity-paleto-bay-hospital](https://github.com/AntoineKM/unity-paleto-bay-hospital) - Discord bot for Unity RP GTA V (6 days ago)
 - [AntoineKM/dixt](https://github.com/AntoineKM/dixt) - The Discord Framework (1 week ago)
 - [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (1 week ago)
 - [AntoineKM/antoine](https://github.com/AntoineKM/antoine) - cool tools to code like me. (1 week ago)
@@ -50,8 +50,8 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔭 Latest releases I've contributed to
 
-- [shuding/nextra](https://github.com/shuding/nextra) ([nextra-theme-docs@2.12.2](https://github.com/shuding/nextra/releases/tag/nextra-theme-docs%402.12.2), 1 day ago) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
-- [vercel/turbo](https://github.com/vercel/turbo) ([v1.10.13](https://github.com/vercel/turbo/releases/tag/v1.10.13), 3 days ago) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
+- [shuding/nextra](https://github.com/shuding/nextra) ([nextra-theme-docs@2.12.2](https://github.com/shuding/nextra/releases/tag/nextra-theme-docs%402.12.2), 2 days ago) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
+- [vercel/turbo](https://github.com/vercel/turbo) ([v1.10.13](https://github.com/vercel/turbo/releases/tag/v1.10.13), 4 days ago) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
 - [AntoineKM/dixt](https://github.com/AntoineKM/dixt) ([dixt-plugin-worktime@2.1.15](https://github.com/AntoineKM/dixt/releases/tag/dixt-plugin-worktime%402.1.15), 1 week ago) - The Discord Framework
 - [tonightpass/kitchen](https://github.com/tonightpass/kitchen) ([@tonightpass/kitchen@1.8.2](https://github.com/tonightpass/kitchen/releases/tag/%40tonightpass/kitchen%401.8.2), 1 week ago) - @tonightpass delicious React @styled-components (currently under construction...)
 - [AntoineKM/antoine](https://github.com/AntoineKM/antoine) ([eslint-config-antoine@1.0.13](https://github.com/AntoineKM/antoine/releases/tag/eslint-config-antoine%401.0.13), 1 week ago) - cool tools to code like me.
@@ -89,8 +89,8 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👯 Check out some of my recent followers
 
+- [noemiecode](https://github.com/noemiecode)
 - [KLICKUSA](https://github.com/KLICKUSA)
 - [bima4321](https://github.com/bima4321)
 - [AENONG](https://github.com/AENONG)
 - [dalakatt](https://github.com/dalakatt)
-- [lafiyane](https://github.com/lafiyane)
