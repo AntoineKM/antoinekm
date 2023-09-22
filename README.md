@@ -74,6 +74,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
+- [TrevorSundberg/puppeteer-in-electron](https://github.com/TrevorSundberg/puppeteer-in-electron) - Use puppeteer to test and control your electron application. (today)
 - [rauenzi/BetterDiscordAddons](https://github.com/rauenzi/BetterDiscordAddons) - A series of plugins and themes for BetterDiscord. (1 week ago)
 - [rauenzi/BDPluginLibrary](https://github.com/rauenzi/BDPluginLibrary) - Plugin library for BetterDiscord. (1 week ago)
 - [AntoineKM/antoine](https://github.com/AntoineKM/antoine) - cool tools to code like me. (2 months ago)
@@ -83,7 +84,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [madkarmaa/automatic-chatgpt-dan](https://github.com/madkarmaa/automatic-chatgpt-dan) - Browser userscript to automatically send DAN messages to ChatGPT (2 months ago)
 - [citizenfx/fivem](https://github.com/citizenfx/fivem) - The source code for the Cfx.re modification frameworks, such as FiveM, RedM and LibertyM, as well as FXServer. (2 months ago)
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording (3 months ago)
-- [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it. (3 months ago)
 
 #### 👯 Check out some of my recent followers
 
