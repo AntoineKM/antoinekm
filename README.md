@@ -38,8 +38,8 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 #### 👷 Check out what I'm currently working on
 
 - [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (today)
-- [AntoineKM/antoine](https://github.com/AntoineKM/antoine) - cool tools to code like me. (5 days ago)
-- [AntoineKM/unity-paleto-bay-hospital](https://github.com/AntoineKM/unity-paleto-bay-hospital) - Discord bot for Unity RP GTA V (5 days ago)
+- [AntoineKM/antoine](https://github.com/AntoineKM/antoine) - cool tools to code like me. (6 days ago)
+- [AntoineKM/unity-paleto-bay-hospital](https://github.com/AntoineKM/unity-paleto-bay-hospital) - Discord bot for Unity RP GTA V (6 days ago)
 - [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React @styled-components (currently under construction...) (4 weeks ago)
 - [AntoineKM/dixt](https://github.com/AntoineKM/dixt) - The Discord Framework (1 month ago)
 - [AntoineKM/mashup-payment](https://github.com/AntoineKM/mashup-payment) -  (1 month ago)
@@ -50,8 +50,8 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔭 Latest releases I've contributed to
 
-- [shuding/nextra](https://github.com/shuding/nextra) ([nextra-theme-docs@2.13.1](https://github.com/shuding/nextra/releases/tag/nextra-theme-docs%402.13.1), 1 day ago) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
-- [vercel/turbo](https://github.com/vercel/turbo) ([v1.10.15-canary.0](https://github.com/vercel/turbo/releases/tag/v1.10.15-canary.0), 4 days ago) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
+- [shuding/nextra](https://github.com/shuding/nextra) ([nextra-theme-docs@2.13.1](https://github.com/shuding/nextra/releases/tag/nextra-theme-docs%402.13.1), 2 days ago) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
+- [vercel/turbo](https://github.com/vercel/turbo) ([v1.10.15-canary.0](https://github.com/vercel/turbo/releases/tag/v1.10.15-canary.0), 5 days ago) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
 - [tonightpass/kitchen](https://github.com/tonightpass/kitchen) ([@tonightpass/kitchen@1.8.3](https://github.com/tonightpass/kitchen/releases/tag/%40tonightpass/kitchen%401.8.3), 4 weeks ago) - @tonightpass delicious React @styled-components (currently under construction...)
 - [AntoineKM/dixt](https://github.com/AntoineKM/dixt) ([dixt-plugin-worktime@2.1.15](https://github.com/AntoineKM/dixt/releases/tag/dixt-plugin-worktime%402.1.15), 1 month ago) - The Discord Framework
 - [AntoineKM/antoine](https://github.com/AntoineKM/antoine) ([eslint-config-antoine@1.0.13](https://github.com/AntoineKM/antoine/releases/tag/eslint-config-antoine%401.0.13), 1 month ago) - cool tools to code like me.
@@ -68,15 +68,15 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [➕ add @types/react and @types/node to next example](https://github.com/tonightpass/kitchen/pull/264) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (3 months ago)
 - [🏷️ fix styled types](https://github.com/tonightpass/kitchen/pull/260) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (3 months ago)
 - [docs: add cards in docs theme build ins](https://github.com/shuding/nextra/pull/1942) on [shuding/nextra](https://github.com/shuding/nextra) (3 months ago)
-- [🚚 move from satoshi to figtree](https://github.com/tonightpass/kitchen/pull/254) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (3 months ago)
+- [🚚 move from satoshi to figtree](https://github.com/tonightpass/kitchen/pull/254) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (4 months ago)
 - [✨ add next typescript](https://github.com/tonightpass/kitchen/pull/251) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (4 months ago)
 - [🐛 fix hydration](https://github.com/tonightpass/kitchen/pull/249) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (4 months ago)
 
 #### ⭐ Recent Stars
 
-- [TrevorSundberg/puppeteer-in-electron](https://github.com/TrevorSundberg/puppeteer-in-electron) - Use puppeteer to test and control your electron application. (4 days ago)
-- [rauenzi/BetterDiscordAddons](https://github.com/rauenzi/BetterDiscordAddons) - A series of plugins and themes for BetterDiscord. (1 week ago)
-- [rauenzi/BDPluginLibrary](https://github.com/rauenzi/BDPluginLibrary) - Plugin library for BetterDiscord. (1 week ago)
+- [TrevorSundberg/puppeteer-in-electron](https://github.com/TrevorSundberg/puppeteer-in-electron) - Use puppeteer to test and control your electron application. (5 days ago)
+- [rauenzi/BetterDiscordAddons](https://github.com/rauenzi/BetterDiscordAddons) - A series of plugins and themes for BetterDiscord. (2 weeks ago)
+- [rauenzi/BDPluginLibrary](https://github.com/rauenzi/BDPluginLibrary) - Plugin library for BetterDiscord. (2 weeks ago)
 - [AntoineKM/antoine](https://github.com/AntoineKM/antoine) - cool tools to code like me. (2 months ago)
 - [michael-dm/eva](https://github.com/michael-dm/eva) -  (2 months ago)
 - [bhamrick/multitwitch](https://github.com/bhamrick/multitwitch) - Multiple twitch streams on one page (2 months ago)
