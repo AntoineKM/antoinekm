@@ -50,8 +50,8 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔭 Latest releases I've contributed to
 
+- [vercel/turbo](https://github.com/vercel/turbo) ([v1.10.15-canary.3](https://github.com/vercel/turbo/releases/tag/v1.10.15-canary.3), today) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
 - [hopinc/js](https://github.com/hopinc/js) ([v1.40.3](https://github.com/hopinc/js/releases/tag/v1.40.3), 1 day ago) - 📝 Hop server side client library in JavaScript for Node.js
-- [vercel/turbo](https://github.com/vercel/turbo) ([v1.10.15-canary.2](https://github.com/vercel/turbo/releases/tag/v1.10.15-canary.2), 6 days ago) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
 - [shuding/nextra](https://github.com/shuding/nextra) ([nextra-theme-docs@2.13.1](https://github.com/shuding/nextra/releases/tag/nextra-theme-docs%402.13.1), 1 week ago) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 - [tonightpass/kitchen](https://github.com/tonightpass/kitchen) ([@tonightpass/kitchen@1.8.3](https://github.com/tonightpass/kitchen/releases/tag/%40tonightpass/kitchen%401.8.3), 1 month ago) - @tonightpass delicious React @styled-components (currently under construction...)
 - [AntoineKM/dixt](https://github.com/AntoineKM/dixt) ([dixt-plugin-worktime@2.1.15](https://github.com/AntoineKM/dixt/releases/tag/dixt-plugin-worktime%402.1.15), 1 month ago) - The Discord Framework
