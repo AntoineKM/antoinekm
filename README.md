@@ -37,11 +37,11 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
+- [AntoineKM/unity-paleto-bay-hospital](https://github.com/AntoineKM/unity-paleto-bay-hospital) - Discord bot for Unity RP GTA V (today)
+- [AntoineKM/dixt](https://github.com/AntoineKM/dixt) - The Discord Framework (today)
 - [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (today)
 - [AntoineKM/antoine](https://github.com/AntoineKM/antoine) - cool tools to code like me. (2 weeks ago)
-- [AntoineKM/unity-paleto-bay-hospital](https://github.com/AntoineKM/unity-paleto-bay-hospital) - Discord bot for Unity RP GTA V (2 weeks ago)
 - [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React @styled-components (currently under construction...) (1 month ago)
-- [AntoineKM/dixt](https://github.com/AntoineKM/dixt) - The Discord Framework (1 month ago)
 - [AntoineKM/mashup-payment](https://github.com/AntoineKM/mashup-payment) -  (2 months ago)
 - [AntoineKM/unity-website](https://github.com/AntoineKM/unity-website) - Website for Unity RP GTA V (2 months ago)
 - [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot) -  (2 months ago)
@@ -75,6 +75,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
+- [Jean-Aymeric/ProblemPokemonNFS](https://github.com/Jean-Aymeric/ProblemPokemonNFS) -  (today)
 - [MaximeGuinard/Easy-Copied-YourTextGuru](https://github.com/MaximeGuinard/Easy-Copied-YourTextGuru) - 🕵️‍♀️ It makes it easy to copy the words your text guru (today)
 - [charlottesaidi/nfsPizzeriaCSharp](https://github.com/charlottesaidi/nfsPizzeriaCSharp) -  (today)
 - [ME-JAD/pizzeria-AntoineKM](https://github.com/ME-JAD/pizzeria-AntoineKM) - pizzeria-AntoineKM created by GitHub Classroom (today)
@@ -84,7 +85,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [rauenzi/BetterDiscordAddons](https://github.com/rauenzi/BetterDiscordAddons) - A series of plugins and themes for BetterDiscord. (3 weeks ago)
 - [rauenzi/BDPluginLibrary](https://github.com/rauenzi/BDPluginLibrary) - Plugin library for BetterDiscord. (3 weeks ago)
 - [AntoineKM/antoine](https://github.com/AntoineKM/antoine) - cool tools to code like me. (2 months ago)
-- [michael-dm/eva](https://github.com/michael-dm/eva) -  (3 months ago)
 
 #### 👯 Check out some of my recent followers
 
