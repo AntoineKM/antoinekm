@@ -37,7 +37,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
-- [AntoineKM/ninja-ytg](https://github.com/AntoineKM/ninja-ytg) - The feature everyone want on YTG (today)
+- [AntoineKM/ytg-ninja](https://github.com/AntoineKM/ytg-ninja) - The feature everyone want on YTG (today)
 - [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (1 week ago)
 - [AntoineKM/unity-paleto-bay-hospital](https://github.com/AntoineKM/unity-paleto-bay-hospital) - Discord bot for Unity RP GTA V (1 week ago)
 - [AntoineKM/dixt](https://github.com/AntoineKM/dixt) - The Discord Framework (1 week ago)
