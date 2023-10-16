@@ -50,7 +50,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔭 Latest releases I've contributed to
 
-- [hopinc/js](https://github.com/hopinc/js) ([v1.41.1](https://github.com/hopinc/js/releases/tag/v1.41.1), 3 days ago) - 📝 Hop server side client library in JavaScript for Node.js
+- [hopinc/js](https://github.com/hopinc/js) ([v1.42.0](https://github.com/hopinc/js/releases/tag/v1.42.0), today) - 📝 Hop server side client library in JavaScript for Node.js
 - [alii/searchy](https://github.com/alii/searchy) ([v0.2.3](https://github.com/alii/searchy/releases/tag/v0.2.3), 4 days ago) - Cloudflare &#43; Google = supercharged web surfing
 - [vercel/turbo](https://github.com/vercel/turbo) ([v1.10.16-canary.1](https://github.com/vercel/turbo/releases/tag/v1.10.16-canary.1), 4 days ago) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
 - [tonightpass/kitchen](https://github.com/tonightpass/kitchen) ([@tonightpass/kitchen@1.8.3](https://github.com/tonightpass/kitchen/releases/tag/%40tonightpass/kitchen%401.8.3), 1 month ago) - @tonightpass delicious React @styled-components (currently under construction...)
