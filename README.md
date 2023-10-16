@@ -74,6 +74,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
+- [AntoineKM/ytg-ninja](https://github.com/AntoineKM/ytg-ninja) - The feature everyone want on YTG (today)
 - [Jean-Aymeric/ProblemPokemonNFS](https://github.com/Jean-Aymeric/ProblemPokemonNFS) -  (1 week ago)
 - [MaximeGuinard/Easy-Copied-YourTextGuru](https://github.com/MaximeGuinard/Easy-Copied-YourTextGuru) - 🕵️‍♀️ It makes it easy to copy the words your text guru (1 week ago)
 - [charlottesaidi/nfsPizzeriaCSharp](https://github.com/charlottesaidi/nfsPizzeriaCSharp) -  (1 week ago)
@@ -83,7 +84,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [TrevorSundberg/puppeteer-in-electron](https://github.com/TrevorSundberg/puppeteer-in-electron) - Use puppeteer to test and control your electron application. (3 weeks ago)
 - [rauenzi/BetterDiscordAddons](https://github.com/rauenzi/BetterDiscordAddons) - A series of plugins and themes for BetterDiscord. (1 month ago)
 - [rauenzi/BDPluginLibrary](https://github.com/rauenzi/BDPluginLibrary) - Plugin library for BetterDiscord. (1 month ago)
-- [AntoineKM/antoine](https://github.com/AntoineKM/antoine) - cool tools to code like me. (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
