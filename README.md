@@ -74,6 +74,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
+- [AntoineKM/unity-paleto-bay-hospital](https://github.com/AntoineKM/unity-paleto-bay-hospital) - Discord bot for Unity RP GTA V (today)
 - [lxieyang/chrome-extension-boilerplate-react](https://github.com/lxieyang/chrome-extension-boilerplate-react) - A Chrome Extensions boilerplate using React 18 and Webpack 5. (1 week ago)
 - [AntoineKM/ytg-ninja](https://github.com/AntoineKM/ytg-ninja) - The feature everyone want on YTG (1 week ago)
 - [Jean-Aymeric/ProblemPokemonNFS](https://github.com/Jean-Aymeric/ProblemPokemonNFS) -  (3 weeks ago)
@@ -83,7 +84,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [ImJustLucas/Next-Boilerplate](https://github.com/ImJustLucas/Next-Boilerplate) - 💙 Magnificent Next.js boilerplate with TypeScript, ESLint, Prettier and everything else you need to bootstrap your Next.js project. (3 weeks ago)
 - [Jean-Aymeric/JSGraph](https://github.com/Jean-Aymeric/JSGraph) -  (3 weeks ago)
 - [TrevorSundberg/puppeteer-in-electron](https://github.com/TrevorSundberg/puppeteer-in-electron) - Use puppeteer to test and control your electron application. (1 month ago)
-- [rauenzi/BetterDiscordAddons](https://github.com/rauenzi/BetterDiscordAddons) - A series of plugins and themes for BetterDiscord. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
