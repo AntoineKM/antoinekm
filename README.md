@@ -57,7 +57,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [AntoineKM/dixt](https://github.com/AntoineKM/dixt) ([dixt-plugin-worktime@2.1.15](https://github.com/AntoineKM/dixt/releases/tag/dixt-plugin-worktime%402.1.15), 2 months ago) - The Discord Framework
 - [AntoineKM/antoine](https://github.com/AntoineKM/antoine) ([eslint-config-antoine@1.0.13](https://github.com/AntoineKM/antoine/releases/tag/eslint-config-antoine%401.0.13), 2 months ago) - cool tools to code like me.
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/requester@1.0.0](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/requester%401.0.0), 2 months ago) - @tonightpass sdk and tools.
-- [geist-org/geist-ui](https://github.com/geist-org/geist-ui) ([v2.3.8](https://github.com/geist-org/geist-ui/releases/tag/v2.3.8), 2 years ago) - A design system for building modern websites and applications.
 
 #### 🔨 My recent Pull Requests
 
