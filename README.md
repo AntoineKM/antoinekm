@@ -37,10 +37,10 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
-- [AntoineKM/ytg-ninja](https://github.com/AntoineKM/ytg-ninja) - The feature everyone want on YTG (1 day ago)
-- [AntoineKM/unity-paleto-bay-hospital](https://github.com/AntoineKM/unity-paleto-bay-hospital) - Discord bot for Unity RP GTA V (4 days ago)
+- [AntoineKM/ytg-ninja](https://github.com/AntoineKM/ytg-ninja) - The feature everyone want on YTG (2 days ago)
+- [AntoineKM/unity-paleto-bay-hospital](https://github.com/AntoineKM/unity-paleto-bay-hospital) - Discord bot for Unity RP GTA V (5 days ago)
 - [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (1 week ago)
-- [AntoineKM/dixt](https://github.com/AntoineKM/dixt) - The Discord Framework (2 weeks ago)
+- [AntoineKM/dixt](https://github.com/AntoineKM/dixt) - The Discord Framework (3 weeks ago)
 - [AntoineKM/antoine](https://github.com/AntoineKM/antoine) - cool tools to code like me. (1 month ago)
 - [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React @styled-components (currently under construction...) (1 month ago)
 - [AntoineKM/mashup-payment](https://github.com/AntoineKM/mashup-payment) -  (2 months ago)
@@ -68,7 +68,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [➕ add @types/react and @types/node to next example](https://github.com/tonightpass/kitchen/pull/264) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (4 months ago)
 - [🏷️ fix styled types](https://github.com/tonightpass/kitchen/pull/260) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (4 months ago)
 - [docs: add cards in docs theme build ins](https://github.com/shuding/nextra/pull/1942) on [shuding/nextra](https://github.com/shuding/nextra) (4 months ago)
-- [🚚 move from satoshi to figtree](https://github.com/tonightpass/kitchen/pull/254) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (4 months ago)
+- [🚚 move from satoshi to figtree](https://github.com/tonightpass/kitchen/pull/254) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (5 months ago)
 - [✨ add next typescript](https://github.com/tonightpass/kitchen/pull/251) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (5 months ago)
 - [🐛 fix hydration](https://github.com/tonightpass/kitchen/pull/249) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (5 months ago)
 
@@ -76,12 +76,12 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 - [lxieyang/chrome-extension-boilerplate-react](https://github.com/lxieyang/chrome-extension-boilerplate-react) - A Chrome Extensions boilerplate using React 18 and Webpack 5. (1 week ago)
 - [AntoineKM/ytg-ninja](https://github.com/AntoineKM/ytg-ninja) - The feature everyone want on YTG (1 week ago)
-- [Jean-Aymeric/ProblemPokemonNFS](https://github.com/Jean-Aymeric/ProblemPokemonNFS) -  (2 weeks ago)
-- [MaximeGuinard/Easy-Copied-YourTextGuru](https://github.com/MaximeGuinard/Easy-Copied-YourTextGuru) - 🕵️‍♀️ It makes it easy to copy the words your text guru (2 weeks ago)
-- [charlottesaidi/nfsPizzeriaCSharp](https://github.com/charlottesaidi/nfsPizzeriaCSharp) -  (2 weeks ago)
-- [ME-JAD/pizzeria-AntoineKM](https://github.com/ME-JAD/pizzeria-AntoineKM) - pizzeria-AntoineKM created by GitHub Classroom (2 weeks ago)
-- [ImJustLucas/Next-Boilerplate](https://github.com/ImJustLucas/Next-Boilerplate) - 💙 Magnificent Next.js boilerplate with TypeScript, ESLint, Prettier and everything else you need to bootstrap your Next.js project. (2 weeks ago)
-- [Jean-Aymeric/JSGraph](https://github.com/Jean-Aymeric/JSGraph) -  (2 weeks ago)
+- [Jean-Aymeric/ProblemPokemonNFS](https://github.com/Jean-Aymeric/ProblemPokemonNFS) -  (3 weeks ago)
+- [MaximeGuinard/Easy-Copied-YourTextGuru](https://github.com/MaximeGuinard/Easy-Copied-YourTextGuru) - 🕵️‍♀️ It makes it easy to copy the words your text guru (3 weeks ago)
+- [charlottesaidi/nfsPizzeriaCSharp](https://github.com/charlottesaidi/nfsPizzeriaCSharp) -  (3 weeks ago)
+- [ME-JAD/pizzeria-AntoineKM](https://github.com/ME-JAD/pizzeria-AntoineKM) - pizzeria-AntoineKM created by GitHub Classroom (3 weeks ago)
+- [ImJustLucas/Next-Boilerplate](https://github.com/ImJustLucas/Next-Boilerplate) - 💙 Magnificent Next.js boilerplate with TypeScript, ESLint, Prettier and everything else you need to bootstrap your Next.js project. (3 weeks ago)
+- [Jean-Aymeric/JSGraph](https://github.com/Jean-Aymeric/JSGraph) -  (3 weeks ago)
 - [TrevorSundberg/puppeteer-in-electron](https://github.com/TrevorSundberg/puppeteer-in-electron) - Use puppeteer to test and control your electron application. (1 month ago)
 - [rauenzi/BetterDiscordAddons](https://github.com/rauenzi/BetterDiscordAddons) - A series of plugins and themes for BetterDiscord. (1 month ago)
 
