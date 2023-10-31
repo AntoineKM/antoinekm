@@ -50,7 +50,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/turbo](https://github.com/vercel/turbo) ([v1.10.16](https://github.com/vercel/turbo/releases/tag/v1.10.16), 1 week ago) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
+- [vercel/turbo](https://github.com/vercel/turbo) ([v1.10.17-canary.0](https://github.com/vercel/turbo/releases/tag/v1.10.17-canary.0), today) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
 - [hopinc/js](https://github.com/hopinc/js) ([v1.43.0](https://github.com/hopinc/js/releases/tag/v1.43.0), 2 weeks ago) - 📝 Hop server side client library in JavaScript for Node.js
 - [alii/searchy](https://github.com/alii/searchy) ([v0.2.3](https://github.com/alii/searchy/releases/tag/v0.2.3), 2 weeks ago) - Cloudflare &#43; Google = supercharged web surfing
 - [tonightpass/kitchen](https://github.com/tonightpass/kitchen) ([@tonightpass/kitchen@1.8.3](https://github.com/tonightpass/kitchen/releases/tag/%40tonightpass/kitchen%401.8.3), 2 months ago) - @tonightpass delicious React @styled-components (currently under construction...)
