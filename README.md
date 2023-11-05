@@ -37,10 +37,10 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
+- [AntoineKM/unity-paleto-bay-hospital](https://github.com/AntoineKM/unity-paleto-bay-hospital) - Discord bot for Unity RP GTA V (today)
 - [AntoineKM/dixt](https://github.com/AntoineKM/dixt) - The Discord Framework (today)
 - [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot) -  (1 day ago)
 - [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) - onRuntime official website. (1 day ago)
-- [AntoineKM/unity-paleto-bay-hospital](https://github.com/AntoineKM/unity-paleto-bay-hospital) - Discord bot for Unity RP GTA V (2 days ago)
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (3 days ago)
 - [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (3 days ago)
 - [AntoineKM/ytg-ninja](https://github.com/AntoineKM/ytg-ninja) - The feature everyone want on YTG (1 week ago)
@@ -73,6 +73,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
+- [mickasmt/next-saas-stripe-starter](https://github.com/mickasmt/next-saas-stripe-starter) - An open-source SaaS Starter built using Next.js 14, Prisma, Planetscale, Auth.js, Resend, React Email, Shadcn/ui, Stripe and Server Actions. (today)
 - [UdaraJay/Pile](https://github.com/UdaraJay/Pile) - Desktop app for digital journaling.  (6 days ago)
 - [AntoineKM/unity-paleto-bay-hospital](https://github.com/AntoineKM/unity-paleto-bay-hospital) - Discord bot for Unity RP GTA V (1 week ago)
 - [lxieyang/chrome-extension-boilerplate-react](https://github.com/lxieyang/chrome-extension-boilerplate-react) - A Chrome Extensions boilerplate using React 18 and Webpack 5. (2 weeks ago)
@@ -82,7 +83,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [charlottesaidi/nfsPizzeriaCSharp](https://github.com/charlottesaidi/nfsPizzeriaCSharp) -  (1 month ago)
 - [ME-JAD/pizzeria-AntoineKM](https://github.com/ME-JAD/pizzeria-AntoineKM) - pizzeria-AntoineKM created by GitHub Classroom (1 month ago)
 - [ImJustLucas/Next-Boilerplate](https://github.com/ImJustLucas/Next-Boilerplate) - 💙 Magnificent Next.js boilerplate with TypeScript, ESLint, Prettier and everything else you need to bootstrap your Next.js project. (1 month ago)
-- [Jean-Aymeric/JSGraph](https://github.com/Jean-Aymeric/JSGraph) -  (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
