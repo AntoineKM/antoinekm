@@ -73,6 +73,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
+- [JakePartusch/psi-action](https://github.com/JakePartusch/psi-action) - A GitHub action that utilizes Google&#39;s Page Speed Insights to generate a performance report (today)
 - [mickasmt/next-saas-stripe-starter](https://github.com/mickasmt/next-saas-stripe-starter) - An open-source SaaS Starter built using Next.js 14, Prisma, Planetscale, Auth.js, Resend, React Email, Shadcn/ui, Stripe and Server Actions. (4 days ago)
 - [UdaraJay/Pile](https://github.com/UdaraJay/Pile) - Desktop app for digital journaling.  (1 week ago)
 - [AntoineKM/unity-paleto-bay-hospital](https://github.com/AntoineKM/unity-paleto-bay-hospital) - Discord bot for Unity RP GTA V (1 week ago)
@@ -82,7 +83,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [MaximeGuinard/Easy-Copied-YourTextGuru](https://github.com/MaximeGuinard/Easy-Copied-YourTextGuru) - 🕵️‍♀️ It makes it easy to copy the words your text guru (1 month ago)
 - [charlottesaidi/nfsPizzeriaCSharp](https://github.com/charlottesaidi/nfsPizzeriaCSharp) -  (1 month ago)
 - [ME-JAD/pizzeria-AntoineKM](https://github.com/ME-JAD/pizzeria-AntoineKM) - pizzeria-AntoineKM created by GitHub Classroom (1 month ago)
-- [ImJustLucas/Next-Boilerplate](https://github.com/ImJustLucas/Next-Boilerplate) - 💙 Magnificent Next.js boilerplate with TypeScript, ESLint, Prettier and everything else you need to bootstrap your Next.js project. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
