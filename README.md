@@ -50,12 +50,12 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔭 Latest releases I've contributed to
 
+- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/requester@1.1.1](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/requester%401.1.1), today) - @tonightpass sdk and tools.
 - [hopinc/js](https://github.com/hopinc/js) ([v1.43.0](https://github.com/hopinc/js/releases/tag/v1.43.0), 3 weeks ago) - 📝 Hop server side client library in JavaScript for Node.js
 - [alii/searchy](https://github.com/alii/searchy) ([v0.2.3](https://github.com/alii/searchy/releases/tag/v0.2.3), 1 month ago) - Cloudflare &#43; Google = supercharged web surfing
 - [tonightpass/kitchen](https://github.com/tonightpass/kitchen) ([@tonightpass/kitchen@1.8.3](https://github.com/tonightpass/kitchen/releases/tag/%40tonightpass/kitchen%401.8.3), 2 months ago) - @tonightpass delicious React @styled-components (currently under construction...)
 - [AntoineKM/dixt](https://github.com/AntoineKM/dixt) ([dixt-plugin-worktime@2.1.15](https://github.com/AntoineKM/dixt/releases/tag/dixt-plugin-worktime%402.1.15), 2 months ago) - The Discord Framework
 - [AntoineKM/antoine](https://github.com/AntoineKM/antoine) ([eslint-config-antoine@1.0.13](https://github.com/AntoineKM/antoine/releases/tag/eslint-config-antoine%401.0.13), 2 months ago) - cool tools to code like me.
-- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/requester@1.0.0](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/requester%401.0.0), 3 months ago) - @tonightpass sdk and tools.
 
 #### 🔨 My recent Pull Requests
 
