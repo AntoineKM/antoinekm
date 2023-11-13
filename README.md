@@ -43,10 +43,10 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot) -  (5 days ago)
 - [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) - onRuntime official website. (5 days ago)
 - [AntoineKM/dixt](https://github.com/AntoineKM/dixt) - The Discord Framework (1 week ago)
+- [onRuntime/kartrak](https://github.com/onRuntime/kartrak) -  (1 week ago)
 - [AntoineKM/ytg-ninja](https://github.com/AntoineKM/ytg-ninja) - The feature everyone want on YTG (2 weeks ago)
 - [AntoineKM/antoine](https://github.com/AntoineKM/antoine) - cool tools to code like me. (1 month ago)
 - [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React @styled-components (currently under construction...) (2 months ago)
-- [AntoineKM/mashup-payment](https://github.com/AntoineKM/mashup-payment) -  (3 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -72,6 +72,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
+- [onRuntime/kartrak](https://github.com/onRuntime/kartrak) -  (today)
 - [JakePartusch/psi-action](https://github.com/JakePartusch/psi-action) - A GitHub action that utilizes Google&#39;s Page Speed Insights to generate a performance report (4 days ago)
 - [mickasmt/next-saas-stripe-starter](https://github.com/mickasmt/next-saas-stripe-starter) - An open-source SaaS Starter built using Next.js 14, Prisma, Planetscale, Auth.js, Resend, React Email, Shadcn/ui, Stripe and Server Actions. (1 week ago)
 - [UdaraJay/Pile](https://github.com/UdaraJay/Pile) - Desktop app for digital journaling.  (2 weeks ago)
@@ -81,7 +82,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [Jean-Aymeric/ProblemPokemonNFS](https://github.com/Jean-Aymeric/ProblemPokemonNFS) -  (1 month ago)
 - [MaximeGuinard/Easy-Copied-YourTextGuru](https://github.com/MaximeGuinard/Easy-Copied-YourTextGuru) - 🕵️‍♀️ It makes it easy to copy the words your text guru (1 month ago)
 - [charlottesaidi/nfsPizzeriaCSharp](https://github.com/charlottesaidi/nfsPizzeriaCSharp) -  (1 month ago)
-- [ME-JAD/pizzeria-AntoineKM](https://github.com/ME-JAD/pizzeria-AntoineKM) - pizzeria-AntoineKM created by GitHub Classroom (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
