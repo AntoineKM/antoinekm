@@ -37,15 +37,15 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
+- [AntoineKM/antoine](https://github.com/AntoineKM/antoine) - cool tools to code like me. (today)
+- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (today)
 - [AntoineKM/unity-paleto-bay-hospital](https://github.com/AntoineKM/unity-paleto-bay-hospital) - Discord bot for Unity RP GTA V (today)
+- [AntoineKM/dixt](https://github.com/AntoineKM/dixt) - The Discord Framework (today)
 - [onRuntime/kartrak](https://github.com/onRuntime/kartrak) - kartrak, le suivi d&#39;activité tourné vers l&#39;écologie. (today)
 - [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (3 days ago)
-- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (5 days ago)
 - [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot) -  (5 days ago)
 - [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) - onRuntime official website. (5 days ago)
-- [AntoineKM/dixt](https://github.com/AntoineKM/dixt) - The Discord Framework (1 week ago)
 - [AntoineKM/ytg-ninja](https://github.com/AntoineKM/ytg-ninja) - The feature everyone want on YTG (2 weeks ago)
-- [AntoineKM/antoine](https://github.com/AntoineKM/antoine) - cool tools to code like me. (1 month ago)
 - [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React @styled-components (currently under construction...) (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
