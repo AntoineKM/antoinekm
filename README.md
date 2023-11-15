@@ -50,6 +50,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔭 Latest releases I've contributed to
 
+- [onRuntime/kartrak](https://github.com/onRuntime/kartrak) ([v0.0.2](https://github.com/onRuntime/kartrak/releases/tag/v0.0.2), today) - Le suivi d&#39;activité tourné vers l&#39;écologie.
 - [hopinc/js](https://github.com/hopinc/js) ([v1.43.3](https://github.com/hopinc/js/releases/tag/v1.43.3), 1 day ago) - 📝 Hop server side client library in JavaScript for Node.js
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/requester@1.1.1](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/requester%401.1.1), 4 days ago) - @tonightpass sdk and tools.
 - [alii/searchy](https://github.com/alii/searchy) ([v0.2.3](https://github.com/alii/searchy/releases/tag/v0.2.3), 1 month ago) - Cloudflare &#43; Google = supercharged web surfing
