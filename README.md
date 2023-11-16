@@ -37,12 +37,12 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
+- [AntoineKM/antoine](https://github.com/AntoineKM/antoine) - cool tools to code like me. (today)
+- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (today)
 - [AntoineKM/unity-paleto-bay-hospital](https://github.com/AntoineKM/unity-paleto-bay-hospital) - Discord bot for Unity RP GTA V (1 day ago)
 - [onRuntime/kartrak](https://github.com/onRuntime/kartrak) - Le suivi d&#39;activité tourné vers l&#39;écologie. (1 day ago)
 - [AntoineKM/dixt](https://github.com/AntoineKM/dixt) - The Discord Framework (2 days ago)
-- [AntoineKM/antoine](https://github.com/AntoineKM/antoine) - cool tools to code like me. (3 days ago)
 - [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React @styled-components (currently under construction...) (3 days ago)
-- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (3 days ago)
 - [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (6 days ago)
 - [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) - onRuntime official website. (1 week ago)
 - [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot) -  (1 week ago)
@@ -50,7 +50,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔭 Latest releases I've contributed to
 
-- [hopinc/js](https://github.com/hopinc/js) ([v1.43.5](https://github.com/hopinc/js/releases/tag/v1.43.5), today) - 📝 Hop server side client library in JavaScript for Node.js
+- [hopinc/js](https://github.com/hopinc/js) ([v1.43.6](https://github.com/hopinc/js/releases/tag/v1.43.6), today) - 📝 Hop server side client library in JavaScript for Node.js
 - [onRuntime/kartrak](https://github.com/onRuntime/kartrak) ([v0.0.4](https://github.com/onRuntime/kartrak/releases/tag/v0.0.4), 1 day ago) - Le suivi d&#39;activité tourné vers l&#39;écologie.
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/requester@1.1.1](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/requester%401.1.1), 5 days ago) - @tonightpass sdk and tools.
 - [alii/searchy](https://github.com/alii/searchy) ([v0.2.3](https://github.com/alii/searchy/releases/tag/v0.2.3), 1 month ago) - Cloudflare &#43; Google = supercharged web surfing
