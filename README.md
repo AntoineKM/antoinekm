@@ -37,13 +37,13 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
+- [AntoineKM/unity-paleto-bay-hospital](https://github.com/AntoineKM/unity-paleto-bay-hospital) - Discord bot for Unity RP GTA V (today)
+- [ArkeeAgency/ytg-ninja](https://github.com/ArkeeAgency/ytg-ninja) - The feature everyone want on YTG (today)
 - [onRuntime/kartrak](https://github.com/onRuntime/kartrak) - Le suivi d&#39;activité tourné vers l&#39;écologie. (1 day ago)
-- [ArkeeAgency/ytg-ninja](https://github.com/ArkeeAgency/ytg-ninja) - The feature everyone want on YTG (1 day ago)
 - [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) - onRuntime official website. (2 days ago)
 - [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React @styled-components (currently under construction...) (5 days ago)
 - [AntoineKM/dixt](https://github.com/AntoineKM/dixt) - The Discord Framework (5 days ago)
 - [AntoineKM/antoine](https://github.com/AntoineKM/antoine) - cool tools to code like me. (5 days ago)
-- [AntoineKM/unity-paleto-bay-hospital](https://github.com/AntoineKM/unity-paleto-bay-hospital) - Discord bot for Unity RP GTA V (1 week ago)
 - [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot) -  (1 week ago)
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (1 week ago)
 - [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (2 weeks ago)
