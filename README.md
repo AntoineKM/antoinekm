@@ -73,6 +73,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
+- [jmorganca/ollama](https://github.com/jmorganca/ollama) - Get up and running with Llama 2 and other large language models locally (today)
 - [hilmanski/contentswift](https://github.com/hilmanski/contentswift) - ContentSwift - Free content research / optimization tool for SEO. As an alternative for Surfer, Neuronwriter, Frase, etc.. (5 days ago)
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Node.js API for Chrome  (1 week ago)
 - [eylonmiz/react-agent](https://github.com/eylonmiz/react-agent) - The open-source React.js Autonomous LLM Agent (2 weeks ago)
@@ -82,7 +83,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [onRuntime/kartrak](https://github.com/onRuntime/kartrak) - Le suivi d&#39;activité tourné vers l&#39;écologie. (3 weeks ago)
 - [JakePartusch/psi-action](https://github.com/JakePartusch/psi-action) - A GitHub action that utilizes Google&#39;s Page Speed Insights to generate a performance report (3 weeks ago)
 - [mickasmt/next-saas-stripe-starter](https://github.com/mickasmt/next-saas-stripe-starter) - An open-source SaaS Starter built using Next.js 14, Prisma, Planetscale, Auth.js, Resend, React Email, Shadcn/ui, Stripe and Server Actions. (1 month ago)
-- [UdaraJay/Pile](https://github.com/UdaraJay/Pile) - Desktop app for digital journaling.  (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
