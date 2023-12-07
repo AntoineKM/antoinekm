@@ -37,13 +37,13 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
-- [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (today)
-- [AntoineKM/nfs-ci](https://github.com/AntoineKM/nfs-ci) -  (today)
-- [ArkeeAgency/ytg-ninja](https://github.com/ArkeeAgency/ytg-ninja) - The feature everyone want on YTG (1 day ago)
-- [AntoineKM/unity-paleto-bay-hospital](https://github.com/AntoineKM/unity-paleto-bay-hospital) - Discord bot for Unity RP GTA V (1 day ago)
-- [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) - onRuntime official website. (1 day ago)
-- [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot) -  (1 day ago)
-- [onRuntime/kartrak](https://github.com/onRuntime/kartrak) - Le suivi d&#39;activité tourné vers l&#39;écologie. (4 days ago)
+- [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (1 day ago)
+- [AntoineKM/nfs-ci](https://github.com/AntoineKM/nfs-ci) -  (1 day ago)
+- [ArkeeAgency/ytg-ninja](https://github.com/ArkeeAgency/ytg-ninja) - The feature everyone want on YTG (2 days ago)
+- [AntoineKM/unity-paleto-bay-hospital](https://github.com/AntoineKM/unity-paleto-bay-hospital) - Discord bot for Unity RP GTA V (2 days ago)
+- [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) - onRuntime official website. (2 days ago)
+- [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot) -  (2 days ago)
+- [onRuntime/kartrak](https://github.com/onRuntime/kartrak) - Le suivi d&#39;activité tourné vers l&#39;écologie. (5 days ago)
 - [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React @styled-components (currently under construction...) (1 week ago)
 - [AntoineKM/antoine](https://github.com/AntoineKM/antoine) - cool tools to code like me. (1 week ago)
 - [AntoineKM/dixt](https://github.com/AntoineKM/dixt) - The Discord Framework (1 week ago)
@@ -73,16 +73,16 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
-- [microsoft/playwright-python](https://github.com/microsoft/playwright-python) - Python version of the Playwright testing and automation library. (1 day ago)
-- [jmorganca/ollama](https://github.com/jmorganca/ollama) - Get up and running with Llama 2 and other large language models locally (1 day ago)
-- [hilmanski/contentswift](https://github.com/hilmanski/contentswift) - ContentSwift - Free content research / optimization tool for SEO. As an alternative for Surfer, Neuronwriter, Frase, etc.. (6 days ago)
+- [microsoft/playwright-python](https://github.com/microsoft/playwright-python) - Python version of the Playwright testing and automation library. (2 days ago)
+- [jmorganca/ollama](https://github.com/jmorganca/ollama) - Get up and running with Llama 2 and other large language models locally (2 days ago)
+- [hilmanski/contentswift](https://github.com/hilmanski/contentswift) - ContentSwift - Free content research / optimization tool for SEO. As an alternative for Surfer, Neuronwriter, Frase, etc.. (1 week ago)
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Node.js API for Chrome  (1 week ago)
 - [eylonmiz/react-agent](https://github.com/eylonmiz/react-agent) - The open-source React.js Autonomous LLM Agent (2 weeks ago)
 - [sadmann7/shadcn-table](https://github.com/sadmann7/shadcn-table) - Shadcn table component with server-side sorting, filtering, and pagination. (2 weeks ago)
 - [vercel/style-guide](https://github.com/vercel/style-guide) - Vercel&#39;s engineering style guide (2 weeks ago)
 - [Mobilecn-UI/nativecn-ui](https://github.com/Mobilecn-UI/nativecn-ui) - Beautiful and customizable React Native components (2 weeks ago)
 - [onRuntime/kartrak](https://github.com/onRuntime/kartrak) - Le suivi d&#39;activité tourné vers l&#39;écologie. (3 weeks ago)
-- [JakePartusch/psi-action](https://github.com/JakePartusch/psi-action) - A GitHub action that utilizes Google&#39;s Page Speed Insights to generate a performance report (3 weeks ago)
+- [JakePartusch/psi-action](https://github.com/JakePartusch/psi-action) - A GitHub action that utilizes Google&#39;s Page Speed Insights to generate a performance report (4 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
