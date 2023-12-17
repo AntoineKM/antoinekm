@@ -37,12 +37,12 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
-- [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) - onRuntime official website. (today)
-- [AntoineKM/unity-paleto-bay-hospital](https://github.com/AntoineKM/unity-paleto-bay-hospital) - Discord bot for Unity RP GTA V (today)
-- [AntoineKM/dixt](https://github.com/AntoineKM/dixt) - The Discord Framework (today)
-- [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (1 day ago)
-- [ArkeeAgency/ytg-ninja](https://github.com/ArkeeAgency/ytg-ninja) - The feature everyone want on YTG (1 day ago)
-- [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot) -  (5 days ago)
+- [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) - onRuntime official website. (1 day ago)
+- [AntoineKM/unity-paleto-bay-hospital](https://github.com/AntoineKM/unity-paleto-bay-hospital) - Discord bot for Unity RP GTA V (1 day ago)
+- [AntoineKM/dixt](https://github.com/AntoineKM/dixt) - The Discord Framework (1 day ago)
+- [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (2 days ago)
+- [ArkeeAgency/ytg-ninja](https://github.com/ArkeeAgency/ytg-ninja) - The feature everyone want on YTG (2 days ago)
+- [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot) -  (6 days ago)
 - [AntoineKM/nfs-ci](https://github.com/AntoineKM/nfs-ci) -  (1 week ago)
 - [onRuntime/kartrak](https://github.com/onRuntime/kartrak) - Le suivi d&#39;activité tourné vers l&#39;écologie. (2 weeks ago)
 - [AntoineKM/antoine](https://github.com/AntoineKM/antoine) - cool tools to code like me. (3 weeks ago)
@@ -50,8 +50,8 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔭 Latest releases I've contributed to
 
-- [AntoineKM/dixt](https://github.com/AntoineKM/dixt) ([dixt-plugin-react@2.1.10](https://github.com/AntoineKM/dixt/releases/tag/dixt-plugin-react%402.1.10), today) - The Discord Framework
-- [hopinc/js](https://github.com/hopinc/js) ([v1.45.0](https://github.com/hopinc/js/releases/tag/v1.45.0), 5 days ago) - 📝 Hop server side client library in JavaScript for Node.js
+- [AntoineKM/dixt](https://github.com/AntoineKM/dixt) ([dixt-plugin-react@2.1.10](https://github.com/AntoineKM/dixt/releases/tag/dixt-plugin-react%402.1.10), 1 day ago) - The Discord Framework
+- [hopinc/js](https://github.com/hopinc/js) ([v1.45.0](https://github.com/hopinc/js/releases/tag/v1.45.0), 6 days ago) - 📝 Hop server side client library in JavaScript for Node.js
 - [onRuntime/kartrak](https://github.com/onRuntime/kartrak) ([v0.0.9](https://github.com/onRuntime/kartrak/releases/tag/v0.0.9), 2 weeks ago) - Le suivi d&#39;activité tourné vers l&#39;écologie.
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/requester@1.1.1](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/requester%401.1.1), 1 month ago) - @tonightpass sdk and tools.
 - [alii/searchy](https://github.com/alii/searchy) ([v0.2.3](https://github.com/alii/searchy/releases/tag/v0.2.3), 2 months ago) - Cloudflare &#43; Google = supercharged web surfing
@@ -64,7 +64,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [🐛 fix hover and focus due to and sign unused](https://github.com/tonightpass/kitchen/pull/292) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (4 months ago)
 - [Migrate to `eslint-config-antoine`](https://github.com/tonightpass/kitchen/pull/291) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (4 months ago)
 - [🔧 update .npmrc](https://github.com/tonightpass/kitchen/pull/267) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (5 months ago)
-- [➕ add @types/react and @types/node to next example](https://github.com/tonightpass/kitchen/pull/264) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (5 months ago)
+- [➕ add @types/react and @types/node to next example](https://github.com/tonightpass/kitchen/pull/264) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (6 months ago)
 - [🏷️ fix styled types](https://github.com/tonightpass/kitchen/pull/260) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (6 months ago)
 - [docs: add cards in docs theme build ins](https://github.com/shuding/nextra/pull/1942) on [shuding/nextra](https://github.com/shuding/nextra) (6 months ago)
 - [🚚 move from satoshi to figtree](https://github.com/tonightpass/kitchen/pull/254) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (6 months ago)
@@ -79,7 +79,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Node.js API for Chrome  (2 weeks ago)
 - [eylonmiz/react-agent](https://github.com/eylonmiz/react-agent) - The open-source React.js Autonomous LLM Agent (3 weeks ago)
 - [sadmann7/shadcn-table](https://github.com/sadmann7/shadcn-table) - Shadcn table component with server-side sorting, filtering, and pagination. (3 weeks ago)
-- [vercel/style-guide](https://github.com/vercel/style-guide) - Vercel&#39;s engineering style guide (3 weeks ago)
+- [vercel/style-guide](https://github.com/vercel/style-guide) - Vercel&#39;s engineering style guide (4 weeks ago)
 - [Mobilecn-UI/nativecn-ui](https://github.com/Mobilecn-UI/nativecn-ui) - Beautiful and customizable React Native components (4 weeks ago)
 - [onRuntime/kartrak](https://github.com/onRuntime/kartrak) - Le suivi d&#39;activité tourné vers l&#39;écologie. (1 month ago)
 - [JakePartusch/psi-action](https://github.com/JakePartusch/psi-action) - A GitHub action that utilizes Google&#39;s Page Speed Insights to generate a performance report (1 month ago)
