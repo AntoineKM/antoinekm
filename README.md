@@ -39,9 +39,9 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 - [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot) -  (today)
 - [AntoineKM/unity-paleto-bay-hospital](https://github.com/AntoineKM/unity-paleto-bay-hospital) - Discord bot for Unity RP GTA V (today)
+- [AntoineKM/dixt](https://github.com/AntoineKM/dixt) - The Discord Framework (today)
 - [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) - onRuntime official website. (today)
 - [ArkeeAgency/ytg-ninja](https://github.com/ArkeeAgency/ytg-ninja) - The feature everyone want on YTG (1 day ago)
-- [AntoineKM/dixt](https://github.com/AntoineKM/dixt) - The Discord Framework (2 days ago)
 - [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (3 days ago)
 - [AntoineKM/nfs-ci](https://github.com/AntoineKM/nfs-ci) -  (1 week ago)
 - [onRuntime/kartrak](https://github.com/onRuntime/kartrak) - Le suivi d&#39;activité tourné vers l&#39;écologie. (2 weeks ago)
@@ -50,7 +50,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔭 Latest releases I've contributed to
 
-- [AntoineKM/dixt](https://github.com/AntoineKM/dixt) ([dixt-plugin-react@2.1.10](https://github.com/AntoineKM/dixt/releases/tag/dixt-plugin-react%402.1.10), 2 days ago) - The Discord Framework
+- [AntoineKM/dixt](https://github.com/AntoineKM/dixt) ([dixt-plugin-twitch@1.1.15](https://github.com/AntoineKM/dixt/releases/tag/dixt-plugin-twitch%401.1.15), today) - The Discord Framework
 - [hopinc/js](https://github.com/hopinc/js) ([v1.45.0](https://github.com/hopinc/js/releases/tag/v1.45.0), 1 week ago) - 📝 Hop server side client library in JavaScript for Node.js
 - [onRuntime/kartrak](https://github.com/onRuntime/kartrak) ([v0.0.9](https://github.com/onRuntime/kartrak/releases/tag/v0.0.9), 2 weeks ago) - Le suivi d&#39;activité tourné vers l&#39;écologie.
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/requester@1.1.1](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/requester%401.1.1), 1 month ago) - @tonightpass sdk and tools.
