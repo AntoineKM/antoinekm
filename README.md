@@ -73,6 +73,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
+- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree (today)
 - [microsoft/playwright-python](https://github.com/microsoft/playwright-python) - Python version of the Playwright testing and automation library. (2 weeks ago)
 - [jmorganca/ollama](https://github.com/jmorganca/ollama) - Get up and running with Llama 2 and other large language models locally (2 weeks ago)
 - [hilmanski/contentswift](https://github.com/hilmanski/contentswift) - ContentSwift - Free content research / optimization tool for SEO. As an alternative for Surfer, Neuronwriter, Frase, etc.. (2 weeks ago)
@@ -82,7 +83,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [vercel/style-guide](https://github.com/vercel/style-guide) - Vercel&#39;s engineering style guide (1 month ago)
 - [Mobilecn-UI/nativecn-ui](https://github.com/Mobilecn-UI/nativecn-ui) - Beautiful and customizable React Native components (1 month ago)
 - [onRuntime/kartrak](https://github.com/onRuntime/kartrak) - Le suivi d&#39;activité tourné vers l&#39;écologie. (1 month ago)
-- [JakePartusch/psi-action](https://github.com/JakePartusch/psi-action) - A GitHub action that utilizes Google&#39;s Page Speed Insights to generate a performance report (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
