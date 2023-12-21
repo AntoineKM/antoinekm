@@ -37,20 +37,20 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
-- [ArkeeAgency/ytg-ninja](https://github.com/ArkeeAgency/ytg-ninja) - The feature everyone want on YTG (today)
-- [AntoineKM/unity-paleto-bay-hospital](https://github.com/AntoineKM/unity-paleto-bay-hospital) - Discord bot for Unity RP GTA V (today)
-- [onRuntime/kartrak](https://github.com/onRuntime/kartrak) - Le suivi d&#39;activité tourné vers l&#39;écologie. (today)
-- [AntoineKM/dixt](https://github.com/AntoineKM/dixt) - The Discord Framework (1 day ago)
-- [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot) -  (1 day ago)
-- [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) - onRuntime official website. (2 days ago)
-- [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (5 days ago)
-- [AntoineKM/nfs-ci](https://github.com/AntoineKM/nfs-ci) -  (1 week ago)
+- [ArkeeAgency/ytg-ninja](https://github.com/ArkeeAgency/ytg-ninja) - The feature everyone want on YTG (1 day ago)
+- [AntoineKM/unity-paleto-bay-hospital](https://github.com/AntoineKM/unity-paleto-bay-hospital) - Discord bot for Unity RP GTA V (1 day ago)
+- [onRuntime/kartrak](https://github.com/onRuntime/kartrak) - Le suivi d&#39;activité tourné vers l&#39;écologie. (1 day ago)
+- [AntoineKM/dixt](https://github.com/AntoineKM/dixt) - The Discord Framework (2 days ago)
+- [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot) -  (2 days ago)
+- [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) - onRuntime official website. (3 days ago)
+- [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (6 days ago)
+- [AntoineKM/nfs-ci](https://github.com/AntoineKM/nfs-ci) -  (2 weeks ago)
 - [AntoineKM/antoine](https://github.com/AntoineKM/antoine) - cool tools to code like me. (3 weeks ago)
 - [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React @styled-components (currently under construction...) (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [AntoineKM/dixt](https://github.com/AntoineKM/dixt) ([dixt-plugin-logs@2.1.14](https://github.com/AntoineKM/dixt/releases/tag/dixt-plugin-logs%402.1.14), 1 day ago) - The Discord Framework
+- [AntoineKM/dixt](https://github.com/AntoineKM/dixt) ([dixt-plugin-logs@2.1.14](https://github.com/AntoineKM/dixt/releases/tag/dixt-plugin-logs%402.1.14), 2 days ago) - The Discord Framework
 - [hopinc/js](https://github.com/hopinc/js) ([v1.45.0](https://github.com/hopinc/js/releases/tag/v1.45.0), 1 week ago) - 📝 Hop server side client library in JavaScript for Node.js
 - [onRuntime/kartrak](https://github.com/onRuntime/kartrak) ([v0.0.9](https://github.com/onRuntime/kartrak/releases/tag/v0.0.9), 3 weeks ago) - Le suivi d&#39;activité tourné vers l&#39;écologie.
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/requester@1.1.1](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/requester%401.1.1), 1 month ago) - @tonightpass sdk and tools.
@@ -69,14 +69,14 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [docs: add cards in docs theme build ins](https://github.com/shuding/nextra/pull/1942) on [shuding/nextra](https://github.com/shuding/nextra) (6 months ago)
 - [🚚 move from satoshi to figtree](https://github.com/tonightpass/kitchen/pull/254) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (6 months ago)
 - [✨ add next typescript](https://github.com/tonightpass/kitchen/pull/251) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (6 months ago)
-- [🐛 fix hydration](https://github.com/tonightpass/kitchen/pull/249) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (6 months ago)
+- [🐛 fix hydration](https://github.com/tonightpass/kitchen/pull/249) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (7 months ago)
 
 #### ⭐ Recent Stars
 
-- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree (1 day ago)
+- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree (2 days ago)
 - [microsoft/playwright-python](https://github.com/microsoft/playwright-python) - Python version of the Playwright testing and automation library. (2 weeks ago)
 - [jmorganca/ollama](https://github.com/jmorganca/ollama) - Get up and running with Llama 2 and other large language models locally (2 weeks ago)
-- [hilmanski/contentswift](https://github.com/hilmanski/contentswift) - ContentSwift - Free content research / optimization tool for SEO. As an alternative for Surfer, Neuronwriter, Frase, etc.. (2 weeks ago)
+- [hilmanski/contentswift](https://github.com/hilmanski/contentswift) - ContentSwift - Free content research / optimization tool for SEO. As an alternative for Surfer, Neuronwriter, Frase, etc.. (3 weeks ago)
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Node.js API for Chrome  (3 weeks ago)
 - [eylonmiz/react-agent](https://github.com/eylonmiz/react-agent) - The open-source React.js Autonomous LLM Agent (1 month ago)
 - [sadmann7/shadcn-table](https://github.com/sadmann7/shadcn-table) - Shadcn table component with server-side sorting, filtering, and pagination. (1 month ago)
