@@ -73,6 +73,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
+- [gregberge/twc](https://github.com/gregberge/twc) - Create reusable React &#43; Tailwind components in one line (today)
 - [t3-oss/t3-env](https://github.com/t3-oss/t3-env) -  (2 days ago)
 - [w3blogfr/formation-docker](https://github.com/w3blogfr/formation-docker) -  (2 days ago)
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree (4 days ago)
@@ -82,7 +83,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Node.js API for Chrome  (3 weeks ago)
 - [eylonmiz/react-agent](https://github.com/eylonmiz/react-agent) - The open-source React.js Autonomous LLM Agent (1 month ago)
 - [sadmann7/shadcn-table](https://github.com/sadmann7/shadcn-table) - Shadcn table component with server-side sorting, filtering, and pagination. (1 month ago)
-- [vercel/style-guide](https://github.com/vercel/style-guide) - Vercel&#39;s engineering style guide (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
