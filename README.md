@@ -74,7 +74,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 #### ⭐ Recent Stars
 
 - [you-dont-need/You-Dont-Need-Lodash-Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore) - List of JavaScript methods which you can use natively &#43; ESLint Plugin (2 days ago)
-- [gregberge/twc](https://github.com/gregberge/twc) - Create reusable React &#43; Tailwind components in one line (2 days ago)
+- [gregberge/twc](https://github.com/gregberge/twc) - Create reusable React &#43; Tailwind CSS components in one line ✨ (2 days ago)
 - [t3-oss/t3-env](https://github.com/t3-oss/t3-env) -  (4 days ago)
 - [w3blogfr/formation-docker](https://github.com/w3blogfr/formation-docker) -  (4 days ago)
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree (6 days ago)
