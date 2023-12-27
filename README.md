@@ -60,7 +60,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
-- [♻️ refactor theme](https://github.com/tonightpass/kitchen/pull/311) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (1 day ago)
+- [✨ add css variables support and remove `withkitchen` hoc for next](https://github.com/tonightpass/kitchen/pull/311) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (1 day ago)
 - [Antoinekm/fix passed props](https://github.com/tonightpass/kitchen/pull/294) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (4 months ago)
 - [🐛 fix hover and focus due to and sign unused](https://github.com/tonightpass/kitchen/pull/292) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (4 months ago)
 - [Migrate to `eslint-config-antoine`](https://github.com/tonightpass/kitchen/pull/291) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (4 months ago)
