@@ -38,15 +38,15 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 #### 👷 Check out what I'm currently working on
 
 - [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React @styled-components (currently under construction...) (today)
+- [AntoineKM/dixt](https://github.com/AntoineKM/dixt) - The Discord Framework (today)
+- [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) - onRuntime official website. (today)
+- [ArkeeAgency/ytg-ninja](https://github.com/ArkeeAgency/ytg-ninja) - The feature everyone want on YTG (today)
+- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (today)
+- [AntoineKM/antoine](https://github.com/AntoineKM/antoine) - cool tools to code like me. (today)
 - [AntoineKM/unity-paleto-bay-hospital](https://github.com/AntoineKM/unity-paleto-bay-hospital) - Discord bot for Unity RP GTA V (1 day ago)
 - [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (1 day ago)
 - [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot) -  (5 days ago)
-- [AntoineKM/dixt](https://github.com/AntoineKM/dixt) - The Discord Framework (6 days ago)
-- [ArkeeAgency/ytg-ninja](https://github.com/ArkeeAgency/ytg-ninja) - The feature everyone want on YTG (1 week ago)
 - [onRuntime/kartrak](https://github.com/onRuntime/kartrak) - Le suivi d&#39;activité tourné vers l&#39;écologie. (1 week ago)
-- [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) - onRuntime official website. (1 week ago)
-- [AntoineKM/nfs-ci](https://github.com/AntoineKM/nfs-ci) -  (2 weeks ago)
-- [AntoineKM/antoine](https://github.com/AntoineKM/antoine) - cool tools to code like me. (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
