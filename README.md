@@ -37,9 +37,9 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
-- [AntoineKM/unity-paleto-bay-hospital](https://github.com/AntoineKM/unity-paleto-bay-hospital) - Discord bot for Unity RP GTA V (today)
-- [AntoineKM/dixt](https://github.com/AntoineKM/dixt) - The Discord Framework (today)
-- [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React @styled-components (currently under construction...) (today)
+- [AntoineKM/unity-paleto-bay-hospital](https://github.com/AntoineKM/unity-paleto-bay-hospital) - Discord bot for Unity RP GTA V (1 day ago)
+- [AntoineKM/dixt](https://github.com/AntoineKM/dixt) - The Discord Framework (1 day ago)
+- [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React @styled-components (currently under construction...) (1 day ago)
 - [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) - onRuntime official website. (1 week ago)
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (1 week ago)
 - [AntoineKM/antoine](https://github.com/AntoineKM/antoine) - cool tools to code like me. (1 week ago)
@@ -50,9 +50,9 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔭 Latest releases I've contributed to
 
-- [AntoineKM/dixt](https://github.com/AntoineKM/dixt) ([dixt-plugin-logs@2.1.16](https://github.com/AntoineKM/dixt/releases/tag/dixt-plugin-logs%402.1.16), today) - The Discord Framework
-- [hopinc/js](https://github.com/hopinc/js) ([v1.47.0](https://github.com/hopinc/js/releases/tag/v1.47.0), 1 day ago) - 📝 Hop server side client library in JavaScript for Node.js
-- [tonightpass/kitchen](https://github.com/tonightpass/kitchen) ([@tonightpass/kitchen@1.9.0](https://github.com/tonightpass/kitchen/releases/tag/%40tonightpass/kitchen%401.9.0), 5 days ago) - @tonightpass delicious React @styled-components (currently under construction...)
+- [AntoineKM/dixt](https://github.com/AntoineKM/dixt) ([dixt-plugin-logs@2.1.16](https://github.com/AntoineKM/dixt/releases/tag/dixt-plugin-logs%402.1.16), 1 day ago) - The Discord Framework
+- [hopinc/js](https://github.com/hopinc/js) ([v1.47.0](https://github.com/hopinc/js/releases/tag/v1.47.0), 2 days ago) - 📝 Hop server side client library in JavaScript for Node.js
+- [tonightpass/kitchen](https://github.com/tonightpass/kitchen) ([@tonightpass/kitchen@1.9.0](https://github.com/tonightpass/kitchen/releases/tag/%40tonightpass/kitchen%401.9.0), 6 days ago) - @tonightpass delicious React @styled-components (currently under construction...)
 - [onRuntime/kartrak](https://github.com/onRuntime/kartrak) ([v0.0.9](https://github.com/onRuntime/kartrak/releases/tag/v0.0.9), 1 month ago) - Le suivi d&#39;activité tourné vers l&#39;écologie.
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/requester@1.1.1](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/requester%401.1.1), 1 month ago) - @tonightpass sdk and tools.
 - [alii/searchy](https://github.com/alii/searchy) ([v0.2.3](https://github.com/alii/searchy/releases/tag/v0.2.3), 2 months ago) - Cloudflare &#43; Google = supercharged web surfing
@@ -60,7 +60,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
-- [Antoinekm/custom theme](https://github.com/tonightpass/kitchen/pull/314) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (6 days ago)
+- [Antoinekm/custom theme](https://github.com/tonightpass/kitchen/pull/314) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (1 week ago)
 - [✨ add css variables support and remove `withkitchen` hoc for next](https://github.com/tonightpass/kitchen/pull/311) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (1 week ago)
 - [Antoinekm/fix passed props](https://github.com/tonightpass/kitchen/pull/294) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (4 months ago)
 - [🐛 fix hover and focus due to and sign unused](https://github.com/tonightpass/kitchen/pull/292) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (4 months ago)
@@ -78,11 +78,11 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [ptarjan/node-cache](https://github.com/ptarjan/node-cache) - A simple in-memory cache for nodejs (1 week ago)
 - [you-dont-need/You-Dont-Need-Lodash-Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore) - List of JavaScript methods which you can use natively &#43; ESLint Plugin (1 week ago)
 - [gregberge/twc](https://github.com/gregberge/twc) - Create reusable React &#43; Tailwind CSS components in one line ✨ (1 week ago)
-- [t3-oss/t3-env](https://github.com/t3-oss/t3-env) -  (1 week ago)
-- [w3blogfr/formation-docker](https://github.com/w3blogfr/formation-docker) -  (1 week ago)
+- [t3-oss/t3-env](https://github.com/t3-oss/t3-env) -  (2 weeks ago)
+- [w3blogfr/formation-docker](https://github.com/w3blogfr/formation-docker) -  (2 weeks ago)
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree (2 weeks ago)
-- [microsoft/playwright-python](https://github.com/microsoft/playwright-python) - Python version of the Playwright testing and automation library. (4 weeks ago)
-- [jmorganca/ollama](https://github.com/jmorganca/ollama) - Get up and running with Llama 2 and other large language models locally (4 weeks ago)
+- [microsoft/playwright-python](https://github.com/microsoft/playwright-python) - Python version of the Playwright testing and automation library. (1 month ago)
+- [jmorganca/ollama](https://github.com/jmorganca/ollama) - Get up and running with Llama 2 and other large language models locally (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
