@@ -40,10 +40,10 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React @styled-components (currently under construction...) (1 day ago)
 - [AntoineKM/unity-paleto-bay-hospital](https://github.com/AntoineKM/unity-paleto-bay-hospital) - Discord bot for Unity RP GTA V (2 days ago)
 - [AntoineKM/dixt](https://github.com/AntoineKM/dixt) - The Discord Framework (2 days ago)
-- [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) - onRuntime official website. (1 week ago)
-- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (1 week ago)
-- [AntoineKM/antoine](https://github.com/AntoineKM/antoine) - cool tools to code like me. (1 week ago)
 - [ArkeeAgency/ytg-ninja](https://github.com/ArkeeAgency/ytg-ninja) - The feature everyone want on YTG (1 week ago)
+- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (1 week ago)
+- [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) - onRuntime official website. (1 week ago)
+- [AntoineKM/antoine](https://github.com/AntoineKM/antoine) - cool tools to code like me. (1 week ago)
 - [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (1 week ago)
 - [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot) -  (2 weeks ago)
 - [onRuntime/kartrak](https://github.com/onRuntime/kartrak) - Le suivi d&#39;activité tourné vers l&#39;écologie. (2 weeks ago)
@@ -73,6 +73,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
+- [JAD-NeedForSchool/projet-annuel-said-charlotte-antoine](https://github.com/JAD-NeedForSchool/projet-annuel-said-charlotte-antoine) - projet-annuel-said-charlotte-antoine created by GitHub Classroom (today)
 - [brunos3d/video-ambilight](https://github.com/brunos3d/video-ambilight) - 🌈 Ambilight Effect - React - Next.js (YouTube iframe, Video &#43; Canvas). (1 day ago)
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source. (1 week ago)
 - [animate-css/animate.css](https://github.com/animate-css/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing. (1 week ago)
@@ -82,7 +83,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [t3-oss/t3-env](https://github.com/t3-oss/t3-env) -  (2 weeks ago)
 - [w3blogfr/formation-docker](https://github.com/w3blogfr/formation-docker) -  (2 weeks ago)
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree (2 weeks ago)
-- [microsoft/playwright-python](https://github.com/microsoft/playwright-python) - Python version of the Playwright testing and automation library. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
