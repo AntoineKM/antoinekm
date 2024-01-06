@@ -37,9 +37,9 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
+- [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React @styled-components (currently under construction...) (today)
 - [AntoineKM/unity-paleto-bay-hospital](https://github.com/AntoineKM/unity-paleto-bay-hospital) - Discord bot for Unity RP GTA V (today)
 - [ArkeeAgency/ytg-ninja](https://github.com/ArkeeAgency/ytg-ninja) - The feature everyone want on YTG (today)
-- [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React @styled-components (currently under construction...) (2 days ago)
 - [AntoineKM/dixt](https://github.com/AntoineKM/dixt) - The Discord Framework (3 days ago)
 - [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) - onRuntime official website. (1 week ago)
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (1 week ago)
@@ -73,6 +73,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
+- [udecode/plate](https://github.com/udecode/plate) - The rich-text editor for React. (today)
 - [JAD-NeedForSchool/projet-annuel-said-charlotte-antoine](https://github.com/JAD-NeedForSchool/projet-annuel-said-charlotte-antoine) - projet-annuel-said-charlotte-antoine created by GitHub Classroom (1 day ago)
 - [brunos3d/video-ambilight](https://github.com/brunos3d/video-ambilight) - 🌈 Ambilight Effect - React - Next.js (YouTube iframe, Video &#43; Canvas). (2 days ago)
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source. (1 week ago)
@@ -82,7 +83,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [gregberge/twc](https://github.com/gregberge/twc) - Create reusable React &#43; Tailwind CSS components in one line ✨ (2 weeks ago)
 - [t3-oss/t3-env](https://github.com/t3-oss/t3-env) -  (2 weeks ago)
 - [w3blogfr/formation-docker](https://github.com/w3blogfr/formation-docker) -  (2 weeks ago)
-- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
