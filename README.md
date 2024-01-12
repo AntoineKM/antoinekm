@@ -60,6 +60,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
+- [Antoinekm/full exports](https://github.com/tonightpass/kitchen/pull/327) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (today)
 - [💄 remove span style from globalstyle](https://github.com/tonightpass/kitchen/pull/316) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (1 week ago)
 - [Antoinekm/custom theme](https://github.com/tonightpass/kitchen/pull/314) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (2 weeks ago)
 - [✨ add css variables support and remove `withkitchen` hoc for next](https://github.com/tonightpass/kitchen/pull/311) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (2 weeks ago)
@@ -69,7 +70,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [🔧 update .npmrc](https://github.com/tonightpass/kitchen/pull/267) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (6 months ago)
 - [➕ add @types/react and @types/node to next example](https://github.com/tonightpass/kitchen/pull/264) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (6 months ago)
 - [🏷️ fix styled types](https://github.com/tonightpass/kitchen/pull/260) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (6 months ago)
-- [docs: add cards in docs theme build ins](https://github.com/shuding/nextra/pull/1942) on [shuding/nextra](https://github.com/shuding/nextra) (7 months ago)
 
 #### ⭐ Recent Stars
 
