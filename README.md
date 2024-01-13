@@ -37,10 +37,10 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
+- [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React @styled-components (currently under construction...) (today)
 - [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) - onRuntime official website. (1 day ago)
 - [onRuntime/onruntime-docs](https://github.com/onRuntime/onruntime-docs) -  (1 day ago)
 - [onRuntime/kartrak](https://github.com/onRuntime/kartrak) - Le suivi d&#39;activité tourné vers l&#39;écologie. (1 day ago)
-- [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React @styled-components (currently under construction...) (1 day ago)
 - [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (3 days ago)
 - [ArkeeAgency/ytg-ninja](https://github.com/ArkeeAgency/ytg-ninja) - The feature everyone want on YTG (3 days ago)
 - [AntoineKM/unity-paleto-bay-hospital](https://github.com/AntoineKM/unity-paleto-bay-hospital) - Discord bot for Unity RP GTA V (1 week ago)
@@ -50,7 +50,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔭 Latest releases I've contributed to
 
-- [tonightpass/kitchen](https://github.com/tonightpass/kitchen) ([@tonightpass/kitchen@1.10.4](https://github.com/tonightpass/kitchen/releases/tag/%40tonightpass/kitchen%401.10.4), 1 day ago) - @tonightpass delicious React @styled-components (currently under construction...)
+- [tonightpass/kitchen](https://github.com/tonightpass/kitchen) ([@tonightpass/kitchen@1.10.5](https://github.com/tonightpass/kitchen/releases/tag/%40tonightpass/kitchen%401.10.5), today) - @tonightpass delicious React @styled-components (currently under construction...)
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/requester@2.0.3](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/requester%402.0.3), 3 days ago) - @tonightpass sdk and tools.
 - [AntoineKM/dixt](https://github.com/AntoineKM/dixt) ([dixt-plugin-logs@2.1.16](https://github.com/AntoineKM/dixt/releases/tag/dixt-plugin-logs%402.1.16), 1 week ago) - The Discord Framework
 - [hopinc/js](https://github.com/hopinc/js) ([v1.47.0](https://github.com/hopinc/js/releases/tag/v1.47.0), 1 week ago) - 📝 Hop server side client library in JavaScript for Node.js
