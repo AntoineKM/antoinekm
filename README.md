@@ -37,8 +37,8 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
-- [AntoineKM/unity-paleto-bay-hospital](https://github.com/AntoineKM/unity-paleto-bay-hospital) - Discord bot for Unity RP GTA V (3 days ago)
-- [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (3 days ago)
+- [AntoineKM/unity-paleto-bay-hospital](https://github.com/AntoineKM/unity-paleto-bay-hospital) - Discord bot for Unity RP GTA V (4 days ago)
+- [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (4 days ago)
 - [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) - onRuntime official website. (1 week ago)
 - [onRuntime/onruntime-docs](https://github.com/onRuntime/onruntime-docs) -  (1 week ago)
 - [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React @styled-components (currently under construction...) (1 week ago)
@@ -79,8 +79,8 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source. (3 weeks ago)
 - [animate-css/animate.css](https://github.com/animate-css/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing. (3 weeks ago)
 - [ptarjan/node-cache](https://github.com/ptarjan/node-cache) - A simple in-memory cache for nodejs (3 weeks ago)
-- [you-dont-need/You-Dont-Need-Lodash-Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore) - List of JavaScript methods which you can use natively &#43; ESLint Plugin (4 weeks ago)
-- [gregberge/twc](https://github.com/gregberge/twc) - Create reusable React &#43; Tailwind CSS components in one line ✨ (4 weeks ago)
+- [you-dont-need/You-Dont-Need-Lodash-Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore) - List of JavaScript methods which you can use natively &#43; ESLint Plugin (1 month ago)
+- [gregberge/twc](https://github.com/gregberge/twc) - Create reusable React &#43; Tailwind CSS components in one line ✨ (1 month ago)
 - [t3-oss/t3-env](https://github.com/t3-oss/t3-env) -  (1 month ago)
 - [w3blogfr/formation-docker](https://github.com/w3blogfr/formation-docker) -  (1 month ago)
 
