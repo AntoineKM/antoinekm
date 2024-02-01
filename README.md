@@ -73,6 +73,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
+- [strapi/strapi-starter-next-blog](https://github.com/strapi/strapi-starter-next-blog) - Strapi Starter Next Blog (today)
 - [tonightpass/strapi](https://github.com/tonightpass/strapi) -  (2 days ago)
 - [udecode/plate](https://github.com/udecode/plate) - The rich-text editor for React. (3 weeks ago)
 - [JAD-NeedForSchool/projet-annuel-said-charlotte-antoine](https://github.com/JAD-NeedForSchool/projet-annuel-said-charlotte-antoine) - projet-annuel-said-charlotte-antoine created by GitHub Classroom (3 weeks ago)
@@ -82,7 +83,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [ptarjan/node-cache](https://github.com/ptarjan/node-cache) - A simple in-memory cache for nodejs (1 month ago)
 - [you-dont-need/You-Dont-Need-Lodash-Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore) - List of JavaScript methods which you can use natively &#43; ESLint Plugin (1 month ago)
 - [gregberge/twc](https://github.com/gregberge/twc) - Create reusable React &#43; Tailwind CSS components in one line ✨ (1 month ago)
-- [t3-oss/t3-env](https://github.com/t3-oss/t3-env) -  (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
