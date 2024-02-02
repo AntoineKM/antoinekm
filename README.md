@@ -55,7 +55,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [AntoineKM/dixt](https://github.com/AntoineKM/dixt) ([dixt-plugin-logs@2.1.16](https://github.com/AntoineKM/dixt/releases/tag/dixt-plugin-logs%402.1.16), 1 month ago) - The Discord Framework
 - [hopinc/js](https://github.com/hopinc/js) ([v1.47.0](https://github.com/hopinc/js/releases/tag/v1.47.0), 1 month ago) - 📝 Hop server side client library in JavaScript for Node.js
 - [onRuntime/kartrak](https://github.com/onRuntime/kartrak) ([v0.0.9](https://github.com/onRuntime/kartrak/releases/tag/v0.0.9), 2 months ago) - Le suivi d&#39;activité tourné vers l&#39;écologie.
-- [alii/searchy](https://github.com/alii/searchy) ([v0.2.3](https://github.com/alii/searchy/releases/tag/v0.2.3), 3 months ago) - Cloudflare &#43; Google = supercharged web surfing
 - [AntoineKM/antoine](https://github.com/AntoineKM/antoine) ([eslint-config-antoine@1.0.13](https://github.com/AntoineKM/antoine/releases/tag/eslint-config-antoine%401.0.13), 5 months ago) - cool tools to code like me.
 
 #### 🔨 My recent Pull Requests
