@@ -37,8 +37,8 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
-- [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React @styled-components (currently under construction...) (today)
-- [AntoineKM/unity-paleto-bay-hospital](https://github.com/AntoineKM/unity-paleto-bay-hospital) - Discord bot for Unity RP GTA V (1 day ago)
+- [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React @styled-components (currently under construction...) (1 day ago)
+- [AntoineKM/unity-paleto-bay-hospital](https://github.com/AntoineKM/unity-paleto-bay-hospital) - Discord bot for Unity RP GTA V (2 days ago)
 - [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (2 weeks ago)
 - [onRuntime/onruntime-docs](https://github.com/onRuntime/onruntime-docs) -  (3 weeks ago)
 - [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) - onRuntime official website. (3 weeks ago)
@@ -50,7 +50,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔭 Latest releases I've contributed to
 
-- [tonightpass/kitchen](https://github.com/tonightpass/kitchen) ([@tonightpass/kitchen@1.10.14](https://github.com/tonightpass/kitchen/releases/tag/%40tonightpass/kitchen%401.10.14), today) - @tonightpass delicious React @styled-components (currently under construction...)
+- [tonightpass/kitchen](https://github.com/tonightpass/kitchen) ([@tonightpass/kitchen@1.10.14](https://github.com/tonightpass/kitchen/releases/tag/%40tonightpass/kitchen%401.10.14), 1 day ago) - @tonightpass delicious React @styled-components (currently under construction...)
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/requester@2.0.3](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/requester%402.0.3), 3 weeks ago) - @tonightpass sdk and tools.
 - [AntoineKM/dixt](https://github.com/AntoineKM/dixt) ([dixt-plugin-logs@2.1.16](https://github.com/AntoineKM/dixt/releases/tag/dixt-plugin-logs%402.1.16), 1 month ago) - The Discord Framework
 - [hopinc/js](https://github.com/hopinc/js) ([v1.47.0](https://github.com/hopinc/js/releases/tag/v1.47.0), 1 month ago) - 📝 Hop server side client library in JavaScript for Node.js
@@ -72,11 +72,11 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
-- [vercel/ms](https://github.com/vercel/ms) - Tiny millisecond conversion utility (3 days ago)
-- [sanjay-io/strapi-provider-upload-cloudflare](https://github.com/sanjay-io/strapi-provider-upload-cloudflare) - Upload your images to Cloudflare Images for Strapi (3 days ago)
-- [strapi/strapi-starter-next-blog](https://github.com/strapi/strapi-starter-next-blog) - Strapi Starter Next Blog (3 days ago)
-- [tonightpass/strapi](https://github.com/tonightpass/strapi) -  (5 days ago)
-- [udecode/plate](https://github.com/udecode/plate) - The rich-text editor for React. (4 weeks ago)
+- [vercel/ms](https://github.com/vercel/ms) - Tiny millisecond conversion utility (4 days ago)
+- [sanjay-io/strapi-provider-upload-cloudflare](https://github.com/sanjay-io/strapi-provider-upload-cloudflare) - Upload your images to Cloudflare Images for Strapi (4 days ago)
+- [strapi/strapi-starter-next-blog](https://github.com/strapi/strapi-starter-next-blog) - Strapi Starter Next Blog (4 days ago)
+- [tonightpass/strapi](https://github.com/tonightpass/strapi) -  (6 days ago)
+- [udecode/plate](https://github.com/udecode/plate) - The rich-text editor for React. (1 month ago)
 - [JAD-NeedForSchool/projet-annuel-said-charlotte-antoine](https://github.com/JAD-NeedForSchool/projet-annuel-said-charlotte-antoine) - projet-annuel-said-charlotte-antoine created by GitHub Classroom (1 month ago)
 - [brunos3d/video-ambilight](https://github.com/brunos3d/video-ambilight) - 🌈 Ambilight Effect - React - Next.js (YouTube iframe, Video &#43; Canvas). (1 month ago)
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source. (1 month ago)
