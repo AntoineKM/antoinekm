@@ -72,6 +72,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
+- [emotion-js/emotion](https://github.com/emotion-js/emotion) - 👩‍🎤 CSS-in-JS library designed for high performance style composition (today)
 - [vercel/ms](https://github.com/vercel/ms) - Tiny millisecond conversion utility (1 week ago)
 - [sanjay-io/strapi-provider-upload-cloudflare](https://github.com/sanjay-io/strapi-provider-upload-cloudflare) - Upload your images to Cloudflare Images for Strapi (1 week ago)
 - [strapi/strapi-starter-next-blog](https://github.com/strapi/strapi-starter-next-blog) - Strapi Starter Next Blog (1 week ago)
@@ -81,7 +82,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [brunos3d/video-ambilight](https://github.com/brunos3d/video-ambilight) - 🌈 Ambilight Effect - React - Next.js (YouTube iframe, Video &#43; Canvas). (1 month ago)
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source. (1 month ago)
 - [animate-css/animate.css](https://github.com/animate-css/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing. (1 month ago)
-- [ptarjan/node-cache](https://github.com/ptarjan/node-cache) - A simple in-memory cache for nodejs (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
