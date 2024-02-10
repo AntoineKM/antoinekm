@@ -37,9 +37,9 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
-- [AntoineKM/unity-paleto-bay-hospital](https://github.com/AntoineKM/unity-paleto-bay-hospital) - Discord bot for Unity RP GTA V (today)
-- [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React @styled-components (currently under construction...) (1 day ago)
-- [ArkeeAgency/ytg-ninja](https://github.com/ArkeeAgency/ytg-ninja) - The feature everyone want on YTG (2 days ago)
+- [AntoineKM/unity-paleto-bay-hospital](https://github.com/AntoineKM/unity-paleto-bay-hospital) - Discord bot for Unity RP GTA V (1 day ago)
+- [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React @styled-components (currently under construction...) (2 days ago)
+- [ArkeeAgency/ytg-ninja](https://github.com/ArkeeAgency/ytg-ninja) - The feature everyone want on YTG (3 days ago)
 - [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (3 weeks ago)
 - [onRuntime/onruntime-docs](https://github.com/onRuntime/onruntime-docs) -  (3 weeks ago)
 - [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) - onRuntime official website. (3 weeks ago)
@@ -50,7 +50,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔭 Latest releases I've contributed to
 
-- [tonightpass/kitchen](https://github.com/tonightpass/kitchen) ([@tonightpass/kitchen@1.10.17](https://github.com/tonightpass/kitchen/releases/tag/%40tonightpass/kitchen%401.10.17), 1 day ago) - @tonightpass delicious React @styled-components (currently under construction...)
+- [tonightpass/kitchen](https://github.com/tonightpass/kitchen) ([@tonightpass/kitchen@1.10.17](https://github.com/tonightpass/kitchen/releases/tag/%40tonightpass/kitchen%401.10.17), 2 days ago) - @tonightpass delicious React @styled-components (currently under construction...)
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/requester@2.0.3](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/requester%402.0.3), 1 month ago) - @tonightpass sdk and tools.
 - [AntoineKM/dixt](https://github.com/AntoineKM/dixt) ([dixt-plugin-logs@2.1.16](https://github.com/AntoineKM/dixt/releases/tag/dixt-plugin-logs%402.1.16), 1 month ago) - The Discord Framework
 - [hopinc/js](https://github.com/hopinc/js) ([v1.47.0](https://github.com/hopinc/js/releases/tag/v1.47.0), 1 month ago) - 📝 Hop server side client library in JavaScript for Node.js
@@ -59,7 +59,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
-- [🚚 replace preconscruct by tsup](https://github.com/tonightpass/kitchen/pull/335) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (1 week ago)
+- [🚚 replace preconscruct by tsup](https://github.com/tonightpass/kitchen/pull/335) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (2 weeks ago)
 - [Antoinekm/export all members](https://github.com/tonightpass/kitchen/pull/333) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (2 weeks ago)
 - [Antoinekm/full exports](https://github.com/tonightpass/kitchen/pull/327) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (4 weeks ago)
 - [💄 remove span style from globalstyle](https://github.com/tonightpass/kitchen/pull/316) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (1 month ago)
@@ -72,7 +72,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
-- [emotion-js/emotion](https://github.com/emotion-js/emotion) - 👩‍🎤 CSS-in-JS library designed for high performance style composition (1 day ago)
+- [emotion-js/emotion](https://github.com/emotion-js/emotion) - 👩‍🎤 CSS-in-JS library designed for high performance style composition (2 days ago)
 - [vercel/ms](https://github.com/vercel/ms) - Tiny millisecond conversion utility (1 week ago)
 - [sanjay-io/strapi-provider-upload-cloudflare](https://github.com/sanjay-io/strapi-provider-upload-cloudflare) - Upload your images to Cloudflare Images for Strapi (1 week ago)
 - [strapi/strapi-starter-next-blog](https://github.com/strapi/strapi-starter-next-blog) - Strapi Starter Next Blog (1 week ago)
