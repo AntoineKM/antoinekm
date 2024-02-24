@@ -72,6 +72,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
+- [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) - Script to get your site indexed on Google in less than 48 hours (today)
 - [emotion-js/emotion](https://github.com/emotion-js/emotion) - 👩‍🎤 CSS-in-JS library designed for high performance style composition (2 weeks ago)
 - [vercel/ms](https://github.com/vercel/ms) - Tiny millisecond conversion utility (3 weeks ago)
 - [sanjay-io/strapi-provider-upload-cloudflare](https://github.com/sanjay-io/strapi-provider-upload-cloudflare) - Upload your images to Cloudflare Images for Strapi (3 weeks ago)
@@ -81,7 +82,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [JAD-NeedForSchool/projet-annuel-said-charlotte-antoine](https://github.com/JAD-NeedForSchool/projet-annuel-said-charlotte-antoine) - projet-annuel-said-charlotte-antoine created by GitHub Classroom (1 month ago)
 - [brunos3d/video-ambilight](https://github.com/brunos3d/video-ambilight) - 🌈 Ambilight Effect - React - Next.js (YouTube iframe, Video &#43; Canvas). (1 month ago)
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source. (1 month ago)
-- [animate-css/animate.css](https://github.com/animate-css/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing. (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
