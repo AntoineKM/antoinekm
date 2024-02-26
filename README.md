@@ -37,7 +37,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
-- [ArkeeAgency/ytg-ninja](https://github.com/ArkeeAgency/ytg-ninja) - The feature everyone want on YTG (6 days ago)
+- [ArkeeAgency/ytg-ninja](https://github.com/ArkeeAgency/ytg-ninja) - The feature everyone want on YTG (1 week ago)
 - [AntoineKM/unity-paleto-bay-hospital](https://github.com/AntoineKM/unity-paleto-bay-hospital) - Discord bot for Unity RP GTA V (1 week ago)
 - [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React @styled-components (currently under construction...) (1 week ago)
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (2 weeks ago)
@@ -59,20 +59,20 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
-- [Moving from `mjs` to `ts`](https://github.com/goenning/google-indexing-script/pull/28) on [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) (1 day ago)
+- [Moving from `mjs` to `ts`](https://github.com/goenning/google-indexing-script/pull/28) on [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) (2 days ago)
 - [Antoinekm/tooltip](https://github.com/tonightpass/kitchen/pull/356) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (1 week ago)
-- [🚚 replace preconscruct by tsup](https://github.com/tonightpass/kitchen/pull/335) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (4 weeks ago)
+- [🚚 replace preconscruct by tsup](https://github.com/tonightpass/kitchen/pull/335) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (1 month ago)
 - [Antoinekm/export all members](https://github.com/tonightpass/kitchen/pull/333) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (1 month ago)
 - [Antoinekm/full exports](https://github.com/tonightpass/kitchen/pull/327) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (1 month ago)
 - [💄 remove span style from globalstyle](https://github.com/tonightpass/kitchen/pull/316) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (1 month ago)
-- [Antoinekm/custom theme](https://github.com/tonightpass/kitchen/pull/314) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (1 month ago)
+- [Antoinekm/custom theme](https://github.com/tonightpass/kitchen/pull/314) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (2 months ago)
 - [✨ add css variables support and remove `withkitchen` hoc for next](https://github.com/tonightpass/kitchen/pull/311) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (2 months ago)
 - [Antoinekm/fix passed props](https://github.com/tonightpass/kitchen/pull/294) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (6 months ago)
 - [🐛 fix hover and focus due to and sign unused](https://github.com/tonightpass/kitchen/pull/292) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (6 months ago)
 
 #### ⭐ Recent Stars
 
-- [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) - Script to get your site indexed on Google in less than 48 hours (1 day ago)
+- [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) - Script to get your site indexed on Google in less than 48 hours (2 days ago)
 - [emotion-js/emotion](https://github.com/emotion-js/emotion) - 👩‍🎤 CSS-in-JS library designed for high performance style composition (2 weeks ago)
 - [vercel/ms](https://github.com/vercel/ms) - Tiny millisecond conversion utility (3 weeks ago)
 - [sanjay-io/strapi-provider-upload-cloudflare](https://github.com/sanjay-io/strapi-provider-upload-cloudflare) - Upload your images to Cloudflare Images for Strapi (3 weeks ago)
