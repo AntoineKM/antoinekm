@@ -59,6 +59,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
+- [Add cli](https://github.com/goenning/google-indexing-script/pull/31) on [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) (today)
 - [Add rate limit error handling](https://github.com/goenning/google-indexing-script/pull/29) on [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) (3 days ago)
 - [Moving from `mjs` to `ts`](https://github.com/goenning/google-indexing-script/pull/28) on [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) (1 week ago)
 - [Antoinekm/tooltip](https://github.com/tonightpass/kitchen/pull/356) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (2 weeks ago)
@@ -68,7 +69,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [💄 remove span style from globalstyle](https://github.com/tonightpass/kitchen/pull/316) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (1 month ago)
 - [Antoinekm/custom theme](https://github.com/tonightpass/kitchen/pull/314) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (2 months ago)
 - [✨ add css variables support and remove `withkitchen` hoc for next](https://github.com/tonightpass/kitchen/pull/311) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (2 months ago)
-- [Antoinekm/fix passed props](https://github.com/tonightpass/kitchen/pull/294) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (6 months ago)
 
 #### ⭐ Recent Stars
 
