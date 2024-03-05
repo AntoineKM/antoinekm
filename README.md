@@ -59,6 +59,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
+- [Antoinekm/wai](https://github.com/tonightpass/kitchen/pull/402) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (today)
 - [Add cli](https://github.com/goenning/google-indexing-script/pull/31) on [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) (3 days ago)
 - [Add rate limit error handling](https://github.com/goenning/google-indexing-script/pull/29) on [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) (6 days ago)
 - [Moving from `mjs` to `ts`](https://github.com/goenning/google-indexing-script/pull/28) on [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) (1 week ago)
@@ -68,7 +69,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [Antoinekm/full exports](https://github.com/tonightpass/kitchen/pull/327) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (1 month ago)
 - [💄 remove span style from globalstyle](https://github.com/tonightpass/kitchen/pull/316) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (2 months ago)
 - [Antoinekm/custom theme](https://github.com/tonightpass/kitchen/pull/314) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (2 months ago)
-- [✨ add css variables support and remove `withkitchen` hoc for next](https://github.com/tonightpass/kitchen/pull/311) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (2 months ago)
 
 #### ⭐ Recent Stars
 
