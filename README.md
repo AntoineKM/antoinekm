@@ -37,8 +37,8 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
+- [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React @styled-components (currently under construction...) (today)
 - [charlottesaidi/rh-project](https://github.com/charlottesaidi/rh-project) -  (2 days ago)
-- [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React @styled-components (currently under construction...) (2 days ago)
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (5 days ago)
 - [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) - Script to get your site indexed on Google in less than 48 hours (1 week ago)
 - [AntoineKM/unity-paleto-bay-hospital](https://github.com/AntoineKM/unity-paleto-bay-hospital) - Discord bot for Unity RP GTA V (1 week ago)
