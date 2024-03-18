@@ -59,6 +59,8 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
+- [add documentation comments](https://github.com/goenning/google-indexing-script/pull/40) on [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) (today)
+- [fix index function to handle options passed](https://github.com/goenning/google-indexing-script/pull/39) on [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) (today)
 - [✨ add calendar](https://github.com/tonightpass/kitchen/pull/446) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (1 day ago)
 - [Antoinekm/wai](https://github.com/tonightpass/kitchen/pull/402) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (1 week ago)
 - [Add cli](https://github.com/goenning/google-indexing-script/pull/31) on [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) (2 weeks ago)
@@ -67,8 +69,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [Antoinekm/tooltip](https://github.com/tonightpass/kitchen/pull/356) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (1 month ago)
 - [🚚 replace preconscruct by tsup](https://github.com/tonightpass/kitchen/pull/335) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (1 month ago)
 - [Antoinekm/export all members](https://github.com/tonightpass/kitchen/pull/333) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (1 month ago)
-- [Antoinekm/full exports](https://github.com/tonightpass/kitchen/pull/327) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (2 months ago)
-- [💄 remove span style from globalstyle](https://github.com/tonightpass/kitchen/pull/316) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (2 months ago)
 
 #### ⭐ Recent Stars
 
