@@ -77,12 +77,12 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [charlottesaidi/rh-project](https://github.com/charlottesaidi/rh-project) -  (5 days ago)
 - [changesets/changesets](https://github.com/changesets/changesets) - 🦋       A way to manage your versioning and changelogs with a focus on monorepos (2 weeks ago)
 - [robingenz/google-indexing-action](https://github.com/robingenz/google-indexing-action) - 🚀 GitHub Action to get your site indexed on Google in less than 48 hours. (2 weeks ago)
-- [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) - Script to get your site indexed on Google in less than 48 hours (3 weeks ago)
 - [emotion-js/emotion](https://github.com/emotion-js/emotion) - 👩‍🎤 CSS-in-JS library designed for high performance style composition (1 month ago)
 - [vercel/ms](https://github.com/vercel/ms) - Tiny millisecond conversion utility (1 month ago)
 - [sanjay-io/strapi-provider-upload-cloudflare](https://github.com/sanjay-io/strapi-provider-upload-cloudflare) - Upload your images to Cloudflare Images for Strapi (1 month ago)
 - [strapi/strapi-starter-next-blog](https://github.com/strapi/strapi-starter-next-blog) - Strapi Starter Next Blog (1 month ago)
 - [tonightpass/strapi](https://github.com/tonightpass/strapi) -  (1 month ago)
+- [udecode/plate](https://github.com/udecode/plate) - The rich-text editor for React. (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
