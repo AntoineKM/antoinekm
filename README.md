@@ -50,7 +50,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔭 Latest releases I've contributed to
 
-- [tonightpass/kitchen](https://github.com/tonightpass/kitchen) ([@tonightpass/kitchen@1.15.0](https://github.com/tonightpass/kitchen/releases/tag/%40tonightpass/kitchen%401.15.0), today) - @tonightpass delicious React @styled-components (currently under construction...)
+- [tonightpass/kitchen](https://github.com/tonightpass/kitchen) ([@tonightpass/kitchen@1.15.2](https://github.com/tonightpass/kitchen/releases/tag/%40tonightpass/kitchen%401.15.2), today) - @tonightpass delicious React @styled-components (currently under construction...)
 - [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) ([v0.0.5](https://github.com/goenning/google-indexing-script/releases/tag/v0.0.5), 1 day ago) - Script to get your site indexed on Google in less than 48 hours
 - [AntoineKM/antoine](https://github.com/AntoineKM/antoine) ([eslint-config-antoine@1.0.14](https://github.com/AntoineKM/antoine/releases/tag/eslint-config-antoine%401.0.14), 3 weeks ago) - cool tools to code like me.
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/requester@2.0.4](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/requester%402.0.4), 1 month ago) - @tonightpass sdk and tools.
@@ -60,6 +60,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
+- [Antoinekm/calendar types](https://github.com/tonightpass/kitchen/pull/461) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (today)
 - [add site url checker](https://github.com/goenning/google-indexing-script/pull/44) on [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) (2 days ago)
 - [update google api links in readme](https://github.com/goenning/google-indexing-script/pull/41) on [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) (2 days ago)
 - [add documentation comments](https://github.com/goenning/google-indexing-script/pull/40) on [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) (2 days ago)
@@ -69,7 +70,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [Add cli](https://github.com/goenning/google-indexing-script/pull/31) on [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) (2 weeks ago)
 - [Add rate limit error handling](https://github.com/goenning/google-indexing-script/pull/29) on [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) (3 weeks ago)
 - [Moving from `mjs` to `ts`](https://github.com/goenning/google-indexing-script/pull/28) on [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) (3 weeks ago)
-- [Antoinekm/tooltip](https://github.com/tonightpass/kitchen/pull/356) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (1 month ago)
 
 #### ⭐ Recent Stars
 
