@@ -37,7 +37,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
-- [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React @styled-components (currently under construction...) (1 day ago)
+- [tonightpass/kitchen](https://github.com/tonightpass/kitchen) - @tonightpass delicious React @styled-components (currently under construction...) (today)
 - [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) - Script to get your site indexed on Google in less than 48 hours (1 day ago)
 - [charlottesaidi/rh-project](https://github.com/charlottesaidi/rh-project) -  (5 days ago)
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (1 week ago)
@@ -73,6 +73,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
+- [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) - Script to get your site indexed on Google in less than 48 hours (today)
 - [date-fns/date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️ (1 day ago)
 - [charlottesaidi/rh-project](https://github.com/charlottesaidi/rh-project) -  (6 days ago)
 - [changesets/changesets](https://github.com/changesets/changesets) - 🦋       A way to manage your versioning and changelogs with a focus on monorepos (2 weeks ago)
@@ -82,7 +83,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [sanjay-io/strapi-provider-upload-cloudflare](https://github.com/sanjay-io/strapi-provider-upload-cloudflare) - Upload your images to Cloudflare Images for Strapi (1 month ago)
 - [strapi/strapi-starter-next-blog](https://github.com/strapi/strapi-starter-next-blog) - Strapi Starter Next Blog (1 month ago)
 - [tonightpass/strapi](https://github.com/tonightpass/strapi) -  (1 month ago)
-- [udecode/plate](https://github.com/udecode/plate) - The rich-text editor for React. (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
