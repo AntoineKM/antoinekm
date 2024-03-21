@@ -60,6 +60,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
+- [✨ add entity](https://github.com/tonightpass/kitchen/pull/468) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (today)
 - [Antoinekm/calendar types](https://github.com/tonightpass/kitchen/pull/461) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (1 day ago)
 - [add site url checker](https://github.com/goenning/google-indexing-script/pull/44) on [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) (3 days ago)
 - [update google api links in readme](https://github.com/goenning/google-indexing-script/pull/41) on [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) (3 days ago)
@@ -69,7 +70,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [Antoinekm/wai](https://github.com/tonightpass/kitchen/pull/402) on [tonightpass/kitchen](https://github.com/tonightpass/kitchen) (2 weeks ago)
 - [Add cli](https://github.com/goenning/google-indexing-script/pull/31) on [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) (2 weeks ago)
 - [Add rate limit error handling](https://github.com/goenning/google-indexing-script/pull/29) on [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) (3 weeks ago)
-- [Moving from `mjs` to `ts`](https://github.com/goenning/google-indexing-script/pull/28) on [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
