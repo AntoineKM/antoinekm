@@ -73,6 +73,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
+- [alii/pathcat](https://github.com/alii/pathcat) - Simply path/URL building in JavaScript (today)
 - [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) - Script to get your site indexed on Google in less than 48 hours (2 days ago)
 - [date-fns/date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️ (3 days ago)
 - [charlottesaidi/rh-project](https://github.com/charlottesaidi/rh-project) -  (1 week ago)
@@ -82,7 +83,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [vercel/ms](https://github.com/vercel/ms) - Tiny millisecond conversion utility (1 month ago)
 - [sanjay-io/strapi-provider-upload-cloudflare](https://github.com/sanjay-io/strapi-provider-upload-cloudflare) - Upload your images to Cloudflare Images for Strapi (1 month ago)
 - [strapi/strapi-starter-next-blog](https://github.com/strapi/strapi-starter-next-blog) - Strapi Starter Next Blog (1 month ago)
-- [tonightpass/strapi](https://github.com/tonightpass/strapi) -  (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
