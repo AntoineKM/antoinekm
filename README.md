@@ -60,6 +60,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
+- [🚚 move from kitchen to kitchn](https://github.com/tonightpass/kitchn/pull/472) on [tonightpass/kitchn](https://github.com/tonightpass/kitchn) (today)
 - [🚚  move from preconstruct to tsup](https://github.com/tonightpass/tonightpass/pull/187) on [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) (today)
 - [✨ add entity](https://github.com/tonightpass/kitchn/pull/468) on [tonightpass/kitchn](https://github.com/tonightpass/kitchn) (3 days ago)
 - [Antoinekm/calendar types](https://github.com/tonightpass/kitchn/pull/461) on [tonightpass/kitchn](https://github.com/tonightpass/kitchn) (4 days ago)
@@ -69,7 +70,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [fix index function to handle options passed](https://github.com/goenning/google-indexing-script/pull/39) on [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) (6 days ago)
 - [✨ add calendar](https://github.com/tonightpass/kitchn/pull/446) on [tonightpass/kitchn](https://github.com/tonightpass/kitchn) (1 week ago)
 - [Antoinekm/wai](https://github.com/tonightpass/kitchn/pull/402) on [tonightpass/kitchn](https://github.com/tonightpass/kitchn) (2 weeks ago)
-- [Add cli](https://github.com/goenning/google-indexing-script/pull/31) on [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
