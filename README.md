@@ -60,6 +60,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
+- [Antoinekm/nest](https://github.com/tonightpass/tonightpass/pull/205) on [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) (today)
 - [📝 update readme symlink](https://github.com/tonightpass/kitchn/pull/474) on [tonightpass/kitchn](https://github.com/tonightpass/kitchn) (1 week ago)
 - [✨ add node sdk](https://github.com/tonightpass/tonightpass/pull/188) on [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) (1 week ago)
 - [🚚 move from kitchen to kitchn](https://github.com/tonightpass/kitchn/pull/472) on [tonightpass/kitchn](https://github.com/tonightpass/kitchn) (1 week ago)
@@ -69,7 +70,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [add site url checker](https://github.com/goenning/google-indexing-script/pull/44) on [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) (2 weeks ago)
 - [update google api links in readme](https://github.com/goenning/google-indexing-script/pull/41) on [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) (2 weeks ago)
 - [add documentation comments](https://github.com/goenning/google-indexing-script/pull/40) on [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) (2 weeks ago)
-- [fix index function to handle options passed](https://github.com/goenning/google-indexing-script/pull/39) on [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
