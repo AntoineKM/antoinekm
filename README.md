@@ -73,6 +73,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
+- [AntoineKM/unity-paleto-bay-hospital-website](https://github.com/AntoineKM/unity-paleto-bay-hospital-website) - Website for Unity RP GTA V (today)
 - [edwardpayton/github95](https://github.com/edwardpayton/github95) - Your Github 🐙 profile. With a Windows 95 🖥️ style. Built with React 🚀 (3 days ago)
 - [towfiqi/serpbear](https://github.com/towfiqi/serpbear) - Search Engine Position Rank Tracking App (1 week ago)
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics. (1 week ago)
@@ -82,7 +83,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [date-fns/date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️ (2 weeks ago)
 - [charlottesaidi/rh-project](https://github.com/charlottesaidi/rh-project) -  (3 weeks ago)
 - [changesets/changesets](https://github.com/changesets/changesets) - 🦋       A way to manage your versioning and changelogs with a focus on monorepos (1 month ago)
-- [robingenz/google-indexing-action](https://github.com/robingenz/google-indexing-action) - 🚀 GitHub Action to get your site indexed on Google in less than 48 hours. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
