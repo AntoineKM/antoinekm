@@ -86,8 +86,8 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👯 Check out some of my recent followers
 
+- [MaloWinrhy](https://github.com/MaloWinrhy)
 - [tribixbite](https://github.com/tribixbite)
 - [JustFly1984](https://github.com/JustFly1984)
 - [Tontawan07](https://github.com/Tontawan07)
 - [Mdsumonmullamodhu](https://github.com/Mdsumonmullamodhu)
-- [Oliebat](https://github.com/Oliebat)
