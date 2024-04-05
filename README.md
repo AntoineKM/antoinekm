@@ -37,11 +37,11 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
+- [tonightpass/kitchn](https://github.com/tonightpass/kitchn) - @tonightpass delicious React @styled-components (currently under construction...) (today)
 - [AntoineKM/unity-paleto-bay-hospital-website](https://github.com/AntoineKM/unity-paleto-bay-hospital-website) - Website for Unity RP GTA V (1 day ago)
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (3 days ago)
 - [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) - onRuntime official website. (5 days ago)
 - [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (1 week ago)
-- [tonightpass/kitchn](https://github.com/tonightpass/kitchn) - @tonightpass delicious React @styled-components (currently under construction...) (1 week ago)
 - [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) - Script to get your site indexed on Google in less than 48 hours (2 weeks ago)
 - [charlottesaidi/rh-project](https://github.com/charlottesaidi/rh-project) -  (3 weeks ago)
 - [AntoineKM/unity-paleto-bay-hospital](https://github.com/AntoineKM/unity-paleto-bay-hospital) - Discord bot for Unity RP GTA V (1 month ago)
@@ -50,8 +50,8 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔭 Latest releases I've contributed to
 
+- [tonightpass/kitchn](https://github.com/tonightpass/kitchn) ([kitchn@0.0.2](https://github.com/tonightpass/kitchn/releases/tag/kitchn%400.0.2), today) - @tonightpass delicious React @styled-components (currently under construction...)
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/react@0.0.10](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/react%400.0.10), 3 days ago) - @tonightpass sdk and tools.
-- [tonightpass/kitchn](https://github.com/tonightpass/kitchn) ([kitchn@0.0.1](https://github.com/tonightpass/kitchn/releases/tag/kitchn%400.0.1), 1 week ago) - @tonightpass delicious React @styled-components (currently under construction...)
 - [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) ([v0.0.5](https://github.com/goenning/google-indexing-script/releases/tag/v0.0.5), 2 weeks ago) - Script to get your site indexed on Google in less than 48 hours
 - [AntoineKM/antoine](https://github.com/AntoineKM/antoine) ([eslint-config-antoine@1.0.14](https://github.com/AntoineKM/antoine/releases/tag/eslint-config-antoine%401.0.14), 1 month ago) - cool tools to code like me.
 - [AntoineKM/dixt](https://github.com/AntoineKM/dixt) ([dixt-plugin-logs@2.1.16](https://github.com/AntoineKM/dixt/releases/tag/dixt-plugin-logs%402.1.16), 3 months ago) - The Discord Framework
