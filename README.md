@@ -37,16 +37,16 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
+- [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot) -  (today)
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (1 day ago)
 - [AntoineKM/unity-paleto-bay-hospital-website](https://github.com/AntoineKM/unity-paleto-bay-hospital-website) - Website for Unity RP GTA V (2 days ago)
-- [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (3 days ago)
 - [tonightpass/kitchn](https://github.com/tonightpass/kitchn) - @tonightpass delicious React @styled-components (currently under construction...) (3 days ago)
+- [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (3 days ago)
 - [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) - onRuntime official website. (1 week ago)
 - [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) - Script to get your site indexed on Google in less than 48 hours (2 weeks ago)
 - [charlottesaidi/rh-project](https://github.com/charlottesaidi/rh-project) -  (3 weeks ago)
 - [AntoineKM/unity-paleto-bay-hospital](https://github.com/AntoineKM/unity-paleto-bay-hospital) - Discord bot for Unity RP GTA V (1 month ago)
 - [ArkeeAgency/ytg-ninja](https://github.com/ArkeeAgency/ytg-ninja) - The feature everyone want on YTG (1 month ago)
-- [AntoineKM/antoine](https://github.com/AntoineKM/antoine) - cool tools to code like me. (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -72,6 +72,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
+- [vercel/avatar](https://github.com/vercel/avatar) - 💎   Beautiful avatars as a microservice (today)
 - [AntoineKM/unity-paleto-bay-hospital-website](https://github.com/AntoineKM/unity-paleto-bay-hospital-website) - Website for Unity RP GTA V (4 days ago)
 - [edwardpayton/github95](https://github.com/edwardpayton/github95) - Your Github 🐙 profile. With a Windows 95 🖥️ style. Built with React 🚀 (1 week ago)
 - [towfiqi/serpbear](https://github.com/towfiqi/serpbear) - Search Engine Position Rank Tracking App (1 week ago)
@@ -81,7 +82,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) - Script to get your site indexed on Google in less than 48 hours (2 weeks ago)
 - [date-fns/date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️ (2 weeks ago)
 - [charlottesaidi/rh-project](https://github.com/charlottesaidi/rh-project) -  (3 weeks ago)
-- [changesets/changesets](https://github.com/changesets/changesets) - 🦋       A way to manage your versioning and changelogs with a focus on monorepos (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
