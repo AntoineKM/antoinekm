@@ -72,6 +72,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
+- [mikro-orm/nestjs](https://github.com/mikro-orm/nestjs) - NestJS MikroORM integration (today)
 - [anatine/esbuildnx](https://github.com/anatine/esbuildnx) - Esbuild plugin for Nx (1 day ago)
 - [vercel/avatar](https://github.com/vercel/avatar) - 💎   Beautiful avatars as a microservice (1 day ago)
 - [AntoineKM/unity-paleto-bay-hospital-website](https://github.com/AntoineKM/unity-paleto-bay-hospital-website) - Website for Unity RP GTA V (5 days ago)
@@ -81,7 +82,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [chaseottofy/vercel-nav](https://github.com/chaseottofy/vercel-nav) - Recreation of Navbar featured on vercel.com/design (2 weeks ago)
 - [alii/pathcat](https://github.com/alii/pathcat) - Simply path/URL building in JavaScript (2 weeks ago)
 - [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) - Script to get your site indexed on Google in less than 48 hours (2 weeks ago)
-- [date-fns/date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️ (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
