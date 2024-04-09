@@ -59,6 +59,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
+- [✨ add organization members sdk](https://github.com/tonightpass/tonightpass/pull/232) on [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) (today)
 - [🏷️ fix organization types and dtos](https://github.com/tonightpass/tonightpass/pull/218) on [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) (4 days ago)
 - [✨ add organizations sdk](https://github.com/tonightpass/tonightpass/pull/207) on [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) (1 week ago)
 - [Antoinekm/nest](https://github.com/tonightpass/tonightpass/pull/205) on [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) (1 week ago)
@@ -68,7 +69,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [🚚  move from preconstruct to tsup](https://github.com/tonightpass/tonightpass/pull/187) on [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) (2 weeks ago)
 - [✨ add entity](https://github.com/tonightpass/kitchn/pull/468) on [tonightpass/kitchn](https://github.com/tonightpass/kitchn) (2 weeks ago)
 - [Antoinekm/calendar types](https://github.com/tonightpass/kitchn/pull/461) on [tonightpass/kitchn](https://github.com/tonightpass/kitchn) (2 weeks ago)
-- [add site url checker](https://github.com/goenning/google-indexing-script/pull/44) on [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
