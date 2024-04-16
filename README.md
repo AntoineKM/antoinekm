@@ -59,6 +59,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
+- [🎨 improve organization members structure for invites](https://github.com/tonightpass/tonightpass/pull/248) on [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) (today)
 - [✨ add organization members sdk](https://github.com/tonightpass/tonightpass/pull/232) on [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) (1 week ago)
 - [🏷️ fix organization types and dtos](https://github.com/tonightpass/tonightpass/pull/218) on [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) (1 week ago)
 - [✨ add organizations sdk](https://github.com/tonightpass/tonightpass/pull/207) on [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) (2 weeks ago)
@@ -68,7 +69,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [🚚 move from kitchen to kitchn](https://github.com/tonightpass/kitchn/pull/472) on [tonightpass/kitchn](https://github.com/tonightpass/kitchn) (3 weeks ago)
 - [🚚  move from preconstruct to tsup](https://github.com/tonightpass/tonightpass/pull/187) on [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) (3 weeks ago)
 - [✨ add entity](https://github.com/tonightpass/kitchn/pull/468) on [tonightpass/kitchn](https://github.com/tonightpass/kitchn) (3 weeks ago)
-- [Antoinekm/calendar types](https://github.com/tonightpass/kitchn/pull/461) on [tonightpass/kitchn](https://github.com/tonightpass/kitchn) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
