@@ -37,7 +37,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
-- [tonightpass/kitchn](https://github.com/tonightpass/kitchn) - @tonightpass delicious React @styled-components (currently under construction...) (1 day ago)
+- [tonightpass/kitchn](https://github.com/tonightpass/kitchn) - @tonightpass delicious React @styled-components (currently under construction...) (today)
 - [AntoineKM/antoine](https://github.com/AntoineKM/antoine) - cool tools to code like me. (4 days ago)
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (5 days ago)
 - [ArkeeAgency/ytg-ninja](https://github.com/ArkeeAgency/ytg-ninja) - The feature everyone want on YTG (1 week ago)
@@ -50,7 +50,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔭 Latest releases I've contributed to
 
-- [tonightpass/kitchn](https://github.com/tonightpass/kitchn) ([kitchn@0.0.3](https://github.com/tonightpass/kitchn/releases/tag/kitchn%400.0.3), 1 day ago) - @tonightpass delicious React @styled-components (currently under construction...)
+- [tonightpass/kitchn](https://github.com/tonightpass/kitchn) ([kitchn@0.0.4](https://github.com/tonightpass/kitchn/releases/tag/kitchn%400.0.4), today) - @tonightpass delicious React @styled-components (currently under construction...)
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/react@0.0.19](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/react%400.0.19), 5 days ago) - @tonightpass sdk and tools.
 - [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) ([v0.0.5](https://github.com/goenning/google-indexing-script/releases/tag/v0.0.5), 1 month ago) - Script to get your site indexed on Google in less than 48 hours
 - [AntoineKM/antoine](https://github.com/AntoineKM/antoine) ([eslint-config-antoine@1.0.14](https://github.com/AntoineKM/antoine/releases/tag/eslint-config-antoine%401.0.14), 1 month ago) - cool tools to code like me.
