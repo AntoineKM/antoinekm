@@ -37,24 +37,24 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
+- [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot) -  (today)
 - [tonightpass/kitchn](https://github.com/tonightpass/kitchn) - @tonightpass delicious React @styled-components (currently under construction...) (today)
+- [AntoineKM/dixt](https://github.com/AntoineKM/dixt) - The Discord Framework (today)
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (4 days ago)
 - [AntoineKM/antoine](https://github.com/AntoineKM/antoine) - cool tools to code like me. (1 week ago)
 - [ArkeeAgency/ytg-ninja](https://github.com/ArkeeAgency/ytg-ninja) - The feature everyone want on YTG (2 weeks ago)
 - [AntoineKM/unity-paleto-bay-hospital-website](https://github.com/AntoineKM/unity-paleto-bay-hospital-website) - Website for Unity RP GTA V (2 weeks ago)
-- [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot) -  (3 weeks ago)
 - [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (3 weeks ago)
 - [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) - onRuntime official website. (4 weeks ago)
 - [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) - Script to get your site indexed on Google in less than 48 hours (1 month ago)
-- [charlottesaidi/rh-project](https://github.com/charlottesaidi/rh-project) -  (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [AntoineKM/dixt](https://github.com/AntoineKM/dixt) ([dixt-plugin-worktime@2.1.17](https://github.com/AntoineKM/dixt/releases/tag/dixt-plugin-worktime%402.1.17), today) - The Discord Framework
 - [tonightpass/kitchn](https://github.com/tonightpass/kitchn) ([kitchn@0.0.8](https://github.com/tonightpass/kitchn/releases/tag/kitchn%400.0.8), today) - @tonightpass delicious React @styled-components (currently under construction...)
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/react@0.0.25](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/react%400.0.25), 4 days ago) - @tonightpass sdk and tools.
 - [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) ([v0.0.5](https://github.com/goenning/google-indexing-script/releases/tag/v0.0.5), 1 month ago) - Script to get your site indexed on Google in less than 48 hours
 - [AntoineKM/antoine](https://github.com/AntoineKM/antoine) ([eslint-config-antoine@1.0.14](https://github.com/AntoineKM/antoine/releases/tag/eslint-config-antoine%401.0.14), 2 months ago) - cool tools to code like me.
-- [AntoineKM/dixt](https://github.com/AntoineKM/dixt) ([dixt-plugin-logs@2.1.16](https://github.com/AntoineKM/dixt/releases/tag/dixt-plugin-logs%402.1.16), 3 months ago) - The Discord Framework
 - [onRuntime/kartrak](https://github.com/onRuntime/kartrak) ([v0.0.9](https://github.com/onRuntime/kartrak/releases/tag/v0.0.9), 5 months ago) - Le suivi d&#39;activité tourné vers l&#39;écologie.
 
 #### 🔨 My recent Pull Requests
