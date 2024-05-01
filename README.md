@@ -50,7 +50,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔭 Latest releases I've contributed to
 
-- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/react@0.0.27](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/react%400.0.27), today) - @tonightpass sdk and tools.
+- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/react@0.0.28](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/react%400.0.28), today) - @tonightpass sdk and tools.
 - [AntoineKM/dixt](https://github.com/AntoineKM/dixt) ([dixt-plugin-worktime@2.1.17](https://github.com/AntoineKM/dixt/releases/tag/dixt-plugin-worktime%402.1.17), 2 days ago) - The Discord Framework
 - [tonightpass/kitchn](https://github.com/tonightpass/kitchn) ([kitchn@0.0.8](https://github.com/tonightpass/kitchn/releases/tag/kitchn%400.0.8), 2 days ago) - @tonightpass delicious React @styled-components (currently under construction...)
 - [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) ([v0.0.5](https://github.com/goenning/google-indexing-script/releases/tag/v0.0.5), 1 month ago) - Script to get your site indexed on Google in less than 48 hours
