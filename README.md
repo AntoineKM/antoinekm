@@ -59,6 +59,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
+- [fix: update scraping robot typo in README](https://github.com/towfiqi/serpbear/pull/212) on [towfiqi/serpbear](https://github.com/towfiqi/serpbear) (today)
 - [🎨 add organization event style types, dtos, endpoints and sdk](https://github.com/tonightpass/tonightpass/pull/281) on [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) (4 days ago)
 - [✨ add events](https://github.com/tonightpass/tonightpass/pull/272) on [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) (5 days ago)
 - [🏷️ add organization billing to organization](https://github.com/tonightpass/tonightpass/pull/261) on [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) (1 week ago)
@@ -68,7 +69,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [✨ add organizations sdk](https://github.com/tonightpass/tonightpass/pull/207) on [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) (1 month ago)
 - [Antoinekm/nest](https://github.com/tonightpass/tonightpass/pull/205) on [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) (1 month ago)
 - [📝 update readme symlink](https://github.com/tonightpass/kitchn/pull/474) on [tonightpass/kitchn](https://github.com/tonightpass/kitchn) (1 month ago)
-- [✨ add node sdk](https://github.com/tonightpass/tonightpass/pull/188) on [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) (1 month ago)
 
 #### ⭐ Recent Stars
 
