@@ -37,7 +37,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
-- [tonightpass/kitchn](https://github.com/tonightpass/kitchn) - @tonightpass delicious React @styled-components (currently under construction...) (1 day ago)
+- [tonightpass/kitchn](https://github.com/tonightpass/kitchn) - @tonightpass delicious React @styled-components (currently under construction...) (today)
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (3 days ago)
 - [AntoineKM/dixt](https://github.com/AntoineKM/dixt) - The Discord Framework (5 days ago)
 - [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot) -  (1 week ago)
