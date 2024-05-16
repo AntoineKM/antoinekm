@@ -37,6 +37,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
+- [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) - Script to get your site indexed on Google in less than 48 hours (today)
 - [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (3 days ago)
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (5 days ago)
 - [tonightpass/kitchn](https://github.com/tonightpass/kitchn) - @tonightpass delicious React @styled-components (currently under construction...) (6 days ago)
@@ -46,7 +47,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [ArkeeAgency/ytg-ninja](https://github.com/ArkeeAgency/ytg-ninja) - The feature everyone want on YTG (1 month ago)
 - [AntoineKM/unity-paleto-bay-hospital-website](https://github.com/AntoineKM/unity-paleto-bay-hospital-website) - Website for Unity RP GTA V (1 month ago)
 - [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) - onRuntime official website. (1 month ago)
-- [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) - Script to get your site indexed on Google in less than 48 hours (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -59,6 +59,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
+- [fix changes](https://github.com/goenning/google-indexing-script/pull/55) on [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) (today)
 - [fix: update scraping robot typo in README](https://github.com/towfiqi/serpbear/pull/212) on [towfiqi/serpbear](https://github.com/towfiqi/serpbear) (1 week ago)
 - [🎨 add organization event style types, dtos, endpoints and sdk](https://github.com/tonightpass/tonightpass/pull/281) on [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) (2 weeks ago)
 - [✨ add events](https://github.com/tonightpass/tonightpass/pull/272) on [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) (2 weeks ago)
@@ -68,7 +69,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [🏷️ fix organization types and dtos](https://github.com/tonightpass/tonightpass/pull/218) on [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) (1 month ago)
 - [✨ add organizations sdk](https://github.com/tonightpass/tonightpass/pull/207) on [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) (1 month ago)
 - [Antoinekm/nest](https://github.com/tonightpass/tonightpass/pull/205) on [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) (1 month ago)
-- [📝 update readme symlink](https://github.com/tonightpass/kitchn/pull/474) on [tonightpass/kitchn](https://github.com/tonightpass/kitchn) (1 month ago)
 
 #### ⭐ Recent Stars
 
