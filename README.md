@@ -37,9 +37,9 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
-- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (today)
-- [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) - Script to get your site indexed on Google in less than 48 hours (1 day ago)
-- [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (4 days ago)
+- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (1 day ago)
+- [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) - Script to get your site indexed on Google in less than 48 hours (2 days ago)
+- [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (5 days ago)
 - [tonightpass/kitchn](https://github.com/tonightpass/kitchn) - @tonightpass delicious React @styled-components (currently under construction...) (1 week ago)
 - [AntoineKM/dixt](https://github.com/AntoineKM/dixt) - The Discord Framework (2 weeks ago)
 - [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot) -  (2 weeks ago)
@@ -50,7 +50,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔭 Latest releases I've contributed to
 
-- [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) ([v0.1.0](https://github.com/goenning/google-indexing-script/releases/tag/v0.1.0), 1 day ago) - Script to get your site indexed on Google in less than 48 hours
+- [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) ([v0.1.0](https://github.com/goenning/google-indexing-script/releases/tag/v0.1.0), 2 days ago) - Script to get your site indexed on Google in less than 48 hours
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/react@0.0.41](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/react%400.0.41), 1 week ago) - @tonightpass sdk and tools.
 - [tonightpass/kitchn](https://github.com/tonightpass/kitchn) ([kitchn@0.1.0](https://github.com/tonightpass/kitchn/releases/tag/kitchn%400.1.0), 1 week ago) - @tonightpass delicious React @styled-components (currently under construction...)
 - [AntoineKM/dixt](https://github.com/AntoineKM/dixt) ([dixt-plugin-worktime@2.1.17](https://github.com/AntoineKM/dixt/releases/tag/dixt-plugin-worktime%402.1.17), 2 weeks ago) - The Discord Framework
@@ -59,7 +59,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
-- [fix changes](https://github.com/goenning/google-indexing-script/pull/55) on [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) (1 day ago)
+- [fix changes](https://github.com/goenning/google-indexing-script/pull/55) on [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) (2 days ago)
 - [fix: update scraping robot typo in README](https://github.com/towfiqi/serpbear/pull/212) on [towfiqi/serpbear](https://github.com/towfiqi/serpbear) (1 week ago)
 - [🎨 add organization event style types, dtos, endpoints and sdk](https://github.com/tonightpass/tonightpass/pull/281) on [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) (2 weeks ago)
 - [✨ add events](https://github.com/tonightpass/tonightpass/pull/272) on [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) (2 weeks ago)
