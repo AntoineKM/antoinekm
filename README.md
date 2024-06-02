@@ -37,9 +37,9 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
-- [tonightpass/kitchn](https://github.com/tonightpass/kitchn) - @tonightpass delicious React @styled-components (currently under construction...) (1 day ago)
-- [needforschool/azure-ak](https://github.com/needforschool/azure-ak) -  (5 days ago)
-- [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (5 days ago)
+- [tonightpass/kitchn](https://github.com/tonightpass/kitchn) - @tonightpass delicious React @styled-components (currently under construction...) (2 days ago)
+- [needforschool/azure-ak](https://github.com/needforschool/azure-ak) -  (6 days ago)
+- [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (6 days ago)
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (2 weeks ago)
 - [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) - Script to get your site indexed on Google in less than 48 hours (2 weeks ago)
 - [AntoineKM/dixt](https://github.com/AntoineKM/dixt) - The Discord Framework (1 month ago)
@@ -61,7 +61,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 - [✨ add combobox](https://github.com/tonightpass/kitchn/pull/530) on [tonightpass/kitchn](https://github.com/tonightpass/kitchn) (2 weeks ago)
 - [fix changes](https://github.com/goenning/google-indexing-script/pull/55) on [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) (2 weeks ago)
-- [fix: update scraping robot typo in README](https://github.com/towfiqi/serpbear/pull/212) on [towfiqi/serpbear](https://github.com/towfiqi/serpbear) (3 weeks ago)
+- [fix: update scraping robot typo in README](https://github.com/towfiqi/serpbear/pull/212) on [towfiqi/serpbear](https://github.com/towfiqi/serpbear) (4 weeks ago)
 - [🎨 add organization event style types, dtos, endpoints and sdk](https://github.com/tonightpass/tonightpass/pull/281) on [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) (1 month ago)
 - [✨ add events](https://github.com/tonightpass/tonightpass/pull/272) on [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) (1 month ago)
 - [🏷️ add organization billing to organization](https://github.com/tonightpass/tonightpass/pull/261) on [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) (1 month ago)
@@ -74,7 +74,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 - [vidstack/player](https://github.com/vidstack/player) - UI components and hooks for building video/audio players on the web. Robust, customizable, and accessible. Modern alternative to JW Player and Video.js. (1 week ago)
 - [suyalcinkaya/gauge](https://github.com/suyalcinkaya/gauge) - An aesthetic and customizable circular visual component for React. (3 weeks ago)
-- [tscircuit/tscircuit](https://github.com/tscircuit/tscircuit) - ⏣ React for Circuits (4 weeks ago)
+- [tscircuit/tscircuit](https://github.com/tscircuit/tscircuit) - ⏣ React for Circuits (1 month ago)
 - [mikro-orm/nestjs](https://github.com/mikro-orm/nestjs) - NestJS MikroORM integration (1 month ago)
 - [anatine/esbuildnx](https://github.com/anatine/esbuildnx) - Esbuild plugin for Nx (1 month ago)
 - [vercel/avatar](https://github.com/vercel/avatar) - 💎   Beautiful avatars as a microservice (1 month ago)
