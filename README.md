@@ -37,9 +37,9 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
-- [tonightpass/kitchn](https://github.com/tonightpass/kitchn) - @tonightpass delicious React @styled-components (currently under construction...) (2 days ago)
-- [needforschool/azure-ak](https://github.com/needforschool/azure-ak) -  (6 days ago)
-- [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (6 days ago)
+- [tonightpass/kitchn](https://github.com/tonightpass/kitchn) - @tonightpass delicious React @styled-components (currently under construction...) (3 days ago)
+- [needforschool/azure-ak](https://github.com/needforschool/azure-ak) -  (1 week ago)
+- [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (1 week ago)
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (2 weeks ago)
 - [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) - Script to get your site indexed on Google in less than 48 hours (2 weeks ago)
 - [AntoineKM/dixt](https://github.com/AntoineKM/dixt) - The Discord Framework (1 month ago)
@@ -78,7 +78,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [mikro-orm/nestjs](https://github.com/mikro-orm/nestjs) - NestJS MikroORM integration (1 month ago)
 - [anatine/esbuildnx](https://github.com/anatine/esbuildnx) - Esbuild plugin for Nx (1 month ago)
 - [vercel/avatar](https://github.com/vercel/avatar) - 💎   Beautiful avatars as a microservice (1 month ago)
-- [AntoineKM/unity-paleto-bay-hospital-website](https://github.com/AntoineKM/unity-paleto-bay-hospital-website) - Website for Unity RP GTA V (1 month ago)
+- [AntoineKM/unity-paleto-bay-hospital-website](https://github.com/AntoineKM/unity-paleto-bay-hospital-website) - Website for Unity RP GTA V (2 months ago)
 - [edwardpayton/github95](https://github.com/edwardpayton/github95) - Your Github 🐙 profile. With a Windows 95 🖥️ style. Built with React 🚀 (2 months ago)
 - [towfiqi/serpbear](https://github.com/towfiqi/serpbear) - Search Engine Position Rank Tracking App (2 months ago)
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics. (2 months ago)
