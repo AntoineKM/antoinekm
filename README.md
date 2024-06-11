@@ -72,6 +72,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
+- [superfaceai/passport-twitter-oauth2](https://github.com/superfaceai/passport-twitter-oauth2) - Twitter OAuth 2.0 Strategy for Passport for accessing Twitter API v2 (today)
 - [apilylabs/ophiuchi-desktop](https://github.com/apilylabs/ophiuchi-desktop) - A local https proxy server using docker as backend (1 day ago)
 - [rauchg/wingpt](https://github.com/rauchg/wingpt) - An AI chatbot in Win95 style (1 week ago)
 - [vidstack/player](https://github.com/vidstack/player) - UI components and hooks for building video/audio players on the web. Robust, customizable, and accessible. Modern alternative to JW Player and Video.js. (2 weeks ago)
@@ -81,7 +82,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [anatine/esbuildnx](https://github.com/anatine/esbuildnx) - Esbuild plugin for Nx (2 months ago)
 - [vercel/avatar](https://github.com/vercel/avatar) - 💎   Beautiful avatars as a microservice (2 months ago)
 - [AntoineKM/unity-paleto-bay-hospital-website](https://github.com/AntoineKM/unity-paleto-bay-hospital-website) - Website for Unity RP GTA V (2 months ago)
-- [edwardpayton/github95](https://github.com/edwardpayton/github95) - Your Github 🐙 profile. With a Windows 95 🖥️ style. Built with React 🚀 (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
