@@ -37,10 +37,10 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
+- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (today)
 - [tonightpass/kitchn](https://github.com/tonightpass/kitchn) - @tonightpass delicious React @styled-components (currently under construction...) (1 week ago)
 - [needforschool/azure-ak](https://github.com/needforschool/azure-ak) -  (2 weeks ago)
 - [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (2 weeks ago)
-- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (3 weeks ago)
 - [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) - Script to get your site indexed on Google in less than 48 hours (3 weeks ago)
 - [AntoineKM/dixt](https://github.com/AntoineKM/dixt) - The Discord Framework (1 month ago)
 - [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot) -  (1 month ago)
@@ -50,9 +50,9 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔭 Latest releases I've contributed to
 
+- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([tonightpass@0.0.41](https://github.com/tonightpass/tonightpass/releases/tag/tonightpass%400.0.41), 1 day ago) - @tonightpass sdk and tools.
 - [tonightpass/kitchn](https://github.com/tonightpass/kitchn) ([kitchn@0.2.2](https://github.com/tonightpass/kitchn/releases/tag/kitchn%400.2.2), 3 weeks ago) - @tonightpass delicious React @styled-components (currently under construction...)
 - [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) ([v0.1.0](https://github.com/goenning/google-indexing-script/releases/tag/v0.1.0), 3 weeks ago) - Script to get your site indexed on Google in less than 48 hours
-- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/react@0.0.41](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/react%400.0.41), 1 month ago) - @tonightpass sdk and tools.
 - [AntoineKM/dixt](https://github.com/AntoineKM/dixt) ([dixt-plugin-worktime@2.1.17](https://github.com/AntoineKM/dixt/releases/tag/dixt-plugin-worktime%402.1.17), 1 month ago) - The Discord Framework
 - [AntoineKM/antoine](https://github.com/AntoineKM/antoine) ([eslint-config-antoine@1.0.14](https://github.com/AntoineKM/antoine/releases/tag/eslint-config-antoine%401.0.14), 3 months ago) - cool tools to code like me.
 - [onRuntime/kartrak](https://github.com/onRuntime/kartrak) ([v0.0.9](https://github.com/onRuntime/kartrak/releases/tag/v0.0.9), 6 months ago) - Le suivi d&#39;activité tourné vers l&#39;écologie.
@@ -72,10 +72,10 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
-- [superfaceai/passport-twitter-oauth2](https://github.com/superfaceai/passport-twitter-oauth2) - Twitter OAuth 2.0 Strategy for Passport for accessing Twitter API v2 (today)
-- [apilylabs/ophiuchi-desktop](https://github.com/apilylabs/ophiuchi-desktop) - A local https proxy server using docker as backend (1 day ago)
+- [superfaceai/passport-twitter-oauth2](https://github.com/superfaceai/passport-twitter-oauth2) - Twitter OAuth 2.0 Strategy for Passport for accessing Twitter API v2 (1 day ago)
+- [apilylabs/ophiuchi-desktop](https://github.com/apilylabs/ophiuchi-desktop) - A local https proxy server using docker as backend (2 days ago)
 - [rauchg/wingpt](https://github.com/rauchg/wingpt) - An AI chatbot in Win95 style (1 week ago)
-- [vidstack/player](https://github.com/vidstack/player) - UI components and hooks for building video/audio players on the web. Robust, customizable, and accessible. Modern alternative to JW Player and Video.js. (2 weeks ago)
+- [vidstack/player](https://github.com/vidstack/player) - UI components and hooks for building video/audio players on the web. Robust, customizable, and accessible. Modern alternative to JW Player and Video.js. (3 weeks ago)
 - [suyalcinkaya/gauge](https://github.com/suyalcinkaya/gauge) - An aesthetic and customizable circular visual component for React. (1 month ago)
 - [tscircuit/tscircuit](https://github.com/tscircuit/tscircuit) - ⏣ React for Circuits (1 month ago)
 - [mikro-orm/nestjs](https://github.com/mikro-orm/nestjs) - NestJS MikroORM integration (2 months ago)
