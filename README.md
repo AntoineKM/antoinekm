@@ -72,6 +72,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
+- [jeasonstudio/chrome-ai](https://github.com/jeasonstudio/chrome-ai) - Vercel AI provider for Chrome built-in model (Gemini Nano) (today)
 - [saltyshiomix/nextron](https://github.com/saltyshiomix/nextron) - ⚡ Next.js &#43; Electron ⚡ (1 day ago)
 - [harlan-zw/request-indexing](https://github.com/harlan-zw/request-indexing) - Find your missing on pages Google and request them to be indexed using the Web Search Indexing API. (6 days ago)
 - [superfaceai/passport-twitter-oauth2](https://github.com/superfaceai/passport-twitter-oauth2) - Twitter OAuth 2.0 Strategy for Passport for accessing Twitter API v2 (1 week ago)
@@ -81,7 +82,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [suyalcinkaya/gauge](https://github.com/suyalcinkaya/gauge) - An aesthetic and customizable circular visual component for React. (1 month ago)
 - [tscircuit/tscircuit](https://github.com/tscircuit/tscircuit) - ⏣ React for Circuits (1 month ago)
 - [mikro-orm/nestjs](https://github.com/mikro-orm/nestjs) - NestJS MikroORM integration (2 months ago)
-- [anatine/esbuildnx](https://github.com/anatine/esbuildnx) - Esbuild plugin for Nx (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
