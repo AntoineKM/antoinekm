@@ -38,21 +38,21 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 #### 👷 Check out what I'm currently working on
 
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (today)
-- [tonightpass/kitchn](https://github.com/tonightpass/kitchn) - @tonightpass delicious React @styled-components (currently under construction...) (today)
-- [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (4 days ago)
+- [tonightpass/kitchn](https://github.com/tonightpass/kitchn) - @tonightpass delicious React @styled-components (currently under construction...) (1 day ago)
+- [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (5 days ago)
 - [needforschool/azure-ak](https://github.com/needforschool/azure-ak) -  (3 weeks ago)
 - [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) - Script to get your site indexed on Google in less than 48 hours (1 month ago)
 - [AntoineKM/dixt](https://github.com/AntoineKM/dixt) - The Discord Framework (1 month ago)
 - [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot) -  (1 month ago)
-- [AntoineKM/antoine](https://github.com/AntoineKM/antoine) - cool tools to code like me. (1 month ago)
+- [AntoineKM/antoine](https://github.com/AntoineKM/antoine) - cool tools to code like me. (2 months ago)
 - [ArkeeAgency/ytg-ninja](https://github.com/ArkeeAgency/ytg-ninja) - The feature everyone want on YTG (2 months ago)
 - [AntoineKM/unity-paleto-bay-hospital-website](https://github.com/AntoineKM/unity-paleto-bay-hospital-website) - Website for Unity RP GTA V (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/react@0.0.44](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/react%400.0.44), today) - @tonightpass sdk and tools.
-- [tonightpass/kitchn](https://github.com/tonightpass/kitchn) ([kitchn@0.2.4](https://github.com/tonightpass/kitchn/releases/tag/kitchn%400.2.4), today) - @tonightpass delicious React @styled-components (currently under construction...)
-- [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) ([v0.2.0](https://github.com/goenning/google-indexing-script/releases/tag/v0.2.0), today) - Script to get your site indexed on Google in less than 48 hours
+- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/react@0.0.44](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/react%400.0.44), 1 day ago) - @tonightpass sdk and tools.
+- [tonightpass/kitchn](https://github.com/tonightpass/kitchn) ([kitchn@0.2.4](https://github.com/tonightpass/kitchn/releases/tag/kitchn%400.2.4), 1 day ago) - @tonightpass delicious React @styled-components (currently under construction...)
+- [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) ([v0.2.0](https://github.com/goenning/google-indexing-script/releases/tag/v0.2.0), 1 day ago) - Script to get your site indexed on Google in less than 48 hours
 - [AntoineKM/dixt](https://github.com/AntoineKM/dixt) ([dixt-plugin-worktime@2.1.17](https://github.com/AntoineKM/dixt/releases/tag/dixt-plugin-worktime%402.1.17), 1 month ago) - The Discord Framework
 - [AntoineKM/antoine](https://github.com/AntoineKM/antoine) ([eslint-config-antoine@1.0.14](https://github.com/AntoineKM/antoine/releases/tag/eslint-config-antoine%401.0.14), 3 months ago) - cool tools to code like me.
 - [onRuntime/kartrak](https://github.com/onRuntime/kartrak) ([v0.0.9](https://github.com/onRuntime/kartrak/releases/tag/v0.0.9), 6 months ago) - Le suivi d&#39;activité tourné vers l&#39;écologie.
@@ -72,13 +72,13 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
-- [jeasonstudio/chrome-ai](https://github.com/jeasonstudio/chrome-ai) - Vercel AI provider for Chrome built-in model (Gemini Nano) (2 days ago)
-- [saltyshiomix/nextron](https://github.com/saltyshiomix/nextron) - ⚡ Next.js &#43; Electron ⚡ (3 days ago)
+- [jeasonstudio/chrome-ai](https://github.com/jeasonstudio/chrome-ai) - Vercel AI provider for Chrome built-in model (Gemini Nano) (3 days ago)
+- [saltyshiomix/nextron](https://github.com/saltyshiomix/nextron) - ⚡ Next.js &#43; Electron ⚡ (4 days ago)
 - [harlan-zw/request-indexing](https://github.com/harlan-zw/request-indexing) - Find your missing on pages Google and request them to be indexed using the Web Search Indexing API. (1 week ago)
 - [superfaceai/passport-twitter-oauth2](https://github.com/superfaceai/passport-twitter-oauth2) - Twitter OAuth 2.0 Strategy for Passport for accessing Twitter API v2 (1 week ago)
 - [apilylabs/ophiuchi-desktop](https://github.com/apilylabs/ophiuchi-desktop) - A local https proxy server using docker as backend (1 week ago)
 - [rauchg/wingpt](https://github.com/rauchg/wingpt) - An AI chatbot in Win95 style (2 weeks ago)
-- [vidstack/player](https://github.com/vidstack/player) - UI components and hooks for building video/audio players on the web. Robust, customizable, and accessible. Modern alternative to JW Player and Video.js. (4 weeks ago)
+- [vidstack/player](https://github.com/vidstack/player) - UI components and hooks for building video/audio players on the web. Robust, customizable, and accessible. Modern alternative to JW Player and Video.js. (1 month ago)
 - [suyalcinkaya/gauge](https://github.com/suyalcinkaya/gauge) - An aesthetic and customizable circular visual component for React. (1 month ago)
 - [tscircuit/tscircuit](https://github.com/tscircuit/tscircuit) - ⏣ React for Circuits (1 month ago)
 - [mikro-orm/nestjs](https://github.com/mikro-orm/nestjs) - NestJS MikroORM integration (2 months ago)
