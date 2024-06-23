@@ -37,9 +37,9 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
-- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (1 day ago)
-- [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (1 day ago)
-- [tonightpass/kitchn](https://github.com/tonightpass/kitchn) - @tonightpass delicious React @styled-components (currently under construction...) (2 days ago)
+- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (2 days ago)
+- [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (2 days ago)
+- [tonightpass/kitchn](https://github.com/tonightpass/kitchn) - @tonightpass delicious React @styled-components (currently under construction...) (3 days ago)
 - [needforschool/azure-ak](https://github.com/needforschool/azure-ak) -  (3 weeks ago)
 - [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) - Script to get your site indexed on Google in less than 48 hours (1 month ago)
 - [AntoineKM/dixt](https://github.com/AntoineKM/dixt) - The Discord Framework (1 month ago)
@@ -50,9 +50,9 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔭 Latest releases I've contributed to
 
-- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/react@0.0.44](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/react%400.0.44), 2 days ago) - @tonightpass sdk and tools.
-- [tonightpass/kitchn](https://github.com/tonightpass/kitchn) ([kitchn@0.2.4](https://github.com/tonightpass/kitchn/releases/tag/kitchn%400.2.4), 2 days ago) - @tonightpass delicious React @styled-components (currently under construction...)
-- [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) ([v0.2.0](https://github.com/goenning/google-indexing-script/releases/tag/v0.2.0), 2 days ago) - Script to get your site indexed on Google in less than 48 hours
+- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/react@0.0.44](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/react%400.0.44), 3 days ago) - @tonightpass sdk and tools.
+- [tonightpass/kitchn](https://github.com/tonightpass/kitchn) ([kitchn@0.2.4](https://github.com/tonightpass/kitchn/releases/tag/kitchn%400.2.4), 3 days ago) - @tonightpass delicious React @styled-components (currently under construction...)
+- [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) ([v0.2.0](https://github.com/goenning/google-indexing-script/releases/tag/v0.2.0), 3 days ago) - Script to get your site indexed on Google in less than 48 hours
 - [AntoineKM/dixt](https://github.com/AntoineKM/dixt) ([dixt-plugin-worktime@2.1.17](https://github.com/AntoineKM/dixt/releases/tag/dixt-plugin-worktime%402.1.17), 1 month ago) - The Discord Framework
 - [AntoineKM/antoine](https://github.com/AntoineKM/antoine) ([eslint-config-antoine@1.0.14](https://github.com/AntoineKM/antoine/releases/tag/eslint-config-antoine%401.0.14), 3 months ago) - cool tools to code like me.
 - [onRuntime/kartrak](https://github.com/onRuntime/kartrak) ([v0.0.9](https://github.com/onRuntime/kartrak/releases/tag/v0.0.9), 6 months ago) - Le suivi d&#39;activité tourné vers l&#39;écologie.
@@ -64,7 +64,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [fix: update scraping robot typo in README](https://github.com/towfiqi/serpbear/pull/212) on [towfiqi/serpbear](https://github.com/towfiqi/serpbear) (1 month ago)
 - [🎨 add organization event style types, dtos, endpoints and sdk](https://github.com/tonightpass/tonightpass/pull/281) on [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) (1 month ago)
 - [✨ add events](https://github.com/tonightpass/tonightpass/pull/272) on [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) (1 month ago)
-- [🏷️ add organization billing to organization](https://github.com/tonightpass/tonightpass/pull/261) on [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) (1 month ago)
+- [🏷️ add organization billing to organization](https://github.com/tonightpass/tonightpass/pull/261) on [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) (2 months ago)
 - [🎨 improve organization members structure for invites](https://github.com/tonightpass/tonightpass/pull/248) on [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) (2 months ago)
 - [✨ add organization members sdk](https://github.com/tonightpass/tonightpass/pull/232) on [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) (2 months ago)
 - [🏷️ fix organization types and dtos](https://github.com/tonightpass/tonightpass/pull/218) on [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) (2 months ago)
@@ -72,8 +72,8 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
-- [jeasonstudio/chrome-ai](https://github.com/jeasonstudio/chrome-ai) - Vercel AI provider for Chrome built-in model (Gemini Nano) (4 days ago)
-- [saltyshiomix/nextron](https://github.com/saltyshiomix/nextron) - ⚡ Next.js &#43; Electron ⚡ (5 days ago)
+- [jeasonstudio/chrome-ai](https://github.com/jeasonstudio/chrome-ai) - Vercel AI provider for Chrome built-in model (Gemini Nano) (5 days ago)
+- [saltyshiomix/nextron](https://github.com/saltyshiomix/nextron) - ⚡ Next.js &#43; Electron ⚡ (6 days ago)
 - [harlan-zw/request-indexing](https://github.com/harlan-zw/request-indexing) - Find your missing on pages Google and request them to be indexed using the Web Search Indexing API. (1 week ago)
 - [superfaceai/passport-twitter-oauth2](https://github.com/superfaceai/passport-twitter-oauth2) - Twitter OAuth 2.0 Strategy for Passport for accessing Twitter API v2 (1 week ago)
 - [apilylabs/ophiuchi-desktop](https://github.com/apilylabs/ophiuchi-desktop) - A local https proxy server using docker as backend (1 week ago)
