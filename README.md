@@ -38,6 +38,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 #### 👷 Check out what I'm currently working on
 
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (today)
+- [alii/pathcat](https://github.com/alii/pathcat) - Simply path/URL building in JavaScript (today)
 - [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (6 days ago)
 - [tonightpass/kitchn](https://github.com/tonightpass/kitchn) - @tonightpass delicious React @styled-components (currently under construction...) (1 week ago)
 - [needforschool/azure-ak](https://github.com/needforschool/azure-ak) -  (1 month ago)
@@ -46,7 +47,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot) -  (1 month ago)
 - [AntoineKM/antoine](https://github.com/AntoineKM/antoine) - cool tools to code like me. (2 months ago)
 - [ArkeeAgency/ytg-ninja](https://github.com/ArkeeAgency/ytg-ninja) - The feature everyone want on YTG (2 months ago)
-- [AntoineKM/unity-paleto-bay-hospital-website](https://github.com/AntoineKM/unity-paleto-bay-hospital-website) - Website for Unity RP GTA V (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
