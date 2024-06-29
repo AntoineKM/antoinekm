@@ -59,6 +59,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
+- [Antoinekm/force reindex](https://github.com/goenning/google-indexing-script/pull/65) on [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) (today)
 - [feat: add array support for query value (#1)](https://github.com/alii/pathcat/pull/2) on [alii/pathcat](https://github.com/alii/pathcat) (2 days ago)
 - [✨ add combobox](https://github.com/tonightpass/kitchn/pull/530) on [tonightpass/kitchn](https://github.com/tonightpass/kitchn) (1 month ago)
 - [fix changes](https://github.com/goenning/google-indexing-script/pull/55) on [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) (1 month ago)
@@ -68,7 +69,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [🏷️ add organization billing to organization](https://github.com/tonightpass/tonightpass/pull/261) on [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) (2 months ago)
 - [🎨 improve organization members structure for invites](https://github.com/tonightpass/tonightpass/pull/248) on [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) (2 months ago)
 - [✨ add organization members sdk](https://github.com/tonightpass/tonightpass/pull/232) on [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) (2 months ago)
-- [🏷️ fix organization types and dtos](https://github.com/tonightpass/tonightpass/pull/218) on [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) (2 months ago)
 
 #### ⭐ Recent Stars
 
