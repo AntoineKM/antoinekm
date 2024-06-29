@@ -72,6 +72,8 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
+- [maxmindlin/rabbitui](https://github.com/maxmindlin/rabbitui) - Terminal-UI for the RabbitMQ management API (today)
+- [arthuRHD/sims4-mod-python-template](https://github.com/arthuRHD/sims4-mod-python-template) - A template repo for Sims 4 mod creation (today)
 - [Johjoh-6/api_sport_manager](https://github.com/Johjoh-6/api_sport_manager) - api for associatif team manager (today)
 - [Johjoh-6/team_manager](https://github.com/Johjoh-6/team_manager) - front for team manager project (today)
 - [hhhallan/qualissee](https://github.com/hhhallan/qualissee) -  (today)
@@ -80,8 +82,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [aurelilys/connect4](https://github.com/aurelilys/connect4) - Just another Connect4 🙄 (today)
 - [alii/sockittt](https://github.com/alii/sockittt) - pretty good websocket client for the browser &amp; other `WebSocket` compatible runtimes (1 day ago)
 - [alii/tswss](https://github.com/alii/tswss) - TypeScript friendly WebSocket server with a built-in heartbeat (1 day ago)
-- [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager (2 days ago)
-- [jeasonstudio/chrome-ai](https://github.com/jeasonstudio/chrome-ai) - Vercel AI provider for Chrome built-in model (Gemini Nano) (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
