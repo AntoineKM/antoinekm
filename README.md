@@ -72,16 +72,16 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
+- [Johjoh-6/api_sport_manager](https://github.com/Johjoh-6/api_sport_manager) - api for associatif team manager (today)
+- [Johjoh-6/team_manager](https://github.com/Johjoh-6/team_manager) - front for team manager project (today)
+- [hhhallan/qualissee](https://github.com/hhhallan/qualissee) -  (today)
+- [hhhallan/next14-hhhallan](https://github.com/hhhallan/next14-hhhallan) -  (today)
+- [hhhallan/allbeer](https://github.com/hhhallan/allbeer) -  (today)
 - [aurelilys/connect4](https://github.com/aurelilys/connect4) - Just another Connect4 🙄 (today)
 - [alii/sockittt](https://github.com/alii/sockittt) - pretty good websocket client for the browser &amp; other `WebSocket` compatible runtimes (1 day ago)
 - [alii/tswss](https://github.com/alii/tswss) - TypeScript friendly WebSocket server with a built-in heartbeat (1 day ago)
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager (2 days ago)
 - [jeasonstudio/chrome-ai](https://github.com/jeasonstudio/chrome-ai) - Vercel AI provider for Chrome built-in model (Gemini Nano) (1 week ago)
-- [saltyshiomix/nextron](https://github.com/saltyshiomix/nextron) - ⚡ Next.js &#43; Electron ⚡ (1 week ago)
-- [harlan-zw/request-indexing](https://github.com/harlan-zw/request-indexing) - Find your missing on pages Google and request them to be indexed using the Web Search Indexing API. (2 weeks ago)
-- [superfaceai/passport-twitter-oauth2](https://github.com/superfaceai/passport-twitter-oauth2) - Twitter OAuth 2.0 Strategy for Passport for accessing Twitter API v2 (2 weeks ago)
-- [apilylabs/ophiuchi-desktop](https://github.com/apilylabs/ophiuchi-desktop) - A local https proxy server using docker as backend (2 weeks ago)
-- [rauchg/wingpt](https://github.com/rauchg/wingpt) - An AI chatbot in Win95 style (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
