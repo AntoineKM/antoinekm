@@ -72,6 +72,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
+- [aurelilys/connect4](https://github.com/aurelilys/connect4) - Just another Connect4 🙄 (today)
 - [alii/sockittt](https://github.com/alii/sockittt) - pretty good websocket client for the browser &amp; other `WebSocket` compatible runtimes (1 day ago)
 - [alii/tswss](https://github.com/alii/tswss) - TypeScript friendly WebSocket server with a built-in heartbeat (1 day ago)
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager (2 days ago)
@@ -81,7 +82,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [superfaceai/passport-twitter-oauth2](https://github.com/superfaceai/passport-twitter-oauth2) - Twitter OAuth 2.0 Strategy for Passport for accessing Twitter API v2 (2 weeks ago)
 - [apilylabs/ophiuchi-desktop](https://github.com/apilylabs/ophiuchi-desktop) - A local https proxy server using docker as backend (2 weeks ago)
 - [rauchg/wingpt](https://github.com/rauchg/wingpt) - An AI chatbot in Win95 style (3 weeks ago)
-- [vidstack/player](https://github.com/vidstack/player) - UI components and hooks for building video/audio players on the web. Robust, customizable, and accessible. Modern alternative to JW Player and Video.js. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
