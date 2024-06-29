@@ -37,9 +37,9 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
+- [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (today)
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (1 day ago)
 - [alii/pathcat](https://github.com/alii/pathcat) - Simply path/URL building in JavaScript (2 days ago)
-- [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (1 week ago)
 - [tonightpass/kitchn](https://github.com/tonightpass/kitchn) - @tonightpass delicious React @styled-components (currently under construction...) (1 week ago)
 - [needforschool/azure-ak](https://github.com/needforschool/azure-ak) -  (1 month ago)
 - [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) - Script to get your site indexed on Google in less than 48 hours (1 month ago)
@@ -59,7 +59,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
-- [Antoinekm/force reindex](https://github.com/goenning/google-indexing-script/pull/65) on [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) (today)
+- [add custom urls option](https://github.com/goenning/google-indexing-script/pull/65) on [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) (today)
 - [feat: add array support for query value (#1)](https://github.com/alii/pathcat/pull/2) on [alii/pathcat](https://github.com/alii/pathcat) (2 days ago)
 - [✨ add combobox](https://github.com/tonightpass/kitchn/pull/530) on [tonightpass/kitchn](https://github.com/tonightpass/kitchn) (1 month ago)
 - [fix changes](https://github.com/goenning/google-indexing-script/pull/55) on [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) (1 month ago)
