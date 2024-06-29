@@ -59,6 +59,8 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
+- [Fix turbo and pnpm workspaces](https://github.com/qotum/qotum/pull/3) on [qotum/qotum](https://github.com/qotum/qotum) (today)
+- [🎨 improve draw to ensures that all cells have an equal chance of catching fire](https://github.com/YounesBessa/forest-fire-simulator/pull/2) on [YounesBessa/forest-fire-simulator](https://github.com/YounesBessa/forest-fire-simulator) (today)
 - [add ability to restart](https://github.com/aurelilys/connect4/pull/3) on [aurelilys/connect4](https://github.com/aurelilys/connect4) (today)
 - [add custom urls option](https://github.com/goenning/google-indexing-script/pull/65) on [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) (today)
 - [feat: add array support for query value (#1)](https://github.com/alii/pathcat/pull/2) on [alii/pathcat](https://github.com/alii/pathcat) (2 days ago)
@@ -67,8 +69,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [fix: update scraping robot typo in README](https://github.com/towfiqi/serpbear/pull/212) on [towfiqi/serpbear](https://github.com/towfiqi/serpbear) (1 month ago)
 - [🎨 add organization event style types, dtos, endpoints and sdk](https://github.com/tonightpass/tonightpass/pull/281) on [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) (1 month ago)
 - [✨ add events](https://github.com/tonightpass/tonightpass/pull/272) on [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) (2 months ago)
-- [🏷️ add organization billing to organization](https://github.com/tonightpass/tonightpass/pull/261) on [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) (2 months ago)
-- [🎨 improve organization members structure for invites](https://github.com/tonightpass/tonightpass/pull/248) on [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) (2 months ago)
 
 #### ⭐ Recent Stars
 
