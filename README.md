@@ -73,6 +73,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
+- [qonto/ember-amount-input](https://github.com/qonto/ember-amount-input) - An Ember.js component to input money amount. (today)
 - [arthuRHD/immosheets](https://github.com/arthuRHD/immosheets) - Tired of searching with your mouse ? Let&#39;s automate the process. 🚀 (1 day ago)
 - [maxmindlin/rabbitui](https://github.com/maxmindlin/rabbitui) - Terminal-UI for the RabbitMQ management API (1 day ago)
 - [arthuRHD/sims4-mod-python-template](https://github.com/arthuRHD/sims4-mod-python-template) - A template repo for Sims 4 mod creation (1 day ago)
@@ -82,7 +83,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [hhhallan/next14-hhhallan](https://github.com/hhhallan/next14-hhhallan) -  (1 day ago)
 - [hhhallan/allbeer](https://github.com/hhhallan/allbeer) -  (1 day ago)
 - [aurelilys/connect4](https://github.com/aurelilys/connect4) - Just another Connect4 🙄 (1 day ago)
-- [alii/sockittt](https://github.com/alii/sockittt) - pretty good websocket client for the browser &amp; other `WebSocket` compatible runtimes (2 days ago)
 
 #### 👯 Check out some of my recent followers
 
