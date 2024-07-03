@@ -73,6 +73,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
+- [birkir/obdii](https://github.com/birkir/obdii) - OBD2 in TypeScript (today)
 - [qonto/ember-amount-input](https://github.com/qonto/ember-amount-input) - An Ember.js component to input money amount. (3 days ago)
 - [arthuRHD/immosheets](https://github.com/arthuRHD/immosheets) - Tired of searching with your mouse ? Let&#39;s automate the process. 🚀 (4 days ago)
 - [maxmindlin/rabbitui](https://github.com/maxmindlin/rabbitui) - Terminal-UI for the RabbitMQ management API (4 days ago)
@@ -82,7 +83,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [hhhallan/qualissee](https://github.com/hhhallan/qualissee) -  (4 days ago)
 - [hhhallan/next14-hhhallan](https://github.com/hhhallan/next14-hhhallan) -  (4 days ago)
 - [hhhallan/allbeer](https://github.com/hhhallan/allbeer) -  (4 days ago)
-- [aurelilys/connect4](https://github.com/aurelilys/connect4) - Just another Connect4 🙄 (4 days ago)
 
 #### 👯 Check out some of my recent followers
 
