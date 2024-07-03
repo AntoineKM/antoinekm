@@ -73,6 +73,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
+- [rivet-gg/rivet](https://github.com/rivet-gg/rivet) - 🔩 Open-source solution to deploy, scale, and operate your multiplayer game (today)
 - [terkelg/prompts](https://github.com/terkelg/prompts) - ❯ Lightweight, beautiful and user-friendly interactive prompts (today)
 - [birkir/obdii](https://github.com/birkir/obdii) - OBD2 in TypeScript (today)
 - [qonto/ember-amount-input](https://github.com/qonto/ember-amount-input) - An Ember.js component to input money amount. (3 days ago)
@@ -82,7 +83,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [Johjoh-6/api_sport_manager](https://github.com/Johjoh-6/api_sport_manager) - api for associatif team manager (4 days ago)
 - [Johjoh-6/team_manager](https://github.com/Johjoh-6/team_manager) - front for team manager project (4 days ago)
 - [hhhallan/qualissee](https://github.com/hhhallan/qualissee) -  (4 days ago)
-- [hhhallan/next14-hhhallan](https://github.com/hhhallan/next14-hhhallan) -  (4 days ago)
 
 #### 👯 Check out some of my recent followers
 
