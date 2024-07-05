@@ -73,6 +73,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
+- [pinojs/pino-pretty](https://github.com/pinojs/pino-pretty) - 🌲Basic prettifier for Pino log lines (today)
 - [rivet-gg/rivet](https://github.com/rivet-gg/rivet) - 🔩 Open-source solution to deploy, scale, and operate your multiplayer game (2 days ago)
 - [terkelg/prompts](https://github.com/terkelg/prompts) - ❯ Lightweight, beautiful and user-friendly interactive prompts (2 days ago)
 - [birkir/obdii](https://github.com/birkir/obdii) - OBD2 in TypeScript (2 days ago)
@@ -82,7 +83,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [arthuRHD/sims4-mod-python-template](https://github.com/arthuRHD/sims4-mod-python-template) - A template repo for Sims 4 mod creation (6 days ago)
 - [Johjoh-6/api_sport_manager](https://github.com/Johjoh-6/api_sport_manager) - api for associatif team manager (6 days ago)
 - [Johjoh-6/team_manager](https://github.com/Johjoh-6/team_manager) - front for team manager project (6 days ago)
-- [hhhallan/qualissee](https://github.com/hhhallan/qualissee) -  (6 days ago)
 
 #### 👯 Check out some of my recent followers
 
