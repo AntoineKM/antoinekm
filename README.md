@@ -37,11 +37,11 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
-- [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) - Script to get your site indexed on Google in less than 48 hours (2 days ago)
-- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (3 days ago)
-- [qotum/qotum](https://github.com/qotum/qotum) - @qotum&#39;s usefull tools 🧰 (5 days ago)
-- [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (5 days ago)
-- [aurelilys/connect4](https://github.com/aurelilys/connect4) - Just another Connect4 🙄 (5 days ago)
+- [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) - Script to get your site indexed on Google in less than 48 hours (3 days ago)
+- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (4 days ago)
+- [qotum/qotum](https://github.com/qotum/qotum) - @qotum&#39;s usefull tools 🧰 (6 days ago)
+- [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (6 days ago)
+- [aurelilys/connect4](https://github.com/aurelilys/connect4) - Just another Connect4 🙄 (6 days ago)
 - [alii/pathcat](https://github.com/alii/pathcat) - Simply path/URL building in JavaScript (1 week ago)
 - [tonightpass/kitchn](https://github.com/tonightpass/kitchn) - @tonightpass delicious React @styled-components (currently under construction...) (2 weeks ago)
 - [needforschool/azure-ak](https://github.com/needforschool/azure-ak) -  (1 month ago)
@@ -50,8 +50,8 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔭 Latest releases I've contributed to
 
-- [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) ([v0.3.0](https://github.com/goenning/google-indexing-script/releases/tag/v0.3.0), 2 days ago) - Script to get your site indexed on Google in less than 48 hours
-- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/react@0.0.49](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/react%400.0.49), 3 days ago) - @tonightpass sdk and tools.
+- [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) ([v0.3.0](https://github.com/goenning/google-indexing-script/releases/tag/v0.3.0), 3 days ago) - Script to get your site indexed on Google in less than 48 hours
+- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/react@0.0.49](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/react%400.0.49), 4 days ago) - @tonightpass sdk and tools.
 - [tonightpass/kitchn](https://github.com/tonightpass/kitchn) ([kitchn@0.2.4](https://github.com/tonightpass/kitchn/releases/tag/kitchn%400.2.4), 2 weeks ago) - @tonightpass delicious React @styled-components (currently under construction...)
 - [AntoineKM/dixt](https://github.com/AntoineKM/dixt) ([dixt-plugin-worktime@2.1.17](https://github.com/AntoineKM/dixt/releases/tag/dixt-plugin-worktime%402.1.17), 2 months ago) - The Discord Framework
 - [towfiqi/serpbear](https://github.com/towfiqi/serpbear) ([v2.0.2](https://github.com/towfiqi/serpbear/releases/tag/v2.0.2), 3 months ago) - Search Engine Position Rank Tracking App
@@ -60,10 +60,10 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
-- [Fix turbo and pnpm workspaces](https://github.com/qotum/qotum/pull/3) on [qotum/qotum](https://github.com/qotum/qotum) (5 days ago)
-- [🎨 improve draw to ensures that all cells have an equal chance of catching fire](https://github.com/YounesBessa/forest-fire-simulator/pull/2) on [YounesBessa/forest-fire-simulator](https://github.com/YounesBessa/forest-fire-simulator) (5 days ago)
-- [add ability to restart](https://github.com/aurelilys/connect4/pull/3) on [aurelilys/connect4](https://github.com/aurelilys/connect4) (5 days ago)
-- [add custom urls option](https://github.com/goenning/google-indexing-script/pull/65) on [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) (5 days ago)
+- [Fix turbo and pnpm workspaces](https://github.com/qotum/qotum/pull/3) on [qotum/qotum](https://github.com/qotum/qotum) (6 days ago)
+- [🎨 improve draw to ensures that all cells have an equal chance of catching fire](https://github.com/YounesBessa/forest-fire-simulator/pull/2) on [YounesBessa/forest-fire-simulator](https://github.com/YounesBessa/forest-fire-simulator) (6 days ago)
+- [add ability to restart](https://github.com/aurelilys/connect4/pull/3) on [aurelilys/connect4](https://github.com/aurelilys/connect4) (6 days ago)
+- [add custom urls option](https://github.com/goenning/google-indexing-script/pull/65) on [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) (6 days ago)
 - [feat: add array support for query value (#1)](https://github.com/alii/pathcat/pull/2) on [alii/pathcat](https://github.com/alii/pathcat) (1 week ago)
 - [✨ add combobox](https://github.com/tonightpass/kitchn/pull/530) on [tonightpass/kitchn](https://github.com/tonightpass/kitchn) (1 month ago)
 - [fix changes](https://github.com/goenning/google-indexing-script/pull/55) on [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) (1 month ago)
@@ -73,16 +73,16 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
-- [rivet-gg/rivet](https://github.com/rivet-gg/rivet) - 🔩 Open-source solution to deploy, scale, and operate your multiplayer game (1 day ago)
-- [terkelg/prompts](https://github.com/terkelg/prompts) - ❯ Lightweight, beautiful and user-friendly interactive prompts (1 day ago)
-- [birkir/obdii](https://github.com/birkir/obdii) - OBD2 in TypeScript (1 day ago)
-- [qonto/ember-amount-input](https://github.com/qonto/ember-amount-input) - An Ember.js component to input money amount. (4 days ago)
-- [arthuRHD/immosheets](https://github.com/arthuRHD/immosheets) - Tired of searching with your mouse ? Let&#39;s automate the process. 🚀 (5 days ago)
-- [maxmindlin/rabbitui](https://github.com/maxmindlin/rabbitui) - Terminal-UI for the RabbitMQ management API (5 days ago)
-- [arthuRHD/sims4-mod-python-template](https://github.com/arthuRHD/sims4-mod-python-template) - A template repo for Sims 4 mod creation (5 days ago)
-- [Johjoh-6/api_sport_manager](https://github.com/Johjoh-6/api_sport_manager) - api for associatif team manager (5 days ago)
-- [Johjoh-6/team_manager](https://github.com/Johjoh-6/team_manager) - front for team manager project (5 days ago)
-- [hhhallan/qualissee](https://github.com/hhhallan/qualissee) -  (5 days ago)
+- [rivet-gg/rivet](https://github.com/rivet-gg/rivet) - 🔩 Open-source solution to deploy, scale, and operate your multiplayer game (2 days ago)
+- [terkelg/prompts](https://github.com/terkelg/prompts) - ❯ Lightweight, beautiful and user-friendly interactive prompts (2 days ago)
+- [birkir/obdii](https://github.com/birkir/obdii) - OBD2 in TypeScript (2 days ago)
+- [qonto/ember-amount-input](https://github.com/qonto/ember-amount-input) - An Ember.js component to input money amount. (5 days ago)
+- [arthuRHD/immosheets](https://github.com/arthuRHD/immosheets) - Tired of searching with your mouse ? Let&#39;s automate the process. 🚀 (6 days ago)
+- [maxmindlin/rabbitui](https://github.com/maxmindlin/rabbitui) - Terminal-UI for the RabbitMQ management API (6 days ago)
+- [arthuRHD/sims4-mod-python-template](https://github.com/arthuRHD/sims4-mod-python-template) - A template repo for Sims 4 mod creation (6 days ago)
+- [Johjoh-6/api_sport_manager](https://github.com/Johjoh-6/api_sport_manager) - api for associatif team manager (6 days ago)
+- [Johjoh-6/team_manager](https://github.com/Johjoh-6/team_manager) - front for team manager project (6 days ago)
+- [hhhallan/qualissee](https://github.com/hhhallan/qualissee) -  (6 days ago)
 
 #### 👯 Check out some of my recent followers
 
