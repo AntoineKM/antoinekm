@@ -37,9 +37,9 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
-- [tonightpass/kitchn](https://github.com/tonightpass/kitchn) - @tonightpass delicious React @styled-components (currently under construction...) (1 day ago)
-- [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) - Script to get your site indexed on Google in less than 48 hours (4 days ago)
-- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (5 days ago)
+- [tonightpass/kitchn](https://github.com/tonightpass/kitchn) - @tonightpass delicious React @styled-components (currently under construction...) (2 days ago)
+- [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) - Script to get your site indexed on Google in less than 48 hours (5 days ago)
+- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (6 days ago)
 - [qotum/qotum](https://github.com/qotum/qotum) - @qotum&#39;s usefull tools 🧰 (1 week ago)
 - [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (1 week ago)
 - [aurelilys/connect4](https://github.com/aurelilys/connect4) - Just another Connect4 🙄 (1 week ago)
@@ -50,9 +50,9 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔭 Latest releases I've contributed to
 
-- [tonightpass/kitchn](https://github.com/tonightpass/kitchn) ([kitchn@0.2.5](https://github.com/tonightpass/kitchn/releases/tag/kitchn%400.2.5), 1 day ago) - @tonightpass delicious React @styled-components (currently under construction...)
-- [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) ([v0.3.0](https://github.com/goenning/google-indexing-script/releases/tag/v0.3.0), 4 days ago) - Script to get your site indexed on Google in less than 48 hours
-- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/react@0.0.49](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/react%400.0.49), 5 days ago) - @tonightpass sdk and tools.
+- [tonightpass/kitchn](https://github.com/tonightpass/kitchn) ([kitchn@0.2.5](https://github.com/tonightpass/kitchn/releases/tag/kitchn%400.2.5), 2 days ago) - @tonightpass delicious React @styled-components (currently under construction...)
+- [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) ([v0.3.0](https://github.com/goenning/google-indexing-script/releases/tag/v0.3.0), 5 days ago) - Script to get your site indexed on Google in less than 48 hours
+- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/react@0.0.49](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/react%400.0.49), 6 days ago) - @tonightpass sdk and tools.
 - [AntoineKM/dixt](https://github.com/AntoineKM/dixt) ([dixt-plugin-worktime@2.1.17](https://github.com/AntoineKM/dixt/releases/tag/dixt-plugin-worktime%402.1.17), 2 months ago) - The Discord Framework
 - [towfiqi/serpbear](https://github.com/towfiqi/serpbear) ([v2.0.2](https://github.com/towfiqi/serpbear/releases/tag/v2.0.2), 3 months ago) - Search Engine Position Rank Tracking App
 - [AntoineKM/antoine](https://github.com/AntoineKM/antoine) ([eslint-config-antoine@1.0.14](https://github.com/AntoineKM/antoine/releases/tag/eslint-config-antoine%401.0.14), 4 months ago) - cool tools to code like me.
@@ -73,11 +73,11 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
-- [pinojs/pino-pretty](https://github.com/pinojs/pino-pretty) - 🌲Basic prettifier for Pino log lines (1 day ago)
-- [rivet-gg/rivet](https://github.com/rivet-gg/rivet) - 🔩 Open-source solution to deploy, scale, and operate your multiplayer game (3 days ago)
-- [terkelg/prompts](https://github.com/terkelg/prompts) - ❯ Lightweight, beautiful and user-friendly interactive prompts (3 days ago)
-- [birkir/obdii](https://github.com/birkir/obdii) - OBD2 in TypeScript (3 days ago)
-- [qonto/ember-amount-input](https://github.com/qonto/ember-amount-input) - An Ember.js component to input money amount. (6 days ago)
+- [pinojs/pino-pretty](https://github.com/pinojs/pino-pretty) - 🌲Basic prettifier for Pino log lines (2 days ago)
+- [rivet-gg/rivet](https://github.com/rivet-gg/rivet) - 🔩 Open-source solution to deploy, scale, and operate your multiplayer game (4 days ago)
+- [terkelg/prompts](https://github.com/terkelg/prompts) - ❯ Lightweight, beautiful and user-friendly interactive prompts (4 days ago)
+- [birkir/obdii](https://github.com/birkir/obdii) - OBD2 in TypeScript (4 days ago)
+- [qonto/ember-amount-input](https://github.com/qonto/ember-amount-input) - An Ember.js component to input money amount. (1 week ago)
 - [arthuRHD/immosheets](https://github.com/arthuRHD/immosheets) - Tired of searching with your mouse ? Let&#39;s automate the process. 🚀 (1 week ago)
 - [maxmindlin/rabbitui](https://github.com/maxmindlin/rabbitui) - Terminal-UI for the RabbitMQ management API (1 week ago)
 - [arthuRHD/sims4-mod-python-template](https://github.com/arthuRHD/sims4-mod-python-template) - A template repo for Sims 4 mod creation (1 week ago)
