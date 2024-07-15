@@ -37,9 +37,9 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
-- [tonightpass/kitchn](https://github.com/tonightpass/kitchn) - @tonightpass delicious React @styled-components (currently under construction...) (today)
-- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (6 days ago)
-- [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) - Script to get your site indexed on Google in less than 48 hours (6 days ago)
+- [tonightpass/kitchn](https://github.com/tonightpass/kitchn) - @tonightpass delicious React @styled-components (currently under construction...) (1 day ago)
+- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (1 week ago)
+- [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) - Script to get your site indexed on Google in less than 48 hours (1 week ago)
 - [aurelilys/connect4](https://github.com/aurelilys/connect4) - Just another Connect4 🙄 (2 weeks ago)
 - [qotum/qotum](https://github.com/qotum/qotum) - @qotum&#39;s usefull tools 🧰 (2 weeks ago)
 - [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (2 weeks ago)
@@ -50,9 +50,9 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔭 Latest releases I've contributed to
 
-- [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) ([v0.4.0](https://github.com/goenning/google-indexing-script/releases/tag/v0.4.0), 6 days ago) - Script to get your site indexed on Google in less than 48 hours
+- [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) ([v0.4.0](https://github.com/goenning/google-indexing-script/releases/tag/v0.4.0), 1 week ago) - Script to get your site indexed on Google in less than 48 hours
 - [tonightpass/kitchn](https://github.com/tonightpass/kitchn) ([kitchn@0.2.5](https://github.com/tonightpass/kitchn/releases/tag/kitchn%400.2.5), 1 week ago) - @tonightpass delicious React @styled-components (currently under construction...)
-- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/react@0.0.49](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/react%400.0.49), 1 week ago) - @tonightpass sdk and tools.
+- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/react@0.0.49](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/react%400.0.49), 2 weeks ago) - @tonightpass sdk and tools.
 - [AntoineKM/dixt](https://github.com/AntoineKM/dixt) ([dixt-plugin-worktime@2.1.17](https://github.com/AntoineKM/dixt/releases/tag/dixt-plugin-worktime%402.1.17), 2 months ago) - The Discord Framework
 - [towfiqi/serpbear](https://github.com/towfiqi/serpbear) ([v2.0.2](https://github.com/towfiqi/serpbear/releases/tag/v2.0.2), 4 months ago) - Search Engine Position Rank Tracking App
 - [AntoineKM/antoine](https://github.com/AntoineKM/antoine) ([eslint-config-antoine@1.0.14](https://github.com/AntoineKM/antoine/releases/tag/eslint-config-antoine%401.0.14), 4 months ago) - cool tools to code like me.
@@ -60,22 +60,22 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
-- [improve cli with commander](https://github.com/goenning/google-indexing-script/pull/68) on [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) (6 days ago)
+- [improve cli with commander](https://github.com/goenning/google-indexing-script/pull/68) on [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) (1 week ago)
 - [Fix turbo and pnpm workspaces](https://github.com/qotum/qotum/pull/3) on [qotum/qotum](https://github.com/qotum/qotum) (2 weeks ago)
 - [🎨 improve draw to ensures that all cells have an equal chance of catching fire](https://github.com/YounesBessa/forest-fire-simulator/pull/2) on [YounesBessa/forest-fire-simulator](https://github.com/YounesBessa/forest-fire-simulator) (2 weeks ago)
 - [add ability to restart](https://github.com/aurelilys/connect4/pull/3) on [aurelilys/connect4](https://github.com/aurelilys/connect4) (2 weeks ago)
 - [add custom urls option](https://github.com/goenning/google-indexing-script/pull/65) on [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) (2 weeks ago)
 - [feat: add array support for query value (#1)](https://github.com/alii/pathcat/pull/2) on [alii/pathcat](https://github.com/alii/pathcat) (2 weeks ago)
 - [✨ add combobox](https://github.com/tonightpass/kitchn/pull/530) on [tonightpass/kitchn](https://github.com/tonightpass/kitchn) (1 month ago)
-- [fix changes](https://github.com/goenning/google-indexing-script/pull/55) on [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) (1 month ago)
+- [fix changes](https://github.com/goenning/google-indexing-script/pull/55) on [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) (2 months ago)
 - [fix: update scraping robot typo in README](https://github.com/towfiqi/serpbear/pull/212) on [towfiqi/serpbear](https://github.com/towfiqi/serpbear) (2 months ago)
 - [🎨 add organization event style types, dtos, endpoints and sdk](https://github.com/tonightpass/tonightpass/pull/281) on [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) (2 months ago)
 
 #### ⭐ Recent Stars
 
-- [KwaiVGI/LivePortrait](https://github.com/KwaiVGI/LivePortrait) - Bring portraits to life! (6 days ago)
-- [adrianhajdin/healthcare](https://github.com/adrianhajdin/healthcare) - Build a healthcare platform that streamlines patient registration, appointment scheduling, and medical records, and learn to implement complex forms and SMS notifications. (6 days ago)
-- [NightDreamGames/Graded](https://github.com/NightDreamGames/Graded) - Graded - Grade Tracker (6 days ago)
+- [KwaiVGI/LivePortrait](https://github.com/KwaiVGI/LivePortrait) - Bring portraits to life! (1 week ago)
+- [adrianhajdin/healthcare](https://github.com/adrianhajdin/healthcare) - Build a healthcare platform that streamlines patient registration, appointment scheduling, and medical records, and learn to implement complex forms and SMS notifications. (1 week ago)
+- [NightDreamGames/Graded](https://github.com/NightDreamGames/Graded) - Graded - Grade Tracker (1 week ago)
 - [pinojs/pino-pretty](https://github.com/pinojs/pino-pretty) - 🌲Basic prettifier for Pino log lines (1 week ago)
 - [rivet-gg/rivet](https://github.com/rivet-gg/rivet) - 🔩 Open-source solution to deploy, scale, and operate your multiplayer game (1 week ago)
 - [terkelg/prompts](https://github.com/terkelg/prompts) - ❯ Lightweight, beautiful and user-friendly interactive prompts (1 week ago)
