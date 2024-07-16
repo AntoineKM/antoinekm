@@ -73,6 +73,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
+- [event-driven-io/Pongo](https://github.com/event-driven-io/Pongo) - Pongo - Mongo but on Postgres and with strong consistency benefits (today)
 - [KwaiVGI/LivePortrait](https://github.com/KwaiVGI/LivePortrait) - Bring portraits to life! (1 week ago)
 - [adrianhajdin/healthcare](https://github.com/adrianhajdin/healthcare) - Build a healthcare platform that streamlines patient registration, appointment scheduling, and medical records, and learn to implement complex forms and SMS notifications. (1 week ago)
 - [NightDreamGames/Graded](https://github.com/NightDreamGames/Graded) - Graded - Grade Tracker (1 week ago)
@@ -82,7 +83,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [birkir/obdii](https://github.com/birkir/obdii) - OBD2 in TypeScript (1 week ago)
 - [qonto/ember-amount-input](https://github.com/qonto/ember-amount-input) - An Ember.js component to input money amount. (2 weeks ago)
 - [arthuRHD/immosheets](https://github.com/arthuRHD/immosheets) - Tired of searching with your mouse ? Let&#39;s automate the process. 🚀 (2 weeks ago)
-- [maxmindlin/rabbitui](https://github.com/maxmindlin/rabbitui) - Terminal-UI for the RabbitMQ management API (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
