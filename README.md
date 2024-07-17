@@ -37,7 +37,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
-- [tonightpass/kitchn](https://github.com/tonightpass/kitchn) - @tonightpass delicious React @styled-components (currently under construction...) (today)
+- [tonightpass/kitchn](https://github.com/tonightpass/kitchn) - @tonightpass delicious React @styled-components (currently under construction...) (1 day ago)
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (1 week ago)
 - [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) - Script to get your site indexed on Google in less than 48 hours (1 week ago)
 - [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (2 weeks ago)
@@ -66,21 +66,21 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [add ability to restart](https://github.com/aurelilys/connect4/pull/3) on [aurelilys/connect4](https://github.com/aurelilys/connect4) (2 weeks ago)
 - [add custom urls option](https://github.com/goenning/google-indexing-script/pull/65) on [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) (2 weeks ago)
 - [feat: add array support for query value (#1)](https://github.com/alii/pathcat/pull/2) on [alii/pathcat](https://github.com/alii/pathcat) (2 weeks ago)
-- [✨ add combobox](https://github.com/tonightpass/kitchn/pull/530) on [tonightpass/kitchn](https://github.com/tonightpass/kitchn) (1 month ago)
+- [✨ add combobox](https://github.com/tonightpass/kitchn/pull/530) on [tonightpass/kitchn](https://github.com/tonightpass/kitchn) (2 months ago)
 - [fix changes](https://github.com/goenning/google-indexing-script/pull/55) on [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) (2 months ago)
 - [fix: update scraping robot typo in README](https://github.com/towfiqi/serpbear/pull/212) on [towfiqi/serpbear](https://github.com/towfiqi/serpbear) (2 months ago)
 - [🎨 add organization event style types, dtos, endpoints and sdk](https://github.com/tonightpass/tonightpass/pull/281) on [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) (2 months ago)
 
 #### ⭐ Recent Stars
 
-- [event-driven-io/Pongo](https://github.com/event-driven-io/Pongo) - Pongo - Mongo but on Postgres and with strong consistency benefits (today)
+- [event-driven-io/Pongo](https://github.com/event-driven-io/Pongo) - Pongo - Mongo but on Postgres and with strong consistency benefits (1 day ago)
 - [KwaiVGI/LivePortrait](https://github.com/KwaiVGI/LivePortrait) - Bring portraits to life! (1 week ago)
 - [adrianhajdin/healthcare](https://github.com/adrianhajdin/healthcare) - Build a healthcare platform that streamlines patient registration, appointment scheduling, and medical records, and learn to implement complex forms and SMS notifications. (1 week ago)
 - [NightDreamGames/Graded](https://github.com/NightDreamGames/Graded) - Graded - Grade Tracker (1 week ago)
 - [pinojs/pino-pretty](https://github.com/pinojs/pino-pretty) - 🌲Basic prettifier for Pino log lines (1 week ago)
-- [rivet-gg/rivet](https://github.com/rivet-gg/rivet) - 🔩 Open-source solution to deploy, scale, and operate your multiplayer game (1 week ago)
-- [terkelg/prompts](https://github.com/terkelg/prompts) - ❯ Lightweight, beautiful and user-friendly interactive prompts (1 week ago)
-- [birkir/obdii](https://github.com/birkir/obdii) - OBD2 in TypeScript (1 week ago)
+- [rivet-gg/rivet](https://github.com/rivet-gg/rivet) - 🔩 Open-source solution to deploy, scale, and operate your multiplayer game (2 weeks ago)
+- [terkelg/prompts](https://github.com/terkelg/prompts) - ❯ Lightweight, beautiful and user-friendly interactive prompts (2 weeks ago)
+- [birkir/obdii](https://github.com/birkir/obdii) - OBD2 in TypeScript (2 weeks ago)
 - [qonto/ember-amount-input](https://github.com/qonto/ember-amount-input) - An Ember.js component to input money amount. (2 weeks ago)
 - [arthuRHD/immosheets](https://github.com/arthuRHD/immosheets) - Tired of searching with your mouse ? Let&#39;s automate the process. 🚀 (2 weeks ago)
 
