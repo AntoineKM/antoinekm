@@ -60,6 +60,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
+- [Update runtime-config.external.ts to include defineConfig function](https://github.com/vercel/next.js/pull/67963) on [vercel/next.js](https://github.com/vercel/next.js) (today)
 - [chore(gatsby-plugin-styled-components): update to styled-components v6](https://github.com/gatsbyjs/gatsby/pull/39047) on [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) (today)
 - [improve cli with commander](https://github.com/goenning/google-indexing-script/pull/68) on [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) (1 week ago)
 - [Fix turbo and pnpm workspaces](https://github.com/qotum/qotum/pull/3) on [qotum/qotum](https://github.com/qotum/qotum) (2 weeks ago)
@@ -69,7 +70,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [feat: add array support for query value (#1)](https://github.com/alii/pathcat/pull/2) on [alii/pathcat](https://github.com/alii/pathcat) (3 weeks ago)
 - [✨ add combobox](https://github.com/tonightpass/kitchn/pull/530) on [tonightpass/kitchn](https://github.com/tonightpass/kitchn) (2 months ago)
 - [fix changes](https://github.com/goenning/google-indexing-script/pull/55) on [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) (2 months ago)
-- [fix: update scraping robot typo in README](https://github.com/towfiqi/serpbear/pull/212) on [towfiqi/serpbear](https://github.com/towfiqi/serpbear) (2 months ago)
 
 #### ⭐ Recent Stars
 
