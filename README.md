@@ -73,6 +73,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
+- [Nabhag8848/openstatus-raycast-extension](https://github.com/Nabhag8848/openstatus-raycast-extension) - Blazingly Fast Monitor with Status Reports Management, Raycast Extension for @OpenStatusHQ (today)
 - [Mohamedjcali/aya](https://github.com/Mohamedjcali/aya) - A minimalist version control system with fewer than 6 commands, offering a straightforward alternative to Git. (1 day ago)
 - [event-driven-io/Pongo](https://github.com/event-driven-io/Pongo) - Pongo - Mongo but on Postgres and with strong consistency benefits (3 days ago)
 - [KwaiVGI/LivePortrait](https://github.com/KwaiVGI/LivePortrait) - Bring portraits to life! (1 week ago)
@@ -82,7 +83,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [rivet-gg/rivet](https://github.com/rivet-gg/rivet) - 🔩 Open-source solution to deploy, scale, and operate your multiplayer game (2 weeks ago)
 - [terkelg/prompts](https://github.com/terkelg/prompts) - ❯ Lightweight, beautiful and user-friendly interactive prompts (2 weeks ago)
 - [birkir/obdii](https://github.com/birkir/obdii) - OBD2 in TypeScript (2 weeks ago)
-- [qonto/ember-amount-input](https://github.com/qonto/ember-amount-input) - An Ember.js component to input money amount. (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
