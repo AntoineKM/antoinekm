@@ -37,16 +37,16 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
-- [tonightpass/kitchn](https://github.com/tonightpass/kitchn) - @tonightpass delicious React @styled-components (currently under construction...) (1 day ago)
-- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (1 week ago)
+- [tonightpass/kitchn](https://github.com/tonightpass/kitchn) - @tonightpass delicious React @styled-components (currently under construction...) (today)
+- [AntoineKM/notinsitemap](https://github.com/AntoineKM/notinsitemap) -  (2 days ago)
 - [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) - Script to get your site indexed on Google in less than 48 hours (1 week ago)
-- [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (2 weeks ago)
+- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (1 week ago)
 - [qotum/qotum](https://github.com/qotum/qotum) - @qotum&#39;s usefull tools 🧰 (2 weeks ago)
+- [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (2 weeks ago)
 - [aurelilys/connect4](https://github.com/aurelilys/connect4) - Just another Connect4 🙄 (2 weeks ago)
 - [alii/pathcat](https://github.com/alii/pathcat) - Simply path/URL building in JavaScript (3 weeks ago)
 - [needforschool/azure-ak](https://github.com/needforschool/azure-ak) -  (1 month ago)
 - [towfiqi/serpbear](https://github.com/towfiqi/serpbear) - Search Engine Position Rank Tracking App (2 months ago)
-- [AntoineKM/dixt](https://github.com/AntoineKM/dixt) - The Discord Framework (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
