@@ -60,6 +60,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
+- [Add Kitchn](https://github.com/lucianomlima/react-ui-kits/pull/22) on [lucianomlima/react-ui-kits](https://github.com/lucianomlima/react-ui-kits) (today)
 - [✨ add switch](https://github.com/tonightpass/kitchn/pull/580) on [tonightpass/kitchn](https://github.com/tonightpass/kitchn) (2 days ago)
 - [Add `defineConfig` function to `next/config`](https://github.com/vercel/next.js/pull/67963) on [vercel/next.js](https://github.com/vercel/next.js) (4 days ago)
 - [chore(gatsby-plugin-styled-components): update to styled-components v6](https://github.com/gatsbyjs/gatsby/pull/39047) on [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) (4 days ago)
@@ -69,7 +70,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [add ability to restart](https://github.com/aurelilys/connect4/pull/3) on [aurelilys/connect4](https://github.com/aurelilys/connect4) (3 weeks ago)
 - [add custom urls option](https://github.com/goenning/google-indexing-script/pull/65) on [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) (3 weeks ago)
 - [feat: add array support for query value (#1)](https://github.com/alii/pathcat/pull/2) on [alii/pathcat](https://github.com/alii/pathcat) (3 weeks ago)
-- [✨ add combobox](https://github.com/tonightpass/kitchn/pull/530) on [tonightpass/kitchn](https://github.com/tonightpass/kitchn) (2 months ago)
 
 #### ⭐ Recent Stars
 
