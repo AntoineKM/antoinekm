@@ -37,16 +37,16 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
+- [AntoineKM/get-cities](https://github.com/AntoineKM/get-cities) -  (today)
 - [tonightpass/kitchn](https://github.com/tonightpass/kitchn) - @tonightpass delicious React @styled-components (currently under construction...) (2 days ago)
 - [AntoineKM/code-hike-remotion](https://github.com/AntoineKM/code-hike-remotion) -  (4 days ago)
 - [AntoineKM/notinsitemap](https://github.com/AntoineKM/notinsitemap) -  (1 week ago)
 - [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) - Script to get your site indexed on Google in less than 48 hours (2 weeks ago)
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (2 weeks ago)
-- [qotum/qotum](https://github.com/qotum/qotum) - @qotum&#39;s usefull tools 🧰 (3 weeks ago)
-- [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (3 weeks ago)
-- [YounesBessa/forest-fire-simulator](https://github.com/YounesBessa/forest-fire-simulator) -  (3 weeks ago)
 - [aurelilys/connect4](https://github.com/aurelilys/connect4) - Just another Connect4 🙄 (3 weeks ago)
-- [alii/pathcat](https://github.com/alii/pathcat) - Simply path/URL building in JavaScript (3 weeks ago)
+- [YounesBessa/forest-fire-simulator](https://github.com/YounesBessa/forest-fire-simulator) -  (3 weeks ago)
+- [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (3 weeks ago)
+- [qotum/qotum](https://github.com/qotum/qotum) - @qotum&#39;s usefull tools 🧰 (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
