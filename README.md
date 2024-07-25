@@ -60,6 +60,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
+- [✨ add snippet](https://github.com/tonightpass/kitchn/pull/583) on [tonightpass/kitchn](https://github.com/tonightpass/kitchn) (today)
 - [Add Kitchn](https://github.com/lucianomlima/react-ui-kits/pull/22) on [lucianomlima/react-ui-kits](https://github.com/lucianomlima/react-ui-kits) (2 days ago)
 - [✨ add switch](https://github.com/tonightpass/kitchn/pull/580) on [tonightpass/kitchn](https://github.com/tonightpass/kitchn) (4 days ago)
 - [Add `defineConfig` function to `next/config`](https://github.com/vercel/next.js/pull/67963) on [vercel/next.js](https://github.com/vercel/next.js) (6 days ago)
@@ -69,10 +70,10 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [🎨 improve draw to ensures that all cells have an equal chance of catching fire](https://github.com/YounesBessa/forest-fire-simulator/pull/2) on [YounesBessa/forest-fire-simulator](https://github.com/YounesBessa/forest-fire-simulator) (3 weeks ago)
 - [add ability to restart](https://github.com/aurelilys/connect4/pull/3) on [aurelilys/connect4](https://github.com/aurelilys/connect4) (3 weeks ago)
 - [add custom urls option](https://github.com/goenning/google-indexing-script/pull/65) on [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) (3 weeks ago)
-- [feat: add array support for query value (#1)](https://github.com/alii/pathcat/pull/2) on [alii/pathcat](https://github.com/alii/pathcat) (4 weeks ago)
 
 #### ⭐ Recent Stars
 
+- [styled-components/xstyled](https://github.com/styled-components/xstyled) - A utility-first CSS-in-JS framework built for React. 💅👩‍🎤⚡️ (today)
 - [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The best React-based framework with performance, scalability and security built in. (6 days ago)
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚ (6 days ago)
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React (6 days ago)
@@ -82,7 +83,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [KwaiVGI/LivePortrait](https://github.com/KwaiVGI/LivePortrait) - Bring portraits to life! (2 weeks ago)
 - [adrianhajdin/healthcare](https://github.com/adrianhajdin/healthcare) - Build a healthcare platform that streamlines patient registration, appointment scheduling, and medical records, and learn to implement complex forms and SMS notifications. (2 weeks ago)
 - [NightDreamGames/Graded](https://github.com/NightDreamGames/Graded) - Graded - Grade Tracker (2 weeks ago)
-- [pinojs/pino-pretty](https://github.com/pinojs/pino-pretty) - 🌲Basic prettifier for Pino log lines (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
