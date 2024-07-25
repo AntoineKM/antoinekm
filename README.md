@@ -37,9 +37,9 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
-- [AntoineKM/get-cities](https://github.com/AntoineKM/get-cities) -  (today)
-- [tonightpass/kitchn](https://github.com/tonightpass/kitchn) - @tonightpass delicious React @styled-components (currently under construction...) (2 days ago)
-- [AntoineKM/code-hike-remotion](https://github.com/AntoineKM/code-hike-remotion) -  (4 days ago)
+- [tonightpass/kitchn](https://github.com/tonightpass/kitchn) - @tonightpass delicious React @styled-components (currently under construction...) (today)
+- [AntoineKM/get-cities](https://github.com/AntoineKM/get-cities) -  (1 day ago)
+- [AntoineKM/code-hike-remotion](https://github.com/AntoineKM/code-hike-remotion) -  (5 days ago)
 - [AntoineKM/notinsitemap](https://github.com/AntoineKM/notinsitemap) -  (1 week ago)
 - [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) - Script to get your site indexed on Google in less than 48 hours (2 weeks ago)
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (2 weeks ago)
@@ -50,34 +50,34 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔭 Latest releases I've contributed to
 
-- [tonightpass/kitchn](https://github.com/tonightpass/kitchn) ([kitchn@0.4.0](https://github.com/tonightpass/kitchn/releases/tag/kitchn%400.4.0), 2 days ago) - @tonightpass delicious React @styled-components (currently under construction...)
+- [tonightpass/kitchn](https://github.com/tonightpass/kitchn) ([kitchn@0.5.0](https://github.com/tonightpass/kitchn/releases/tag/kitchn%400.5.0), 1 day ago) - @tonightpass delicious React @styled-components (currently under construction...)
 - [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) ([v0.4.0](https://github.com/goenning/google-indexing-script/releases/tag/v0.4.0), 2 weeks ago) - Script to get your site indexed on Google in less than 48 hours
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/react@0.0.49](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/react%400.0.49), 3 weeks ago) - @tonightpass sdk and tools.
 - [AntoineKM/dixt](https://github.com/AntoineKM/dixt) ([dixt-plugin-worktime@2.1.17](https://github.com/AntoineKM/dixt/releases/tag/dixt-plugin-worktime%402.1.17), 2 months ago) - The Discord Framework
 - [towfiqi/serpbear](https://github.com/towfiqi/serpbear) ([v2.0.2](https://github.com/towfiqi/serpbear/releases/tag/v2.0.2), 4 months ago) - Search Engine Position Rank Tracking App
-- [AntoineKM/antoine](https://github.com/AntoineKM/antoine) ([eslint-config-antoine@1.0.14](https://github.com/AntoineKM/antoine/releases/tag/eslint-config-antoine%401.0.14), 4 months ago) - cool tools to code like me.
+- [AntoineKM/antoine](https://github.com/AntoineKM/antoine) ([eslint-config-antoine@1.0.14](https://github.com/AntoineKM/antoine/releases/tag/eslint-config-antoine%401.0.14), 5 months ago) - cool tools to code like me.
 - [onRuntime/kartrak](https://github.com/onRuntime/kartrak) ([v0.0.9](https://github.com/onRuntime/kartrak/releases/tag/v0.0.9), 7 months ago) - Le suivi d&#39;activité tourné vers l&#39;écologie.
 
 #### 🔨 My recent Pull Requests
 
-- [Add Kitchn](https://github.com/lucianomlima/react-ui-kits/pull/22) on [lucianomlima/react-ui-kits](https://github.com/lucianomlima/react-ui-kits) (1 day ago)
-- [✨ add switch](https://github.com/tonightpass/kitchn/pull/580) on [tonightpass/kitchn](https://github.com/tonightpass/kitchn) (3 days ago)
-- [Add `defineConfig` function to `next/config`](https://github.com/vercel/next.js/pull/67963) on [vercel/next.js](https://github.com/vercel/next.js) (5 days ago)
-- [chore(gatsby-plugin-styled-components): update to styled-components v6](https://github.com/gatsbyjs/gatsby/pull/39047) on [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) (5 days ago)
+- [Add Kitchn](https://github.com/lucianomlima/react-ui-kits/pull/22) on [lucianomlima/react-ui-kits](https://github.com/lucianomlima/react-ui-kits) (2 days ago)
+- [✨ add switch](https://github.com/tonightpass/kitchn/pull/580) on [tonightpass/kitchn](https://github.com/tonightpass/kitchn) (4 days ago)
+- [Add `defineConfig` function to `next/config`](https://github.com/vercel/next.js/pull/67963) on [vercel/next.js](https://github.com/vercel/next.js) (6 days ago)
+- [chore(gatsby-plugin-styled-components): update to styled-components v6](https://github.com/gatsbyjs/gatsby/pull/39047) on [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) (6 days ago)
 - [improve cli with commander](https://github.com/goenning/google-indexing-script/pull/68) on [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) (2 weeks ago)
 - [Fix turbo and pnpm workspaces](https://github.com/qotum/qotum/pull/3) on [qotum/qotum](https://github.com/qotum/qotum) (3 weeks ago)
 - [🎨 improve draw to ensures that all cells have an equal chance of catching fire](https://github.com/YounesBessa/forest-fire-simulator/pull/2) on [YounesBessa/forest-fire-simulator](https://github.com/YounesBessa/forest-fire-simulator) (3 weeks ago)
 - [add ability to restart](https://github.com/aurelilys/connect4/pull/3) on [aurelilys/connect4](https://github.com/aurelilys/connect4) (3 weeks ago)
 - [add custom urls option](https://github.com/goenning/google-indexing-script/pull/65) on [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) (3 weeks ago)
-- [feat: add array support for query value (#1)](https://github.com/alii/pathcat/pull/2) on [alii/pathcat](https://github.com/alii/pathcat) (3 weeks ago)
+- [feat: add array support for query value (#1)](https://github.com/alii/pathcat/pull/2) on [alii/pathcat](https://github.com/alii/pathcat) (4 weeks ago)
 
 #### ⭐ Recent Stars
 
-- [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The best React-based framework with performance, scalability and security built in. (5 days ago)
-- [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚ (5 days ago)
-- [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React (5 days ago)
-- [Nabhag8848/openstatus-raycast-extension](https://github.com/Nabhag8848/openstatus-raycast-extension) - Blazingly Fast Monitor with Status Reports Management, Raycast Extension for @OpenStatusHQ (5 days ago)
-- [Mohamedjcali/aya](https://github.com/Mohamedjcali/aya) - A minimalist version control system with fewer than 6 commands, offering a straightforward alternative to Git. (6 days ago)
+- [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The best React-based framework with performance, scalability and security built in. (6 days ago)
+- [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚ (6 days ago)
+- [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React (6 days ago)
+- [Nabhag8848/openstatus-raycast-extension](https://github.com/Nabhag8848/openstatus-raycast-extension) - Blazingly Fast Monitor with Status Reports Management, Raycast Extension for @OpenStatusHQ (6 days ago)
+- [Mohamedjcali/aya](https://github.com/Mohamedjcali/aya) - A minimalist version control system with fewer than 6 commands, offering a straightforward alternative to Git. (1 week ago)
 - [event-driven-io/Pongo](https://github.com/event-driven-io/Pongo) - Pongo - Mongo but on Postgres and with strong consistency benefits (1 week ago)
 - [KwaiVGI/LivePortrait](https://github.com/KwaiVGI/LivePortrait) - Bring portraits to life! (2 weeks ago)
 - [adrianhajdin/healthcare](https://github.com/adrianhajdin/healthcare) - Build a healthcare platform that streamlines patient registration, appointment scheduling, and medical records, and learn to implement complex forms and SMS notifications. (2 weeks ago)
