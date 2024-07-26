@@ -37,20 +37,20 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
+- [tonightpass/kitchn](https://github.com/tonightpass/kitchn) - @tonightpass delicious React @styled-components (currently under construction...) (today)
 - [AntoineKM/shouldideploytoday](https://github.com/AntoineKM/shouldideploytoday) - This is a simple school project made with Next.js and Kitchen. (today)
-- [tonightpass/kitchn](https://github.com/tonightpass/kitchn) - @tonightpass delicious React @styled-components (currently under construction...) (1 day ago)
 - [AntoineKM/get-cities](https://github.com/AntoineKM/get-cities) -  (2 days ago)
 - [AntoineKM/code-hike-remotion](https://github.com/AntoineKM/code-hike-remotion) -  (6 days ago)
 - [AntoineKM/notinsitemap](https://github.com/AntoineKM/notinsitemap) -  (1 week ago)
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (2 weeks ago)
 - [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) - Script to get your site indexed on Google in less than 48 hours (2 weeks ago)
-- [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (3 weeks ago)
-- [qotum/qotum](https://github.com/qotum/qotum) - @qotum&#39;s usefull tools 🧰 (3 weeks ago)
 - [aurelilys/connect4](https://github.com/aurelilys/connect4) - Just another Connect4 🙄 (3 weeks ago)
+- [YounesBessa/forest-fire-simulator](https://github.com/YounesBessa/forest-fire-simulator) -  (3 weeks ago)
+- [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [tonightpass/kitchn](https://github.com/tonightpass/kitchn) ([kitchn@0.5.0](https://github.com/tonightpass/kitchn/releases/tag/kitchn%400.5.0), 2 days ago) - @tonightpass delicious React @styled-components (currently under construction...)
+- [tonightpass/kitchn](https://github.com/tonightpass/kitchn) ([kitchn@0.6.0](https://github.com/tonightpass/kitchn/releases/tag/kitchn%400.6.0), today) - @tonightpass delicious React @styled-components (currently under construction...)
 - [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) ([v0.4.0](https://github.com/goenning/google-indexing-script/releases/tag/v0.4.0), 2 weeks ago) - Script to get your site indexed on Google in less than 48 hours
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/react@0.0.49](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/react%400.0.49), 3 weeks ago) - @tonightpass sdk and tools.
 - [AntoineKM/dixt](https://github.com/AntoineKM/dixt) ([dixt-plugin-worktime@2.1.17](https://github.com/AntoineKM/dixt/releases/tag/dixt-plugin-worktime%402.1.17), 2 months ago) - The Discord Framework
