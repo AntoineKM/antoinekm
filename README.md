@@ -46,7 +46,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) - Script to get your site indexed on Google in less than 48 hours (3 weeks ago)
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (3 weeks ago)
 - [YounesBessa/forest-fire-simulator](https://github.com/YounesBessa/forest-fire-simulator) -  (1 month ago)
-- [qotum/qotum](https://github.com/qotum/qotum) - @qotum&#39;s usefull tools 🧰 (1 month ago)
+- [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
