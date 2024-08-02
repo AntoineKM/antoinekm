@@ -73,6 +73,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
+- [AntoineKM/notinsitemap](https://github.com/AntoineKM/notinsitemap) -  (today)
 - [vercel/platforms](https://github.com/vercel/platforms) - A full-stack Next.js app with multi-tenancy and custom domain support. Built with Next.js App Router and the Vercel Domains API. (2 days ago)
 - [shardsworld/shards-website](https://github.com/shardsworld/shards-website) - The Website for Shards World (2 days ago)
 - [styled-components/xstyled](https://github.com/styled-components/xstyled) - A utility-first CSS-in-JS framework built for React. 💅👩‍🎤⚡️ (1 week ago)
@@ -82,7 +83,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [Nabhag8848/openstatus-raycast-extension](https://github.com/Nabhag8848/openstatus-raycast-extension) - Blazingly Fast Monitor with Status Reports Management, Raycast Extension for @OpenStatusHQ (2 weeks ago)
 - [Mohamedjcali/aya](https://github.com/Mohamedjcali/aya) - A minimalist version control system with fewer than 6 commands, offering a straightforward alternative to Git. (2 weeks ago)
 - [event-driven-io/Pongo](https://github.com/event-driven-io/Pongo) - Pongo - Mongo but on Postgres and with strong consistency benefits (2 weeks ago)
-- [KwaiVGI/LivePortrait](https://github.com/KwaiVGI/LivePortrait) - Bring portraits to life! (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
