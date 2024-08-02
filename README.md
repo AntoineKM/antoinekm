@@ -37,9 +37,9 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
-- [tonightpass/kitchn](https://github.com/tonightpass/kitchn) - @tonightpass delicious React @styled-components (currently under construction...) (1 day ago)
-- [AntoineKM/notinsitemap](https://github.com/AntoineKM/notinsitemap) -  (1 day ago)
+- [AntoineKM/notinsitemap](https://github.com/AntoineKM/notinsitemap) -  (today)
 - [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (1 day ago)
+- [tonightpass/kitchn](https://github.com/tonightpass/kitchn) - @tonightpass delicious React @styled-components (currently under construction...) (1 day ago)
 - [onRuntime/onruntime-og-image](https://github.com/onRuntime/onruntime-og-image) - About Open Graph Image as a Service - generate cards for Twitter, Facebook, Slack, etc (2 days ago)
 - [onRuntime/onruntime-docs](https://github.com/onRuntime/onruntime-docs) -  (4 days ago)
 - [AntoineKM/shouldideploytoday](https://github.com/AntoineKM/shouldideploytoday) - This is a simple school project made with Next.js and Kitchen. (1 week ago)
