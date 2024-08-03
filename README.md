@@ -37,9 +37,9 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
-- [ArkeeAgency/notinsitemap](https://github.com/ArkeeAgency/notinsitemap) -  (1 day ago)
+- [ArkeeAgency/notinsitemap](https://github.com/ArkeeAgency/notinsitemap) -  (today)
+- [tonightpass/kitchn](https://github.com/tonightpass/kitchn) - @tonightpass delicious React @styled-components (currently under construction...) (today)
 - [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (2 days ago)
-- [tonightpass/kitchn](https://github.com/tonightpass/kitchn) - @tonightpass delicious React @styled-components (currently under construction...) (2 days ago)
 - [onRuntime/onruntime-og-image](https://github.com/onRuntime/onruntime-og-image) - About Open Graph Image as a Service - generate cards for Twitter, Facebook, Slack, etc (3 days ago)
 - [onRuntime/onruntime-docs](https://github.com/onRuntime/onruntime-docs) -  (5 days ago)
 - [AntoineKM/shouldideploytoday](https://github.com/AntoineKM/shouldideploytoday) - This is a simple school project made with Next.js and Kitchen. (1 week ago)
@@ -50,8 +50,8 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔭 Latest releases I've contributed to
 
+- [tonightpass/kitchn](https://github.com/tonightpass/kitchn) ([kitchn@0.7.1](https://github.com/tonightpass/kitchn/releases/tag/kitchn%400.7.1), today) - @tonightpass delicious React @styled-components (currently under construction...)
 - [qotum/qotum](https://github.com/qotum/qotum) ([@qotum/panda-preset@1.1.4](https://github.com/qotum/qotum/releases/tag/%40qotum/panda-preset%401.1.4), today) - @qotum&#39;s usefull tools 🧰
-- [tonightpass/kitchn](https://github.com/tonightpass/kitchn) ([kitchn@0.7.0](https://github.com/tonightpass/kitchn/releases/tag/kitchn%400.7.0), 4 days ago) - @tonightpass delicious React @styled-components (currently under construction...)
 - [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) ([v0.4.0](https://github.com/goenning/google-indexing-script/releases/tag/v0.4.0), 3 weeks ago) - Script to get your site indexed on Google in less than 48 hours
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/react@0.0.49](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/react%400.0.49), 1 month ago) - @tonightpass sdk and tools.
 - [AntoineKM/dixt](https://github.com/AntoineKM/dixt) ([dixt-plugin-worktime@2.1.17](https://github.com/AntoineKM/dixt/releases/tag/dixt-plugin-worktime%402.1.17), 3 months ago) - The Discord Framework
@@ -74,6 +74,8 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
+- [RebeccaStevens/deepmerge-ts](https://github.com/RebeccaStevens/deepmerge-ts) - Deeply merge 2 or more objects respecting type information. (today)
+- [fastify/deepmerge](https://github.com/fastify/deepmerge) - Merges the enumerable properties of two or more objects deeply. Fastest implementation of deepmerge (today)
 - [ArkeeAgency/notinsitemap](https://github.com/ArkeeAgency/notinsitemap) -  (1 day ago)
 - [vercel/platforms](https://github.com/vercel/platforms) - A full-stack Next.js app with multi-tenancy and custom domain support. Built with Next.js App Router and the Vercel Domains API. (3 days ago)
 - [shardsworld/shards-website](https://github.com/shardsworld/shards-website) - The Website for Shards World (3 days ago)
@@ -82,8 +84,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚ (2 weeks ago)
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React (2 weeks ago)
 - [Nabhag8848/openstatus-raycast-extension](https://github.com/Nabhag8848/openstatus-raycast-extension) - Blazingly Fast Monitor with Status Reports Management, Raycast Extension for @OpenStatusHQ (2 weeks ago)
-- [Mohamedjcali/aya](https://github.com/Mohamedjcali/aya) - A minimalist version control system with fewer than 6 commands, offering a straightforward alternative to Git. (2 weeks ago)
-- [event-driven-io/Pongo](https://github.com/event-driven-io/Pongo) - Pongo - Mongo but on Postgres and with strong consistency benefits (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
