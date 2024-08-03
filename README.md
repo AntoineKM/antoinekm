@@ -50,7 +50,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔭 Latest releases I've contributed to
 
-- [qotum/qotum](https://github.com/qotum/qotum) ([@qotum/biome-config@1.0.2](https://github.com/qotum/qotum/releases/tag/%40qotum/biome-config%401.0.2), today) - @qotum&#39;s usefull tools 🧰
+- [qotum/qotum](https://github.com/qotum/qotum) ([@qotum/panda-preset@1.1.1](https://github.com/qotum/qotum/releases/tag/%40qotum/panda-preset%401.1.1), today) - @qotum&#39;s usefull tools 🧰
 - [tonightpass/kitchn](https://github.com/tonightpass/kitchn) ([kitchn@0.7.0](https://github.com/tonightpass/kitchn/releases/tag/kitchn%400.7.0), 4 days ago) - @tonightpass delicious React @styled-components (currently under construction...)
 - [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) ([v0.4.0](https://github.com/goenning/google-indexing-script/releases/tag/v0.4.0), 3 weeks ago) - Script to get your site indexed on Google in less than 48 hours
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/react@0.0.49](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/react%400.0.49), 1 month ago) - @tonightpass sdk and tools.
