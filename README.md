@@ -37,22 +37,22 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
-- [ArkeeAgency/notinsitemap](https://github.com/ArkeeAgency/notinsitemap) -  (today)
-- [tonightpass/kitchn](https://github.com/tonightpass/kitchn) - @tonightpass delicious React @styled-components (currently under construction...) (today)
-- [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (3 days ago)
-- [onRuntime/onruntime-og-image](https://github.com/onRuntime/onruntime-og-image) - About Open Graph Image as a Service - generate cards for Twitter, Facebook, Slack, etc (4 days ago)
-- [onRuntime/onruntime-docs](https://github.com/onRuntime/onruntime-docs) -  (6 days ago)
+- [ArkeeAgency/notinsitemap](https://github.com/ArkeeAgency/notinsitemap) -  (1 day ago)
+- [tonightpass/kitchn](https://github.com/tonightpass/kitchn) - @tonightpass delicious React @styled-components (currently under construction...) (1 day ago)
+- [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (4 days ago)
+- [onRuntime/onruntime-og-image](https://github.com/onRuntime/onruntime-og-image) - About Open Graph Image as a Service - generate cards for Twitter, Facebook, Slack, etc (5 days ago)
+- [onRuntime/onruntime-docs](https://github.com/onRuntime/onruntime-docs) -  (1 week ago)
 - [AntoineKM/shouldideploytoday](https://github.com/AntoineKM/shouldideploytoday) - This is a simple school project made with Next.js and Kitchen. (1 week ago)
 - [AntoineKM/get-cities](https://github.com/AntoineKM/get-cities) -  (1 week ago)
 - [AntoineKM/code-hike-remotion](https://github.com/AntoineKM/code-hike-remotion) -  (2 weeks ago)
 - [AntoineKM/notinsitemap-concept](https://github.com/AntoineKM/notinsitemap-concept) -  (2 weeks ago)
-- [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) - Script to get your site indexed on Google in less than 48 hours (3 weeks ago)
+- [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) - Script to get your site indexed on Google in less than 48 hours (4 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [tonightpass/kitchn](https://github.com/tonightpass/kitchn) ([kitchn@0.7.1](https://github.com/tonightpass/kitchn/releases/tag/kitchn%400.7.1), 1 day ago) - @tonightpass delicious React @styled-components (currently under construction...)
-- [qotum/qotum](https://github.com/qotum/qotum) ([@qotum/panda-preset@1.1.4](https://github.com/qotum/qotum/releases/tag/%40qotum/panda-preset%401.1.4), 1 day ago) - @qotum&#39;s usefull tools 🧰
-- [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) ([v0.4.0](https://github.com/goenning/google-indexing-script/releases/tag/v0.4.0), 3 weeks ago) - Script to get your site indexed on Google in less than 48 hours
+- [tonightpass/kitchn](https://github.com/tonightpass/kitchn) ([kitchn@0.7.1](https://github.com/tonightpass/kitchn/releases/tag/kitchn%400.7.1), 2 days ago) - @tonightpass delicious React @styled-components (currently under construction...)
+- [qotum/qotum](https://github.com/qotum/qotum) ([@qotum/panda-preset@1.1.4](https://github.com/qotum/qotum/releases/tag/%40qotum/panda-preset%401.1.4), 2 days ago) - @qotum&#39;s usefull tools 🧰
+- [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) ([v0.4.0](https://github.com/goenning/google-indexing-script/releases/tag/v0.4.0), 4 weeks ago) - Script to get your site indexed on Google in less than 48 hours
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/react@0.0.49](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/react%400.0.49), 1 month ago) - @tonightpass sdk and tools.
 - [AntoineKM/dixt](https://github.com/AntoineKM/dixt) ([dixt-plugin-worktime@2.1.17](https://github.com/AntoineKM/dixt/releases/tag/dixt-plugin-worktime%402.1.17), 3 months ago) - The Discord Framework
 - [towfiqi/serpbear](https://github.com/towfiqi/serpbear) ([v2.0.2](https://github.com/towfiqi/serpbear/releases/tag/v2.0.2), 4 months ago) - Search Engine Position Rank Tracking App
@@ -66,7 +66,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [✨ add switch](https://github.com/tonightpass/kitchn/pull/580) on [tonightpass/kitchn](https://github.com/tonightpass/kitchn) (2 weeks ago)
 - [Add `defineConfig` function to `next/config`](https://github.com/vercel/next.js/pull/67963) on [vercel/next.js](https://github.com/vercel/next.js) (2 weeks ago)
 - [chore(gatsby-plugin-styled-components): update to styled-components v6](https://github.com/gatsbyjs/gatsby/pull/39047) on [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) (2 weeks ago)
-- [improve cli with commander](https://github.com/goenning/google-indexing-script/pull/68) on [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) (3 weeks ago)
+- [improve cli with commander](https://github.com/goenning/google-indexing-script/pull/68) on [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) (4 weeks ago)
 - [Fix turbo and pnpm workspaces](https://github.com/qotum/qotum/pull/3) on [qotum/qotum](https://github.com/qotum/qotum) (1 month ago)
 - [🎨 improve draw to ensures that all cells have an equal chance of catching fire](https://github.com/YounesBessa/forest-fire-simulator/pull/2) on [YounesBessa/forest-fire-simulator](https://github.com/YounesBessa/forest-fire-simulator) (1 month ago)
 - [add ability to restart](https://github.com/aurelilys/connect4/pull/3) on [aurelilys/connect4](https://github.com/aurelilys/connect4) (1 month ago)
@@ -74,11 +74,11 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
-- [RebeccaStevens/deepmerge-ts](https://github.com/RebeccaStevens/deepmerge-ts) - Deeply merge 2 or more objects respecting type information. (1 day ago)
-- [fastify/deepmerge](https://github.com/fastify/deepmerge) - Merges the enumerable properties of two or more objects deeply. Fastest implementation of deepmerge (1 day ago)
-- [ArkeeAgency/notinsitemap](https://github.com/ArkeeAgency/notinsitemap) -  (2 days ago)
-- [vercel/platforms](https://github.com/vercel/platforms) - A full-stack Next.js app with multi-tenancy and custom domain support. Built with Next.js App Router and the Vercel Domains API. (4 days ago)
-- [shardsworld/shards-website](https://github.com/shardsworld/shards-website) - The Website for Shards World (4 days ago)
+- [RebeccaStevens/deepmerge-ts](https://github.com/RebeccaStevens/deepmerge-ts) - Deeply merge 2 or more objects respecting type information. (2 days ago)
+- [fastify/deepmerge](https://github.com/fastify/deepmerge) - Merges the enumerable properties of two or more objects deeply. Fastest implementation of deepmerge (2 days ago)
+- [ArkeeAgency/notinsitemap](https://github.com/ArkeeAgency/notinsitemap) -  (3 days ago)
+- [vercel/platforms](https://github.com/vercel/platforms) - A full-stack Next.js app with multi-tenancy and custom domain support. Built with Next.js App Router and the Vercel Domains API. (5 days ago)
+- [shardsworld/shards-website](https://github.com/shardsworld/shards-website) - The Website for Shards World (5 days ago)
 - [styled-components/xstyled](https://github.com/styled-components/xstyled) - A utility-first CSS-in-JS framework built for React. 💅👩‍🎤⚡️ (1 week ago)
 - [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The best React-based framework with performance, scalability and security built in. (2 weeks ago)
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚ (2 weeks ago)
