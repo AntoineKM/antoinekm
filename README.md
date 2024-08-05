@@ -74,6 +74,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
+- [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The powerful framework for building documentation sites in Next.js. (today)
 - [RebeccaStevens/deepmerge-ts](https://github.com/RebeccaStevens/deepmerge-ts) - Deeply merge 2 or more objects respecting type information. (2 days ago)
 - [fastify/deepmerge](https://github.com/fastify/deepmerge) - Merges the enumerable properties of two or more objects deeply. Fastest implementation of deepmerge (2 days ago)
 - [ArkeeAgency/notinsitemap](https://github.com/ArkeeAgency/notinsitemap) -  (3 days ago)
@@ -83,7 +84,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The best React-based framework with performance, scalability and security built in. (2 weeks ago)
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚ (2 weeks ago)
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React (2 weeks ago)
-- [Nabhag8848/openstatus-raycast-extension](https://github.com/Nabhag8848/openstatus-raycast-extension) - Blazingly Fast Monitor with Status Reports Management, Raycast Extension for @OpenStatusHQ (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
