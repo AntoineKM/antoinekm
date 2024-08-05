@@ -44,9 +44,9 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [onRuntime/onruntime-docs](https://github.com/onRuntime/onruntime-docs) -  (1 week ago)
 - [AntoineKM/shouldideploytoday](https://github.com/AntoineKM/shouldideploytoday) - This is a simple school project made with Next.js and Kitchen. (1 week ago)
 - [AntoineKM/get-cities](https://github.com/AntoineKM/get-cities) -  (1 week ago)
+- [AntoineKM/kitchn-gatsby-v4](https://github.com/AntoineKM/kitchn-gatsby-v4) -  (2 weeks ago)
+- [AntoineKM/kitchn-next-pre-v1](https://github.com/AntoineKM/kitchn-next-pre-v1) -  (2 weeks ago)
 - [AntoineKM/code-hike-remotion](https://github.com/AntoineKM/code-hike-remotion) -  (2 weeks ago)
-- [AntoineKM/notinsitemap-concept](https://github.com/AntoineKM/notinsitemap-concept) -  (2 weeks ago)
-- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (4 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
