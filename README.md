@@ -37,8 +37,8 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
+- [ArkeeAgency/notinsitemap](https://github.com/ArkeeAgency/notinsitemap) -  (today)
 - [tonightpass/kitchn](https://github.com/tonightpass/kitchn) - @tonightpass delicious React @styled-components (1 day ago)
-- [ArkeeAgency/notinsitemap](https://github.com/ArkeeAgency/notinsitemap) -  (2 days ago)
 - [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (5 days ago)
 - [onRuntime/onruntime-og-image](https://github.com/onRuntime/onruntime-og-image) - About Open Graph Image as a Service - generate cards for Twitter, Facebook, Slack, etc (6 days ago)
 - [onRuntime/onruntime-docs](https://github.com/onRuntime/onruntime-docs) -  (1 week ago)
