@@ -74,6 +74,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
+- [lhl/voicechat2](https://github.com/lhl/voicechat2) - Local SRT/LLM/TTS Voicechat (today)
 - [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The powerful framework for building documentation sites in Next.js. (1 day ago)
 - [RebeccaStevens/deepmerge-ts](https://github.com/RebeccaStevens/deepmerge-ts) - Deeply merge 2 or more objects respecting type information. (3 days ago)
 - [fastify/deepmerge](https://github.com/fastify/deepmerge) - Merges the enumerable properties of two or more objects deeply. Fastest implementation of deepmerge (3 days ago)
@@ -83,7 +84,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [styled-components/xstyled](https://github.com/styled-components/xstyled) - A utility-first CSS-in-JS framework built for React. 💅👩‍🎤⚡️ (1 week ago)
 - [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The best React-based framework with performance, scalability and security built in. (2 weeks ago)
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚ (2 weeks ago)
-- [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
