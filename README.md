@@ -37,6 +37,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
+- [AntoineKM/styled-components-props-value](https://github.com/AntoineKM/styled-components-props-value) - Created with CodeSandbox (today)
 - [ArkeeAgency/notinsitemap](https://github.com/ArkeeAgency/notinsitemap) -  (1 day ago)
 - [tonightpass/kitchn](https://github.com/tonightpass/kitchn) - @tonightpass delicious React @styled-components (2 days ago)
 - [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (6 days ago)
@@ -46,7 +47,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [AntoineKM/get-cities](https://github.com/AntoineKM/get-cities) -  (2 weeks ago)
 - [AntoineKM/kitchn-gatsby-v4](https://github.com/AntoineKM/kitchn-gatsby-v4) -  (2 weeks ago)
 - [AntoineKM/kitchn-next-pre-v1](https://github.com/AntoineKM/kitchn-next-pre-v1) -  (2 weeks ago)
-- [AntoineKM/code-hike-remotion](https://github.com/AntoineKM/code-hike-remotion) -  (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
