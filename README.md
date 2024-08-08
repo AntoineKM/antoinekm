@@ -37,9 +37,9 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
+- [tonightpass/kitchn](https://github.com/tonightpass/kitchn) - @tonightpass delicious React @styled-components (today)
 - [AntoineKM/styled-components-props-value](https://github.com/AntoineKM/styled-components-props-value) - Created with CodeSandbox (1 day ago)
 - [ArkeeAgency/notinsitemap](https://github.com/ArkeeAgency/notinsitemap) -  (2 days ago)
-- [tonightpass/kitchn](https://github.com/tonightpass/kitchn) - @tonightpass delicious React @styled-components (3 days ago)
 - [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (1 week ago)
 - [onRuntime/onruntime-og-image](https://github.com/onRuntime/onruntime-og-image) - About Open Graph Image as a Service - generate cards for Twitter, Facebook, Slack, etc (1 week ago)
 - [onRuntime/onruntime-docs](https://github.com/onRuntime/onruntime-docs) -  (1 week ago)
@@ -50,8 +50,8 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔭 Latest releases I've contributed to
 
+- [tonightpass/kitchn](https://github.com/tonightpass/kitchn) ([kitchn@1.0.1](https://github.com/tonightpass/kitchn/releases/tag/kitchn%401.0.1), today) - @tonightpass delicious React @styled-components
 - [qotum/qotum](https://github.com/qotum/qotum) ([@qotum/panda-preset@1.1.5](https://github.com/qotum/qotum/releases/tag/%40qotum/panda-preset%401.1.5), today) - @qotum&#39;s usefull tools 🧰
-- [tonightpass/kitchn](https://github.com/tonightpass/kitchn) ([kitchn@1.0.0](https://github.com/tonightpass/kitchn/releases/tag/kitchn%401.0.0), 3 days ago) - @tonightpass delicious React @styled-components
 - [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) ([v0.4.0](https://github.com/goenning/google-indexing-script/releases/tag/v0.4.0), 1 month ago) - Script to get your site indexed on Google in less than 48 hours
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/react@0.0.49](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/react%400.0.49), 1 month ago) - @tonightpass sdk and tools.
 - [AntoineKM/dixt](https://github.com/AntoineKM/dixt) ([dixt-plugin-worktime@2.1.17](https://github.com/AntoineKM/dixt/releases/tag/dixt-plugin-worktime%402.1.17), 3 months ago) - The Discord Framework
@@ -61,6 +61,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
+- [🐛 fix console errors](https://github.com/tonightpass/kitchn/pull/617) on [tonightpass/kitchn](https://github.com/tonightpass/kitchn) (today)
 - [✨ add snippet](https://github.com/tonightpass/kitchn/pull/583) on [tonightpass/kitchn](https://github.com/tonightpass/kitchn) (2 weeks ago)
 - [Add Kitchn](https://github.com/lucianomlima/react-ui-kits/pull/22) on [lucianomlima/react-ui-kits](https://github.com/lucianomlima/react-ui-kits) (2 weeks ago)
 - [✨ add switch](https://github.com/tonightpass/kitchn/pull/580) on [tonightpass/kitchn](https://github.com/tonightpass/kitchn) (2 weeks ago)
@@ -70,7 +71,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [Fix turbo and pnpm workspaces](https://github.com/qotum/qotum/pull/3) on [qotum/qotum](https://github.com/qotum/qotum) (1 month ago)
 - [🎨 improve draw to ensures that all cells have an equal chance of catching fire](https://github.com/YounesBessa/forest-fire-simulator/pull/2) on [YounesBessa/forest-fire-simulator](https://github.com/YounesBessa/forest-fire-simulator) (1 month ago)
 - [add ability to restart](https://github.com/aurelilys/connect4/pull/3) on [aurelilys/connect4](https://github.com/aurelilys/connect4) (1 month ago)
-- [add custom urls option](https://github.com/goenning/google-indexing-script/pull/65) on [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) (1 month ago)
 
 #### ⭐ Recent Stars
 
