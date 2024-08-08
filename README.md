@@ -50,8 +50,8 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔭 Latest releases I've contributed to
 
+- [qotum/qotum](https://github.com/qotum/qotum) ([@qotum/panda-preset@1.1.5](https://github.com/qotum/qotum/releases/tag/%40qotum/panda-preset%401.1.5), today) - @qotum&#39;s usefull tools 🧰
 - [tonightpass/kitchn](https://github.com/tonightpass/kitchn) ([kitchn@1.0.0](https://github.com/tonightpass/kitchn/releases/tag/kitchn%401.0.0), 3 days ago) - @tonightpass delicious React @styled-components
-- [qotum/qotum](https://github.com/qotum/qotum) ([@qotum/panda-preset@1.1.4](https://github.com/qotum/qotum/releases/tag/%40qotum/panda-preset%401.1.4), 5 days ago) - @qotum&#39;s usefull tools 🧰
 - [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) ([v0.4.0](https://github.com/goenning/google-indexing-script/releases/tag/v0.4.0), 1 month ago) - Script to get your site indexed on Google in less than 48 hours
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/react@0.0.49](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/react%400.0.49), 1 month ago) - @tonightpass sdk and tools.
 - [AntoineKM/dixt](https://github.com/AntoineKM/dixt) ([dixt-plugin-worktime@2.1.17](https://github.com/AntoineKM/dixt/releases/tag/dixt-plugin-worktime%402.1.17), 3 months ago) - The Discord Framework
