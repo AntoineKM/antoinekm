@@ -37,10 +37,10 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
-- [AntoineKM/styled-components-props-value](https://github.com/AntoineKM/styled-components-props-value) - Created with CodeSandbox (today)
-- [ArkeeAgency/notinsitemap](https://github.com/ArkeeAgency/notinsitemap) -  (1 day ago)
-- [tonightpass/kitchn](https://github.com/tonightpass/kitchn) - @tonightpass delicious React @styled-components (2 days ago)
-- [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (6 days ago)
+- [AntoineKM/styled-components-props-value](https://github.com/AntoineKM/styled-components-props-value) - Created with CodeSandbox (1 day ago)
+- [ArkeeAgency/notinsitemap](https://github.com/ArkeeAgency/notinsitemap) -  (2 days ago)
+- [tonightpass/kitchn](https://github.com/tonightpass/kitchn) - @tonightpass delicious React @styled-components (3 days ago)
+- [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (1 week ago)
 - [onRuntime/onruntime-og-image](https://github.com/onRuntime/onruntime-og-image) - About Open Graph Image as a Service - generate cards for Twitter, Facebook, Slack, etc (1 week ago)
 - [onRuntime/onruntime-docs](https://github.com/onRuntime/onruntime-docs) -  (1 week ago)
 - [AntoineKM/shouldideploytoday](https://github.com/AntoineKM/shouldideploytoday) - This is a simple school project made with Next.js and Kitchen. (1 week ago)
@@ -50,8 +50,8 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔭 Latest releases I've contributed to
 
-- [tonightpass/kitchn](https://github.com/tonightpass/kitchn) ([kitchn@1.0.0](https://github.com/tonightpass/kitchn/releases/tag/kitchn%401.0.0), 2 days ago) - @tonightpass delicious React @styled-components
-- [qotum/qotum](https://github.com/qotum/qotum) ([@qotum/panda-preset@1.1.4](https://github.com/qotum/qotum/releases/tag/%40qotum/panda-preset%401.1.4), 4 days ago) - @qotum&#39;s usefull tools 🧰
+- [tonightpass/kitchn](https://github.com/tonightpass/kitchn) ([kitchn@1.0.0](https://github.com/tonightpass/kitchn/releases/tag/kitchn%401.0.0), 3 days ago) - @tonightpass delicious React @styled-components
+- [qotum/qotum](https://github.com/qotum/qotum) ([@qotum/panda-preset@1.1.4](https://github.com/qotum/qotum/releases/tag/%40qotum/panda-preset%401.1.4), 5 days ago) - @qotum&#39;s usefull tools 🧰
 - [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) ([v0.4.0](https://github.com/goenning/google-indexing-script/releases/tag/v0.4.0), 1 month ago) - Script to get your site indexed on Google in less than 48 hours
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/react@0.0.49](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/react%400.0.49), 1 month ago) - @tonightpass sdk and tools.
 - [AntoineKM/dixt](https://github.com/AntoineKM/dixt) ([dixt-plugin-worktime@2.1.17](https://github.com/AntoineKM/dixt/releases/tag/dixt-plugin-worktime%402.1.17), 3 months ago) - The Discord Framework
@@ -61,7 +61,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
-- [✨ add snippet](https://github.com/tonightpass/kitchn/pull/583) on [tonightpass/kitchn](https://github.com/tonightpass/kitchn) (1 week ago)
+- [✨ add snippet](https://github.com/tonightpass/kitchn/pull/583) on [tonightpass/kitchn](https://github.com/tonightpass/kitchn) (2 weeks ago)
 - [Add Kitchn](https://github.com/lucianomlima/react-ui-kits/pull/22) on [lucianomlima/react-ui-kits](https://github.com/lucianomlima/react-ui-kits) (2 weeks ago)
 - [✨ add switch](https://github.com/tonightpass/kitchn/pull/580) on [tonightpass/kitchn](https://github.com/tonightpass/kitchn) (2 weeks ago)
 - [Add `defineConfig` function to `next/config`](https://github.com/vercel/next.js/pull/67963) on [vercel/next.js](https://github.com/vercel/next.js) (2 weeks ago)
@@ -74,14 +74,14 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
-- [lhl/voicechat2](https://github.com/lhl/voicechat2) - Local SRT/LLM/TTS Voicechat (1 day ago)
-- [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The powerful framework for building documentation sites in Next.js. (2 days ago)
-- [RebeccaStevens/deepmerge-ts](https://github.com/RebeccaStevens/deepmerge-ts) - Deeply merge 2 or more objects respecting type information. (4 days ago)
-- [fastify/deepmerge](https://github.com/fastify/deepmerge) - Merges the enumerable properties of two or more objects deeply. Fastest implementation of deepmerge (4 days ago)
-- [ArkeeAgency/notinsitemap](https://github.com/ArkeeAgency/notinsitemap) -  (5 days ago)
+- [lhl/voicechat2](https://github.com/lhl/voicechat2) - Local SRT/LLM/TTS Voicechat (2 days ago)
+- [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The powerful framework for building documentation sites in Next.js. (3 days ago)
+- [RebeccaStevens/deepmerge-ts](https://github.com/RebeccaStevens/deepmerge-ts) - Deeply merge 2 or more objects respecting type information. (5 days ago)
+- [fastify/deepmerge](https://github.com/fastify/deepmerge) - Merges the enumerable properties of two or more objects deeply. Fastest implementation of deepmerge (5 days ago)
+- [ArkeeAgency/notinsitemap](https://github.com/ArkeeAgency/notinsitemap) -  (6 days ago)
 - [vercel/platforms](https://github.com/vercel/platforms) - A full-stack Next.js app with multi-tenancy and custom domain support. Built with Next.js App Router and the Vercel Domains API. (1 week ago)
 - [shardsworld/shards-website](https://github.com/shardsworld/shards-website) - The Website for Shards World (1 week ago)
-- [styled-components/xstyled](https://github.com/styled-components/xstyled) - A utility-first CSS-in-JS framework built for React. 💅👩‍🎤⚡️ (1 week ago)
+- [styled-components/xstyled](https://github.com/styled-components/xstyled) - A utility-first CSS-in-JS framework built for React. 💅👩‍🎤⚡️ (2 weeks ago)
 - [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The best React-based framework with performance, scalability and security built in. (2 weeks ago)
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚ (2 weeks ago)
 
