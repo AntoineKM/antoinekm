@@ -37,6 +37,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
+- [AntoineKM/kitchn-next-app](https://github.com/AntoineKM/kitchn-next-app) -  (today)
 - [tonightpass/kitchn](https://github.com/tonightpass/kitchn) - @tonightpass delicious React @styled-components (today)
 - [AntoineKM/styled-components-props-value](https://github.com/AntoineKM/styled-components-props-value) - Created with CodeSandbox (2 days ago)
 - [ArkeeAgency/notinsitemap](https://github.com/ArkeeAgency/notinsitemap) -  (3 days ago)
@@ -46,11 +47,10 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [AntoineKM/shouldideploytoday](https://github.com/AntoineKM/shouldideploytoday) - This is a simple school project made with Next.js and Kitchen. (2 weeks ago)
 - [AntoineKM/get-cities](https://github.com/AntoineKM/get-cities) -  (2 weeks ago)
 - [AntoineKM/kitchn-gatsby-v4](https://github.com/AntoineKM/kitchn-gatsby-v4) -  (2 weeks ago)
-- [AntoineKM/kitchn-next-pre-v1](https://github.com/AntoineKM/kitchn-next-pre-v1) -  (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [tonightpass/kitchn](https://github.com/tonightpass/kitchn) ([kitchn@1.1.1](https://github.com/tonightpass/kitchn/releases/tag/kitchn%401.1.1), today) - @tonightpass delicious React @styled-components
+- [tonightpass/kitchn](https://github.com/tonightpass/kitchn) ([kitchn@1.1.2](https://github.com/tonightpass/kitchn/releases/tag/kitchn%401.1.2), today) - @tonightpass delicious React @styled-components
 - [qotum/qotum](https://github.com/qotum/qotum) ([@qotum/panda-preset@1.1.5](https://github.com/qotum/qotum/releases/tag/%40qotum/panda-preset%401.1.5), 1 day ago) - @qotum&#39;s usefull tools 🧰
 - [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) ([v0.4.0](https://github.com/goenning/google-indexing-script/releases/tag/v0.4.0), 1 month ago) - Script to get your site indexed on Google in less than 48 hours
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/react@0.0.49](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/react%400.0.49), 1 month ago) - @tonightpass sdk and tools.
