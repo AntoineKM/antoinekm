@@ -37,8 +37,8 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
+- [tonightpass/kitchn](https://github.com/tonightpass/kitchn) - @tonightpass delicious React @styled-components (today)
 - [AntoineKM/kitchn-next-app](https://github.com/AntoineKM/kitchn-next-app) -  (2 days ago)
-- [tonightpass/kitchn](https://github.com/tonightpass/kitchn) - @tonightpass delicious React @styled-components (2 days ago)
 - [AntoineKM/styled-components-props-value](https://github.com/AntoineKM/styled-components-props-value) - Created with CodeSandbox (4 days ago)
 - [ArkeeAgency/notinsitemap](https://github.com/ArkeeAgency/notinsitemap) -  (5 days ago)
 - [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (1 week ago)
