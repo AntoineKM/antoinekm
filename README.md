@@ -37,8 +37,8 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
-- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (today)
-- [tonightpass/kitchn](https://github.com/tonightpass/kitchn) - @tonightpass delicious React @styled-components (today)
+- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (1 day ago)
+- [tonightpass/kitchn](https://github.com/tonightpass/kitchn) - @tonightpass delicious React @styled-components (1 day ago)
 - [AntoineKM/kitchn-next-app](https://github.com/AntoineKM/kitchn-next-app) -  (2 weeks ago)
 - [AntoineKM/styled-components-props-value](https://github.com/AntoineKM/styled-components-props-value) - Created with CodeSandbox (2 weeks ago)
 - [ArkeeAgency/notinsitemap](https://github.com/ArkeeAgency/notinsitemap) -  (2 weeks ago)
@@ -50,20 +50,20 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔭 Latest releases I've contributed to
 
-- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/nest@0.0.42](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/nest%400.0.42), 1 day ago) - @tonightpass sdk and tools.
+- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/nest@0.0.42](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/nest%400.0.42), 2 days ago) - @tonightpass sdk and tools.
 - [tonightpass/kitchn](https://github.com/tonightpass/kitchn) ([kitchn@1.1.7](https://github.com/tonightpass/kitchn/releases/tag/kitchn%401.1.7), 1 week ago) - @tonightpass delicious React @styled-components
 - [qotum/qotum](https://github.com/qotum/qotum) ([@qotum/panda-preset@1.1.10](https://github.com/qotum/qotum/releases/tag/%40qotum/panda-preset%401.1.10), 1 week ago) - @qotum&#39;s usefull tools 🧰
 - [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) ([v0.4.0](https://github.com/goenning/google-indexing-script/releases/tag/v0.4.0), 1 month ago) - Script to get your site indexed on Google in less than 48 hours
 - [AntoineKM/dixt](https://github.com/AntoineKM/dixt) ([dixt-plugin-worktime@2.1.17](https://github.com/AntoineKM/dixt/releases/tag/dixt-plugin-worktime%402.1.17), 3 months ago) - The Discord Framework
 - [towfiqi/serpbear](https://github.com/towfiqi/serpbear) ([v2.0.2](https://github.com/towfiqi/serpbear/releases/tag/v2.0.2), 5 months ago) - Search Engine Position Rank Tracking App
-- [AntoineKM/antoine](https://github.com/AntoineKM/antoine) ([eslint-config-antoine@1.0.14](https://github.com/AntoineKM/antoine/releases/tag/eslint-config-antoine%401.0.14), 5 months ago) - cool tools to code like me.
+- [AntoineKM/antoine](https://github.com/AntoineKM/antoine) ([eslint-config-antoine@1.0.14](https://github.com/AntoineKM/antoine/releases/tag/eslint-config-antoine%401.0.14), 6 months ago) - cool tools to code like me.
 - [onRuntime/kartrak](https://github.com/onRuntime/kartrak) ([v0.0.9](https://github.com/onRuntime/kartrak/releases/tag/v0.0.9), 8 months ago) - Le suivi d&#39;activité tourné vers l&#39;écologie.
 
 #### 🔨 My recent Pull Requests
 
 - [✨ add nextjs app router support](https://github.com/tonightpass/kitchn/pull/619) on [tonightpass/kitchn](https://github.com/tonightpass/kitchn) (2 weeks ago)
 - [🐛 fix console errors](https://github.com/tonightpass/kitchn/pull/617) on [tonightpass/kitchn](https://github.com/tonightpass/kitchn) (2 weeks ago)
-- [✨ add snippet](https://github.com/tonightpass/kitchn/pull/583) on [tonightpass/kitchn](https://github.com/tonightpass/kitchn) (4 weeks ago)
+- [✨ add snippet](https://github.com/tonightpass/kitchn/pull/583) on [tonightpass/kitchn](https://github.com/tonightpass/kitchn) (1 month ago)
 - [Add Kitchn](https://github.com/lucianomlima/react-ui-kits/pull/22) on [lucianomlima/react-ui-kits](https://github.com/lucianomlima/react-ui-kits) (1 month ago)
 - [✨ add switch](https://github.com/tonightpass/kitchn/pull/580) on [tonightpass/kitchn](https://github.com/tonightpass/kitchn) (1 month ago)
 - [Add `defineConfig` function to `next/config`](https://github.com/vercel/next.js/pull/67963) on [vercel/next.js](https://github.com/vercel/next.js) (1 month ago)
@@ -74,16 +74,16 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
-- [mikro-orm/nestjs-realworld-example-app](https://github.com/mikro-orm/nestjs-realworld-example-app) - Example real world backend API built with NestJS &#43; MikroORM (3 days ago)
-- [nmmapper/dnsdumpster](https://github.com/nmmapper/dnsdumpster) - A tool to perform DNS reconnaissance on target networks. Among the DNS information got from include subdomains, mx records, web application firewall detection and more fingerprinting and lookups (4 days ago)
-- [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration &amp; Revenue analytics (6 days ago)
+- [mikro-orm/nestjs-realworld-example-app](https://github.com/mikro-orm/nestjs-realworld-example-app) - Example real world backend API built with NestJS &#43; MikroORM (4 days ago)
+- [nmmapper/dnsdumpster](https://github.com/nmmapper/dnsdumpster) - A tool to perform DNS reconnaissance on target networks. Among the DNS information got from include subdomains, mx records, web application firewall detection and more fingerprinting and lookups (5 days ago)
+- [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration &amp; Revenue analytics (1 week ago)
 - [bick/placeholder](https://github.com/bick/placeholder) - Ridiculously simple and lightweight placeholders (1 week ago)
 - [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching (1 week ago)
 - [ambianic/peerfetch](https://github.com/ambianic/peerfetch) - Peer-to-peer HTTP over WebRTC. (2 weeks ago)
 - [lhl/voicechat2](https://github.com/lhl/voicechat2) - Local SRT/LLM/TTS Voicechat (2 weeks ago)
 - [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The powerful framework for building documentation sites in Next.js. (2 weeks ago)
-- [RebeccaStevens/deepmerge-ts](https://github.com/RebeccaStevens/deepmerge-ts) - Deeply merge 2 or more objects respecting type information. (2 weeks ago)
-- [fastify/deepmerge](https://github.com/fastify/deepmerge) - Merges the enumerable properties of two or more objects deeply. Fastest implementation of deepmerge (2 weeks ago)
+- [RebeccaStevens/deepmerge-ts](https://github.com/RebeccaStevens/deepmerge-ts) - Deeply merge 2 or more objects respecting type information. (3 weeks ago)
+- [fastify/deepmerge](https://github.com/fastify/deepmerge) - Merges the enumerable properties of two or more objects deeply. Fastest implementation of deepmerge (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
