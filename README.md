@@ -81,7 +81,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching (2 weeks ago)
 - [ambianic/peerfetch](https://github.com/ambianic/peerfetch) - Peer-to-peer HTTP over WebRTC. (3 weeks ago)
 - [lhl/voicechat2](https://github.com/lhl/voicechat2) - Local SRT/LLM/TTS Voicechat (3 weeks ago)
-- [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The powerful framework for building documentation sites in Next.js. (3 weeks ago)
+- [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The powerful docs framework based on Next.js (3 weeks ago)
 - [RebeccaStevens/deepmerge-ts](https://github.com/RebeccaStevens/deepmerge-ts) - Deeply merge 2 or more objects respecting type information. (3 weeks ago)
 - [fastify/deepmerge](https://github.com/fastify/deepmerge) - Merges the enumerable properties of two or more objects deeply. Fastest implementation of deepmerge (3 weeks ago)
 
