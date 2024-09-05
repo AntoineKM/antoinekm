@@ -74,6 +74,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
+- [thindHarminder/ssr-cf-pages-weather-app-demo](https://github.com/thindHarminder/ssr-cf-pages-weather-app-demo) - Render API data dynamically in Webflow site using Cloudflare Pages (today)
 - [mikro-orm/nestjs-realworld-example-app](https://github.com/mikro-orm/nestjs-realworld-example-app) - Example real world backend API built with NestJS &#43; MikroORM (2 weeks ago)
 - [nmmapper/dnsdumpster](https://github.com/nmmapper/dnsdumpster) - A tool to perform DNS reconnaissance on target networks. Among the DNS information got from include subdomains, mx records, web application firewall detection and more fingerprinting and lookups (2 weeks ago)
 - [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration &amp; Revenue analytics (2 weeks ago)
@@ -83,7 +84,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [lhl/voicechat2](https://github.com/lhl/voicechat2) - Local SRT/LLM/TTS Voicechat (1 month ago)
 - [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The powerful docs framework based on Next.js (1 month ago)
 - [RebeccaStevens/deepmerge-ts](https://github.com/RebeccaStevens/deepmerge-ts) - Deeply merge 2 or more objects respecting type information. (1 month ago)
-- [fastify/deepmerge](https://github.com/fastify/deepmerge) - Merges the enumerable properties of two or more objects deeply. Fastest implementation of deepmerge (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
