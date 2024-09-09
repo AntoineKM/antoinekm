@@ -37,6 +37,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
+- [needforschool/fesipop](https://github.com/needforschool/fesipop) -  (today)
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (2 days ago)
 - [tonightpass/kitchn](https://github.com/tonightpass/kitchn) - @tonightpass delicious React @styled-components (4 days ago)
 - [AntoineKM/kitchn-next-app](https://github.com/AntoineKM/kitchn-next-app) -  (1 month ago)
@@ -46,7 +47,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [onRuntime/onruntime-og-image](https://github.com/onRuntime/onruntime-og-image) - About Open Graph Image as a Service - generate cards for Twitter, Facebook, Slack, etc (1 month ago)
 - [onRuntime/onruntime-docs](https://github.com/onRuntime/onruntime-docs) -  (1 month ago)
 - [AntoineKM/shouldideploytoday](https://github.com/AntoineKM/shouldideploytoday) - This is a simple school project made with Next.js and Kitchen. (1 month ago)
-- [AntoineKM/get-cities](https://github.com/AntoineKM/get-cities) -  (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -74,6 +74,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
+- [byCedric/expo-monorepo-example](https://github.com/byCedric/expo-monorepo-example) - Fast pnpm monorepo for cross-platform apps built with Expo / React Native and React. (today)
 - [thindHarminder/ssr-cf-pages-weather-app-demo](https://github.com/thindHarminder/ssr-cf-pages-weather-app-demo) - Render API data dynamically in Webflow site using Cloudflare Pages (4 days ago)
 - [mikro-orm/nestjs-realworld-example-app](https://github.com/mikro-orm/nestjs-realworld-example-app) - Example real world backend API built with NestJS &#43; MikroORM (2 weeks ago)
 - [nmmapper/dnsdumpster](https://github.com/nmmapper/dnsdumpster) - A tool to perform DNS reconnaissance on target networks. Among the DNS information got from include subdomains, mx records, web application firewall detection and more fingerprinting and lookups (3 weeks ago)
@@ -83,7 +84,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [ambianic/peerfetch](https://github.com/ambianic/peerfetch) - Peer-to-peer HTTP over WebRTC. (1 month ago)
 - [lhl/voicechat2](https://github.com/lhl/voicechat2) - Local SRT/LLM/TTS Voicechat (1 month ago)
 - [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful docs framework for Next.js. Alternative to Nextra (1 month ago)
-- [RebeccaStevens/deepmerge-ts](https://github.com/RebeccaStevens/deepmerge-ts) - Deeply merge 2 or more objects respecting type information. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
