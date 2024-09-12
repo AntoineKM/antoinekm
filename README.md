@@ -74,6 +74,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
+- [bidah/react-native-vercel-ai](https://github.com/bidah/react-native-vercel-ai) - 🤖 ⚛️ Run Vercel AI package on React Native and Expo universal native apps (Mobile and web) (today)
 - [black-forest-labs/flux](https://github.com/black-forest-labs/flux) - Official inference repo for FLUX.1 models (today)
 - [nolanlawson/fuite](https://github.com/nolanlawson/fuite) - A tool for finding memory leaks in web apps (3 days ago)
 - [byCedric/expo-monorepo-example](https://github.com/byCedric/expo-monorepo-example) - Fast pnpm monorepo for cross-platform apps built with Expo / React Native and React. (3 days ago)
@@ -83,7 +84,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration &amp; Revenue analytics (3 weeks ago)
 - [bick/placeholder](https://github.com/bick/placeholder) - Ridiculously simple and lightweight placeholders (4 weeks ago)
 - [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching (1 month ago)
-- [ambianic/peerfetch](https://github.com/ambianic/peerfetch) - Peer-to-peer HTTP over WebRTC. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
