@@ -37,11 +37,11 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
-- [needforschool/fesipop](https://github.com/needforschool/fesipop) -  (today)
-- [Thomasdelecluse/NFS-Mobile](https://github.com/Thomasdelecluse/NFS-Mobile) - ReactNative App (today)
-- [ArkeeAgency/ytg-ninja](https://github.com/ArkeeAgency/ytg-ninja) - The feature everyone want on YTG (2 days ago)
-- [tonightpass/kitchn](https://github.com/tonightpass/kitchn) - @tonightpass delicious React @styled-components (2 days ago)
-- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (6 days ago)
+- [needforschool/fesipop](https://github.com/needforschool/fesipop) -  (1 day ago)
+- [Thomasdelecluse/NFS-Mobile](https://github.com/Thomasdelecluse/NFS-Mobile) - ReactNative App (1 day ago)
+- [ArkeeAgency/ytg-ninja](https://github.com/ArkeeAgency/ytg-ninja) - The feature everyone want on YTG (3 days ago)
+- [tonightpass/kitchn](https://github.com/tonightpass/kitchn) - @tonightpass delicious React @styled-components (3 days ago)
+- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (1 week ago)
 - [AntoineKM/kitchn-next-app](https://github.com/AntoineKM/kitchn-next-app) -  (1 month ago)
 - [AntoineKM/styled-components-props-value](https://github.com/AntoineKM/styled-components-props-value) - Created with CodeSandbox (1 month ago)
 - [ArkeeAgency/notinsitemap](https://github.com/ArkeeAgency/notinsitemap) -  (1 month ago)
@@ -61,7 +61,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
-- [fix ci](https://github.com/needforschool/fesipop/pull/1) on [needforschool/fesipop](https://github.com/needforschool/fesipop) (3 days ago)
+- [fix ci](https://github.com/needforschool/fesipop/pull/1) on [needforschool/fesipop](https://github.com/needforschool/fesipop) (4 days ago)
 - [✨ add nextjs app router support](https://github.com/tonightpass/kitchn/pull/619) on [tonightpass/kitchn](https://github.com/tonightpass/kitchn) (1 month ago)
 - [🐛 fix console errors](https://github.com/tonightpass/kitchn/pull/617) on [tonightpass/kitchn](https://github.com/tonightpass/kitchn) (1 month ago)
 - [✨ add snippet](https://github.com/tonightpass/kitchn/pull/583) on [tonightpass/kitchn](https://github.com/tonightpass/kitchn) (1 month ago)
@@ -74,15 +74,15 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
-- [bidah/react-native-vercel-ai](https://github.com/bidah/react-native-vercel-ai) - 🤖 ⚛️ Run Vercel AI package on React Native and Expo universal native apps (Mobile and web) (1 day ago)
-- [black-forest-labs/flux](https://github.com/black-forest-labs/flux) - Official inference repo for FLUX.1 models (1 day ago)
-- [nolanlawson/fuite](https://github.com/nolanlawson/fuite) - A tool for finding memory leaks in web apps (4 days ago)
-- [byCedric/expo-monorepo-example](https://github.com/byCedric/expo-monorepo-example) - Fast pnpm monorepo for cross-platform apps built with Expo / React Native and React. (4 days ago)
+- [bidah/react-native-vercel-ai](https://github.com/bidah/react-native-vercel-ai) - 🤖 ⚛️ Run Vercel AI package on React Native and Expo universal native apps (Mobile and web) (2 days ago)
+- [black-forest-labs/flux](https://github.com/black-forest-labs/flux) - Official inference repo for FLUX.1 models (2 days ago)
+- [nolanlawson/fuite](https://github.com/nolanlawson/fuite) - A tool for finding memory leaks in web apps (5 days ago)
+- [byCedric/expo-monorepo-example](https://github.com/byCedric/expo-monorepo-example) - Fast pnpm monorepo for cross-platform apps built with Expo / React Native and React. (5 days ago)
 - [thindHarminder/ssr-cf-pages-weather-app-demo](https://github.com/thindHarminder/ssr-cf-pages-weather-app-demo) - Render API data dynamically in Webflow site using Cloudflare Pages (1 week ago)
 - [mikro-orm/nestjs-realworld-example-app](https://github.com/mikro-orm/nestjs-realworld-example-app) - Example real world backend API built with NestJS &#43; MikroORM (3 weeks ago)
 - [nmmapper/dnsdumpster](https://github.com/nmmapper/dnsdumpster) - A tool to perform DNS reconnaissance on target networks. Among the DNS information got from include subdomains, mx records, web application firewall detection and more fingerprinting and lookups (3 weeks ago)
-- [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration &amp; Revenue analytics (3 weeks ago)
-- [bick/placeholder](https://github.com/bick/placeholder) - Ridiculously simple and lightweight placeholders (4 weeks ago)
+- [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration &amp; Revenue analytics (4 weeks ago)
+- [bick/placeholder](https://github.com/bick/placeholder) - Ridiculously simple and lightweight placeholders (1 month ago)
 - [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching (1 month ago)
 
 #### 👯 Check out some of my recent followers
