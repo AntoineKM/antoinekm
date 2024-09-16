@@ -74,6 +74,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
+- [gojue/ecapture](https://github.com/gojue/ecapture) - Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64. (today)
 - [bidah/react-native-vercel-ai](https://github.com/bidah/react-native-vercel-ai) - 🤖 ⚛️ Run Vercel AI package on React Native and Expo universal native apps (Mobile and web) (4 days ago)
 - [black-forest-labs/flux](https://github.com/black-forest-labs/flux) - Official inference repo for FLUX.1 models (4 days ago)
 - [nolanlawson/fuite](https://github.com/nolanlawson/fuite) - A tool for finding memory leaks in web apps (1 week ago)
@@ -83,7 +84,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [nmmapper/dnsdumpster](https://github.com/nmmapper/dnsdumpster) - A tool to perform DNS reconnaissance on target networks. Among the DNS information got from include subdomains, mx records, web application firewall detection and more fingerprinting and lookups (4 weeks ago)
 - [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration &amp; Revenue analytics (1 month ago)
 - [bick/placeholder](https://github.com/bick/placeholder) - Ridiculously simple and lightweight placeholders (1 month ago)
-- [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
