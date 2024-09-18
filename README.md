@@ -37,9 +37,9 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
+- [tonightpass/kitchn](https://github.com/tonightpass/kitchn) - @tonightpass delicious React @styled-components (today)
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (2 days ago)
 - [tonightpass/.github](https://github.com/tonightpass/.github) -  (2 days ago)
-- [tonightpass/kitchn](https://github.com/tonightpass/kitchn) - @tonightpass delicious React @styled-components (2 days ago)
 - [needforschool/fesipop](https://github.com/needforschool/fesipop) -  (5 days ago)
 - [Thomasdelecluse/NFS-Mobile](https://github.com/Thomasdelecluse/NFS-Mobile) - ReactNative App (5 days ago)
 - [ArkeeAgency/ytg-ninja](https://github.com/ArkeeAgency/ytg-ninja) - The feature everyone want on YTG (1 week ago)
