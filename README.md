@@ -61,6 +61,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
+- [Handle undefined OAuth token pools gracefully](https://github.com/harlan-zw/request-indexing/pull/19) on [harlan-zw/request-indexing](https://github.com/harlan-zw/request-indexing) (today)
 - [fix ci](https://github.com/needforschool/fesipop/pull/1) on [needforschool/fesipop](https://github.com/needforschool/fesipop) (1 week ago)
 - [✨ add nextjs app router support](https://github.com/tonightpass/kitchn/pull/619) on [tonightpass/kitchn](https://github.com/tonightpass/kitchn) (1 month ago)
 - [🐛 fix console errors](https://github.com/tonightpass/kitchn/pull/617) on [tonightpass/kitchn](https://github.com/tonightpass/kitchn) (1 month ago)
@@ -70,7 +71,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [Add `defineConfig` function to `next/config`](https://github.com/vercel/next.js/pull/67963) on [vercel/next.js](https://github.com/vercel/next.js) (2 months ago)
 - [chore(gatsby-plugin-styled-components): update to styled-components v6](https://github.com/gatsbyjs/gatsby/pull/39047) on [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) (2 months ago)
 - [improve cli with commander](https://github.com/goenning/google-indexing-script/pull/68) on [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) (2 months ago)
-- [Fix turbo and pnpm workspaces](https://github.com/qotum/qotum/pull/3) on [qotum/qotum](https://github.com/qotum/qotum) (2 months ago)
 
 #### ⭐ Recent Stars
 
