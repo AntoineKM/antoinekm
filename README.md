@@ -74,6 +74,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
+- [wxt-dev/wxt](https://github.com/wxt-dev/wxt) - ⚡ Next-gen Web Extension Framework (today)
 - [voideditor/void](https://github.com/voideditor/void) -  (1 week ago)
 - [web-infra-dev/rspress](https://github.com/web-infra-dev/rspress) - 🦀💨 A fast Rspack-based static site generator. (1 week ago)
 - [gojue/ecapture](https://github.com/gojue/ecapture) - Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64. (2 weeks ago)
@@ -83,7 +84,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [byCedric/expo-monorepo-example](https://github.com/byCedric/expo-monorepo-example) - Fast pnpm monorepo for cross-platform apps built with Expo / React Native and React. (3 weeks ago)
 - [thindHarminder/ssr-cf-pages-weather-app-demo](https://github.com/thindHarminder/ssr-cf-pages-weather-app-demo) - Render API data dynamically in Webflow site using Cloudflare Pages (3 weeks ago)
 - [mikro-orm/nestjs-realworld-example-app](https://github.com/mikro-orm/nestjs-realworld-example-app) - Example real world backend API built with NestJS &#43; MikroORM (1 month ago)
-- [nmmapper/dnsdumpster](https://github.com/nmmapper/dnsdumpster) - A tool to perform DNS reconnaissance on target networks. Among the DNS information got from include subdomains, mx records, web application firewall detection and more fingerprinting and lookups (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
