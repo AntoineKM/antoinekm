@@ -37,16 +37,16 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
+- [AntoineKM/dixt](https://github.com/AntoineKM/dixt) - The Discord Framework (today)
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (4 days ago)
-- [tonightpass/kitchn](https://github.com/tonightpass/kitchn) - @tonightpass delicious React @styled-components (5 days ago)
 - [harlan-zw/request-indexing](https://github.com/harlan-zw/request-indexing) - Find your missing on pages Google and request them to be indexed using the Web Search Indexing API. (5 days ago)
+- [tonightpass/kitchn](https://github.com/tonightpass/kitchn) - @tonightpass delicious React @styled-components (5 days ago)
 - [lucianomlima/react-ui-kits](https://github.com/lucianomlima/react-ui-kits) - A list of UI Kits available for React and React Native. (6 days ago)
 - [tonightpass/.github](https://github.com/tonightpass/.github) -  (2 weeks ago)
-- [Thomasdelecluse/NFS-Mobile](https://github.com/Thomasdelecluse/NFS-Mobile) - ReactNative App (3 weeks ago)
 - [needforschool/fesipop](https://github.com/needforschool/fesipop) -  (3 weeks ago)
+- [Thomasdelecluse/NFS-Mobile](https://github.com/Thomasdelecluse/NFS-Mobile) - ReactNative App (3 weeks ago)
 - [ArkeeAgency/ytg-ninja](https://github.com/ArkeeAgency/ytg-ninja) - The feature everyone want on YTG (3 weeks ago)
 - [AntoineKM/kitchn-next-app](https://github.com/AntoineKM/kitchn-next-app) -  (1 month ago)
-- [AntoineKM/styled-components-props-value](https://github.com/AntoineKM/styled-components-props-value) - Created with CodeSandbox (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -74,6 +74,8 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
+- [mscharley/dependency-changesets-action](https://github.com/mscharley/dependency-changesets-action) - Github Action to publish changesets to dependency update PR&#39;s (today)
+- [teslamotors/ttpoe](https://github.com/teslamotors/ttpoe) -  (today)
 - [dkpfm/minitap](https://github.com/dkpfm/minitap) - A fun sequencer that runs as a Chrome Extension. (1 day ago)
 - [wxt-dev/wxt](https://github.com/wxt-dev/wxt) - ⚡ Next-gen Web Extension Framework (4 days ago)
 - [voideditor/void](https://github.com/voideditor/void) -  (2 weeks ago)
@@ -82,8 +84,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [bidah/react-native-vercel-ai](https://github.com/bidah/react-native-vercel-ai) - 🤖 ⚛️ Run Vercel AI package on React Native and Expo universal native apps (Mobile and web) (3 weeks ago)
 - [black-forest-labs/flux](https://github.com/black-forest-labs/flux) - Official inference repo for FLUX.1 models (3 weeks ago)
 - [nolanlawson/fuite](https://github.com/nolanlawson/fuite) - A tool for finding memory leaks in web apps (3 weeks ago)
-- [byCedric/expo-monorepo-example](https://github.com/byCedric/expo-monorepo-example) - Fast pnpm monorepo for cross-platform apps built with Expo / React Native and React. (3 weeks ago)
-- [thindHarminder/ssr-cf-pages-weather-app-demo](https://github.com/thindHarminder/ssr-cf-pages-weather-app-demo) - Render API data dynamically in Webflow site using Cloudflare Pages (4 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
