@@ -38,11 +38,11 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 #### 👷 Check out what I'm currently working on
 
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (today)
-- [AntoineKM/dixt](https://github.com/AntoineKM/dixt) - The Discord Framework (1 day ago)
+- [AntoineKM/dixt](https://github.com/AntoineKM/dixt) - The Discord Framework (2 days ago)
 - [harlan-zw/request-indexing](https://github.com/harlan-zw/request-indexing) - Find your missing on pages Google and request them to be indexed using the Web Search Indexing API. (1 week ago)
 - [tonightpass/kitchn](https://github.com/tonightpass/kitchn) - @tonightpass delicious React @styled-components (1 week ago)
 - [lucianomlima/react-ui-kits](https://github.com/lucianomlima/react-ui-kits) - A list of UI Kits available for React and React Native. (1 week ago)
-- [tonightpass/.github](https://github.com/tonightpass/.github) -  (2 weeks ago)
+- [tonightpass/.github](https://github.com/tonightpass/.github) -  (3 weeks ago)
 - [needforschool/fesipop](https://github.com/needforschool/fesipop) -  (3 weeks ago)
 - [Thomasdelecluse/NFS-Mobile](https://github.com/Thomasdelecluse/NFS-Mobile) - ReactNative App (3 weeks ago)
 - [ArkeeAgency/ytg-ninja](https://github.com/ArkeeAgency/ytg-ninja) - The feature everyone want on YTG (3 weeks ago)
@@ -50,8 +50,8 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔭 Latest releases I've contributed to
 
-- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/nest@0.0.64](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/nest%400.0.64), today) - @tonightpass sdk and tools.
-- [AntoineKM/dixt](https://github.com/AntoineKM/dixt) ([dixt-plugin-worktime@2.1.18](https://github.com/AntoineKM/dixt/releases/tag/dixt-plugin-worktime%402.1.18), 1 day ago) - The Discord Framework
+- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/nest@0.0.64](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/nest%400.0.64), 1 day ago) - @tonightpass sdk and tools.
+- [AntoineKM/dixt](https://github.com/AntoineKM/dixt) ([dixt-plugin-worktime@2.1.18](https://github.com/AntoineKM/dixt/releases/tag/dixt-plugin-worktime%402.1.18), 2 days ago) - The Discord Framework
 - [tonightpass/kitchn](https://github.com/tonightpass/kitchn) ([kitchn@1.1.10](https://github.com/tonightpass/kitchn/releases/tag/kitchn%401.1.10), 1 month ago) - @tonightpass delicious React @styled-components
 - [qotum/qotum](https://github.com/qotum/qotum) ([@qotum/panda-preset@1.1.10](https://github.com/qotum/qotum/releases/tag/%40qotum/panda-preset%401.1.10), 1 month ago) - @qotum&#39;s usefull tools 🧰
 - [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) ([v0.4.0](https://github.com/goenning/google-indexing-script/releases/tag/v0.4.0), 3 months ago) - Script to get your site indexed on Google in less than 48 hours
@@ -62,10 +62,10 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 #### 🔨 My recent Pull Requests
 
 - [Fix gradient generation to reduce hue collisions for longer usernames](https://github.com/vercel/avatar/pull/53) on [vercel/avatar](https://github.com/vercel/avatar) (1 week ago)
-- [Handle undefined OAuth token pools gracefully](https://github.com/harlan-zw/request-indexing/pull/19) on [harlan-zw/request-indexing](https://github.com/harlan-zw/request-indexing) (1 week ago)
+- [Handle undefined OAuth token pools gracefully](https://github.com/harlan-zw/request-indexing/pull/19) on [harlan-zw/request-indexing](https://github.com/harlan-zw/request-indexing) (2 weeks ago)
 - [fix ci](https://github.com/needforschool/fesipop/pull/1) on [needforschool/fesipop](https://github.com/needforschool/fesipop) (3 weeks ago)
-- [✨ add nextjs app router support](https://github.com/tonightpass/kitchn/pull/619) on [tonightpass/kitchn](https://github.com/tonightpass/kitchn) (1 month ago)
-- [🐛 fix console errors](https://github.com/tonightpass/kitchn/pull/617) on [tonightpass/kitchn](https://github.com/tonightpass/kitchn) (1 month ago)
+- [✨ add nextjs app router support](https://github.com/tonightpass/kitchn/pull/619) on [tonightpass/kitchn](https://github.com/tonightpass/kitchn) (2 months ago)
+- [🐛 fix console errors](https://github.com/tonightpass/kitchn/pull/617) on [tonightpass/kitchn](https://github.com/tonightpass/kitchn) (2 months ago)
 - [✨ add snippet](https://github.com/tonightpass/kitchn/pull/583) on [tonightpass/kitchn](https://github.com/tonightpass/kitchn) (2 months ago)
 - [Add Kitchn](https://github.com/lucianomlima/react-ui-kits/pull/22) on [lucianomlima/react-ui-kits](https://github.com/lucianomlima/react-ui-kits) (2 months ago)
 - [✨ add switch](https://github.com/tonightpass/kitchn/pull/580) on [tonightpass/kitchn](https://github.com/tonightpass/kitchn) (2 months ago)
@@ -74,14 +74,14 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
-- [charmbracelet/freeze](https://github.com/charmbracelet/freeze) - Generate images of code and terminal output 📸 (1 day ago)
-- [mscharley/dependency-changesets-action](https://github.com/mscharley/dependency-changesets-action) - Github Action to publish changesets to dependency update PR&#39;s (2 days ago)
-- [teslamotors/ttpoe](https://github.com/teslamotors/ttpoe) -  (2 days ago)
-- [dkpfm/minitap](https://github.com/dkpfm/minitap) - A fun sequencer that runs as a Chrome Extension. (3 days ago)
-- [wxt-dev/wxt](https://github.com/wxt-dev/wxt) - ⚡ Next-gen Web Extension Framework (6 days ago)
+- [charmbracelet/freeze](https://github.com/charmbracelet/freeze) - Generate images of code and terminal output 📸 (2 days ago)
+- [mscharley/dependency-changesets-action](https://github.com/mscharley/dependency-changesets-action) - Github Action to publish changesets to dependency update PR&#39;s (3 days ago)
+- [teslamotors/ttpoe](https://github.com/teslamotors/ttpoe) -  (3 days ago)
+- [dkpfm/minitap](https://github.com/dkpfm/minitap) - A fun sequencer that runs as a Chrome Extension. (4 days ago)
+- [wxt-dev/wxt](https://github.com/wxt-dev/wxt) - ⚡ Next-gen Web Extension Framework (1 week ago)
 - [voideditor/void](https://github.com/voideditor/void) -  (2 weeks ago)
 - [web-infra-dev/rspress](https://github.com/web-infra-dev/rspress) - 🦀💨 A fast Rspack-based static site generator. (2 weeks ago)
-- [gojue/ecapture](https://github.com/gojue/ecapture) - Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64. (2 weeks ago)
+- [gojue/ecapture](https://github.com/gojue/ecapture) - Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64. (3 weeks ago)
 - [bidah/react-native-vercel-ai](https://github.com/bidah/react-native-vercel-ai) - 🤖 ⚛️ Run Vercel AI package on React Native and Expo universal native apps (Mobile and web) (3 weeks ago)
 - [black-forest-labs/flux](https://github.com/black-forest-labs/flux) - Official inference repo for FLUX.1 models (3 weeks ago)
 
