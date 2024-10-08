@@ -50,9 +50,9 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔭 Latest releases I've contributed to
 
+- [tonightpass/kitchn](https://github.com/tonightpass/kitchn) ([kitchn@1.1.11](https://github.com/tonightpass/kitchn/releases/tag/kitchn%401.1.11), today) - @tonightpass delicious React @styled-components
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/nest@0.0.64](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/nest%400.0.64), 2 days ago) - @tonightpass sdk and tools.
 - [AntoineKM/dixt](https://github.com/AntoineKM/dixt) ([dixt-plugin-worktime@2.1.18](https://github.com/AntoineKM/dixt/releases/tag/dixt-plugin-worktime%402.1.18), 3 days ago) - The Discord Framework
-- [tonightpass/kitchn](https://github.com/tonightpass/kitchn) ([kitchn@1.1.10](https://github.com/tonightpass/kitchn/releases/tag/kitchn%401.1.10), 1 month ago) - @tonightpass delicious React @styled-components
 - [qotum/qotum](https://github.com/qotum/qotum) ([@qotum/panda-preset@1.1.10](https://github.com/qotum/qotum/releases/tag/%40qotum/panda-preset%401.1.10), 1 month ago) - @qotum&#39;s usefull tools 🧰
 - [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) ([v0.4.0](https://github.com/goenning/google-indexing-script/releases/tag/v0.4.0), 3 months ago) - Script to get your site indexed on Google in less than 48 hours
 - [towfiqi/serpbear](https://github.com/towfiqi/serpbear) ([v2.0.2](https://github.com/towfiqi/serpbear/releases/tag/v2.0.2), 6 months ago) - Search Engine Position Rank Tracking App
