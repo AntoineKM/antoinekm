@@ -37,6 +37,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
+- [ArkeeAgency/anissia-wordpress-plugin](https://github.com/ArkeeAgency/anissia-wordpress-plugin) -  (today)
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (2 days ago)
 - [tonightpass/kitchn](https://github.com/tonightpass/kitchn) - @tonightpass delicious React @styled-components (3 days ago)
 - [AntoineKM/dixt](https://github.com/AntoineKM/dixt) - The Discord Framework (6 days ago)
@@ -46,7 +47,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [needforschool/fesipop](https://github.com/needforschool/fesipop) -  (4 weeks ago)
 - [Thomasdelecluse/NFS-Mobile](https://github.com/Thomasdelecluse/NFS-Mobile) - ReactNative App (4 weeks ago)
 - [ArkeeAgency/ytg-ninja](https://github.com/ArkeeAgency/ytg-ninja) - The feature everyone want on YTG (1 month ago)
-- [AntoineKM/kitchn-next-app](https://github.com/AntoineKM/kitchn-next-app) -  (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
