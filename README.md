@@ -74,6 +74,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
+- [mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, MySQL, MariaDB, MS SQL Server, PostgreSQL and SQLite/libSQL databases. (today)
 - [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion) (4 days ago)
 - [charmbracelet/freeze](https://github.com/charmbracelet/freeze) - Generate images of code and terminal output 📸 (1 week ago)
 - [mscharley/dependency-changesets-action](https://github.com/mscharley/dependency-changesets-action) - Github Action to publish changesets to dependency update PR&#39;s (2 weeks ago)
@@ -83,7 +84,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [voideditor/void](https://github.com/voideditor/void) -  (4 weeks ago)
 - [web-infra-dev/rspress](https://github.com/web-infra-dev/rspress) - 🦀💨 A fast Rspack-based static site generator. (4 weeks ago)
 - [gojue/ecapture](https://github.com/gojue/ecapture) - Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64. (1 month ago)
-- [bidah/react-native-vercel-ai](https://github.com/bidah/react-native-vercel-ai) - 🤖 ⚛️ Run Vercel AI package on React Native and Expo universal native apps (Mobile and web) (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
