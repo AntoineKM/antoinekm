@@ -38,6 +38,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 #### 👷 Check out what I'm currently working on
 
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (today)
+- [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (today)
 - [tonightpass/kitchn](https://github.com/tonightpass/kitchn) - @tonightpass delicious React @styled-components (6 days ago)
 - [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) - onRuntime official website. (6 days ago)
 - [ArkeeAgency/anissia-wordpress-plugin](https://github.com/ArkeeAgency/anissia-wordpress-plugin) -  (1 week ago)
@@ -45,12 +46,11 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [harlan-zw/request-indexing](https://github.com/harlan-zw/request-indexing) - Find your missing on pages Google and request them to be indexed using the Web Search Indexing API. (3 weeks ago)
 - [lucianomlima/react-ui-kits](https://github.com/lucianomlima/react-ui-kits) - A list of UI Kits available for React and React Native. (3 weeks ago)
 - [tonightpass/.github](https://github.com/tonightpass/.github) -  (1 month ago)
-- [needforschool/fesipop](https://github.com/needforschool/fesipop) -  (1 month ago)
 - [Thomasdelecluse/NFS-Mobile](https://github.com/Thomasdelecluse/NFS-Mobile) - ReactNative App (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/nest@0.0.77](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/nest%400.0.77), today) - @tonightpass sdk and tools.
+- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/react@0.0.94](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/react%400.0.94), today) - @tonightpass sdk and tools.
 - [tonightpass/kitchn](https://github.com/tonightpass/kitchn) ([kitchn@1.1.11](https://github.com/tonightpass/kitchn/releases/tag/kitchn%401.1.11), 1 week ago) - @tonightpass delicious React @styled-components
 - [AntoineKM/dixt](https://github.com/AntoineKM/dixt) ([dixt-plugin-worktime@2.1.18](https://github.com/AntoineKM/dixt/releases/tag/dixt-plugin-worktime%402.1.18), 2 weeks ago) - The Discord Framework
 - [qotum/qotum](https://github.com/qotum/qotum) ([@qotum/panda-preset@1.1.10](https://github.com/qotum/qotum/releases/tag/%40qotum/panda-preset%401.1.10), 2 months ago) - @qotum&#39;s usefull tools 🧰
