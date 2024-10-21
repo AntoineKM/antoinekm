@@ -74,6 +74,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
+- [yudielcurbelo/react-qr-scanner](https://github.com/yudielcurbelo/react-qr-scanner) - A library to scan QR Codes in react. (today)
 - [egoist/whispo](https://github.com/egoist/whispo) - AI-powered dictation tool (1 day ago)
 - [mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, MySQL, MariaDB, MS SQL Server, PostgreSQL and SQLite/libSQL databases. (3 days ago)
 - [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion) (1 week ago)
@@ -83,7 +84,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [dkpfm/minitap](https://github.com/dkpfm/minitap) - A fun sequencer that runs as a Chrome Extension. (2 weeks ago)
 - [wxt-dev/wxt](https://github.com/wxt-dev/wxt) - ⚡ Next-gen Web Extension Framework (3 weeks ago)
 - [voideditor/void](https://github.com/voideditor/void) -  (1 month ago)
-- [web-infra-dev/rspress](https://github.com/web-infra-dev/rspress) - 🦀💨 A fast Rspack-based static site generator. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
