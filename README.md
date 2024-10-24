@@ -37,8 +37,8 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
-- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (1 day ago)
-- [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (2 days ago)
+- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (2 days ago)
+- [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (3 days ago)
 - [tonightpass/kitchn](https://github.com/tonightpass/kitchn) - @tonightpass delicious React @styled-components (1 week ago)
 - [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) - onRuntime official website. (1 week ago)
 - [ArkeeAgency/anissia-wordpress-plugin](https://github.com/ArkeeAgency/anissia-wordpress-plugin) -  (1 week ago)
@@ -50,14 +50,14 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔭 Latest releases I've contributed to
 
-- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/react@0.0.94](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/react%400.0.94), 2 days ago) - @tonightpass sdk and tools.
+- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/react@0.0.94](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/react%400.0.94), 3 days ago) - @tonightpass sdk and tools.
 - [tonightpass/kitchn](https://github.com/tonightpass/kitchn) ([kitchn@1.1.11](https://github.com/tonightpass/kitchn/releases/tag/kitchn%401.1.11), 2 weeks ago) - @tonightpass delicious React @styled-components
 - [AntoineKM/dixt](https://github.com/AntoineKM/dixt) ([dixt-plugin-worktime@2.1.18](https://github.com/AntoineKM/dixt/releases/tag/dixt-plugin-worktime%402.1.18), 2 weeks ago) - The Discord Framework
 - [qotum/qotum](https://github.com/qotum/qotum) ([@qotum/panda-preset@1.1.10](https://github.com/qotum/qotum/releases/tag/%40qotum/panda-preset%401.1.10), 2 months ago) - @qotum&#39;s usefull tools 🧰
 - [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) ([v0.4.0](https://github.com/goenning/google-indexing-script/releases/tag/v0.4.0), 3 months ago) - Script to get your site indexed on Google in less than 48 hours
 - [towfiqi/serpbear](https://github.com/towfiqi/serpbear) ([v2.0.2](https://github.com/towfiqi/serpbear/releases/tag/v2.0.2), 7 months ago) - Search Engine Position Rank Tracking App
 - [AntoineKM/antoine](https://github.com/AntoineKM/antoine) ([eslint-config-antoine@1.0.14](https://github.com/AntoineKM/antoine/releases/tag/eslint-config-antoine%401.0.14), 8 months ago) - cool tools to code like me.
-- [onRuntime/kartrak](https://github.com/onRuntime/kartrak) ([v0.0.9](https://github.com/onRuntime/kartrak/releases/tag/v0.0.9), 10 months ago) - Le suivi d&#39;activité tourné vers l&#39;écologie.
+- [onRuntime/kartrak](https://github.com/onRuntime/kartrak) ([v0.0.9](https://github.com/onRuntime/kartrak/releases/tag/v0.0.9), 11 months ago) - Le suivi d&#39;activité tourné vers l&#39;écologie.
 
 #### 🔨 My recent Pull Requests
 
@@ -74,15 +74,15 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
-- [Fredolx/open-tv](https://github.com/Fredolx/open-tv) - Ultra-fast, simple and powerful cross-platform IPTV app (today)
-- [yudielcurbelo/react-qr-scanner](https://github.com/yudielcurbelo/react-qr-scanner) - A library to scan QR Codes in react. (2 days ago)
-- [egoist/whispo](https://github.com/egoist/whispo) - AI-powered dictation tool (3 days ago)
-- [mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, MySQL, MariaDB, MS SQL Server, PostgreSQL and SQLite/libSQL databases. (5 days ago)
+- [Fredolx/open-tv](https://github.com/Fredolx/open-tv) - Ultra-fast, simple and powerful cross-platform IPTV app (1 day ago)
+- [yudielcurbelo/react-qr-scanner](https://github.com/yudielcurbelo/react-qr-scanner) - A library to scan QR Codes in react. (3 days ago)
+- [egoist/whispo](https://github.com/egoist/whispo) - AI-powered dictation tool (4 days ago)
+- [mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, MySQL, MariaDB, MS SQL Server, PostgreSQL and SQLite/libSQL databases. (6 days ago)
 - [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion) (1 week ago)
 - [charmbracelet/freeze](https://github.com/charmbracelet/freeze) - Generate images of code and terminal output 📸 (2 weeks ago)
 - [mscharley/dependency-changesets-action](https://github.com/mscharley/dependency-changesets-action) - Github Action to publish changesets to dependency update PR&#39;s (2 weeks ago)
 - [teslamotors/ttpoe](https://github.com/teslamotors/ttpoe) -  (2 weeks ago)
-- [dkpfm/minitap](https://github.com/dkpfm/minitap) - A fun sequencer that runs as a Chrome Extension. (2 weeks ago)
+- [dkpfm/minitap](https://github.com/dkpfm/minitap) - A fun sequencer that runs as a Chrome Extension. (3 weeks ago)
 - [wxt-dev/wxt](https://github.com/wxt-dev/wxt) - ⚡ Next-gen Web Extension Framework (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
