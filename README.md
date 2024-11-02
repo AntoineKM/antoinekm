@@ -37,12 +37,12 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
-- [tonightpass/kitchn](https://github.com/tonightpass/kitchn) - @tonightpass delicious React @styled-components (today)
-- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (4 days ago)
+- [tonightpass/kitchn](https://github.com/tonightpass/kitchn) - @tonightpass delicious React @styled-components (1 day ago)
+- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (5 days ago)
 - [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (1 week ago)
 - [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) - onRuntime official website. (2 weeks ago)
 - [ArkeeAgency/anissia-wordpress-plugin](https://github.com/ArkeeAgency/anissia-wordpress-plugin) -  (3 weeks ago)
-- [AntoineKM/dixt](https://github.com/AntoineKM/dixt) - The Discord Framework (3 weeks ago)
+- [AntoineKM/dixt](https://github.com/AntoineKM/dixt) - The Discord Framework (4 weeks ago)
 - [harlan-zw/request-indexing](https://github.com/harlan-zw/request-indexing) - Find your missing on pages Google and request them to be indexed using the Web Search Indexing API. (1 month ago)
 - [lucianomlima/react-ui-kits](https://github.com/lucianomlima/react-ui-kits) - A list of UI Kits available for React and React Native. (1 month ago)
 - [tonightpass/.github](https://github.com/tonightpass/.github) -  (1 month ago)
@@ -50,9 +50,9 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔭 Latest releases I've contributed to
 
-- [tonightpass/kitchn](https://github.com/tonightpass/kitchn) ([kitchn@1.1.12](https://github.com/tonightpass/kitchn/releases/tag/kitchn%401.1.12), 4 days ago) - @tonightpass delicious React @styled-components
-- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([tonightpass@0.0.101](https://github.com/tonightpass/tonightpass/releases/tag/tonightpass%400.0.101), 4 days ago) - @tonightpass sdk and tools.
-- [AntoineKM/dixt](https://github.com/AntoineKM/dixt) ([dixt-plugin-worktime@2.1.18](https://github.com/AntoineKM/dixt/releases/tag/dixt-plugin-worktime%402.1.18), 3 weeks ago) - The Discord Framework
+- [tonightpass/kitchn](https://github.com/tonightpass/kitchn) ([kitchn@1.1.12](https://github.com/tonightpass/kitchn/releases/tag/kitchn%401.1.12), 5 days ago) - @tonightpass delicious React @styled-components
+- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([tonightpass@0.0.101](https://github.com/tonightpass/tonightpass/releases/tag/tonightpass%400.0.101), 5 days ago) - @tonightpass sdk and tools.
+- [AntoineKM/dixt](https://github.com/AntoineKM/dixt) ([dixt-plugin-worktime@2.1.18](https://github.com/AntoineKM/dixt/releases/tag/dixt-plugin-worktime%402.1.18), 4 weeks ago) - The Discord Framework
 - [qotum/qotum](https://github.com/qotum/qotum) ([@qotum/panda-preset@1.1.10](https://github.com/qotum/qotum/releases/tag/%40qotum/panda-preset%401.1.10), 2 months ago) - @qotum&#39;s usefull tools 🧰
 - [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) ([v0.4.0](https://github.com/goenning/google-indexing-script/releases/tag/v0.4.0), 3 months ago) - Script to get your site indexed on Google in less than 48 hours
 - [towfiqi/serpbear](https://github.com/towfiqi/serpbear) ([v2.0.2](https://github.com/towfiqi/serpbear/releases/tag/v2.0.2), 7 months ago) - Search Engine Position Rank Tracking App
@@ -74,16 +74,16 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
-- [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser. (4 days ago)
-- [redmundas/file-type-mime](https://github.com/redmundas/file-type-mime) -  (5 days ago)
-- [G4brym/R2-Explorer](https://github.com/G4brym/R2-Explorer) - A Google Drive Interface for your Cloudflare R2 Buckets! (5 days ago)
+- [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser. (5 days ago)
+- [redmundas/file-type-mime](https://github.com/redmundas/file-type-mime) -  (6 days ago)
+- [G4brym/R2-Explorer](https://github.com/G4brym/R2-Explorer) - A Google Drive Interface for your Cloudflare R2 Buckets! (6 days ago)
 - [StarmoonAI/Starmoon](https://github.com/StarmoonAI/Starmoon) - An open source voice-enabled, compact, empathic AI hardware &#43; software 🤖 framework for companionship, entertainment, education, pediatric care, IoT robotics applications, AI-enhanced robotics application services, research, and DIY robotics kit development using Python, NextJs, Arduino, ESP32, LLMs (GPT), STT, TTS, Emotion Analysis, AI agent (1 week ago)
 - [Fredolx/open-tv](https://github.com/Fredolx/open-tv) - Ultra-fast, simple and powerful cross-platform IPTV app (1 week ago)
 - [yudielcurbelo/react-qr-scanner](https://github.com/yudielcurbelo/react-qr-scanner) - A library to scan QR Codes in react. (1 week ago)
 - [egoist/whispo](https://github.com/egoist/whispo) - AI-powered dictation tool (1 week ago)
 - [mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, MySQL, MariaDB, MS SQL Server, PostgreSQL and SQLite/libSQL databases. (2 weeks ago)
 - [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion) (2 weeks ago)
-- [charmbracelet/freeze](https://github.com/charmbracelet/freeze) - Generate images of code and terminal output 📸 (3 weeks ago)
+- [charmbracelet/freeze](https://github.com/charmbracelet/freeze) - Generate images of code and terminal output 📸 (4 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
