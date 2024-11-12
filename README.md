@@ -50,7 +50,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔭 Latest releases I've contributed to
 
-- [towfiqi/serpbear](https://github.com/towfiqi/serpbear) ([v2.0.4](https://github.com/towfiqi/serpbear/releases/tag/v2.0.4), 2 days ago) - Search Engine Position Rank Tracking App
+- [towfiqi/serpbear](https://github.com/towfiqi/serpbear) ([v2.0.5](https://github.com/towfiqi/serpbear/releases/tag/v2.0.5), today) - Search Engine Position Rank Tracking App
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/nest@0.0.90](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/nest%400.0.90), 2 days ago) - @tonightpass sdk and tools.
 - [tonightpass/kitchn](https://github.com/tonightpass/kitchn) ([kitchn@1.2.1](https://github.com/tonightpass/kitchn/releases/tag/kitchn%401.2.1), 5 days ago) - @tonightpass delicious React @styled-components
 - [AntoineKM/dixt](https://github.com/AntoineKM/dixt) ([dixt-plugin-worktime@2.1.18](https://github.com/AntoineKM/dixt/releases/tag/dixt-plugin-worktime%402.1.18), 1 month ago) - The Discord Framework
@@ -74,7 +74,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
-- [chartdb/chartdb](https://github.com/chartdb/chartdb) - Free and open-source database diagrams editor, visualize and design your DB with a single query. (1 week ago)
+- [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query. (1 week ago)
 - [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser. (2 weeks ago)
 - [redmundas/file-type-mime](https://github.com/redmundas/file-type-mime) -  (2 weeks ago)
 - [G4brym/R2-Explorer](https://github.com/G4brym/R2-Explorer) - A Google Drive Interface for your Cloudflare R2 Buckets! (2 weeks ago)
