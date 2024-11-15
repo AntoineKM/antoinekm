@@ -50,7 +50,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔭 Latest releases I've contributed to
 
-- [onRuntime/kartrak](https://github.com/onRuntime/kartrak) ([v0.0.10](https://github.com/onRuntime/kartrak/releases/tag/v0.0.10), today) - Le suivi d&#39;activité tourné vers l&#39;écologie.
+- [onRuntime/kartrak](https://github.com/onRuntime/kartrak) ([v0.0.11](https://github.com/onRuntime/kartrak/releases/tag/v0.0.11), today) - Le suivi d&#39;activité tourné vers l&#39;écologie.
 - [towfiqi/serpbear](https://github.com/towfiqi/serpbear) ([v2.0.6](https://github.com/towfiqi/serpbear/releases/tag/v2.0.6), today) - Search Engine Position Rank Tracking App
 - [tonightpass/kitchn](https://github.com/tonightpass/kitchn) ([kitchn@1.2.2](https://github.com/tonightpass/kitchn/releases/tag/kitchn%401.2.2), 1 day ago) - @tonightpass delicious React @styled-components
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/nest@0.0.90](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/nest%400.0.90), 5 days ago) - @tonightpass sdk and tools.
