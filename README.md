@@ -37,6 +37,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
+- [AntoineKM/staging](https://github.com/AntoineKM/staging) -  (today)
 - [AntoineKM/use-chrome](https://github.com/AntoineKM/use-chrome) - Modern React hooks for Chrome Extensions (today)
 - [onRuntime/kartrak](https://github.com/onRuntime/kartrak) - Le suivi d&#39;activité tourné vers l&#39;écologie. (1 day ago)
 - [tonightpass/kitchn](https://github.com/tonightpass/kitchn) - @tonightpass delicious React @styled-components (1 day ago)
@@ -46,7 +47,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [ArkeeAgency/anissia-wordpress-plugin](https://github.com/ArkeeAgency/anissia-wordpress-plugin) -  (1 month ago)
 - [AntoineKM/dixt](https://github.com/AntoineKM/dixt) - The Discord Framework (1 month ago)
 - [harlan-zw/request-indexing](https://github.com/harlan-zw/request-indexing) - Find your missing on pages Google and request them to be indexed using the Web Search Indexing API. (1 month ago)
-- [lucianomlima/react-ui-kits](https://github.com/lucianomlima/react-ui-kits) - A list of UI Kits available for React and React Native. (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
