@@ -62,6 +62,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
+- [✨ add nuxt support](https://github.com/AntoineKM/staging/pull/9) on [AntoineKM/staging](https://github.com/AntoineKM/staging) (today)
 - [➖ remove cross-spawn](https://github.com/tonightpass/kitchn/pull/765) on [tonightpass/kitchn](https://github.com/tonightpass/kitchn) (1 week ago)
 - [✨ add navigation menu](https://github.com/tonightpass/kitchn/pull/754) on [tonightpass/kitchn](https://github.com/tonightpass/kitchn) (2 weeks ago)
 - [🎨 improve client types with full response and body](https://github.com/tonightpass/tonightpass/pull/522) on [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) (1 month ago)
@@ -71,7 +72,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [✨ add nextjs app router support](https://github.com/tonightpass/kitchn/pull/619) on [tonightpass/kitchn](https://github.com/tonightpass/kitchn) (3 months ago)
 - [🐛 fix console errors](https://github.com/tonightpass/kitchn/pull/617) on [tonightpass/kitchn](https://github.com/tonightpass/kitchn) (3 months ago)
 - [✨ add snippet](https://github.com/tonightpass/kitchn/pull/583) on [tonightpass/kitchn](https://github.com/tonightpass/kitchn) (3 months ago)
-- [Add Kitchn](https://github.com/lucianomlima/react-ui-kits/pull/22) on [lucianomlima/react-ui-kits](https://github.com/lucianomlima/react-ui-kits) (3 months ago)
 
 #### ⭐ Recent Stars
 
