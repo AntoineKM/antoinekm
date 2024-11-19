@@ -50,7 +50,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔭 Latest releases I've contributed to
 
-- [AntoineKM/staging](https://github.com/AntoineKM/staging) ([staging@0.0.3](https://github.com/AntoineKM/staging/releases/tag/staging%400.0.3), today) - Open-source alternative to Vercel&#39;s Password Protection feature
+- [AntoineKM/staging](https://github.com/AntoineKM/staging) ([staging-nuxt@0.0.2](https://github.com/AntoineKM/staging/releases/tag/staging-nuxt%400.0.2), today) - Open-source alternative to Vercel&#39;s Password Protection feature
 - [onRuntime/kartrak](https://github.com/onRuntime/kartrak) ([v0.0.15](https://github.com/onRuntime/kartrak/releases/tag/v0.0.15), 3 days ago) - Le suivi d&#39;activité tourné vers l&#39;écologie.
 - [towfiqi/serpbear](https://github.com/towfiqi/serpbear) ([v2.0.6](https://github.com/towfiqi/serpbear/releases/tag/v2.0.6), 4 days ago) - Search Engine Position Rank Tracking App
 - [tonightpass/kitchn](https://github.com/tonightpass/kitchn) ([kitchn@1.2.2](https://github.com/tonightpass/kitchn/releases/tag/kitchn%401.2.2), 5 days ago) - @tonightpass delicious React @styled-components
