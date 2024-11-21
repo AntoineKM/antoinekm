@@ -37,9 +37,9 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
-- [AntoineKM/staging](https://github.com/AntoineKM/staging) - Open-source alternative to Vercel&#39;s Password Protection feature. (today)
-- [tonightpass/kitchn](https://github.com/tonightpass/kitchn) - @tonightpass delicious React @styled-components (today)
+- [AntoineKM/staging](https://github.com/AntoineKM/staging) - Password protect your staging &amp; preview deployments. Free open-source alternative to Vercel &amp; Netlify password protection - Next.js, Nuxt, Express (today)
 - [AntoineKM/dixt](https://github.com/AntoineKM/dixt) - The Discord Framework (today)
+- [tonightpass/kitchn](https://github.com/tonightpass/kitchn) - @tonightpass delicious React @styled-components (today)
 - [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (1 day ago)
 - [AntoineKM/use-chrome](https://github.com/AntoineKM/use-chrome) - Modern React hooks for Chrome Extensions (4 days ago)
 - [onRuntime/kartrak](https://github.com/onRuntime/kartrak) - Le suivi d&#39;activité tourné vers l&#39;écologie. (5 days ago)
@@ -50,7 +50,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔭 Latest releases I've contributed to
 
-- [AntoineKM/staging](https://github.com/AntoineKM/staging) ([staging@0.0.4](https://github.com/AntoineKM/staging/releases/tag/staging%400.0.4), today) - Open-source alternative to Vercel&#39;s Password Protection feature.
+- [AntoineKM/staging](https://github.com/AntoineKM/staging) ([staging@0.0.4](https://github.com/AntoineKM/staging/releases/tag/staging%400.0.4), today) - Password protect your staging &amp; preview deployments. Free open-source alternative to Vercel &amp; Netlify password protection - Next.js, Nuxt, Express
 - [AntoineKM/dixt](https://github.com/AntoineKM/dixt) ([dixt@2.1.11](https://github.com/AntoineKM/dixt/releases/tag/dixt%402.1.11), today) - The Discord Framework
 - [onRuntime/kartrak](https://github.com/onRuntime/kartrak) ([v0.0.15](https://github.com/onRuntime/kartrak/releases/tag/v0.0.15), 5 days ago) - Le suivi d&#39;activité tourné vers l&#39;écologie.
 - [towfiqi/serpbear](https://github.com/towfiqi/serpbear) ([v2.0.6](https://github.com/towfiqi/serpbear/releases/tag/v2.0.6), 6 days ago) - Search Engine Position Rank Tracking App
@@ -75,7 +75,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
-- [AntoineKM/staging](https://github.com/AntoineKM/staging) - Open-source alternative to Vercel&#39;s Password Protection feature. (today)
+- [AntoineKM/staging](https://github.com/AntoineKM/staging) - Password protect your staging &amp; preview deployments. Free open-source alternative to Vercel &amp; Netlify password protection - Next.js, Nuxt, Express (today)
 - [cnumr/ecoindex_node](https://github.com/cnumr/ecoindex_node) - Calculates a webpage ecoindex (from http://www.ecoindex.fr) (5 days ago)
 - [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web (5 days ago)
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by Clickhouse and OpenTelemetry. (1 week ago)
