@@ -50,8 +50,8 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔭 Latest releases I've contributed to
 
+- [AntoineKM/staging](https://github.com/AntoineKM/staging) ([staging@0.0.4](https://github.com/AntoineKM/staging/releases/tag/staging%400.0.4), today) - Open-source alternative to Vercel&#39;s Password Protection feature.
 - [AntoineKM/dixt](https://github.com/AntoineKM/dixt) ([dixt@2.1.11](https://github.com/AntoineKM/dixt/releases/tag/dixt%402.1.11), today) - The Discord Framework
-- [AntoineKM/staging](https://github.com/AntoineKM/staging) ([staging-nuxt@0.0.2](https://github.com/AntoineKM/staging/releases/tag/staging-nuxt%400.0.2), 2 days ago) - Open-source alternative to Vercel&#39;s Password Protection feature.
 - [onRuntime/kartrak](https://github.com/onRuntime/kartrak) ([v0.0.15](https://github.com/onRuntime/kartrak/releases/tag/v0.0.15), 5 days ago) - Le suivi d&#39;activité tourné vers l&#39;écologie.
 - [towfiqi/serpbear](https://github.com/towfiqi/serpbear) ([v2.0.6](https://github.com/towfiqi/serpbear/releases/tag/v2.0.6), 6 days ago) - Search Engine Position Rank Tracking App
 - [tonightpass/kitchn](https://github.com/tonightpass/kitchn) ([kitchn@1.2.2](https://github.com/tonightpass/kitchn/releases/tag/kitchn%401.2.2), 1 week ago) - @tonightpass delicious React @styled-components
@@ -75,6 +75,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
+- [AntoineKM/staging](https://github.com/AntoineKM/staging) - Open-source alternative to Vercel&#39;s Password Protection feature. (today)
 - [cnumr/ecoindex_node](https://github.com/cnumr/ecoindex_node) - Calculates a webpage ecoindex (from http://www.ecoindex.fr) (5 days ago)
 - [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web (5 days ago)
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by Clickhouse and OpenTelemetry. (1 week ago)
@@ -84,7 +85,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [G4brym/R2-Explorer](https://github.com/G4brym/R2-Explorer) - A Google Drive Interface for your Cloudflare R2 Buckets! (3 weeks ago)
 - [StarmoonAI/Starmoon](https://github.com/StarmoonAI/Starmoon) - An open source voice-enabled, compact, empathic AI hardware &#43; software 🤖 framework for companionship, entertainment, education, pediatric care, IoT robotics applications, AI-enhanced robotics application services, research, and DIY robotics kit development using Python, NextJs, Arduino, ESP32, LLMs (GPT), STT, TTS, Emotion Analysis, AI agent (3 weeks ago)
 - [Fredolx/open-tv](https://github.com/Fredolx/open-tv) - Ultra-fast, simple and powerful cross-platform IPTV app (4 weeks ago)
-- [yudielcurbelo/react-qr-scanner](https://github.com/yudielcurbelo/react-qr-scanner) - A library to scan QR Codes in react. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
