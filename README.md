@@ -39,23 +39,23 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 - [AntoineKM/staging](https://github.com/AntoineKM/staging) - Open-source alternative to Vercel&#39;s Password Protection feature. (today)
 - [tonightpass/kitchn](https://github.com/tonightpass/kitchn) - @tonightpass delicious React @styled-components (today)
+- [AntoineKM/dixt](https://github.com/AntoineKM/dixt) - The Discord Framework (today)
 - [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (1 day ago)
 - [AntoineKM/use-chrome](https://github.com/AntoineKM/use-chrome) - Modern React hooks for Chrome Extensions (4 days ago)
 - [onRuntime/kartrak](https://github.com/onRuntime/kartrak) - Le suivi d&#39;activité tourné vers l&#39;écologie. (5 days ago)
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (1 week ago)
 - [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) - onRuntime official website. (1 month ago)
 - [ArkeeAgency/anissia-wordpress-plugin](https://github.com/ArkeeAgency/anissia-wordpress-plugin) -  (1 month ago)
-- [AntoineKM/dixt](https://github.com/AntoineKM/dixt) - The Discord Framework (1 month ago)
 - [harlan-zw/request-indexing](https://github.com/harlan-zw/request-indexing) - Find your missing on pages Google and request them to be indexed using the Web Search Indexing API. (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [AntoineKM/dixt](https://github.com/AntoineKM/dixt) ([dixt@2.1.11](https://github.com/AntoineKM/dixt/releases/tag/dixt%402.1.11), today) - The Discord Framework
 - [AntoineKM/staging](https://github.com/AntoineKM/staging) ([staging-nuxt@0.0.2](https://github.com/AntoineKM/staging/releases/tag/staging-nuxt%400.0.2), 2 days ago) - Open-source alternative to Vercel&#39;s Password Protection feature.
 - [onRuntime/kartrak](https://github.com/onRuntime/kartrak) ([v0.0.15](https://github.com/onRuntime/kartrak/releases/tag/v0.0.15), 5 days ago) - Le suivi d&#39;activité tourné vers l&#39;écologie.
 - [towfiqi/serpbear](https://github.com/towfiqi/serpbear) ([v2.0.6](https://github.com/towfiqi/serpbear/releases/tag/v2.0.6), 6 days ago) - Search Engine Position Rank Tracking App
 - [tonightpass/kitchn](https://github.com/tonightpass/kitchn) ([kitchn@1.2.2](https://github.com/tonightpass/kitchn/releases/tag/kitchn%401.2.2), 1 week ago) - @tonightpass delicious React @styled-components
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/nest@0.0.90](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/nest%400.0.90), 1 week ago) - @tonightpass sdk and tools.
-- [AntoineKM/dixt](https://github.com/AntoineKM/dixt) ([dixt-plugin-worktime@2.1.18](https://github.com/AntoineKM/dixt/releases/tag/dixt-plugin-worktime%402.1.18), 1 month ago) - The Discord Framework
 - [qotum/qotum](https://github.com/qotum/qotum) ([@qotum/panda-preset@1.1.10](https://github.com/qotum/qotum/releases/tag/%40qotum/panda-preset%401.1.10), 3 months ago) - @qotum&#39;s usefull tools 🧰
 - [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) ([v0.4.0](https://github.com/goenning/google-indexing-script/releases/tag/v0.4.0), 4 months ago) - Script to get your site indexed on Google in less than 48 hours
 - [AntoineKM/antoine](https://github.com/AntoineKM/antoine) ([eslint-config-antoine@1.0.14](https://github.com/AntoineKM/antoine/releases/tag/eslint-config-antoine%401.0.14), 8 months ago) - cool tools to code like me.
