@@ -38,11 +38,11 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 #### 👷 Check out what I'm currently working on
 
 - [AntoineKM/staging](https://github.com/AntoineKM/staging) - Password protect your staging &amp; preview deployments. Free open-source alternative to Vercel &amp; Netlify password protection - Next.js, Nuxt, Express (today)
-- [AntoineKM/dixt](https://github.com/AntoineKM/dixt) - The Discord Framework (today)
-- [tonightpass/kitchn](https://github.com/tonightpass/kitchn) - @tonightpass delicious React @styled-components (today)
-- [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (1 day ago)
-- [AntoineKM/use-chrome](https://github.com/AntoineKM/use-chrome) - Modern React hooks for Chrome Extensions (4 days ago)
-- [onRuntime/kartrak](https://github.com/onRuntime/kartrak) - Le suivi d&#39;activité tourné vers l&#39;écologie. (5 days ago)
+- [AntoineKM/dixt](https://github.com/AntoineKM/dixt) - The Discord Framework (1 day ago)
+- [tonightpass/kitchn](https://github.com/tonightpass/kitchn) - @tonightpass delicious React @styled-components (1 day ago)
+- [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (2 days ago)
+- [AntoineKM/use-chrome](https://github.com/AntoineKM/use-chrome) - Modern React hooks for Chrome Extensions (5 days ago)
+- [onRuntime/kartrak](https://github.com/onRuntime/kartrak) - Le suivi d&#39;activité tourné vers l&#39;écologie. (6 days ago)
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (1 week ago)
 - [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) - onRuntime official website. (1 month ago)
 - [ArkeeAgency/anissia-wordpress-plugin](https://github.com/ArkeeAgency/anissia-wordpress-plugin) -  (1 month ago)
@@ -50,41 +50,41 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔭 Latest releases I've contributed to
 
-- [AntoineKM/staging](https://github.com/AntoineKM/staging) ([staging@0.0.4](https://github.com/AntoineKM/staging/releases/tag/staging%400.0.4), today) - Password protect your staging &amp; preview deployments. Free open-source alternative to Vercel &amp; Netlify password protection - Next.js, Nuxt, Express
-- [AntoineKM/dixt](https://github.com/AntoineKM/dixt) ([dixt@2.1.11](https://github.com/AntoineKM/dixt/releases/tag/dixt%402.1.11), today) - The Discord Framework
-- [onRuntime/kartrak](https://github.com/onRuntime/kartrak) ([v0.0.15](https://github.com/onRuntime/kartrak/releases/tag/v0.0.15), 5 days ago) - Le suivi d&#39;activité tourné vers l&#39;écologie.
-- [towfiqi/serpbear](https://github.com/towfiqi/serpbear) ([v2.0.6](https://github.com/towfiqi/serpbear/releases/tag/v2.0.6), 6 days ago) - Search Engine Position Rank Tracking App
+- [AntoineKM/staging](https://github.com/AntoineKM/staging) ([staging@0.0.5](https://github.com/AntoineKM/staging/releases/tag/staging%400.0.5), 1 day ago) - Password protect your staging &amp; preview deployments. Free open-source alternative to Vercel &amp; Netlify password protection - Next.js, Nuxt, Express
+- [AntoineKM/dixt](https://github.com/AntoineKM/dixt) ([dixt@2.1.11](https://github.com/AntoineKM/dixt/releases/tag/dixt%402.1.11), 1 day ago) - The Discord Framework
+- [onRuntime/kartrak](https://github.com/onRuntime/kartrak) ([v0.0.15](https://github.com/onRuntime/kartrak/releases/tag/v0.0.15), 6 days ago) - Le suivi d&#39;activité tourné vers l&#39;écologie.
+- [towfiqi/serpbear](https://github.com/towfiqi/serpbear) ([v2.0.6](https://github.com/towfiqi/serpbear/releases/tag/v2.0.6), 1 week ago) - Search Engine Position Rank Tracking App
 - [tonightpass/kitchn](https://github.com/tonightpass/kitchn) ([kitchn@1.2.2](https://github.com/tonightpass/kitchn/releases/tag/kitchn%401.2.2), 1 week ago) - @tonightpass delicious React @styled-components
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/nest@0.0.90](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/nest%400.0.90), 1 week ago) - @tonightpass sdk and tools.
 - [qotum/qotum](https://github.com/qotum/qotum) ([@qotum/panda-preset@1.1.10](https://github.com/qotum/qotum/releases/tag/%40qotum/panda-preset%401.1.10), 3 months ago) - @qotum&#39;s usefull tools 🧰
 - [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) ([v0.4.0](https://github.com/goenning/google-indexing-script/releases/tag/v0.4.0), 4 months ago) - Script to get your site indexed on Google in less than 48 hours
-- [AntoineKM/antoine](https://github.com/AntoineKM/antoine) ([eslint-config-antoine@1.0.14](https://github.com/AntoineKM/antoine/releases/tag/eslint-config-antoine%401.0.14), 8 months ago) - cool tools to code like me.
+- [AntoineKM/antoine](https://github.com/AntoineKM/antoine) ([eslint-config-antoine@1.0.14](https://github.com/AntoineKM/antoine/releases/tag/eslint-config-antoine%401.0.14), 9 months ago) - cool tools to code like me.
 
 #### 🔨 My recent Pull Requests
 
-- [✨ add nuxt support](https://github.com/AntoineKM/staging/pull/9) on [AntoineKM/staging](https://github.com/AntoineKM/staging) (2 days ago)
+- [✨ add nuxt support](https://github.com/AntoineKM/staging/pull/9) on [AntoineKM/staging](https://github.com/AntoineKM/staging) (3 days ago)
 - [➖ remove cross-spawn](https://github.com/tonightpass/kitchn/pull/765) on [tonightpass/kitchn](https://github.com/tonightpass/kitchn) (1 week ago)
 - [✨ add navigation menu](https://github.com/tonightpass/kitchn/pull/754) on [tonightpass/kitchn](https://github.com/tonightpass/kitchn) (2 weeks ago)
 - [🎨 improve client types with full response and body](https://github.com/tonightpass/tonightpass/pull/522) on [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) (1 month ago)
 - [Fix gradient generation to reduce hue collisions for longer usernames](https://github.com/vercel/avatar/pull/53) on [vercel/avatar](https://github.com/vercel/avatar) (1 month ago)
-- [Handle undefined OAuth token pools gracefully](https://github.com/harlan-zw/request-indexing/pull/19) on [harlan-zw/request-indexing](https://github.com/harlan-zw/request-indexing) (1 month ago)
+- [Handle undefined OAuth token pools gracefully](https://github.com/harlan-zw/request-indexing/pull/19) on [harlan-zw/request-indexing](https://github.com/harlan-zw/request-indexing) (2 months ago)
 - [fix ci](https://github.com/needforschool/fesipop/pull/1) on [needforschool/fesipop](https://github.com/needforschool/fesipop) (2 months ago)
 - [✨ add nextjs app router support](https://github.com/tonightpass/kitchn/pull/619) on [tonightpass/kitchn](https://github.com/tonightpass/kitchn) (3 months ago)
 - [🐛 fix console errors](https://github.com/tonightpass/kitchn/pull/617) on [tonightpass/kitchn](https://github.com/tonightpass/kitchn) (3 months ago)
-- [✨ add snippet](https://github.com/tonightpass/kitchn/pull/583) on [tonightpass/kitchn](https://github.com/tonightpass/kitchn) (3 months ago)
+- [✨ add snippet](https://github.com/tonightpass/kitchn/pull/583) on [tonightpass/kitchn](https://github.com/tonightpass/kitchn) (4 months ago)
 
 #### ⭐ Recent Stars
 
-- [AntoineKM/staging](https://github.com/AntoineKM/staging) - Password protect your staging &amp; preview deployments. Free open-source alternative to Vercel &amp; Netlify password protection - Next.js, Nuxt, Express (today)
-- [cnumr/ecoindex_node](https://github.com/cnumr/ecoindex_node) - Calculates a webpage ecoindex (from http://www.ecoindex.fr) (5 days ago)
-- [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web (5 days ago)
+- [AntoineKM/staging](https://github.com/AntoineKM/staging) - Password protect your staging &amp; preview deployments. Free open-source alternative to Vercel &amp; Netlify password protection - Next.js, Nuxt, Express (1 day ago)
+- [cnumr/ecoindex_node](https://github.com/cnumr/ecoindex_node) - Calculates a webpage ecoindex (from http://www.ecoindex.fr) (6 days ago)
+- [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web (6 days ago)
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by Clickhouse and OpenTelemetry. (1 week ago)
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query. (2 weeks ago)
 - [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser. (3 weeks ago)
 - [redmundas/file-type-mime](https://github.com/redmundas/file-type-mime) -  (3 weeks ago)
 - [G4brym/R2-Explorer](https://github.com/G4brym/R2-Explorer) - A Google Drive Interface for your Cloudflare R2 Buckets! (3 weeks ago)
-- [StarmoonAI/Starmoon](https://github.com/StarmoonAI/Starmoon) - An open source voice-enabled, compact, empathic AI hardware &#43; software 🤖 framework for companionship, entertainment, education, pediatric care, IoT robotics applications, AI-enhanced robotics application services, research, and DIY robotics kit development using Python, NextJs, Arduino, ESP32, LLMs (GPT), STT, TTS, Emotion Analysis, AI agent (3 weeks ago)
-- [Fredolx/open-tv](https://github.com/Fredolx/open-tv) - Ultra-fast, simple and powerful cross-platform IPTV app (4 weeks ago)
+- [StarmoonAI/Starmoon](https://github.com/StarmoonAI/Starmoon) - An open source voice-enabled, compact, empathic AI hardware &#43; software 🤖 framework for companionship, entertainment, education, pediatric care, IoT robotics applications, AI-enhanced robotics application services, research, and DIY robotics kit development using Python, NextJs, Arduino, ESP32, LLMs (GPT), STT, TTS, Emotion Analysis, AI agent (4 weeks ago)
+- [Fredolx/open-tv](https://github.com/Fredolx/open-tv) - Ultra-fast, simple and powerful cross-platform IPTV app (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
