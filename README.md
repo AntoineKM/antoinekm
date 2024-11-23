@@ -37,6 +37,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
+- [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot) -  (today)
 - [AntoineKM/staging](https://github.com/AntoineKM/staging) - Password protect your staging &amp; preview deployments. Free open-source alternative to Vercel &amp; Netlify password protection - Next.js, Nuxt, Express (today)
 - [AntoineKM/dixt](https://github.com/AntoineKM/dixt) - The Discord Framework (2 days ago)
 - [tonightpass/kitchn](https://github.com/tonightpass/kitchn) - @tonightpass delicious React @styled-components (2 days ago)
@@ -46,7 +47,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (1 week ago)
 - [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) - onRuntime official website. (1 month ago)
 - [ArkeeAgency/anissia-wordpress-plugin](https://github.com/ArkeeAgency/anissia-wordpress-plugin) -  (1 month ago)
-- [harlan-zw/request-indexing](https://github.com/harlan-zw/request-indexing) - Find your missing on pages Google and request them to be indexed using the Web Search Indexing API. (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
