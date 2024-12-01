@@ -75,6 +75,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
+- [planetscale/beam](https://github.com/planetscale/beam) - A simple message board for your organization or project (today)
 - [vinceanalytics/vince](https://github.com/vinceanalytics/vince) - Self Hosted Alternative To Google Analytics (1 day ago)
 - [encoredev/encore](https://github.com/encoredev/encore) - Open Source Development Platform for building robust type-safe distributed systems with declarative infrastructure (1 day ago)
 - [mistweaverco/bananas](https://github.com/mistweaverco/bananas) - Bananas🍌, Cross-Platform screen 🖥️ sharing 📡 made simple ⚡.  (2 days ago)
@@ -84,7 +85,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [aadeshkulkarni/first-issues](https://github.com/aadeshkulkarni/first-issues) - Make your first open-source contribution. (1 week ago)
 - [AntoineKM/staging](https://github.com/AntoineKM/staging) - Password protect your staging &amp; preview deployments. Free open-source alternative to Vercel &amp; Netlify password protection - Next.js, Nuxt, Express (1 week ago)
 - [cnumr/ecoindex_node](https://github.com/cnumr/ecoindex_node) - Calculates a webpage ecoindex (from http://www.ecoindex.fr) (2 weeks ago)
-- [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
