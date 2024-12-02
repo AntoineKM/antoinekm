@@ -75,6 +75,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
+- [AntoineKM/trendstack](https://github.com/AntoineKM/trendstack) -  (today)
 - [serpapi/serpapi-javascript](https://github.com/serpapi/serpapi-javascript) - Scrape and parse search engine results using SerpApi. (1 day ago)
 - [planetscale/beam](https://github.com/planetscale/beam) - A simple message board for your organization or project (1 day ago)
 - [vinceanalytics/vince](https://github.com/vinceanalytics/vince) - Self Hosted Alternative To Google Analytics (2 days ago)
@@ -84,7 +85,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [react-hook-form/resolvers](https://github.com/react-hook-form/resolvers) - 📋 Validation resolvers: Yup, Zod, Superstruct, Joi, Vest, Class Validator, io-ts, Nope, computed-types, typanion, Ajv, TypeBox, ArkType, Valibot, effect-ts and VineJS (6 days ago)
 - [AntoineKM/claude-files](https://github.com/AntoineKM/claude-files) - 📁 Automatically prepare files for Claude Projects - Flatten directories, handle duplicates, respect .gitignore, and track file origins. No more manual file uploads! (1 week ago)
 - [aadeshkulkarni/first-issues](https://github.com/aadeshkulkarni/first-issues) - Make your first open-source contribution. (1 week ago)
-- [AntoineKM/staging](https://github.com/AntoineKM/staging) - Password protect your staging &amp; preview deployments. Free open-source alternative to Vercel &amp; Netlify password protection - Next.js, Nuxt, Express (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
