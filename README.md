@@ -75,6 +75,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
+- [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx) - a better dotenv–from the creator of `dotenv` (today)
 - [AntoineKM/trendstack](https://github.com/AntoineKM/trendstack) -  (3 days ago)
 - [serpapi/serpapi-javascript](https://github.com/serpapi/serpapi-javascript) - Scrape and parse search engine results using SerpApi. (4 days ago)
 - [planetscale/beam](https://github.com/planetscale/beam) - A simple message board for your organization or project (4 days ago)
@@ -84,7 +85,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [frappe/erpnext](https://github.com/frappe/erpnext) - Free and Open Source Enterprise Resource Planning (ERP) (1 week ago)
 - [react-hook-form/resolvers](https://github.com/react-hook-form/resolvers) - 📋 Validation resolvers: Yup, Zod, Superstruct, Joi, Vest, Class Validator, io-ts, Nope, computed-types, typanion, Ajv, TypeBox, ArkType, Valibot, effect-ts and VineJS (1 week ago)
 - [AntoineKM/claude-files](https://github.com/AntoineKM/claude-files) - 📁 Automatically prepare files for Claude Projects - Flatten directories, handle duplicates, respect .gitignore, and track file origins. No more manual file uploads! (1 week ago)
-- [aadeshkulkarni/first-issues](https://github.com/aadeshkulkarni/first-issues) - Make your first open-source contribution. (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
