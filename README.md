@@ -50,7 +50,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔭 Latest releases I've contributed to
 
-- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([tonightpass@0.0.121](https://github.com/tonightpass/tonightpass/releases/tag/tonightpass%400.0.121), 6 days ago) - @tonightpass sdk and tools.
+- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([tonightpass@0.0.122](https://github.com/tonightpass/tonightpass/releases/tag/tonightpass%400.0.122), today) - @tonightpass sdk and tools.
 - [AntoineKM/dixt](https://github.com/AntoineKM/dixt) ([dixt-plugin-worktime@2.2.0](https://github.com/AntoineKM/dixt/releases/tag/dixt-plugin-worktime%402.2.0), 2 weeks ago) - The Discord Framework
 - [AntoineKM/staging](https://github.com/AntoineKM/staging) ([staging@0.0.7](https://github.com/AntoineKM/staging/releases/tag/staging%400.0.7), 2 weeks ago) - Password protect your staging &amp; preview deployments. Free open-source alternative to Vercel &amp; Netlify password protection - Next.js, Nuxt, Express
 - [onRuntime/kartrak](https://github.com/onRuntime/kartrak) ([v0.0.15](https://github.com/onRuntime/kartrak/releases/tag/v0.0.15), 3 weeks ago) - Le suivi d&#39;activité tourné vers l&#39;écologie.
