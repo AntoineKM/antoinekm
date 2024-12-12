@@ -75,6 +75,8 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
+- [nostr-protocol/nips](https://github.com/nostr-protocol/nips) - Nostr Implementation Possibilities (today)
+- [nostr-protocol/nostr](https://github.com/nostr-protocol/nostr) - a truly censorship-resistant alternative to Twitter that has a chance of working (today)
 - [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3 (1 day ago)
 - [stackblitz-labs/bolt.diy](https://github.com/stackblitz-labs/bolt.diy) - Prompt, run, edit, and deploy full-stack web applications using any LLM you want! (1 day ago)
 - [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree (1 day ago)
@@ -83,8 +85,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku. (3 days ago)
 - [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx) - a better dotenv–from the creator of `dotenv` (1 week ago)
 - [AntoineKM/trendstack](https://github.com/AntoineKM/trendstack) -  (1 week ago)
-- [serpapi/serpapi-javascript](https://github.com/serpapi/serpapi-javascript) - Scrape and parse search engine results using SerpApi. (1 week ago)
-- [planetscale/beam](https://github.com/planetscale/beam) - A simple message board for your organization or project (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
