@@ -37,10 +37,10 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
-- [tonightpass/kitchn](https://github.com/tonightpass/kitchn) - @tonightpass delicious React @styled-components (1 day ago)
-- [tonightpass/.github](https://github.com/tonightpass/.github) -  (2 days ago)
-- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (2 days ago)
-- [AntoineKM/antoine](https://github.com/AntoineKM/antoine) - cool tools to code like me. (2 days ago)
+- [tonightpass/kitchn](https://github.com/tonightpass/kitchn) - @tonightpass delicious React @styled-components (2 days ago)
+- [tonightpass/.github](https://github.com/tonightpass/.github) -  (3 days ago)
+- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (3 days ago)
+- [AntoineKM/antoine](https://github.com/AntoineKM/antoine) - cool tools to code like me. (3 days ago)
 - [ArkeeAgency/ytg-ninja](https://github.com/ArkeeAgency/ytg-ninja) - The feature everyone want on YTG (1 week ago)
 - [AntoineKM/staging](https://github.com/AntoineKM/staging) - Password protect your staging &amp; preview deployments. Free open-source alternative to Vercel &amp; Netlify password protection - Next.js, Nuxt, Express (2 weeks ago)
 - [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot) -  (2 weeks ago)
@@ -50,11 +50,11 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔭 Latest releases I've contributed to
 
-- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([tonightpass@0.0.122](https://github.com/tonightpass/tonightpass/releases/tag/tonightpass%400.0.122), 2 days ago) - @tonightpass sdk and tools.
+- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([tonightpass@0.0.122](https://github.com/tonightpass/tonightpass/releases/tag/tonightpass%400.0.122), 3 days ago) - @tonightpass sdk and tools.
 - [AntoineKM/dixt](https://github.com/AntoineKM/dixt) ([dixt-plugin-worktime@2.2.0](https://github.com/AntoineKM/dixt/releases/tag/dixt-plugin-worktime%402.2.0), 2 weeks ago) - The Discord Framework
 - [AntoineKM/staging](https://github.com/AntoineKM/staging) ([staging@0.0.7](https://github.com/AntoineKM/staging/releases/tag/staging%400.0.7), 2 weeks ago) - Password protect your staging &amp; preview deployments. Free open-source alternative to Vercel &amp; Netlify password protection - Next.js, Nuxt, Express
 - [onRuntime/kartrak](https://github.com/onRuntime/kartrak) ([v0.0.15](https://github.com/onRuntime/kartrak/releases/tag/v0.0.15), 3 weeks ago) - Le suivi d&#39;activité tourné vers l&#39;écologie.
-- [towfiqi/serpbear](https://github.com/towfiqi/serpbear) ([v2.0.6](https://github.com/towfiqi/serpbear/releases/tag/v2.0.6), 3 weeks ago) - Search Engine Position Rank Tracking App
+- [towfiqi/serpbear](https://github.com/towfiqi/serpbear) ([v2.0.6](https://github.com/towfiqi/serpbear/releases/tag/v2.0.6), 4 weeks ago) - Search Engine Position Rank Tracking App
 - [tonightpass/kitchn](https://github.com/tonightpass/kitchn) ([kitchn@1.2.2](https://github.com/tonightpass/kitchn/releases/tag/kitchn%401.2.2), 4 weeks ago) - @tonightpass delicious React @styled-components
 - [qotum/qotum](https://github.com/qotum/qotum) ([@qotum/panda-preset@1.1.10](https://github.com/qotum/qotum/releases/tag/%40qotum/panda-preset%401.1.10), 4 months ago) - @qotum&#39;s usefull tools 🧰
 - [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) ([v0.4.0](https://github.com/goenning/google-indexing-script/releases/tag/v0.4.0), 5 months ago) - Script to get your site indexed on Google in less than 48 hours
@@ -75,14 +75,14 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
-- [nostr-protocol/nips](https://github.com/nostr-protocol/nips) - Nostr Implementation Possibilities (today)
-- [nostr-protocol/nostr](https://github.com/nostr-protocol/nostr) - a truly censorship-resistant alternative to Twitter that has a chance of working (today)
-- [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3 (1 day ago)
-- [stackblitz-labs/bolt.diy](https://github.com/stackblitz-labs/bolt.diy) - Prompt, run, edit, and deploy full-stack web applications using any LLM you want! (1 day ago)
-- [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree (1 day ago)
-- [Ayushparikh-code/Web-dev-mini-projects](https://github.com/Ayushparikh-code/Web-dev-mini-projects) - The repository contains the list of awesome✨ &amp; cool web development beginner-friendly✌️ projects! (2 days ago)
-- [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant (3 days ago)
-- [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku. (3 days ago)
+- [nostr-protocol/nips](https://github.com/nostr-protocol/nips) - Nostr Implementation Possibilities (1 day ago)
+- [nostr-protocol/nostr](https://github.com/nostr-protocol/nostr) - a truly censorship-resistant alternative to Twitter that has a chance of working (1 day ago)
+- [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3 (2 days ago)
+- [stackblitz-labs/bolt.diy](https://github.com/stackblitz-labs/bolt.diy) - Prompt, run, edit, and deploy full-stack web applications using any LLM you want! (2 days ago)
+- [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree (2 days ago)
+- [Ayushparikh-code/Web-dev-mini-projects](https://github.com/Ayushparikh-code/Web-dev-mini-projects) - The repository contains the list of awesome✨ &amp; cool web development beginner-friendly✌️ projects! (3 days ago)
+- [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant (4 days ago)
+- [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku. (4 days ago)
 - [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx) - a better dotenv–from the creator of `dotenv` (1 week ago)
 - [AntoineKM/trendstack](https://github.com/AntoineKM/trendstack) -  (1 week ago)
 
