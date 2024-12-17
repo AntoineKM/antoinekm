@@ -37,11 +37,11 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
-- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (3 days ago)
-- [tonightpass/kitchn](https://github.com/tonightpass/kitchn) - @tonightpass delicious React @styled-components (3 days ago)
-- [tonightpass/.github](https://github.com/tonightpass/.github) -  (6 days ago)
-- [AntoineKM/antoine](https://github.com/AntoineKM/antoine) - cool tools to code like me. (6 days ago)
-- [ArkeeAgency/ytg-ninja](https://github.com/ArkeeAgency/ytg-ninja) - The feature everyone want on YTG (1 week ago)
+- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (4 days ago)
+- [tonightpass/kitchn](https://github.com/tonightpass/kitchn) - @tonightpass delicious React @styled-components (4 days ago)
+- [tonightpass/.github](https://github.com/tonightpass/.github) -  (1 week ago)
+- [AntoineKM/antoine](https://github.com/AntoineKM/antoine) - cool tools to code like me. (1 week ago)
+- [ArkeeAgency/ytg-ninja](https://github.com/ArkeeAgency/ytg-ninja) - The feature everyone want on YTG (2 weeks ago)
 - [AntoineKM/staging](https://github.com/AntoineKM/staging) - Password protect your staging &amp; preview deployments. Free open-source alternative to Vercel &amp; Netlify password protection - Next.js, Nuxt, Express (3 weeks ago)
 - [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot) -  (3 weeks ago)
 - [AntoineKM/claude-files](https://github.com/AntoineKM/claude-files) - 📁 Automatically prepare files for Claude Projects - Flatten directories, handle duplicates, respect .gitignore, and track file origins. No more manual file uploads! (3 weeks ago)
@@ -50,7 +50,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔭 Latest releases I've contributed to
 
-- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([tonightpass@0.0.122](https://github.com/tonightpass/tonightpass/releases/tag/tonightpass%400.0.122), 6 days ago) - @tonightpass sdk and tools.
+- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([tonightpass@0.0.122](https://github.com/tonightpass/tonightpass/releases/tag/tonightpass%400.0.122), 1 week ago) - @tonightpass sdk and tools.
 - [AntoineKM/dixt](https://github.com/AntoineKM/dixt) ([dixt-plugin-worktime@2.2.0](https://github.com/AntoineKM/dixt/releases/tag/dixt-plugin-worktime%402.2.0), 3 weeks ago) - The Discord Framework
 - [AntoineKM/staging](https://github.com/AntoineKM/staging) ([staging@0.0.7](https://github.com/AntoineKM/staging/releases/tag/staging%400.0.7), 3 weeks ago) - Password protect your staging &amp; preview deployments. Free open-source alternative to Vercel &amp; Netlify password protection - Next.js, Nuxt, Express
 - [onRuntime/kartrak](https://github.com/onRuntime/kartrak) ([v0.0.15](https://github.com/onRuntime/kartrak/releases/tag/v0.0.15), 1 month ago) - Le suivi d&#39;activité tourné vers l&#39;écologie.
@@ -63,7 +63,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 #### 🔨 My recent Pull Requests
 
 - [✨ add storybook](https://github.com/tonightpass/kitchn/pull/782) on [tonightpass/kitchn](https://github.com/tonightpass/kitchn) (2 weeks ago)
-- [✨ add nuxt support](https://github.com/AntoineKM/staging/pull/9) on [AntoineKM/staging](https://github.com/AntoineKM/staging) (3 weeks ago)
+- [✨ add nuxt support](https://github.com/AntoineKM/staging/pull/9) on [AntoineKM/staging](https://github.com/AntoineKM/staging) (4 weeks ago)
 - [➖ remove cross-spawn](https://github.com/tonightpass/kitchn/pull/765) on [tonightpass/kitchn](https://github.com/tonightpass/kitchn) (1 month ago)
 - [✨ add navigation menu](https://github.com/tonightpass/kitchn/pull/754) on [tonightpass/kitchn](https://github.com/tonightpass/kitchn) (1 month ago)
 - [🎨 improve client types with full response and body](https://github.com/tonightpass/tonightpass/pull/522) on [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) (2 months ago)
@@ -75,12 +75,12 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
-- [nostr-protocol/nips](https://github.com/nostr-protocol/nips) - Nostr Implementation Possibilities (4 days ago)
-- [nostr-protocol/nostr](https://github.com/nostr-protocol/nostr) - a truly censorship-resistant alternative to Twitter that has a chance of working (4 days ago)
-- [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3 (5 days ago)
-- [stackblitz-labs/bolt.diy](https://github.com/stackblitz-labs/bolt.diy) - Prompt, run, edit, and deploy full-stack web applications using any LLM you want! (5 days ago)
-- [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree (5 days ago)
-- [Ayushparikh-code/Web-dev-mini-projects](https://github.com/Ayushparikh-code/Web-dev-mini-projects) - The repository contains the list of awesome✨ &amp; cool web development beginner-friendly✌️ projects! (6 days ago)
+- [nostr-protocol/nips](https://github.com/nostr-protocol/nips) - Nostr Implementation Possibilities (5 days ago)
+- [nostr-protocol/nostr](https://github.com/nostr-protocol/nostr) - a truly censorship-resistant alternative to Twitter that has a chance of working (5 days ago)
+- [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3 (6 days ago)
+- [stackblitz-labs/bolt.diy](https://github.com/stackblitz-labs/bolt.diy) - Prompt, run, edit, and deploy full-stack web applications using any LLM you want! (6 days ago)
+- [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree (6 days ago)
+- [Ayushparikh-code/Web-dev-mini-projects](https://github.com/Ayushparikh-code/Web-dev-mini-projects) - The repository contains the list of awesome✨ &amp; cool web development beginner-friendly✌️ projects! (1 week ago)
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant (1 week ago)
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku. (1 week ago)
 - [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx) - a better dotenv–from the creator of `dotenv` (1 week ago)
