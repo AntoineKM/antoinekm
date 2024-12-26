@@ -76,15 +76,15 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 #### ⭐ Recent Stars
 
 - [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More (1 week ago)
-- [nostr-protocol/nips](https://github.com/nostr-protocol/nips) - Nostr Implementation Possibilities (1 week ago)
-- [nostr-protocol/nostr](https://github.com/nostr-protocol/nostr) - a truly censorship-resistant alternative to Twitter that has a chance of working (1 week ago)
+- [nostr-protocol/nips](https://github.com/nostr-protocol/nips) - Nostr Implementation Possibilities (2 weeks ago)
+- [nostr-protocol/nostr](https://github.com/nostr-protocol/nostr) - a truly censorship-resistant alternative to Twitter that has a chance of working (2 weeks ago)
 - [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3 (2 weeks ago)
 - [stackblitz-labs/bolt.diy](https://github.com/stackblitz-labs/bolt.diy) - Prompt, run, edit, and deploy full-stack web applications using any LLM you want! (2 weeks ago)
 - [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree (2 weeks ago)
 - [Ayushparikh-code/Web-dev-mini-projects](https://github.com/Ayushparikh-code/Web-dev-mini-projects) - The repository contains the list of awesome✨ &amp; cool web development beginner-friendly✌️ projects! (2 weeks ago)
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant (2 weeks ago)
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku. (2 weeks ago)
-- [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx) - a better dotenv–from the creator of `dotenv` (2 weeks ago)
+- [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx) - a better dotenv–from the creator of `dotenv` (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
