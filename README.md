@@ -39,9 +39,9 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (2 weeks ago)
 - [tonightpass/kitchn](https://github.com/tonightpass/kitchn) - @tonightpass delicious React @styled-components (2 weeks ago)
-- [AntoineKM/antoine](https://github.com/AntoineKM/antoine) - cool tools to code like me. (2 weeks ago)
-- [tonightpass/.github](https://github.com/tonightpass/.github) -  (2 weeks ago)
-- [ArkeeAgency/ytg-ninja](https://github.com/ArkeeAgency/ytg-ninja) - The feature everyone want on YTG (3 weeks ago)
+- [AntoineKM/antoine](https://github.com/AntoineKM/antoine) - cool tools to code like me. (3 weeks ago)
+- [tonightpass/.github](https://github.com/tonightpass/.github) -  (3 weeks ago)
+- [ArkeeAgency/ytg-ninja](https://github.com/ArkeeAgency/ytg-ninja) - The feature everyone want on YTG (4 weeks ago)
 - [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot) -  (1 month ago)
 - [AntoineKM/staging](https://github.com/AntoineKM/staging) - Password protect your staging &amp; preview deployments. Free open-source alternative to Vercel &amp; Netlify password protection - Next.js, Nuxt, Express (1 month ago)
 - [AntoineKM/claude-files](https://github.com/AntoineKM/claude-files) - 📁 Automatically prepare files for Claude Projects - Flatten directories, handle duplicates, respect .gitignore, and track file origins. No more manual file uploads! (1 month ago)
@@ -50,7 +50,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔭 Latest releases I've contributed to
 
-- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([tonightpass@0.0.122](https://github.com/tonightpass/tonightpass/releases/tag/tonightpass%400.0.122), 2 weeks ago) - @tonightpass sdk and tools.
+- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([tonightpass@0.0.122](https://github.com/tonightpass/tonightpass/releases/tag/tonightpass%400.0.122), 3 weeks ago) - @tonightpass sdk and tools.
 - [AntoineKM/dixt](https://github.com/AntoineKM/dixt) ([dixt-plugin-worktime@2.2.0](https://github.com/AntoineKM/dixt/releases/tag/dixt-plugin-worktime%402.2.0), 1 month ago) - The Discord Framework
 - [AntoineKM/staging](https://github.com/AntoineKM/staging) ([staging@0.0.7](https://github.com/AntoineKM/staging/releases/tag/staging%400.0.7), 1 month ago) - Password protect your staging &amp; preview deployments. Free open-source alternative to Vercel &amp; Netlify password protection - Next.js, Nuxt, Express
 - [onRuntime/kartrak](https://github.com/onRuntime/kartrak) ([v0.0.15](https://github.com/onRuntime/kartrak/releases/tag/v0.0.15), 1 month ago) - Le suivi d&#39;activité tourné vers l&#39;écologie.
@@ -62,7 +62,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
-- [✨ add storybook](https://github.com/tonightpass/kitchn/pull/782) on [tonightpass/kitchn](https://github.com/tonightpass/kitchn) (4 weeks ago)
+- [✨ add storybook](https://github.com/tonightpass/kitchn/pull/782) on [tonightpass/kitchn](https://github.com/tonightpass/kitchn) (1 month ago)
 - [✨ add nuxt support](https://github.com/AntoineKM/staging/pull/9) on [AntoineKM/staging](https://github.com/AntoineKM/staging) (1 month ago)
 - [➖ remove cross-spawn](https://github.com/tonightpass/kitchn/pull/765) on [tonightpass/kitchn](https://github.com/tonightpass/kitchn) (1 month ago)
 - [✨ add navigation menu](https://github.com/tonightpass/kitchn/pull/754) on [tonightpass/kitchn](https://github.com/tonightpass/kitchn) (1 month ago)
@@ -75,15 +75,15 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
-- [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal (1 day ago)
-- [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) - A free, open-source SaaS app starter for React &amp; Node.js with superpowers. Full-featured. Community-driven. (1 day ago)
-- [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More (1 week ago)
+- [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal (2 days ago)
+- [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) - A free, open-source SaaS app starter for React &amp; Node.js with superpowers. Full-featured. Community-driven. (2 days ago)
+- [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More (2 weeks ago)
 - [nostr-protocol/nips](https://github.com/nostr-protocol/nips) - Nostr Implementation Possibilities (2 weeks ago)
 - [nostr-protocol/nostr](https://github.com/nostr-protocol/nostr) - a truly censorship-resistant alternative to Twitter that has a chance of working (2 weeks ago)
 - [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3 (2 weeks ago)
 - [stackblitz-labs/bolt.diy](https://github.com/stackblitz-labs/bolt.diy) - Prompt, run, edit, and deploy full-stack web applications using any LLM you want! (2 weeks ago)
 - [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree (2 weeks ago)
-- [Ayushparikh-code/Web-dev-mini-projects](https://github.com/Ayushparikh-code/Web-dev-mini-projects) - The repository contains the list of awesome✨ &amp; cool web development beginner-friendly✌️ projects! (2 weeks ago)
+- [Ayushparikh-code/Web-dev-mini-projects](https://github.com/Ayushparikh-code/Web-dev-mini-projects) - The repository contains the list of awesome✨ &amp; cool web development beginner-friendly✌️ projects! (3 weeks ago)
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
