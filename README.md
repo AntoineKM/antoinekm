@@ -81,7 +81,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [wotschofsky/domain-digger](https://github.com/wotschofsky/domain-digger) - Full Toolkit for Next-Level Domain Analysis (4 days ago)
 - [blacklanternsecurity/bbot](https://github.com/blacklanternsecurity/bbot) - The recursive internet scanner for hackers. 🧡 (4 days ago)
 - [ringtailsoftware/commy](https://github.com/ringtailsoftware/commy) - A serial monitor for Mac, Linux and Windows (4 days ago)
-- [zasper-io/zasper](https://github.com/zasper-io/zasper) - Supercharged IDE for Data Science (5 days ago)
+- [zasper-io/zasper](https://github.com/zasper-io/zasper) - Fastest and Most Efficient IDE to run Jupyter Notebooks. (5 days ago)
 - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications (5 days ago)
 - [Aslam97/shadcn-minimal-tiptap](https://github.com/Aslam97/shadcn-minimal-tiptap) - Minimal Tiptap Editor (1 week ago)
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal (1 week ago)
