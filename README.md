@@ -37,8 +37,8 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
-- [tonightpass/kitchn](https://github.com/tonightpass/kitchn) - @tonightpass delicious React @styled-components (1 day ago)
-- [AntoineKM/claude-files](https://github.com/AntoineKM/claude-files) - 📁 Automatically prepare files for Claude Projects - Flatten directories, handle duplicates, respect .gitignore, and track file origins. No more manual file uploads! (5 days ago)
+- [tonightpass/kitchn](https://github.com/tonightpass/kitchn) - @tonightpass delicious React @styled-components (2 days ago)
+- [AntoineKM/claude-files](https://github.com/AntoineKM/claude-files) - 📁 Automatically prepare files for Claude Projects - Flatten directories, handle duplicates, respect .gitignore, and track file origins. No more manual file uploads! (6 days ago)
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (1 month ago)
 - [AntoineKM/antoine](https://github.com/AntoineKM/antoine) - cool tools to code like me. (1 month ago)
 - [tonightpass/.github](https://github.com/tonightpass/.github) -  (1 month ago)
@@ -50,11 +50,11 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔭 Latest releases I've contributed to
 
-- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([tonightpass@0.0.126](https://github.com/tonightpass/tonightpass/releases/tag/tonightpass%400.0.126), 2 days ago) - @tonightpass sdk and tools.
+- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([tonightpass@0.0.126](https://github.com/tonightpass/tonightpass/releases/tag/tonightpass%400.0.126), 3 days ago) - @tonightpass sdk and tools.
 - [AntoineKM/dixt](https://github.com/AntoineKM/dixt) ([dixt-plugin-worktime@2.2.0](https://github.com/AntoineKM/dixt/releases/tag/dixt-plugin-worktime%402.2.0), 1 month ago) - The Discord Framework
 - [AntoineKM/staging](https://github.com/AntoineKM/staging) ([staging@0.0.7](https://github.com/AntoineKM/staging/releases/tag/staging%400.0.7), 1 month ago) - Password protect your staging &amp; preview deployments. Free open-source alternative to Vercel &amp; Netlify password protection - Next.js, Nuxt, Express
 - [onRuntime/kartrak](https://github.com/onRuntime/kartrak) ([v0.0.15](https://github.com/onRuntime/kartrak/releases/tag/v0.0.15), 1 month ago) - Le suivi d&#39;activité tourné vers l&#39;écologie.
-- [towfiqi/serpbear](https://github.com/towfiqi/serpbear) ([v2.0.6](https://github.com/towfiqi/serpbear/releases/tag/v2.0.6), 1 month ago) - Search Engine Position Rank Tracking App
+- [towfiqi/serpbear](https://github.com/towfiqi/serpbear) ([v2.0.6](https://github.com/towfiqi/serpbear/releases/tag/v2.0.6), 2 months ago) - Search Engine Position Rank Tracking App
 - [tonightpass/kitchn](https://github.com/tonightpass/kitchn) ([kitchn@1.2.2](https://github.com/tonightpass/kitchn/releases/tag/kitchn%401.2.2), 2 months ago) - @tonightpass delicious React @styled-components
 - [qotum/qotum](https://github.com/qotum/qotum) ([@qotum/panda-preset@1.1.10](https://github.com/qotum/qotum/releases/tag/%40qotum/panda-preset%401.1.10), 5 months ago) - @qotum&#39;s usefull tools 🧰
 - [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) ([v0.4.0](https://github.com/goenning/google-indexing-script/releases/tag/v0.4.0), 6 months ago) - Script to get your site indexed on Google in less than 48 hours
@@ -66,7 +66,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [✨ add nuxt support](https://github.com/AntoineKM/staging/pull/9) on [AntoineKM/staging](https://github.com/AntoineKM/staging) (1 month ago)
 - [➖ remove cross-spawn](https://github.com/tonightpass/kitchn/pull/765) on [tonightpass/kitchn](https://github.com/tonightpass/kitchn) (2 months ago)
 - [✨ add navigation menu](https://github.com/tonightpass/kitchn/pull/754) on [tonightpass/kitchn](https://github.com/tonightpass/kitchn) (2 months ago)
-- [🎨 improve client types with full response and body](https://github.com/tonightpass/tonightpass/pull/522) on [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) (2 months ago)
+- [🎨 improve client types with full response and body](https://github.com/tonightpass/tonightpass/pull/522) on [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) (3 months ago)
 - [Fix gradient generation to reduce hue collisions for longer usernames](https://github.com/vercel/avatar/pull/53) on [vercel/avatar](https://github.com/vercel/avatar) (3 months ago)
 - [Handle undefined OAuth token pools gracefully](https://github.com/harlan-zw/request-indexing/pull/19) on [harlan-zw/request-indexing](https://github.com/harlan-zw/request-indexing) (3 months ago)
 - [fix ci](https://github.com/needforschool/fesipop/pull/1) on [needforschool/fesipop](https://github.com/needforschool/fesipop) (4 months ago)
@@ -75,13 +75,13 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
-- [cyntler/hamburger-react](https://github.com/cyntler/hamburger-react) - Animated hamburger menu icons for React.js weighs only 1.5 KB. (today)
-- [swark-io/swark](https://github.com/swark-io/swark) - Create architecture diagrams from code automatically using large language models (LLMs). (3 days ago)
-- [druidui/ui](https://github.com/druidui/ui) - druid/ui (4 days ago)
-- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler &amp; Scraper (5 days ago)
-- [wotschofsky/domain-digger](https://github.com/wotschofsky/domain-digger) - Full Toolkit for Next-Level Domain Analysis (6 days ago)
-- [blacklanternsecurity/bbot](https://github.com/blacklanternsecurity/bbot) - The recursive internet scanner for hackers. 🧡 (6 days ago)
-- [ringtailsoftware/commy](https://github.com/ringtailsoftware/commy) - A serial monitor for Mac, Linux and Windows (6 days ago)
+- [cyntler/hamburger-react](https://github.com/cyntler/hamburger-react) - Animated hamburger menu icons for React.js weighs only 1.5 KB. (1 day ago)
+- [swark-io/swark](https://github.com/swark-io/swark) - Create architecture diagrams from code automatically using large language models (LLMs). (4 days ago)
+- [druidui/ui](https://github.com/druidui/ui) - druid/ui (5 days ago)
+- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler &amp; Scraper (6 days ago)
+- [wotschofsky/domain-digger](https://github.com/wotschofsky/domain-digger) - Full Toolkit for Next-Level Domain Analysis (1 week ago)
+- [blacklanternsecurity/bbot](https://github.com/blacklanternsecurity/bbot) - The recursive internet scanner for hackers. 🧡 (1 week ago)
+- [ringtailsoftware/commy](https://github.com/ringtailsoftware/commy) - A serial monitor for Mac, Linux and Windows (1 week ago)
 - [zasper-io/zasper](https://github.com/zasper-io/zasper) - Fastest and Most Efficient IDE to run Jupyter Notebooks. (1 week ago)
 - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications (1 week ago)
 - [Aslam97/shadcn-minimal-tiptap](https://github.com/Aslam97/shadcn-minimal-tiptap) - Minimal Tiptap Editor (1 week ago)
