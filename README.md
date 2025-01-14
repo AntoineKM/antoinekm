@@ -75,6 +75,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
+- [bluematter/basedlabs-docs](https://github.com/bluematter/basedlabs-docs) -  (today)
 - [Quilljou/dalle3-playground](https://github.com/Quilljou/dalle3-playground) - DALL·E Playground (Unofficial) is used to play with OpenAI Image generation API - DALL·E (today)
 - [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - An open source collection of animated, interactive &amp; fully customizable React components for building stunning, memorable user interfaces. (today)
 - [cyntler/hamburger-react](https://github.com/cyntler/hamburger-react) - Animated hamburger menu icons for React.js weighs only 1.5 KB. (1 day ago)
@@ -84,7 +85,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [wotschofsky/domain-digger](https://github.com/wotschofsky/domain-digger) - Full Toolkit for Next-Level Domain Analysis (1 week ago)
 - [blacklanternsecurity/bbot](https://github.com/blacklanternsecurity/bbot) - The recursive internet scanner for hackers. 🧡 (1 week ago)
 - [ringtailsoftware/commy](https://github.com/ringtailsoftware/commy) - A serial monitor for Mac, Linux and Windows (1 week ago)
-- [zasper-io/zasper](https://github.com/zasper-io/zasper) - Fastest and Most Efficient IDE to run Jupyter Notebooks. (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
