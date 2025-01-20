@@ -37,9 +37,9 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
-- [tonightpass/kitchn](https://github.com/tonightpass/kitchn) - @tonightpass delicious React @styled-components (2 days ago)
-- [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (4 days ago)
-- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (4 days ago)
+- [tonightpass/kitchn](https://github.com/tonightpass/kitchn) - @tonightpass delicious React @styled-components (3 days ago)
+- [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (5 days ago)
+- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (5 days ago)
 - [AntoineKM/claude-files](https://github.com/AntoineKM/claude-files) - 📁 Automatically prepare files for Claude Projects - Flatten directories, handle duplicates, respect .gitignore, and track file origins. No more manual file uploads! (1 week ago)
 - [tonightpass/.github](https://github.com/tonightpass/.github) -  (1 month ago)
 - [AntoineKM/antoine](https://github.com/AntoineKM/antoine) - cool tools to code like me. (1 month ago)
@@ -50,8 +50,8 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔭 Latest releases I've contributed to
 
-- [tonightpass/kitchn](https://github.com/tonightpass/kitchn) ([kitchn@1.3.0](https://github.com/tonightpass/kitchn/releases/tag/kitchn%401.3.0), 3 days ago) - @tonightpass delicious React @styled-components
-- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([tonightpass@0.0.128](https://github.com/tonightpass/tonightpass/releases/tag/tonightpass%400.0.128), 5 days ago) - @tonightpass sdk and tools.
+- [tonightpass/kitchn](https://github.com/tonightpass/kitchn) ([kitchn@1.3.0](https://github.com/tonightpass/kitchn/releases/tag/kitchn%401.3.0), 4 days ago) - @tonightpass delicious React @styled-components
+- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([tonightpass@0.0.128](https://github.com/tonightpass/tonightpass/releases/tag/tonightpass%400.0.128), 6 days ago) - @tonightpass sdk and tools.
 - [AntoineKM/dixt](https://github.com/AntoineKM/dixt) ([dixt-plugin-worktime@2.2.0](https://github.com/AntoineKM/dixt/releases/tag/dixt-plugin-worktime%402.2.0), 1 month ago) - The Discord Framework
 - [AntoineKM/staging](https://github.com/AntoineKM/staging) ([staging@0.0.7](https://github.com/AntoineKM/staging/releases/tag/staging%400.0.7), 1 month ago) - Password protect your staging &amp; preview deployments. Free open-source alternative to Vercel &amp; Netlify password protection - Next.js, Nuxt, Express
 - [onRuntime/kartrak](https://github.com/onRuntime/kartrak) ([v0.0.15](https://github.com/onRuntime/kartrak/releases/tag/v0.0.15), 2 months ago) - Le suivi d&#39;activité tourné vers l&#39;écologie.
@@ -62,8 +62,8 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
-- [✏️ fix title case in readme](https://github.com/tonightpass/tonightpass/pull/667) on [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) (4 days ago)
-- [📝 add readme](https://github.com/tonightpass/tonightpass/pull/666) on [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) (4 days ago)
+- [✏️ fix title case in readme](https://github.com/tonightpass/tonightpass/pull/667) on [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) (5 days ago)
+- [📝 add readme](https://github.com/tonightpass/tonightpass/pull/666) on [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) (5 days ago)
 - [✨ add storybook](https://github.com/tonightpass/kitchn/pull/782) on [tonightpass/kitchn](https://github.com/tonightpass/kitchn) (1 month ago)
 - [✨ add nuxt support](https://github.com/AntoineKM/staging/pull/9) on [AntoineKM/staging](https://github.com/AntoineKM/staging) (2 months ago)
 - [➖ remove cross-spawn](https://github.com/tonightpass/kitchn/pull/765) on [tonightpass/kitchn](https://github.com/tonightpass/kitchn) (2 months ago)
@@ -75,16 +75,16 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
-- [campsite/campsite](https://github.com/campsite/campsite) - The Campsite monorepo (4 days ago)
-- [bluematter/basedlabs-docs](https://github.com/bluematter/basedlabs-docs) -  (5 days ago)
-- [Quilljou/dalle3-playground](https://github.com/Quilljou/dalle3-playground) - DALL·E Playground (Unofficial) is used to play with OpenAI Image generation API - DALL·E (5 days ago)
-- [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - An open source collection of animated, interactive &amp; fully customizable React components for building stunning, memorable user interfaces. (5 days ago)
-- [cyntler/hamburger-react](https://github.com/cyntler/hamburger-react) - Animated hamburger menu icons for React.js weighs only 1.5 KB. (6 days ago)
+- [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot (1 day ago)
+- [campsite/campsite](https://github.com/campsite/campsite) - The Campsite monorepo (5 days ago)
+- [bluematter/basedlabs-docs](https://github.com/bluematter/basedlabs-docs) -  (6 days ago)
+- [Quilljou/dalle3-playground](https://github.com/Quilljou/dalle3-playground) - DALL·E Playground (Unofficial) is used to play with OpenAI Image generation API - DALL·E (6 days ago)
+- [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - An open source collection of animated, interactive &amp; fully customizable React components for building stunning, memorable user interfaces. (6 days ago)
+- [cyntler/hamburger-react](https://github.com/cyntler/hamburger-react) - Animated hamburger menu icons for React.js weighs only 1.5 KB. (1 week ago)
 - [swark-io/swark](https://github.com/swark-io/swark) - Create architecture diagrams from code automatically using large language models (LLMs). (1 week ago)
 - [druidui/ui](https://github.com/druidui/ui) - druid/ui (1 week ago)
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler &amp; Scraper (1 week ago)
 - [wotschofsky/domain-digger](https://github.com/wotschofsky/domain-digger) - Full Toolkit for Next-Level Domain Analysis (1 week ago)
-- [blacklanternsecurity/bbot](https://github.com/blacklanternsecurity/bbot) - The recursive internet scanner for hackers. 🧡 (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
