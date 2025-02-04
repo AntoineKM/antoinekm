@@ -91,5 +91,5 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [WilFriite](https://github.com/WilFriite)
 - [puzzithinker](https://github.com/puzzithinker)
 - [dongmingsh](https://github.com/dongmingsh)
-- [hamid85852](https://github.com/hamid85852)
 - [bludnic](https://github.com/bludnic)
+- [ipqwery](https://github.com/ipqwery)
