@@ -75,6 +75,8 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
+- [oven-sh/homebrew-bun](https://github.com/oven-sh/homebrew-bun) - Official Homebrew tap for Bun (today)
+- [agmmnn/interactive-avatar-playground](https://github.com/agmmnn/interactive-avatar-playground) - Next.js starter for HeyGen Interactive Streaming Avatar service with various features. (today)
 - [vercel/ai](https://github.com/vercel/ai) - Build AI-powered applications with React, Svelte, Vue, and Solid (2 days ago)
 - [dataforseo/TypeScriptClient](https://github.com/dataforseo/TypeScriptClient) -  (1 week ago)
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Tunneled Reverse Proxy Management Server with Identity and Access Control and Dashboard UI (2 weeks ago)
@@ -83,8 +85,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [bluematter/basedlabs-docs](https://github.com/bluematter/basedlabs-docs) -  (3 weeks ago)
 - [Quilljou/dalle3-playground](https://github.com/Quilljou/dalle3-playground) - DALL·E Playground (Unofficial) is used to play with OpenAI Image generation API - DALL·E (3 weeks ago)
 - [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - An open source collection of animated, interactive &amp; fully customizable React components for building stunning, memorable user interfaces. (3 weeks ago)
-- [cyntler/hamburger-react](https://github.com/cyntler/hamburger-react) - Animated hamburger menu icons for React.js weighs only 1.5 KB. (3 weeks ago)
-- [swark-io/swark](https://github.com/swark-io/swark) - Create architecture diagrams from code automatically using large language models (LLMs). (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
