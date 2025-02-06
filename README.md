@@ -75,6 +75,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
+- [anthropics/anthropic-quickstarts](https://github.com/anthropics/anthropic-quickstarts) - A collection of projects designed to help developers quickly get started with building deployable applications using the Anthropic API (today)
 - [oven-sh/homebrew-bun](https://github.com/oven-sh/homebrew-bun) - Official Homebrew tap for Bun (1 day ago)
 - [agmmnn/interactive-avatar-playground](https://github.com/agmmnn/interactive-avatar-playground) - Next.js starter for HeyGen Interactive Streaming Avatar service with various features. (1 day ago)
 - [vercel/ai](https://github.com/vercel/ai) - Build AI-powered applications with React, Svelte, Vue, and Solid (3 days ago)
@@ -84,7 +85,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [campsite/campsite](https://github.com/campsite/campsite) - The Campsite monorepo (3 weeks ago)
 - [bluematter/basedlabs-docs](https://github.com/bluematter/basedlabs-docs) -  (3 weeks ago)
 - [Quilljou/dalle3-playground](https://github.com/Quilljou/dalle3-playground) - DALL·E Playground (Unofficial) is used to play with OpenAI Image generation API - DALL·E (3 weeks ago)
-- [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - An open source collection of animated, interactive &amp; fully customizable React components for building stunning, memorable user interfaces. (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
