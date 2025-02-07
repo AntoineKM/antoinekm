@@ -40,7 +40,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (1 week ago)
 - [tonightpass/kitchn](https://github.com/tonightpass/kitchn) - @tonightpass delicious React @styled-components (1 week ago)
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (3 weeks ago)
-- [AntoineKM/claude-files](https://github.com/AntoineKM/claude-files) - 📁 Automatically prepare files for Claude Projects - Flatten directories, handle duplicates, respect .gitignore, and track file origins. No more manual file uploads! (4 weeks ago)
+- [AntoineKM/claude-files](https://github.com/AntoineKM/claude-files) - 📁 Automatically prepare files for Claude Projects - Flatten directories, handle duplicates, respect .gitignore, and track file origins. No more manual file uploads! (1 month ago)
 - [AntoineKM/antoine](https://github.com/AntoineKM/antoine) - cool tools to code like me. (1 month ago)
 - [tonightpass/.github](https://github.com/tonightpass/.github) -  (1 month ago)
 - [ArkeeAgency/ytg-ninja](https://github.com/ArkeeAgency/ytg-ninja) - The feature everyone want on YTG (2 months ago)
@@ -62,12 +62,12 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
-- [Add support for scoped packages (e.g., `@react-icons/fa`, `@react-icons/ri`)](https://github.com/react-icons/react-icons/pull/1020) on [react-icons/react-icons](https://github.com/react-icons/react-icons) (4 days ago)
+- [Add support for scoped packages (e.g., `@react-icons/fa`, `@react-icons/ri`)](https://github.com/react-icons/react-icons/pull/1020) on [react-icons/react-icons](https://github.com/react-icons/react-icons) (5 days ago)
 - [✏️ fix title case in readme](https://github.com/tonightpass/tonightpass/pull/667) on [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) (3 weeks ago)
 - [📝 add readme](https://github.com/tonightpass/tonightpass/pull/666) on [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) (3 weeks ago)
 - [✨ add storybook](https://github.com/tonightpass/kitchn/pull/782) on [tonightpass/kitchn](https://github.com/tonightpass/kitchn) (2 months ago)
 - [✨ add nuxt support](https://github.com/AntoineKM/staging/pull/9) on [AntoineKM/staging](https://github.com/AntoineKM/staging) (2 months ago)
-- [➖ remove cross-spawn](https://github.com/tonightpass/kitchn/pull/765) on [tonightpass/kitchn](https://github.com/tonightpass/kitchn) (2 months ago)
+- [➖ remove cross-spawn](https://github.com/tonightpass/kitchn/pull/765) on [tonightpass/kitchn](https://github.com/tonightpass/kitchn) (3 months ago)
 - [✨ add navigation menu](https://github.com/tonightpass/kitchn/pull/754) on [tonightpass/kitchn](https://github.com/tonightpass/kitchn) (3 months ago)
 - [🎨 improve client types with full response and body](https://github.com/tonightpass/tonightpass/pull/522) on [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) (3 months ago)
 - [Fix gradient generation to reduce hue collisions for longer usernames](https://github.com/vercel/avatar/pull/53) on [vercel/avatar](https://github.com/vercel/avatar) (4 months ago)
@@ -75,10 +75,10 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
-- [anthropics/anthropic-quickstarts](https://github.com/anthropics/anthropic-quickstarts) - A collection of projects designed to help developers quickly get started with building deployable applications using the Anthropic API (today)
-- [oven-sh/homebrew-bun](https://github.com/oven-sh/homebrew-bun) - Official Homebrew tap for Bun (1 day ago)
-- [agmmnn/interactive-avatar-playground](https://github.com/agmmnn/interactive-avatar-playground) - Next.js starter for HeyGen Interactive Streaming Avatar service with various features. (1 day ago)
-- [vercel/ai](https://github.com/vercel/ai) - Build AI-powered applications with React, Svelte, Vue, and Solid (3 days ago)
+- [anthropics/anthropic-quickstarts](https://github.com/anthropics/anthropic-quickstarts) - A collection of projects designed to help developers quickly get started with building deployable applications using the Anthropic API (1 day ago)
+- [oven-sh/homebrew-bun](https://github.com/oven-sh/homebrew-bun) - Official Homebrew tap for Bun (2 days ago)
+- [agmmnn/interactive-avatar-playground](https://github.com/agmmnn/interactive-avatar-playground) - Next.js starter for HeyGen Interactive Streaming Avatar service with various features. (2 days ago)
+- [vercel/ai](https://github.com/vercel/ai) - Build AI-powered applications with React, Svelte, Vue, and Solid (4 days ago)
 - [dataforseo/TypeScriptClient](https://github.com/dataforseo/TypeScriptClient) -  (1 week ago)
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Tunneled Reverse Proxy Management Server with Identity and Access Control and Dashboard UI (2 weeks ago)
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot (2 weeks ago)
