@@ -62,6 +62,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
+- [🍱 add new partner images for enhanced visual content](https://github.com/onRuntime/onruntime-website/pull/127) on [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) (today)
 - [🎨 add team grid to showcase team members](https://github.com/onRuntime/onruntime-website/pull/126) on [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) (today)
 - [🔧 update codeowners](https://github.com/tonightpass/kitchn/pull/822) on [tonightpass/kitchn](https://github.com/tonightpass/kitchn) (2 days ago)
 - [🚚 rename all files to kebab-case](https://github.com/tonightpass/kitchn/pull/820) on [tonightpass/kitchn](https://github.com/tonightpass/kitchn) (2 days ago)
@@ -71,7 +72,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [✨ add storybook](https://github.com/tonightpass/kitchn/pull/782) on [tonightpass/kitchn](https://github.com/tonightpass/kitchn) (2 months ago)
 - [✨ add nuxt support](https://github.com/AntoineKM/staging/pull/9) on [AntoineKM/staging](https://github.com/AntoineKM/staging) (2 months ago)
 - [➖ remove cross-spawn](https://github.com/tonightpass/kitchn/pull/765) on [tonightpass/kitchn](https://github.com/tonightpass/kitchn) (3 months ago)
-- [✨ add navigation menu](https://github.com/tonightpass/kitchn/pull/754) on [tonightpass/kitchn](https://github.com/tonightpass/kitchn) (3 months ago)
 
 #### ⭐ Recent Stars
 
