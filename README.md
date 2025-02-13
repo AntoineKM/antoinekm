@@ -62,6 +62,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
+- [🎨 add team grid to showcase team members](https://github.com/onRuntime/onruntime-website/pull/126) on [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) (today)
 - [🔧 update codeowners](https://github.com/tonightpass/kitchn/pull/822) on [tonightpass/kitchn](https://github.com/tonightpass/kitchn) (2 days ago)
 - [🚚 rename all files to kebab-case](https://github.com/tonightpass/kitchn/pull/820) on [tonightpass/kitchn](https://github.com/tonightpass/kitchn) (2 days ago)
 - [Add support for scoped packages (e.g., `@react-icons/fa`, `@react-icons/ri`)](https://github.com/react-icons/react-icons/pull/1020) on [react-icons/react-icons](https://github.com/react-icons/react-icons) (1 week ago)
@@ -71,7 +72,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [✨ add nuxt support](https://github.com/AntoineKM/staging/pull/9) on [AntoineKM/staging](https://github.com/AntoineKM/staging) (2 months ago)
 - [➖ remove cross-spawn](https://github.com/tonightpass/kitchn/pull/765) on [tonightpass/kitchn](https://github.com/tonightpass/kitchn) (3 months ago)
 - [✨ add navigation menu](https://github.com/tonightpass/kitchn/pull/754) on [tonightpass/kitchn](https://github.com/tonightpass/kitchn) (3 months ago)
-- [🎨 improve client types with full response and body](https://github.com/tonightpass/tonightpass/pull/522) on [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) (4 months ago)
 
 #### ⭐ Recent Stars
 
