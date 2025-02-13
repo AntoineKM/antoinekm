@@ -82,7 +82,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [agmmnn/interactive-avatar-playground](https://github.com/agmmnn/interactive-avatar-playground) - Next.js starter for HeyGen Interactive Streaming Avatar service with various features. (1 week ago)
 - [vercel/ai](https://github.com/vercel/ai) - Build AI-powered applications with React, Svelte, Vue, and Solid (1 week ago)
 - [dataforseo/TypeScriptClient](https://github.com/dataforseo/TypeScriptClient) -  (2 weeks ago)
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Tunneled Reverse Proxy Management Server with Identity and Access Control and Dashboard UI (3 weeks ago)
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Tunneled Mesh Reverse Proxy Server with Identity and Access Control and Dashboard UI (3 weeks ago)
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot (3 weeks ago)
 - [campsite/campsite](https://github.com/campsite/campsite) - The Campsite monorepo (4 weeks ago)
 
