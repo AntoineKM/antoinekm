@@ -62,6 +62,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
+- [✨ add services](https://github.com/onRuntime/onruntime-website/pull/131) on [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) (today)
 - [✨ add contact page](https://github.com/onRuntime/onruntime-website/pull/130) on [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) (today)
 - [✨ add maintenance toast](https://github.com/onRuntime/onruntime-website/pull/128) on [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) (1 day ago)
 - [🍱 add new partner images for enhanced visual content](https://github.com/onRuntime/onruntime-website/pull/127) on [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) (1 day ago)
@@ -71,7 +72,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [Add support for scoped packages (e.g., `@react-icons/fa`, `@react-icons/ri`)](https://github.com/react-icons/react-icons/pull/1020) on [react-icons/react-icons](https://github.com/react-icons/react-icons) (1 week ago)
 - [✏️ fix title case in readme](https://github.com/tonightpass/tonightpass/pull/667) on [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) (1 month ago)
 - [📝 add readme](https://github.com/tonightpass/tonightpass/pull/666) on [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) (1 month ago)
-- [✨ add storybook](https://github.com/tonightpass/kitchn/pull/782) on [tonightpass/kitchn](https://github.com/tonightpass/kitchn) (2 months ago)
 
 #### ⭐ Recent Stars
 
