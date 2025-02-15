@@ -37,7 +37,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
-- [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) - onRuntime official website. (1 day ago)
+- [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) - onRuntime official website. (today)
 - [tonightpass/kitchn](https://github.com/tonightpass/kitchn) - @tonightpass delicious React @styled-components (4 days ago)
 - [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (2 weeks ago)
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (1 month ago)
@@ -62,6 +62,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
+- [✨ add projects page](https://github.com/onRuntime/onruntime-website/pull/132) on [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) (today)
 - [✨ add services](https://github.com/onRuntime/onruntime-website/pull/131) on [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) (1 day ago)
 - [✨ add contact page](https://github.com/onRuntime/onruntime-website/pull/130) on [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) (1 day ago)
 - [✨ add maintenance toast](https://github.com/onRuntime/onruntime-website/pull/128) on [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) (2 days ago)
@@ -71,7 +72,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [🚚 rename all files to kebab-case](https://github.com/tonightpass/kitchn/pull/820) on [tonightpass/kitchn](https://github.com/tonightpass/kitchn) (4 days ago)
 - [Add support for scoped packages (e.g., `@react-icons/fa`, `@react-icons/ri`)](https://github.com/react-icons/react-icons/pull/1020) on [react-icons/react-icons](https://github.com/react-icons/react-icons) (1 week ago)
 - [✏️ fix title case in readme](https://github.com/tonightpass/tonightpass/pull/667) on [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) (1 month ago)
-- [📝 add readme](https://github.com/tonightpass/tonightpass/pull/666) on [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) (1 month ago)
 
 #### ⭐ Recent Stars
 
