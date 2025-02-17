@@ -62,6 +62,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
+- [🚚 move to figtree](https://github.com/onRuntime/onruntime-website/pull/150) on [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) (today)
 - [📝 add legal content](https://github.com/onRuntime/onruntime-website/pull/146) on [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) (2 days ago)
 - [✨ add projects page](https://github.com/onRuntime/onruntime-website/pull/132) on [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) (2 days ago)
 - [✨ add services](https://github.com/onRuntime/onruntime-website/pull/131) on [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) (3 days ago)
@@ -71,7 +72,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [🎨 add team grid to showcase team members](https://github.com/onRuntime/onruntime-website/pull/126) on [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) (4 days ago)
 - [🔧 update codeowners](https://github.com/tonightpass/kitchn/pull/822) on [tonightpass/kitchn](https://github.com/tonightpass/kitchn) (6 days ago)
 - [🚚 rename all files to kebab-case](https://github.com/tonightpass/kitchn/pull/820) on [tonightpass/kitchn](https://github.com/tonightpass/kitchn) (6 days ago)
-- [Add support for scoped packages (e.g., `@react-icons/fa`, `@react-icons/ri`)](https://github.com/react-icons/react-icons/pull/1020) on [react-icons/react-icons](https://github.com/react-icons/react-icons) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
