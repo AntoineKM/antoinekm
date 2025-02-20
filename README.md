@@ -37,9 +37,9 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
-- [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) - onRuntime official website. (1 day ago)
-- [tonightpass/kitchn](https://github.com/tonightpass/kitchn) - @tonightpass delicious React @styled-components (2 days ago)
-- [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (2 weeks ago)
+- [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) - onRuntime official website. (2 days ago)
+- [tonightpass/kitchn](https://github.com/tonightpass/kitchn) - @tonightpass delicious React @styled-components (3 days ago)
+- [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (3 weeks ago)
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (1 month ago)
 - [AntoineKM/claude-files](https://github.com/AntoineKM/claude-files) - 📁 Automatically prepare files for Claude Projects - Flatten directories, handle duplicates, respect .gitignore, and track file origins. No more manual file uploads! (1 month ago)
 - [AntoineKM/antoine](https://github.com/AntoineKM/antoine) - cool tools to code like me. (2 months ago)
@@ -58,29 +58,29 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [towfiqi/serpbear](https://github.com/towfiqi/serpbear) ([v2.0.6](https://github.com/towfiqi/serpbear/releases/tag/v2.0.6), 3 months ago) - Search Engine Position Rank Tracking App
 - [qotum/qotum](https://github.com/qotum/qotum) ([@qotum/panda-preset@1.1.10](https://github.com/qotum/qotum/releases/tag/%40qotum/panda-preset%401.1.10), 6 months ago) - @qotum&#39;s usefull tools 🧰
 - [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) ([v0.4.0](https://github.com/goenning/google-indexing-script/releases/tag/v0.4.0), 7 months ago) - Script to get your site indexed on Google in less than 48 hours
-- [AntoineKM/antoine](https://github.com/AntoineKM/antoine) ([eslint-config-antoine@1.0.14](https://github.com/AntoineKM/antoine/releases/tag/eslint-config-antoine%401.0.14), 11 months ago) - cool tools to code like me.
+- [AntoineKM/antoine](https://github.com/AntoineKM/antoine) ([eslint-config-antoine@1.0.14](https://github.com/AntoineKM/antoine/releases/tag/eslint-config-antoine%401.0.14), 1 year ago) - cool tools to code like me.
 
 #### 🔨 My recent Pull Requests
 
-- [🚚 move to figtree](https://github.com/onRuntime/onruntime-website/pull/150) on [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) (2 days ago)
-- [📝 add legal content](https://github.com/onRuntime/onruntime-website/pull/146) on [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) (4 days ago)
-- [✨ add projects page](https://github.com/onRuntime/onruntime-website/pull/132) on [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) (4 days ago)
-- [✨ add services](https://github.com/onRuntime/onruntime-website/pull/131) on [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) (5 days ago)
-- [✨ add contact page](https://github.com/onRuntime/onruntime-website/pull/130) on [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) (5 days ago)
-- [✨ add maintenance toast](https://github.com/onRuntime/onruntime-website/pull/128) on [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) (6 days ago)
-- [🍱 add new partner images for enhanced visual content](https://github.com/onRuntime/onruntime-website/pull/127) on [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) (6 days ago)
-- [🎨 add team grid to showcase team members](https://github.com/onRuntime/onruntime-website/pull/126) on [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) (6 days ago)
+- [🚚 move to figtree](https://github.com/onRuntime/onruntime-website/pull/150) on [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) (3 days ago)
+- [📝 add legal content](https://github.com/onRuntime/onruntime-website/pull/146) on [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) (5 days ago)
+- [✨ add projects page](https://github.com/onRuntime/onruntime-website/pull/132) on [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) (5 days ago)
+- [✨ add services](https://github.com/onRuntime/onruntime-website/pull/131) on [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) (6 days ago)
+- [✨ add contact page](https://github.com/onRuntime/onruntime-website/pull/130) on [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) (6 days ago)
+- [✨ add maintenance toast](https://github.com/onRuntime/onruntime-website/pull/128) on [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) (1 week ago)
+- [🍱 add new partner images for enhanced visual content](https://github.com/onRuntime/onruntime-website/pull/127) on [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) (1 week ago)
+- [🎨 add team grid to showcase team members](https://github.com/onRuntime/onruntime-website/pull/126) on [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) (1 week ago)
 - [🔧 update codeowners](https://github.com/tonightpass/kitchn/pull/822) on [tonightpass/kitchn](https://github.com/tonightpass/kitchn) (1 week ago)
 - [🚚 rename all files to kebab-case](https://github.com/tonightpass/kitchn/pull/820) on [tonightpass/kitchn](https://github.com/tonightpass/kitchn) (1 week ago)
 
 #### ⭐ Recent Stars
 
-- [octalmage/robotjs](https://github.com/octalmage/robotjs) - Node.js Desktop Automation.  (today)
-- [rbbydotdev/someday](https://github.com/rbbydotdev/someday) - Free to host calendar availability picker - open-source cal.com / calendly alternative built on Google-Apps-Script for Gmail users. Built with modern technologies like React, TypeScript, Shadcn/UI, and Vite.  https://someday-demo.vercel.app (5 days ago)
-- [hoarder-app/hoarder](https://github.com/hoarder-app/hoarder) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search (5 days ago)
+- [octalmage/robotjs](https://github.com/octalmage/robotjs) - Node.js Desktop Automation.  (1 day ago)
+- [rbbydotdev/someday](https://github.com/rbbydotdev/someday) - Free to host calendar availability picker - open-source cal.com / calendly alternative built on Google-Apps-Script for Gmail users. Built with modern technologies like React, TypeScript, Shadcn/UI, and Vite.  https://someday-demo.vercel.app (6 days ago)
+- [hoarder-app/hoarder](https://github.com/hoarder-app/hoarder) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search (6 days ago)
 - [unjs/consola](https://github.com/unjs/consola) - 🐨 Elegant Console Logger for Node.js and Browser  (1 week ago)
 - [fixadev/fixa](https://github.com/fixadev/fixa) -  (1 week ago)
-- [anthropics/anthropic-quickstarts](https://github.com/anthropics/anthropic-quickstarts) - A collection of projects designed to help developers quickly get started with building deployable applications using the Anthropic API (1 week ago)
+- [anthropics/anthropic-quickstarts](https://github.com/anthropics/anthropic-quickstarts) - A collection of projects designed to help developers quickly get started with building deployable applications using the Anthropic API (2 weeks ago)
 - [oven-sh/homebrew-bun](https://github.com/oven-sh/homebrew-bun) - Official Homebrew tap for Bun (2 weeks ago)
 - [agmmnn/interactive-avatar-playground](https://github.com/agmmnn/interactive-avatar-playground) - Next.js starter for HeyGen Interactive Streaming Avatar service with various features. (2 weeks ago)
 - [vercel/ai](https://github.com/vercel/ai) - Build AI-powered applications with React, Svelte, Vue, and Solid (2 weeks ago)
