@@ -90,6 +90,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 - [DedicatedSoftwareDev](https://github.com/DedicatedSoftwareDev)
 - [standardgalactic](https://github.com/standardgalactic)
-- [XiaomingX](https://github.com/XiaomingX)
 - [WilFriite](https://github.com/WilFriite)
 - [puzzithinker](https://github.com/puzzithinker)
+- [dongmingsh](https://github.com/dongmingsh)
