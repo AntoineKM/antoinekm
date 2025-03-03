@@ -37,14 +37,14 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
-- [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) - onRuntime official website. (today)
-- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (1 day ago)
-- [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (3 days ago)
-- [tonightpass/kitchn](https://github.com/tonightpass/kitchn) - @tonightpass delicious React @styled-components (1 week ago)
+- [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) - onRuntime official website. (1 day ago)
+- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (2 days ago)
+- [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (4 days ago)
+- [tonightpass/kitchn](https://github.com/tonightpass/kitchn) - @tonightpass delicious React @styled-components (2 weeks ago)
 - [AntoineKM/claude-files](https://github.com/AntoineKM/claude-files) - 📁 Automatically prepare files for Claude Projects - Flatten directories, handle duplicates, respect .gitignore, and track file origins. No more manual file uploads! (1 month ago)
 - [AntoineKM/antoine](https://github.com/AntoineKM/antoine) - cool tools to code like me. (2 months ago)
 - [tonightpass/.github](https://github.com/tonightpass/.github) -  (2 months ago)
-- [ArkeeAgency/ytg-ninja](https://github.com/ArkeeAgency/ytg-ninja) - The feature everyone want on YTG (2 months ago)
+- [ArkeeAgency/ytg-ninja](https://github.com/ArkeeAgency/ytg-ninja) - The feature everyone want on YTG (3 months ago)
 - [AntoineKM/staging](https://github.com/AntoineKM/staging) - Password protect your staging &amp; preview deployments. Free open-source alternative to Vercel &amp; Netlify password protection - Next.js, Nuxt, Express (3 months ago)
 - [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot) -  (3 months ago)
 
@@ -62,8 +62,8 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
-- [✨ add npo page](https://github.com/onRuntime/onruntime-website/pull/158) on [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) (4 days ago)
-- [🚚 move to figtree](https://github.com/onRuntime/onruntime-website/pull/150) on [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) (1 week ago)
+- [✨ add npo page](https://github.com/onRuntime/onruntime-website/pull/158) on [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) (5 days ago)
+- [🚚 move to figtree](https://github.com/onRuntime/onruntime-website/pull/150) on [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) (2 weeks ago)
 - [📝 add legal content](https://github.com/onRuntime/onruntime-website/pull/146) on [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) (2 weeks ago)
 - [✨ add projects page](https://github.com/onRuntime/onruntime-website/pull/132) on [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) (2 weeks ago)
 - [✨ add services](https://github.com/onRuntime/onruntime-website/pull/131) on [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) (2 weeks ago)
@@ -75,9 +75,9 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
-- [popcar2/GodotOS](https://github.com/popcar2/GodotOS) - A Fake Operating System Interface made in Godot! (2 days ago)
-- [TooTallNate/nx.js](https://github.com/TooTallNate/nx.js) - JavaScript runtime for Nintendo Switch homebrew applications (2 days ago)
-- [vercel/flags](https://github.com/vercel/flags) - Flags SDK by Vercel (5 days ago)
+- [popcar2/GodotOS](https://github.com/popcar2/GodotOS) - A Fake Operating System Interface made in Godot! (3 days ago)
+- [TooTallNate/nx.js](https://github.com/TooTallNate/nx.js) - JavaScript runtime for Nintendo Switch homebrew applications (3 days ago)
+- [vercel/flags](https://github.com/vercel/flags) - Flags SDK by Vercel (6 days ago)
 - [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software. (1 week ago)
 - [agentsea/r1-computer-use](https://github.com/agentsea/r1-computer-use) - Applying the ideas of Deepseek R1 to computer use (1 week ago)
 - [octalmage/robotjs](https://github.com/octalmage/robotjs) - Node.js Desktop Automation.  (1 week ago)
