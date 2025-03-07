@@ -75,6 +75,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
+- [microsoft/minecraft-scripting-samples](https://github.com/microsoft/minecraft-scripting-samples) - Contains various samples of GameTest Framework JavaScript &#43; Minecraft Bedrock Edition (today)
 - [Fork-It-Community/forkit.community](https://github.com/Fork-It-Community/forkit.community) - Fork it! Community website source code (4 days ago)
 - [popcar2/GodotOS](https://github.com/popcar2/GodotOS) - A Fake Operating System Interface made in Godot! (1 week ago)
 - [TooTallNate/nx.js](https://github.com/TooTallNate/nx.js) - JavaScript runtime for Nintendo Switch homebrew applications (1 week ago)
@@ -84,7 +85,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [octalmage/robotjs](https://github.com/octalmage/robotjs) - Node.js Desktop Automation.  (2 weeks ago)
 - [rbbydotdev/someday](https://github.com/rbbydotdev/someday) - Free to host calendar availability picker - open-source cal.com / calendly alternative built on Google-Apps-Script for Gmail users. Built with modern technologies like React, TypeScript, Shadcn/UI, and Vite.  https://someday-demo.vercel.app (3 weeks ago)
 - [hoarder-app/hoarder](https://github.com/hoarder-app/hoarder) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search (3 weeks ago)
-- [unjs/consola](https://github.com/unjs/consola) - 🐨 Elegant Console Logger for Node.js and Browser  (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
