@@ -37,12 +37,12 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
-- [AntoineKM/antoine](https://github.com/AntoineKM/antoine) - cool tools to code like me. (today)
-- [tonightpass/kitchn](https://github.com/tonightpass/kitchn) - @tonightpass delicious React @styled-components (1 day ago)
-- [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (2 days ago)
-- [Fork-It-Community/forkit.community](https://github.com/Fork-It-Community/forkit.community) - Fork it! Community website source code (3 days ago)
-- [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) - onRuntime official website. (4 days ago)
-- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (6 days ago)
+- [AntoineKM/antoine](https://github.com/AntoineKM/antoine) - cool tools to code like me. (1 day ago)
+- [tonightpass/kitchn](https://github.com/tonightpass/kitchn) - @tonightpass delicious React @styled-components (2 days ago)
+- [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (3 days ago)
+- [Fork-It-Community/forkit.community](https://github.com/Fork-It-Community/forkit.community) - Fork it! Community website source code (4 days ago)
+- [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) - onRuntime official website. (5 days ago)
+- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (1 week ago)
 - [AntoineKM/claude-files](https://github.com/AntoineKM/claude-files) - 📁 Automatically prepare files for Claude Projects - Flatten directories, handle duplicates, respect .gitignore, and track file origins. No more manual file uploads! (1 month ago)
 - [tonightpass/.github](https://github.com/tonightpass/.github) -  (2 months ago)
 - [ArkeeAgency/ytg-ninja](https://github.com/ArkeeAgency/ytg-ninja) - The feature everyone want on YTG (3 months ago)
@@ -62,12 +62,12 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
-- [🐛 fix github pr merge ui integration](https://github.com/johannchopin/gitmoji-browser-extension/pull/204) on [johannchopin/gitmoji-browser-extension](https://github.com/johannchopin/gitmoji-browser-extension) (2 days ago)
-- [fix: add seo slot to code of conduct page](https://github.com/Fork-It-Community/forkit.community/pull/258) on [Fork-It-Community/forkit.community](https://github.com/Fork-It-Community/forkit.community) (4 days ago)
+- [🐛 fix github pr merge ui integration](https://github.com/johannchopin/gitmoji-browser-extension/pull/204) on [johannchopin/gitmoji-browser-extension](https://github.com/johannchopin/gitmoji-browser-extension) (3 days ago)
+- [fix: add seo slot to code of conduct page](https://github.com/Fork-It-Community/forkit.community/pull/258) on [Fork-It-Community/forkit.community](https://github.com/Fork-It-Community/forkit.community) (5 days ago)
 - [✨ add npo page](https://github.com/onRuntime/onruntime-website/pull/158) on [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) (1 week ago)
 - [🚚 move to figtree](https://github.com/onRuntime/onruntime-website/pull/150) on [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) (2 weeks ago)
-- [📝 add legal content](https://github.com/onRuntime/onruntime-website/pull/146) on [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) (2 weeks ago)
-- [✨ add projects page](https://github.com/onRuntime/onruntime-website/pull/132) on [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) (2 weeks ago)
+- [📝 add legal content](https://github.com/onRuntime/onruntime-website/pull/146) on [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) (3 weeks ago)
+- [✨ add projects page](https://github.com/onRuntime/onruntime-website/pull/132) on [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) (3 weeks ago)
 - [✨ add services](https://github.com/onRuntime/onruntime-website/pull/131) on [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) (3 weeks ago)
 - [✨ add contact page](https://github.com/onRuntime/onruntime-website/pull/130) on [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) (3 weeks ago)
 - [✨ add maintenance toast](https://github.com/onRuntime/onruntime-website/pull/128) on [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) (3 weeks ago)
@@ -75,13 +75,13 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
-- [microsoft/minecraft-scripting-samples](https://github.com/microsoft/minecraft-scripting-samples) - Contains various samples of GameTest Framework JavaScript &#43; Minecraft Bedrock Edition (today)
-- [Fork-It-Community/forkit.community](https://github.com/Fork-It-Community/forkit.community) - Fork it! Community website source code (4 days ago)
+- [microsoft/minecraft-scripting-samples](https://github.com/microsoft/minecraft-scripting-samples) - Contains various samples of GameTest Framework JavaScript &#43; Minecraft Bedrock Edition (1 day ago)
+- [Fork-It-Community/forkit.community](https://github.com/Fork-It-Community/forkit.community) - Fork it! Community website source code (5 days ago)
 - [popcar2/GodotOS](https://github.com/popcar2/GodotOS) - A Fake Operating System Interface made in Godot! (1 week ago)
 - [TooTallNate/nx.js](https://github.com/TooTallNate/nx.js) - JavaScript runtime for Nintendo Switch homebrew applications (1 week ago)
 - [vercel/flags](https://github.com/vercel/flags) - Flags SDK by Vercel (1 week ago)
-- [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software. (1 week ago)
-- [agentsea/r1-computer-use](https://github.com/agentsea/r1-computer-use) - Applying the ideas of Deepseek R1 to computer use (1 week ago)
+- [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software. (2 weeks ago)
+- [agentsea/r1-computer-use](https://github.com/agentsea/r1-computer-use) - Applying the ideas of Deepseek R1 to computer use (2 weeks ago)
 - [octalmage/robotjs](https://github.com/octalmage/robotjs) - Node.js Desktop Automation.  (2 weeks ago)
 - [rbbydotdev/someday](https://github.com/rbbydotdev/someday) - Free to host calendar availability picker - open-source cal.com / calendly alternative built on Google-Apps-Script for Gmail users. Built with modern technologies like React, TypeScript, Shadcn/UI, and Vite.  https://someday-demo.vercel.app (3 weeks ago)
 - [hoarder-app/hoarder](https://github.com/hoarder-app/hoarder) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search (3 weeks ago)
