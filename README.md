@@ -37,10 +37,10 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
-- [AntoineKM/antoine](https://github.com/AntoineKM/antoine) - cool tools to code like me. (3 days ago)
-- [tonightpass/kitchn](https://github.com/tonightpass/kitchn) - @tonightpass delicious React @styled-components (4 days ago)
-- [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (5 days ago)
-- [Fork-It-Community/forkit.community](https://github.com/Fork-It-Community/forkit.community) - Fork it! Community website source code (6 days ago)
+- [AntoineKM/antoine](https://github.com/AntoineKM/antoine) - cool tools to code like me. (4 days ago)
+- [tonightpass/kitchn](https://github.com/tonightpass/kitchn) - @tonightpass delicious React @styled-components (5 days ago)
+- [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (6 days ago)
+- [Fork-It-Community/forkit.community](https://github.com/Fork-It-Community/forkit.community) - Fork it! Community website source code (1 week ago)
 - [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) - onRuntime official website. (1 week ago)
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (1 week ago)
 - [AntoineKM/claude-files](https://github.com/AntoineKM/claude-files) - 📁 Automatically prepare files for Claude Projects - Flatten directories, handle duplicates, respect .gitignore, and track file origins. No more manual file uploads! (2 months ago)
@@ -51,18 +51,18 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 #### 🔭 Latest releases I've contributed to
 
 - [towfiqi/serpbear](https://github.com/towfiqi/serpbear) ([v2.0.7](https://github.com/towfiqi/serpbear/releases/tag/v2.0.7), 2 weeks ago) - Search Engine Position Rank Tracking App
-- [tonightpass/kitchn](https://github.com/tonightpass/kitchn) ([kitchn@1.4.0](https://github.com/tonightpass/kitchn/releases/tag/kitchn%401.4.0), 3 weeks ago) - @tonightpass delicious React @styled-components
+- [tonightpass/kitchn](https://github.com/tonightpass/kitchn) ([kitchn@1.4.0](https://github.com/tonightpass/kitchn/releases/tag/kitchn%401.4.0), 4 weeks ago) - @tonightpass delicious React @styled-components
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([tonightpass@0.0.128](https://github.com/tonightpass/tonightpass/releases/tag/tonightpass%400.0.128), 1 month ago) - @tonightpass sdk and tools.
 - [AntoineKM/dixt](https://github.com/AntoineKM/dixt) ([dixt-plugin-worktime@2.2.0](https://github.com/AntoineKM/dixt/releases/tag/dixt-plugin-worktime%402.2.0), 3 months ago) - The Discord Framework
 - [AntoineKM/staging](https://github.com/AntoineKM/staging) ([staging@0.0.7](https://github.com/AntoineKM/staging/releases/tag/staging%400.0.7), 3 months ago) - Password protect your staging &amp; preview deployments. Free open-source alternative to Vercel &amp; Netlify password protection - Next.js, Nuxt, Express
 - [onRuntime/kartrak](https://github.com/onRuntime/kartrak) ([v0.0.15](https://github.com/onRuntime/kartrak/releases/tag/v0.0.15), 3 months ago) - Le suivi d&#39;activité tourné vers l&#39;écologie.
-- [qotum/qotum](https://github.com/qotum/qotum) ([@qotum/panda-preset@1.1.10](https://github.com/qotum/qotum/releases/tag/%40qotum/panda-preset%401.1.10), 6 months ago) - @qotum&#39;s usefull tools 🧰
+- [qotum/qotum](https://github.com/qotum/qotum) ([@qotum/panda-preset@1.1.10](https://github.com/qotum/qotum/releases/tag/%40qotum/panda-preset%401.1.10), 7 months ago) - @qotum&#39;s usefull tools 🧰
 - [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) ([v0.4.0](https://github.com/goenning/google-indexing-script/releases/tag/v0.4.0), 8 months ago) - Script to get your site indexed on Google in less than 48 hours
 - [AntoineKM/antoine](https://github.com/AntoineKM/antoine) ([eslint-config-antoine@1.0.14](https://github.com/AntoineKM/antoine/releases/tag/eslint-config-antoine%401.0.14), 1 year ago) - cool tools to code like me.
 
 #### 🔨 My recent Pull Requests
 
-- [🐛 fix github pr merge ui integration](https://github.com/johannchopin/gitmoji-browser-extension/pull/204) on [johannchopin/gitmoji-browser-extension](https://github.com/johannchopin/gitmoji-browser-extension) (5 days ago)
+- [🐛 fix github pr merge ui integration](https://github.com/johannchopin/gitmoji-browser-extension/pull/204) on [johannchopin/gitmoji-browser-extension](https://github.com/johannchopin/gitmoji-browser-extension) (6 days ago)
 - [fix: add seo slot to code of conduct page](https://github.com/Fork-It-Community/forkit.community/pull/258) on [Fork-It-Community/forkit.community](https://github.com/Fork-It-Community/forkit.community) (1 week ago)
 - [✨ add npo page](https://github.com/onRuntime/onruntime-website/pull/158) on [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) (1 week ago)
 - [🚚 move to figtree](https://github.com/onRuntime/onruntime-website/pull/150) on [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) (3 weeks ago)
@@ -75,11 +75,11 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
-- [microsoft/minecraft-scripting-samples](https://github.com/microsoft/minecraft-scripting-samples) - Contains various samples of GameTest Framework JavaScript &#43; Minecraft Bedrock Edition (3 days ago)
+- [microsoft/minecraft-scripting-samples](https://github.com/microsoft/minecraft-scripting-samples) - Contains various samples of GameTest Framework JavaScript &#43; Minecraft Bedrock Edition (4 days ago)
 - [Fork-It-Community/forkit.community](https://github.com/Fork-It-Community/forkit.community) - Fork it! Community website source code (1 week ago)
 - [popcar2/GodotOS](https://github.com/popcar2/GodotOS) - A Fake Operating System Interface made in Godot! (1 week ago)
 - [TooTallNate/nx.js](https://github.com/TooTallNate/nx.js) - JavaScript runtime for Nintendo Switch homebrew applications (1 week ago)
-- [vercel/flags](https://github.com/vercel/flags) - Flags SDK by Vercel (1 week ago)
+- [vercel/flags](https://github.com/vercel/flags) - Flags SDK by Vercel (2 weeks ago)
 - [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software. (2 weeks ago)
 - [agentsea/r1-computer-use](https://github.com/agentsea/r1-computer-use) - Applying the ideas of Deepseek R1 to computer use (2 weeks ago)
 - [octalmage/robotjs](https://github.com/octalmage/robotjs) - Node.js Desktop Automation.  (2 weeks ago)
