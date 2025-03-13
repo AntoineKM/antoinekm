@@ -37,8 +37,8 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
-- [AntoineKM/antoine](https://github.com/AntoineKM/antoine) - cool tools to code like me. (5 days ago)
-- [tonightpass/kitchn](https://github.com/tonightpass/kitchn) - @tonightpass delicious React @styled-components (6 days ago)
+- [AntoineKM/antoine](https://github.com/AntoineKM/antoine) - cool tools to code like me. (6 days ago)
+- [tonightpass/kitchn](https://github.com/tonightpass/kitchn) - @tonightpass delicious React @styled-components (1 week ago)
 - [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (1 week ago)
 - [Fork-It-Community/forkit.community](https://github.com/Fork-It-Community/forkit.community) - Fork it! Community website source code (1 week ago)
 - [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) - onRuntime official website. (1 week ago)
@@ -51,7 +51,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 #### 🔭 Latest releases I've contributed to
 
 - [towfiqi/serpbear](https://github.com/towfiqi/serpbear) ([v2.0.7](https://github.com/towfiqi/serpbear/releases/tag/v2.0.7), 2 weeks ago) - Search Engine Position Rank Tracking App
-- [tonightpass/kitchn](https://github.com/tonightpass/kitchn) ([kitchn@1.4.0](https://github.com/tonightpass/kitchn/releases/tag/kitchn%401.4.0), 4 weeks ago) - @tonightpass delicious React @styled-components
+- [tonightpass/kitchn](https://github.com/tonightpass/kitchn) ([kitchn@1.4.0](https://github.com/tonightpass/kitchn/releases/tag/kitchn%401.4.0), 1 month ago) - @tonightpass delicious React @styled-components
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([tonightpass@0.0.128](https://github.com/tonightpass/tonightpass/releases/tag/tonightpass%400.0.128), 1 month ago) - @tonightpass sdk and tools.
 - [AntoineKM/dixt](https://github.com/AntoineKM/dixt) ([dixt-plugin-worktime@2.2.0](https://github.com/AntoineKM/dixt/releases/tag/dixt-plugin-worktime%402.2.0), 3 months ago) - The Discord Framework
 - [AntoineKM/staging](https://github.com/AntoineKM/staging) ([staging@0.0.7](https://github.com/AntoineKM/staging/releases/tag/staging%400.0.7), 3 months ago) - Password protect your staging &amp; preview deployments. Free open-source alternative to Vercel &amp; Netlify password protection - Next.js, Nuxt, Express
@@ -70,13 +70,13 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [✨ add projects page](https://github.com/onRuntime/onruntime-website/pull/132) on [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) (3 weeks ago)
 - [✨ add services](https://github.com/onRuntime/onruntime-website/pull/131) on [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) (3 weeks ago)
 - [✨ add contact page](https://github.com/onRuntime/onruntime-website/pull/130) on [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) (3 weeks ago)
-- [✨ add maintenance toast](https://github.com/onRuntime/onruntime-website/pull/128) on [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) (3 weeks ago)
-- [🍱 add new partner images for enhanced visual content](https://github.com/onRuntime/onruntime-website/pull/127) on [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) (3 weeks ago)
+- [✨ add maintenance toast](https://github.com/onRuntime/onruntime-website/pull/128) on [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) (4 weeks ago)
+- [🍱 add new partner images for enhanced visual content](https://github.com/onRuntime/onruntime-website/pull/127) on [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) (4 weeks ago)
 
 #### ⭐ Recent Stars
 
-- [rafaelalmeidatk/nextjs-forum](https://github.com/rafaelalmeidatk/nextjs-forum) - The Next.js Discord server indexed in the web (today)
-- [microsoft/minecraft-scripting-samples](https://github.com/microsoft/minecraft-scripting-samples) - Contains various samples of GameTest Framework JavaScript &#43; Minecraft Bedrock Edition (5 days ago)
+- [rafaelalmeidatk/nextjs-forum](https://github.com/rafaelalmeidatk/nextjs-forum) - The Next.js Discord server indexed in the web (1 day ago)
+- [microsoft/minecraft-scripting-samples](https://github.com/microsoft/minecraft-scripting-samples) - Contains various samples of GameTest Framework JavaScript &#43; Minecraft Bedrock Edition (6 days ago)
 - [Fork-It-Community/forkit.community](https://github.com/Fork-It-Community/forkit.community) - Fork it! Community website source code (1 week ago)
 - [popcar2/GodotOS](https://github.com/popcar2/GodotOS) - A Fake Operating System Interface made in Godot! (1 week ago)
 - [TooTallNate/nx.js](https://github.com/TooTallNate/nx.js) - JavaScript runtime for Nintendo Switch homebrew applications (1 week ago)
