@@ -88,7 +88,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👯 Check out some of my recent followers
 
-- [DedicatedSoftwareDev](https://github.com/DedicatedSoftwareDev)
+- [eros1006](https://github.com/eros1006)
 - [standardgalactic](https://github.com/standardgalactic)
 - [WilFriite](https://github.com/WilFriite)
 - [puzzithinker](https://github.com/puzzithinker)
