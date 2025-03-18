@@ -75,6 +75,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
+- [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships. (today)
 - [openai/openai-realtime-agents](https://github.com/openai/openai-realtime-agents) - This is a simple demonstration of more advanced, agentic patterns built on top of the Realtime API. (3 days ago)
 - [rafaelalmeidatk/nextjs-forum](https://github.com/rafaelalmeidatk/nextjs-forum) - The Next.js Discord server indexed in the web (6 days ago)
 - [microsoft/minecraft-scripting-samples](https://github.com/microsoft/minecraft-scripting-samples) - Contains various samples of GameTest Framework JavaScript &#43; Minecraft Bedrock Edition (1 week ago)
@@ -84,7 +85,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [vercel/flags](https://github.com/vercel/flags) - Flags SDK by Vercel (3 weeks ago)
 - [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software. (3 weeks ago)
 - [agentsea/r1-computer-use](https://github.com/agentsea/r1-computer-use) - Applying the ideas of Deepseek R1 to computer use (3 weeks ago)
-- [octalmage/robotjs](https://github.com/octalmage/robotjs) - Node.js Desktop Automation.  (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
