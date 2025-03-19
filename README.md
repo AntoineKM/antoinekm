@@ -62,6 +62,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
+- [fix: maintain smart back button behavior with view transitions](https://github.com/Fork-It-Community/forkit.community/pull/292) on [Fork-It-Community/forkit.community](https://github.com/Fork-It-Community/forkit.community) (today)
 - [feat: add related events section on event page](https://github.com/Fork-It-Community/forkit.community/pull/286) on [Fork-It-Community/forkit.community](https://github.com/Fork-It-Community/forkit.community) (5 days ago)
 - [feat: add quick share button](https://github.com/Fork-It-Community/forkit.community/pull/284) on [Fork-It-Community/forkit.community](https://github.com/Fork-It-Community/forkit.community) (5 days ago)
 - [feat: add acast embed support for podcast episodes](https://github.com/Fork-It-Community/forkit.community/pull/282) on [Fork-It-Community/forkit.community](https://github.com/Fork-It-Community/forkit.community) (5 days ago)
@@ -71,7 +72,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [✨ add npo page](https://github.com/onRuntime/onruntime-website/pull/158) on [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) (3 weeks ago)
 - [🚚 move to figtree](https://github.com/onRuntime/onruntime-website/pull/150) on [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) (1 month ago)
 - [📝 add legal content](https://github.com/onRuntime/onruntime-website/pull/146) on [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) (1 month ago)
-- [✨ add projects page](https://github.com/onRuntime/onruntime-website/pull/132) on [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) (1 month ago)
 
 #### ⭐ Recent Stars
 
