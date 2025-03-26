@@ -37,8 +37,8 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
-- [needforschool/nostr-mini-twitter](https://github.com/needforschool/nostr-mini-twitter) -  (4 days ago)
-- [needforschool/excelsior](https://github.com/needforschool/excelsior) - QuickServe project (6 days ago)
+- [needforschool/nostr-mini-twitter](https://github.com/needforschool/nostr-mini-twitter) -  (5 days ago)
+- [needforschool/excelsior](https://github.com/needforschool/excelsior) - QuickServe project (1 week ago)
 - [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) - onRuntime official website. (1 week ago)
 - [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (1 week ago)
 - [tonightpass/kitchn](https://github.com/tonightpass/kitchn) - @tonightpass delicious React @styled-components (1 week ago)
@@ -62,23 +62,23 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
-- [fix: maintain smart back button behavior with view transitions](https://github.com/Fork-It-Community/forkit.community/pull/292) on [Fork-It-Community/forkit.community](https://github.com/Fork-It-Community/forkit.community) (6 days ago)
+- [fix: maintain smart back button behavior with view transitions](https://github.com/Fork-It-Community/forkit.community/pull/292) on [Fork-It-Community/forkit.community](https://github.com/Fork-It-Community/forkit.community) (1 week ago)
 - [feat: add related events section on event page](https://github.com/Fork-It-Community/forkit.community/pull/286) on [Fork-It-Community/forkit.community](https://github.com/Fork-It-Community/forkit.community) (1 week ago)
 - [feat: add quick share button](https://github.com/Fork-It-Community/forkit.community/pull/284) on [Fork-It-Community/forkit.community](https://github.com/Fork-It-Community/forkit.community) (1 week ago)
 - [feat: add acast embed support for podcast episodes](https://github.com/Fork-It-Community/forkit.community/pull/282) on [Fork-It-Community/forkit.community](https://github.com/Fork-It-Community/forkit.community) (1 week ago)
 - [feat: add view transitions for spa-like navigation](https://github.com/Fork-It-Community/forkit.community/pull/281) on [Fork-It-Community/forkit.community](https://github.com/Fork-It-Community/forkit.community) (1 week ago)
-- [🐛 fix github pr merge ui integration](https://github.com/johannchopin/gitmoji-browser-extension/pull/204) on [johannchopin/gitmoji-browser-extension](https://github.com/johannchopin/gitmoji-browser-extension) (2 weeks ago)
+- [🐛 fix github pr merge ui integration](https://github.com/johannchopin/gitmoji-browser-extension/pull/204) on [johannchopin/gitmoji-browser-extension](https://github.com/johannchopin/gitmoji-browser-extension) (3 weeks ago)
 - [fix: add seo slot to code of conduct page](https://github.com/Fork-It-Community/forkit.community/pull/258) on [Fork-It-Community/forkit.community](https://github.com/Fork-It-Community/forkit.community) (3 weeks ago)
-- [✨ add npo page](https://github.com/onRuntime/onruntime-website/pull/158) on [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) (3 weeks ago)
+- [✨ add npo page](https://github.com/onRuntime/onruntime-website/pull/158) on [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) (4 weeks ago)
 - [🚚 move to figtree](https://github.com/onRuntime/onruntime-website/pull/150) on [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) (1 month ago)
 - [📝 add legal content](https://github.com/onRuntime/onruntime-website/pull/146) on [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) (1 month ago)
 
 #### ⭐ Recent Stars
 
-- [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems (5 days ago)
+- [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems (6 days ago)
 - [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships. (1 week ago)
 - [openai/openai-realtime-agents](https://github.com/openai/openai-realtime-agents) - This is a simple demonstration of more advanced, agentic patterns built on top of the Realtime API. (1 week ago)
-- [rafaelalmeidatk/nextjs-forum](https://github.com/rafaelalmeidatk/nextjs-forum) - The Next.js Discord server indexed in the web (1 week ago)
+- [rafaelalmeidatk/nextjs-forum](https://github.com/rafaelalmeidatk/nextjs-forum) - The Next.js Discord server indexed in the web (2 weeks ago)
 - [microsoft/minecraft-scripting-samples](https://github.com/microsoft/minecraft-scripting-samples) - Contains various samples of GameTest Framework JavaScript &#43; Minecraft Bedrock Edition (2 weeks ago)
 - [Fork-It-Community/forkit.community](https://github.com/Fork-It-Community/forkit.community) - Fork it! Community website source code (3 weeks ago)
 - [popcar2/GodotOS](https://github.com/popcar2/GodotOS) - A Fake Operating System Interface made in Godot! (3 weeks ago)
