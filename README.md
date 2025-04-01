@@ -37,7 +37,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
-- [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) - onRuntime official website. (3 days ago)
+- [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) - onRuntime official website. (4 days ago)
 - [needforschool/nostr-mini-twitter](https://github.com/needforschool/nostr-mini-twitter) -  (1 week ago)
 - [needforschool/excelsior](https://github.com/needforschool/excelsior) - QuickServe project (1 week ago)
 - [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (2 weeks ago)
@@ -62,7 +62,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
-- [✨ add glossary](https://github.com/onRuntime/onruntime-website/pull/187) on [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) (today)
+- [✨ add glossary](https://github.com/onRuntime/onruntime-website/pull/187) on [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) (1 day ago)
 - [fix: maintain smart back button behavior with view transitions](https://github.com/Fork-It-Community/forkit.community/pull/292) on [Fork-It-Community/forkit.community](https://github.com/Fork-It-Community/forkit.community) (1 week ago)
 - [feat: add related events section on event page](https://github.com/Fork-It-Community/forkit.community/pull/286) on [Fork-It-Community/forkit.community](https://github.com/Fork-It-Community/forkit.community) (2 weeks ago)
 - [feat: add quick share button](https://github.com/Fork-It-Community/forkit.community/pull/284) on [Fork-It-Community/forkit.community](https://github.com/Fork-It-Community/forkit.community) (2 weeks ago)
@@ -75,11 +75,11 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
-- [KDE/khtml](https://github.com/KDE/khtml) - KHtml (4 days ago)
-- [wincelau/ratpstatus](https://github.com/wincelau/ratpstatus) - Page de suivi et d&#39;historisation de l&#39;état du trafic des Ⓜ️ Métros, 🚆 RER / Transiliens et 🚈 Tramways d&#39;Île de France (5 days ago)
-- [blender/blender](https://github.com/blender/blender) - Official mirror of Blender (5 days ago)
+- [KDE/khtml](https://github.com/KDE/khtml) - KHtml (5 days ago)
+- [wincelau/ratpstatus](https://github.com/wincelau/ratpstatus) - Page de suivi et d&#39;historisation de l&#39;état du trafic des Ⓜ️ Métros, 🚆 RER / Transiliens et 🚈 Tramways d&#39;Île de France (6 days ago)
+- [blender/blender](https://github.com/blender/blender) - Official mirror of Blender (6 days ago)
 - [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems (1 week ago)
-- [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships. (1 week ago)
+- [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships. (2 weeks ago)
 - [openai/openai-realtime-agents](https://github.com/openai/openai-realtime-agents) - This is a simple demonstration of more advanced, agentic patterns built on top of the Realtime API. (2 weeks ago)
 - [rafaelalmeidatk/nextjs-forum](https://github.com/rafaelalmeidatk/nextjs-forum) - The Next.js Discord server indexed in the web (2 weeks ago)
 - [microsoft/minecraft-scripting-samples](https://github.com/microsoft/minecraft-scripting-samples) - Contains various samples of GameTest Framework JavaScript &#43; Minecraft Bedrock Edition (3 weeks ago)
