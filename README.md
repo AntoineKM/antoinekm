@@ -45,7 +45,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [Fork-It-Community/forkit.community](https://github.com/Fork-It-Community/forkit.community) - Fork it! Community website source code (3 weeks ago)
 - [AntoineKM/antoine](https://github.com/AntoineKM/antoine) - cool tools to code like me. (1 month ago)
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (1 month ago)
-- [AntoineKM/claude-files](https://github.com/AntoineKM/claude-files) - 📁 Automatically prepare files for Claude Projects - Flatten directories, handle duplicates, respect .gitignore, and track file origins. No more manual file uploads! (2 months ago)
+- [AntoineKM/claude-files](https://github.com/AntoineKM/claude-files) - 📁 Automatically prepare files for Claude Projects - Flatten directories, handle duplicates, respect .gitignore, and track file origins. No more manual file uploads! (3 months ago)
 - [tonightpass/.github](https://github.com/tonightpass/.github) -  (3 months ago)
 
 #### 🔭 Latest releases I've contributed to
@@ -79,7 +79,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [wincelau/ratpstatus](https://github.com/wincelau/ratpstatus) - Page de suivi et d&#39;historisation de l&#39;état du trafic des Ⓜ️ Métros, 🚆 RER / Transiliens et 🚈 Tramways d&#39;Île de France (1 week ago)
 - [blender/blender](https://github.com/blender/blender) - Official mirror of Blender (1 week ago)
 - [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems (2 weeks ago)
-- [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships. (2 weeks ago)
+- [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships. (3 weeks ago)
 - [openai/openai-realtime-agents](https://github.com/openai/openai-realtime-agents) - This is a simple demonstration of more advanced, agentic patterns built on top of the Realtime API. (3 weeks ago)
 - [rafaelalmeidatk/nextjs-forum](https://github.com/rafaelalmeidatk/nextjs-forum) - The Next.js Discord server indexed in the web (3 weeks ago)
 - [microsoft/minecraft-scripting-samples](https://github.com/microsoft/minecraft-scripting-samples) - Contains various samples of GameTest Framework JavaScript &#43; Minecraft Bedrock Edition (1 month ago)
