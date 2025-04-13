@@ -42,7 +42,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [needforschool/excelsior](https://github.com/needforschool/excelsior) - QuickServe project (3 weeks ago)
 - [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (3 weeks ago)
 - [tonightpass/kitchn](https://github.com/tonightpass/kitchn) - @tonightpass delicious React @styled-components (4 weeks ago)
-- [Fork-It-Community/forkit.community](https://github.com/Fork-It-Community/forkit.community) - Fork it! Community website source code (4 weeks ago)
+- [Fork-It-Community/forkit.community](https://github.com/Fork-It-Community/forkit.community) - Fork it! Community website source code (1 month ago)
 - [AntoineKM/antoine](https://github.com/AntoineKM/antoine) - cool tools to code like me. (1 month ago)
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (1 month ago)
 - [AntoineKM/claude-files](https://github.com/AntoineKM/claude-files) - 📁 Automatically prepare files for Claude Projects - Flatten directories, handle duplicates, respect .gitignore, and track file origins. No more manual file uploads! (3 months ago)
@@ -64,9 +64,9 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 - [✨ add glossary](https://github.com/onRuntime/onruntime-website/pull/187) on [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) (1 week ago)
 - [fix: maintain smart back button behavior with view transitions](https://github.com/Fork-It-Community/forkit.community/pull/292) on [Fork-It-Community/forkit.community](https://github.com/Fork-It-Community/forkit.community) (3 weeks ago)
-- [feat: add related events section on event page](https://github.com/Fork-It-Community/forkit.community/pull/286) on [Fork-It-Community/forkit.community](https://github.com/Fork-It-Community/forkit.community) (4 weeks ago)
-- [feat: add quick share button](https://github.com/Fork-It-Community/forkit.community/pull/284) on [Fork-It-Community/forkit.community](https://github.com/Fork-It-Community/forkit.community) (4 weeks ago)
-- [feat: add acast embed support for podcast episodes](https://github.com/Fork-It-Community/forkit.community/pull/282) on [Fork-It-Community/forkit.community](https://github.com/Fork-It-Community/forkit.community) (4 weeks ago)
+- [feat: add related events section on event page](https://github.com/Fork-It-Community/forkit.community/pull/286) on [Fork-It-Community/forkit.community](https://github.com/Fork-It-Community/forkit.community) (1 month ago)
+- [feat: add quick share button](https://github.com/Fork-It-Community/forkit.community/pull/284) on [Fork-It-Community/forkit.community](https://github.com/Fork-It-Community/forkit.community) (1 month ago)
+- [feat: add acast embed support for podcast episodes](https://github.com/Fork-It-Community/forkit.community/pull/282) on [Fork-It-Community/forkit.community](https://github.com/Fork-It-Community/forkit.community) (1 month ago)
 - [feat: add view transitions for spa-like navigation](https://github.com/Fork-It-Community/forkit.community/pull/281) on [Fork-It-Community/forkit.community](https://github.com/Fork-It-Community/forkit.community) (1 month ago)
 - [🐛 fix github pr merge ui integration](https://github.com/johannchopin/gitmoji-browser-extension/pull/204) on [johannchopin/gitmoji-browser-extension](https://github.com/johannchopin/gitmoji-browser-extension) (1 month ago)
 - [fix: add seo slot to code of conduct page](https://github.com/Fork-It-Community/forkit.community/pull/258) on [Fork-It-Community/forkit.community](https://github.com/Fork-It-Community/forkit.community) (1 month ago)
@@ -75,7 +75,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
-- [ScoopInstaller/scoopinstaller.github.io](https://github.com/ScoopInstaller/scoopinstaller.github.io) - ScoopInstaller homepage and search engine (2 days ago)
+- [ScoopInstaller/scoopinstaller.github.io](https://github.com/ScoopInstaller/scoopinstaller.github.io) - ScoopInstaller homepage and search engine (3 days ago)
 - [KDE/khtml](https://github.com/KDE/khtml) - KHtml (2 weeks ago)
 - [wincelau/ratpstatus](https://github.com/wincelau/ratpstatus) - Page de suivi et d&#39;historisation de l&#39;état du trafic des Ⓜ️ Métros, 🚆 RER / Transiliens et 🚈 Tramways d&#39;Île de France (2 weeks ago)
 - [blender/blender](https://github.com/blender/blender) - Official mirror of Blender (2 weeks ago)
