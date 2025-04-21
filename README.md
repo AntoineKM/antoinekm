@@ -62,7 +62,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
-- [✨ add glossary](https://github.com/onRuntime/onruntime-website/pull/187) on [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) (2 weeks ago)
+- [✨ add glossary](https://github.com/onRuntime/onruntime-website/pull/187) on [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) (3 weeks ago)
 - [fix: maintain smart back button behavior with view transitions](https://github.com/Fork-It-Community/forkit.community/pull/292) on [Fork-It-Community/forkit.community](https://github.com/Fork-It-Community/forkit.community) (1 month ago)
 - [feat: add related events section on event page](https://github.com/Fork-It-Community/forkit.community/pull/286) on [Fork-It-Community/forkit.community](https://github.com/Fork-It-Community/forkit.community) (1 month ago)
 - [feat: add quick share button](https://github.com/Fork-It-Community/forkit.community/pull/284) on [Fork-It-Community/forkit.community](https://github.com/Fork-It-Community/forkit.community) (1 month ago)
