@@ -37,8 +37,8 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
-- [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (2 days ago)
-- [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) - onRuntime official website. (4 weeks ago)
+- [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (today)
+- [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) - onRuntime official website. (1 month ago)
 - [needforschool/nostr-mini-twitter](https://github.com/needforschool/nostr-mini-twitter) -  (1 month ago)
 - [needforschool/excelsior](https://github.com/needforschool/excelsior) - QuickServe project (1 month ago)
 - [tonightpass/kitchn](https://github.com/tonightpass/kitchn) - @tonightpass delicious React @styled-components (1 month ago)
@@ -50,7 +50,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔭 Latest releases I've contributed to
 
-- [tonightpass/kitchn](https://github.com/tonightpass/kitchn) ([kitchn@1.5.0](https://github.com/tonightpass/kitchn/releases/tag/kitchn%401.5.0), today) - @tonightpass delicious React @styled-components
+- [tonightpass/kitchn](https://github.com/tonightpass/kitchn) ([kitchn@1.5.0](https://github.com/tonightpass/kitchn/releases/tag/kitchn%401.5.0), 1 day ago) - @tonightpass delicious React @styled-components
 - [towfiqi/serpbear](https://github.com/towfiqi/serpbear) ([v2.0.7](https://github.com/towfiqi/serpbear/releases/tag/v2.0.7), 2 months ago) - Search Engine Position Rank Tracking App
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([tonightpass@0.0.128](https://github.com/tonightpass/tonightpass/releases/tag/tonightpass%400.0.128), 3 months ago) - @tonightpass sdk and tools.
 - [AntoineKM/dixt](https://github.com/AntoineKM/dixt) ([dixt-plugin-worktime@2.2.0](https://github.com/AntoineKM/dixt/releases/tag/dixt-plugin-worktime%402.2.0), 5 months ago) - The Discord Framework
@@ -70,7 +70,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [feat: add view transitions for spa-like navigation](https://github.com/Fork-It-Community/forkit.community/pull/281) on [Fork-It-Community/forkit.community](https://github.com/Fork-It-Community/forkit.community) (1 month ago)
 - [🐛 fix github pr merge ui integration](https://github.com/johannchopin/gitmoji-browser-extension/pull/204) on [johannchopin/gitmoji-browser-extension](https://github.com/johannchopin/gitmoji-browser-extension) (1 month ago)
 - [fix: add seo slot to code of conduct page](https://github.com/Fork-It-Community/forkit.community/pull/258) on [Fork-It-Community/forkit.community](https://github.com/Fork-It-Community/forkit.community) (1 month ago)
-- [✨ add npo page](https://github.com/onRuntime/onruntime-website/pull/158) on [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) (1 month ago)
+- [✨ add npo page](https://github.com/onRuntime/onruntime-website/pull/158) on [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) (2 months ago)
 - [🚚 move to figtree](https://github.com/onRuntime/onruntime-website/pull/150) on [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) (2 months ago)
 
 #### ⭐ Recent Stars
