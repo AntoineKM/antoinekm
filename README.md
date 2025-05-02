@@ -75,6 +75,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
+- [stevedylandev/bhvr](https://github.com/stevedylandev/bhvr) - A monorepo template using Bun, Hono, Vite, and React (today)
 - [brave/brave-core](https://github.com/brave/brave-core) - Core engine for the Brave browser for mobile and desktop. For issues https://github.com/brave/brave-browser/issues (2 days ago)
 - [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source (2 days ago)
 - [jb3/webhook-discord](https://github.com/jb3/webhook-discord) - A simple Javascript file for nicely formatting Discord webhooks (2 days ago)
@@ -84,7 +85,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [wincelau/ratpstatus](https://github.com/wincelau/ratpstatus) - Page de suivi et d&#39;historisation de l&#39;état du trafic des Ⓜ️ Métros, 🚆 RER / Transiliens et 🚈 Tramways d&#39;Île de France (1 month ago)
 - [blender/blender](https://github.com/blender/blender) - Official mirror of Blender (1 month ago)
 - [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems (1 month ago)
-- [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
