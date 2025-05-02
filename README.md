@@ -75,6 +75,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
+- [hotheadhacker/no-as-a-service](https://github.com/hotheadhacker/no-as-a-service) - No-as-a-Service (NaaS) is a simple API that returns a random rejection reason. Use it when you need a realistic excuse, a fun “no,” or want to simulate being turned down in style. (today)
 - [stevedylandev/bhvr](https://github.com/stevedylandev/bhvr) - A monorepo template using Bun, Hono, Vite, and React (today)
 - [brave/brave-core](https://github.com/brave/brave-core) - Core engine for the Brave browser for mobile and desktop. For issues https://github.com/brave/brave-browser/issues (2 days ago)
 - [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source (2 days ago)
@@ -84,7 +85,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [KDE/khtml](https://github.com/KDE/khtml) - KHtml (1 month ago)
 - [wincelau/ratpstatus](https://github.com/wincelau/ratpstatus) - Page de suivi et d&#39;historisation de l&#39;état du trafic des Ⓜ️ Métros, 🚆 RER / Transiliens et 🚈 Tramways d&#39;Île de France (1 month ago)
 - [blender/blender](https://github.com/blender/blender) - Official mirror of Blender (1 month ago)
-- [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
