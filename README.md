@@ -37,8 +37,8 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
-- [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (2 days ago)
-- [Fork-It-Community/forkit.community](https://github.com/Fork-It-Community/forkit.community) - Fork it! Community website source code (3 days ago)
+- [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (3 days ago)
+- [Fork-It-Community/forkit.community](https://github.com/Fork-It-Community/forkit.community) - Fork it! Community website source code (4 days ago)
 - [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) - onRuntime official website. (1 month ago)
 - [needforschool/nostr-mini-twitter](https://github.com/needforschool/nostr-mini-twitter) -  (1 month ago)
 - [needforschool/excelsior](https://github.com/needforschool/excelsior) - QuickServe project (1 month ago)
@@ -62,8 +62,8 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
-- [Add multilanguage support with per-language rejection phrases](https://github.com/hotheadhacker/no-as-a-service/pull/17) on [hotheadhacker/no-as-a-service](https://github.com/hotheadhacker/no-as-a-service) (2 days ago)
-- [Add Webflow Components API Support](https://github.com/webflow/mcp-server/pull/34) on [webflow/mcp-server](https://github.com/webflow/mcp-server) (5 days ago)
+- [Add multilanguage support with per-language rejection phrases](https://github.com/hotheadhacker/no-as-a-service/pull/17) on [hotheadhacker/no-as-a-service](https://github.com/hotheadhacker/no-as-a-service) (3 days ago)
+- [Add Webflow Components API Support](https://github.com/webflow/mcp-server/pull/34) on [webflow/mcp-server](https://github.com/webflow/mcp-server) (6 days ago)
 - [✨ add glossary](https://github.com/onRuntime/onruntime-website/pull/187) on [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) (1 month ago)
 - [fix: maintain smart back button behavior with view transitions](https://github.com/Fork-It-Community/forkit.community/pull/292) on [Fork-It-Community/forkit.community](https://github.com/Fork-It-Community/forkit.community) (1 month ago)
 - [feat: add related events section on event page](https://github.com/Fork-It-Community/forkit.community/pull/286) on [Fork-It-Community/forkit.community](https://github.com/Fork-It-Community/forkit.community) (1 month ago)
@@ -75,15 +75,15 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
-- [HeyPuter/kv.js](https://github.com/HeyPuter/kv.js) - ⚡️ Advanced in-memory caching for JavaScript. (today)
-- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable. (today)
-- [iamvishnusankar/next-sitemap](https://github.com/iamvishnusankar/next-sitemap) - Sitemap generator for next.js. Generate sitemap(s) and robots.txt for all static/pre-rendered/dynamic/server-side pages. (2 days ago)
-- [hotheadhacker/no-as-a-service](https://github.com/hotheadhacker/no-as-a-service) - No-as-a-Service (NaaS) is a simple API that returns a random rejection reason. Use it when you need a realistic excuse, a fun “no,” or want to simulate being turned down in style. (2 days ago)
-- [stevedylandev/bhvr](https://github.com/stevedylandev/bhvr) - A monorepo template using Bun, Hono, Vite, and React (2 days ago)
-- [brave/brave-core](https://github.com/brave/brave-core) - Core engine for the Brave browser for mobile and desktop. For issues https://github.com/brave/brave-browser/issues (4 days ago)
-- [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source (4 days ago)
-- [jb3/webhook-discord](https://github.com/jb3/webhook-discord) - A simple Javascript file for nicely formatting Discord webhooks (4 days ago)
-- [webflow/mcp-server](https://github.com/webflow/mcp-server) - Model Context Protocol (MCP) server for the Webflow Data API. (5 days ago)
+- [HeyPuter/kv.js](https://github.com/HeyPuter/kv.js) - ⚡️ Advanced in-memory caching for JavaScript. (1 day ago)
+- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable. (1 day ago)
+- [iamvishnusankar/next-sitemap](https://github.com/iamvishnusankar/next-sitemap) - Sitemap generator for next.js. Generate sitemap(s) and robots.txt for all static/pre-rendered/dynamic/server-side pages. (3 days ago)
+- [hotheadhacker/no-as-a-service](https://github.com/hotheadhacker/no-as-a-service) - No-as-a-Service (NaaS) is a simple API that returns a random rejection reason. Use it when you need a realistic excuse, a fun “no,” or want to simulate being turned down in style. (3 days ago)
+- [stevedylandev/bhvr](https://github.com/stevedylandev/bhvr) - A monorepo template using Bun, Hono, Vite, and React (3 days ago)
+- [brave/brave-core](https://github.com/brave/brave-core) - Core engine for the Brave browser for mobile and desktop. For issues https://github.com/brave/brave-browser/issues (5 days ago)
+- [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source (5 days ago)
+- [jb3/webhook-discord](https://github.com/jb3/webhook-discord) - A simple Javascript file for nicely formatting Discord webhooks (5 days ago)
+- [webflow/mcp-server](https://github.com/webflow/mcp-server) - Model Context Protocol (MCP) server for the Webflow Data API. (6 days ago)
 - [ScoopInstaller/scoopinstaller.github.io](https://github.com/ScoopInstaller/scoopinstaller.github.io) - ScoopInstaller homepage and search engine (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
