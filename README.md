@@ -75,6 +75,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
+- [pxseu/crabdis](https://github.com/pxseu/crabdis) - It&#39;s like Redis but a bit rusty... (today)
 - [HeyPuter/kv.js](https://github.com/HeyPuter/kv.js) - ⚡️ Advanced in-memory caching for JavaScript. (1 day ago)
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable. (1 day ago)
 - [iamvishnusankar/next-sitemap](https://github.com/iamvishnusankar/next-sitemap) - Sitemap generator for next.js. Generate sitemap(s) and robots.txt for all static/pre-rendered/dynamic/server-side pages. (3 days ago)
@@ -84,7 +85,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source (5 days ago)
 - [jb3/webhook-discord](https://github.com/jb3/webhook-discord) - A simple Javascript file for nicely formatting Discord webhooks (5 days ago)
 - [webflow/mcp-server](https://github.com/webflow/mcp-server) - Model Context Protocol (MCP) server for the Webflow Data API. (6 days ago)
-- [ScoopInstaller/scoopinstaller.github.io](https://github.com/ScoopInstaller/scoopinstaller.github.io) - ScoopInstaller homepage and search engine (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
