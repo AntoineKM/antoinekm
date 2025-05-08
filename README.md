@@ -74,6 +74,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
+- [daytonaio/daytona](https://github.com/daytonaio/daytona) - Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code (today)
 - [pxseu/crabdis](https://github.com/pxseu/crabdis) - It&#39;s like Redis but a bit rusty... (3 days ago)
 - [HeyPuter/kv.js](https://github.com/HeyPuter/kv.js) - ⚡️ Advanced in-memory caching for JavaScript. (4 days ago)
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable. (4 days ago)
@@ -83,7 +84,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [brave/brave-core](https://github.com/brave/brave-core) - Core engine for the Brave browser for mobile and desktop. For issues https://github.com/brave/brave-browser/issues (1 week ago)
 - [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source (1 week ago)
 - [jb3/webhook-discord](https://github.com/jb3/webhook-discord) - A simple Javascript file for nicely formatting Discord webhooks (1 week ago)
-- [webflow/mcp-server](https://github.com/webflow/mcp-server) - Model Context Protocol (MCP) server for the Webflow Data API. (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
