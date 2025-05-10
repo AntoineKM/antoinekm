@@ -37,27 +37,27 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
-- [AntoineKM/pierre](https://github.com/AntoineKM/pierre) - A lightweight, AI-powered desktop automation system built with Node.js. Pierre enables intelligent control of your computer through natural language, offering both local and remote operation capabilities. (today)
+- [antoinekm/pierre](https://github.com/antoinekm/pierre) - A lightweight, AI-powered desktop automation system built with Node.js. Pierre enables intelligent control of your computer through natural language, offering both local and remote operation capabilities. (today)
 - [needforschool/slides-event-architecture](https://github.com/needforschool/slides-event-architecture) -  (3 days ago)
-- [AntoineKM/antoinek.fr](https://github.com/AntoineKM/antoinek.fr) - 👨‍💻 Next.js app for my personal website (5 days ago)
+- [antoinekm/antoinek.fr](https://github.com/antoinekm/antoinek.fr) - 👨‍💻 Next.js app for my personal website (5 days ago)
 - [Fork-It-Community/forkit.community](https://github.com/Fork-It-Community/forkit.community) - Fork it! Community website source code (1 week ago)
 - [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) - onRuntime official website. (1 month ago)
 - [needforschool/nostr-mini-twitter](https://github.com/needforschool/nostr-mini-twitter) -  (1 month ago)
 - [needforschool/excelsior](https://github.com/needforschool/excelsior) - QuickServe project (1 month ago)
 - [tonightpass/kitchn](https://github.com/tonightpass/kitchn) - @tonightpass delicious React @styled-components (1 month ago)
-- [AntoineKM/antoine](https://github.com/AntoineKM/antoine) - cool tools to code like me. (2 months ago)
+- [antoinekm/antoine](https://github.com/antoinekm/antoine) - cool tools to code like me. (2 months ago)
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
 - [tonightpass/kitchn](https://github.com/tonightpass/kitchn) ([kitchn@1.5.0](https://github.com/tonightpass/kitchn/releases/tag/kitchn%401.5.0), 2 weeks ago) - @tonightpass delicious React @styled-components
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([tonightpass@0.0.128](https://github.com/tonightpass/tonightpass/releases/tag/tonightpass%400.0.128), 3 months ago) - @tonightpass sdk and tools.
-- [AntoineKM/dixt](https://github.com/AntoineKM/dixt) ([dixt-plugin-worktime@2.2.0](https://github.com/AntoineKM/dixt/releases/tag/dixt-plugin-worktime%402.2.0), 5 months ago) - The Discord Framework
-- [AntoineKM/staging](https://github.com/AntoineKM/staging) ([staging@0.0.7](https://github.com/AntoineKM/staging/releases/tag/staging%400.0.7), 5 months ago) - Password protect your staging &amp; preview deployments. Free open-source alternative to Vercel &amp; Netlify password protection - Next.js, Nuxt, Express
+- [antoinekm/dixt](https://github.com/antoinekm/dixt) ([dixt-plugin-worktime@2.2.0](https://github.com/antoinekm/dixt/releases/tag/dixt-plugin-worktime%402.2.0), 5 months ago) - The Discord Framework
+- [antoinekm/staging](https://github.com/antoinekm/staging) ([staging@0.0.7](https://github.com/antoinekm/staging/releases/tag/staging%400.0.7), 5 months ago) - Password protect your staging &amp; preview deployments. Free open-source alternative to Vercel &amp; Netlify password protection - Next.js, Nuxt, Express
 - [onRuntime/kartrak](https://github.com/onRuntime/kartrak) ([v0.0.15](https://github.com/onRuntime/kartrak/releases/tag/v0.0.15), 5 months ago) - Le suivi d&#39;activité tourné vers l&#39;écologie.
 - [qotum/qotum](https://github.com/qotum/qotum) ([@qotum/panda-preset@1.1.10](https://github.com/qotum/qotum/releases/tag/%40qotum/panda-preset%401.1.10), 9 months ago) - @qotum&#39;s usefull tools 🧰
 - [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) ([v0.4.0](https://github.com/goenning/google-indexing-script/releases/tag/v0.4.0), 10 months ago) - Script to get your site indexed on Google in less than 48 hours
-- [AntoineKM/antoine](https://github.com/AntoineKM/antoine) ([eslint-config-antoine@1.0.14](https://github.com/AntoineKM/antoine/releases/tag/eslint-config-antoine%401.0.14), 1 year ago) - cool tools to code like me.
+- [antoinekm/antoine](https://github.com/antoinekm/antoine) ([eslint-config-antoine@1.0.14](https://github.com/antoinekm/antoine/releases/tag/eslint-config-antoine%401.0.14), 1 year ago) - cool tools to code like me.
 
 #### 🔨 My recent Pull Requests
 
