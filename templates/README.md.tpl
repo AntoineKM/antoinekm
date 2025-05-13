@@ -27,7 +27,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 ## 📊 Stats
 <p align="center">
     <a href="https://wakatime.com/@antoinekm">
-        <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=AntoineKM&theme=highcontrast&hide_border=true&background=0d1117&ring=ff4757&fire=ff6b81&currStreakLabel=ff6b81&currStreakNum=59c9e8" alt="Antoine's github streak stats" />
+        <img width="60%" src="https://github-readme-streak-stats-eight.vercel.app/?user=AntoineKM&theme=highcontrast&hide_border=true&background=0d1117&ring=ff4757&fire=ff6b81&currStreakLabel=ff6b81&currStreakNum=59c9e8" alt="Antoine's github streak stats" />
         <img width="60%" src="https://github-readme-stats.vercel.app/api?username=antoinekm&show_icons=true&title_color=ff6b81&icon_color=59c9e8&bg_color=0d1117&text_color=ff4757&hide_border=true&hide=stars&cache_seconds=7200" alt="Antoine's github stats" />
         <img width="60%" src="https://github-readme-stats.vercel.app/api/wakatime?username=antoinekm&layout=compact&title_color=ff6b81&bg_color=0d1117&text_color=ff4757&hide_border=true&hide_title=true" alt="Antoine's wakatime stats" />
     </a>
