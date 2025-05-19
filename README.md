@@ -74,6 +74,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
+- [ArthurDanjou/whereami](https://github.com/ArthurDanjou/whereami) - A super simple cloudflare worker that returns the location of the user based on the IP address. (today)
 - [ashbuilds/payload-ai](https://github.com/ashbuilds/payload-ai) - AI Plugin is a powerful extension for the Payload CMS, integrating advanced AI capabilities to enhance content creation and management. (1 day ago)
 - [wirewirewirewire/payload-ai](https://github.com/wirewirewirewire/payload-ai) - Using GPT inside Payload CMS (1 day ago)
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications. (1 day ago)
@@ -83,7 +84,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [daytonaio/daytona](https://github.com/daytonaio/daytona) - Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code (1 week ago)
 - [pxseu/crabdis](https://github.com/pxseu/crabdis) - It&#39;s like Redis but a bit rusty... (2 weeks ago)
 - [HeyPuter/kv.js](https://github.com/HeyPuter/kv.js) - ⚡️ Advanced in-memory caching for JavaScript. (2 weeks ago)
-- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable. (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
