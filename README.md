@@ -61,6 +61,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
+- [✨ add auth integration](https://github.com/needforschool/excelsior/pull/5) on [needforschool/excelsior](https://github.com/needforschool/excelsior) (today)
 - [🚧 add work on integration](https://github.com/needforschool/excelsior/pull/4) on [needforschool/excelsior](https://github.com/needforschool/excelsior) (today)
 - [♻️ refactor services structure to follow a more modular approach](https://github.com/onRuntime/onruntime-website/pull/232) on [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) (5 days ago)
 - [Add multilanguage support with per-language rejection phrases](https://github.com/hotheadhacker/no-as-a-service/pull/17) on [hotheadhacker/no-as-a-service](https://github.com/hotheadhacker/no-as-a-service) (2 weeks ago)
@@ -70,7 +71,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [feat: add related events section on event page](https://github.com/Fork-It-Community/forkit.community/pull/286) on [Fork-It-Community/forkit.community](https://github.com/Fork-It-Community/forkit.community) (2 months ago)
 - [feat: add quick share button](https://github.com/Fork-It-Community/forkit.community/pull/284) on [Fork-It-Community/forkit.community](https://github.com/Fork-It-Community/forkit.community) (2 months ago)
 - [feat: add acast embed support for podcast episodes](https://github.com/Fork-It-Community/forkit.community/pull/282) on [Fork-It-Community/forkit.community](https://github.com/Fork-It-Community/forkit.community) (2 months ago)
-- [feat: add view transitions for spa-like navigation](https://github.com/Fork-It-Community/forkit.community/pull/281) on [Fork-It-Community/forkit.community](https://github.com/Fork-It-Community/forkit.community) (2 months ago)
 
 #### ⭐ Recent Stars
 
